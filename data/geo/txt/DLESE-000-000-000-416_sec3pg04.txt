@@ -1,0 +1,26 @@
+
+
+Page 4 -- Measuring Earthquakes 
+
+Using Intensity to Characterize Earthquakes 
+
+The first known systems for rating earthquake intensity were developed in the 1800s in southern Europe, a geologically active area. These intensity scales were used to compare the effects of one tremor to those of another as a way of studying and categorizing earthquakes.  An intensity scale served as a way to characterize the overall severity of any given earthquake, relative to others that had occurred previously, or in other areas.  The event of a notable earthquake could then be recorded quickly and concisely using a number or letter denoting a particular category on a given intensity scale. 
+
+But as the move to categorize earthquakes by intensity grew, so too did the number of intensity scales.  Often the "new" scales were built upon previous scales, with additions, refinements, and modifications made.  Since many of the scales used similar terminology, and not everyone agreed on which scale was best, interpreting intensities recorded by others was not always a straightforward task. 
+
+By the early 20th century, the two most commonly used standards of intensity were the Rossi-Forel and the Mercalli scales, both of which were based upon Roman numerals.  Intensities were rated from I to X on the Rossi-Forel scale, and from I to XII on the Mercalli scale, with larger numbers representing greater intensity (stronger shaking) on each.  In 1931, to solve the problem of competing intensity scales, Harry Wood and Frank Neumann published a definitive standard for rating intensity, the Modified Mercalli Intensity Scale. Thanks to its very thorough and specific nature, it was widely accepted by the seismological community and is still in use today. Like the original Mercalli scale, it divides intensity into twelve categories, each noted by a different Roman numeral.  An intensity of I is the weakest, symbolizing that no shaking was felt, and intensity XII is the strongest, signifying catastrophic damage in that area, with ground motion easily exceeding the acceleration due to gravity -- meaning that objects can be thrown upward into the air!  Fortunately, intensity XII is rarely seen, even in very powerful earthquakes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+Page 10 -- What is an Earthquake? 
+
+The Properties of Faults (continued) 
+
+Fault plane 
+
+A fault plane is a plane used to represent an actual fault, or a particular segment of a fault.  Faults are generally not perfectly flat, smooth planes, so this may not be a true representation of the fault.  However, since faults do typically act as planes (even though some, in fact, are so physically complex that trying to draw their structure would be cumbersome and confusing), defining a fault plane is the most convenient way to represent and model a fault. 
+
+Horizontal plane 
+
+It is useful to have a reference plane when measuring the characteristics of faults.  The standard reference plane is the  horizontal.  It usually approximates the Earth's surface, but does not vary.  Here, the horizontal plane shown is that of sea level, but a horizontal plane of any altitude or depth can be used for reference. 
+
+Surface trace (or Fault line) 
+
+The intersection of a fault plane with the Earth's surface produces what is known as the surface trace of the fault. This intersection is also known as a fault trace, or a fault line, since this is the line drawn to represent a fault on a standard map.  The traces of faults are not always obvious  at the surface.  Some, however, display themselves quite plainly, particularly when the observer knows what to look for. 
+
+Trend 
+
+The trend of a fault trace is the general direction it takes across the Earth's surface. Trend may be used to average out the small, localized bends of a long fault and talk about its overall directionality. This direction is often similar to the strike of a fault (see next page), but the two are fundamentally different, and should not be interchanged. 
+
+
+Hanging wall 
+
+For a non-vertical fault, this is the part of the Earth's crust above the plane of the fault. Its name originates from mining activities along large, ancient faults which had since been "filled in" with mineral deposits.  Miners could hang their lamps from the wall above them, coining the term "hanging wall" for this side of a fault. 
+
+Footwall 
+
+The counterpart of the hanging wall, the footwall is the part of the Earth's crust below a fault.  As with the hanging wall, the "footwall" was so named by miners, since they would walk on the lower side of a mined-out fault.

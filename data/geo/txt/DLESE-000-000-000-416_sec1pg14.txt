@@ -1,0 +1,13 @@
+Page 14 -- What is an Earthquake? 
+
+The Properties of Fault Slip 
+
+In addition to the properties and characteristics outlined above, a fault also has two other primary traits -- its sense of slip, and its slip rate. 
+
+Sense of slip 
+
+A fault's sense of slip is defined as the relative motion of the rock on each side of the fault with respect to the other side. Fault slip can be classified in a basic way by its relation to the horizontal.  If slip occurs primarily in a vertical sense, it is known as dip slip, since it roughly parallels the dip of the fault.  If slip occurs primarily in a horizontal sense, it is known as strike slip, since it roughly parallels the strike of the fault.  When slip occurs exactly parallel to the dip, or to the strike, it is known as pure dip, or strike, slip.  Fault slip which occurs at a sizable angle with respect to both the dip and the strike of the fault is known as oblique slip, and can be thought of as a combination of both dip slip and strike slip. 
+
+More specifically, each of these classes of faults can be further divided and labelled by its directional sense of slip. Dip slip is divided into two main types, or senses: normal and reverse.  To distinguish between the two, you must know two pieces of information.  First, you need to know how each side of the fault is moving with respect to the other.  Second, you need to know in which direction the fault dips.  The first two diagrams below illustrate the two basic categories of dip-slip faults. When the hanging wall of a fault is moving down with respect to the footwall, this is called normal faulting.  When the footwall is moving down with respect to the hanging wall, this is called reverse faulting.  To view these animations in motion, click on each image. 
+
+If you were very observant when watching the animations above, you may have noticed something interesting about these blocks: though the volume of material in each block remains the same as the faults slip, the area of the upper surface of each block changes! (Imagine looking down at the blocks from overhead to fully appreciate this change.)  This is a crucial observation to make in understanding the importance of dip slip faults, and we will take a closer look at this process on the next page.

@@ -1,0 +1,24 @@
+Remote Sensing: Active Microwave
+
+In addition to passively sensing emissions coming from objects on Earth, satellite sensors can also actively emit microwaves toward the earth's surface. These microwaves reflect off the surface and return to the sensors. This type of remote sensing is called active microwave, or radar. This same technology is used to track aircraft, ships, and speeding automobiles. As with passive microwave energy, the physical properties of objects at the earth's surface determine the amount and characteristics of microwave radiation bounced back to the sensor. Three types of active microwave sensors are used to detect sea ice.
+
+Imaging radar
+
+Imaging radar is similar to a photograph taken by a camera, but the image is of radar waves, not visible light. Sea ice typically reflects more of the radar energy emitted by the sensor than the surrounding ocean, which makes it easy to distinguish between the two. But the amount and character of reflected energy are functions of the physical properties of the sea ice, which can be quite complex; thus, it can be difficult to interpret radar images of sea ice. In general, though, thicker multiyear ice is readily distinguishable from younger, thinner ice because radar energy bounces back to the sensor from the bubbles in the ice left when brine drains. This feature makes synthetic aperture radar (SAR) an especially useful tool for measuring the extent of thick vs. thin sea ice.
+
+SAR is a special type of imaging radar that involves advanced technology and complex data processing to obtain detailed images of sea ice. The RADARSAT mission, managed by the Canadian Space Agency, is the primary SAR mission today. Visit the RADARSAT-1 page on the Canada Space Agency Web site.
+
+SAR instruments can even detect small leads in sea ice. This fine resolution allows them to analyze sea ice and help route ships through ice-covered regions. SAR imagery is particularly valuable for operational ice centers. Visit two such centers, the National Ice Center and Canadian Ice Service, to learn more about their operational sea ice products.
+
+Non-imaging radar
+
+This type of sensor, also called a scatterometer, measures the amount of reflected energy, or backscatter, from the earth's surface. It cannot obtain the same detail as a SAR sensor, but it does provide complete, daily data about sea ice day and night, through cloud cover. Images from non-imaging radar have about the same level of detail as passive microwave imagery. The SeaWinds sensor aboard NASA's Quick Scatterometer (QuikSCAT) satellite provides daily, global views of ocean winds and sea ice (visit Winds on the NASA Web site).
+
+Altimetry
+
+This sensor sends a pulse of radar energy toward the earth and measures the time it takes to return to the sensor. The pulse's round-trip time determines how far the satellite is from the reflecting surface. With a known reference, this information is used to measure the altitude of various features at the earth's surface. With enough precision, a radar altimeter can determine the height of the sea ice surface above sea level, which scientists use to calculate the total thickness of the sea ice.
+
+Early satellites with radar altimeters were not in orbits that adequately covered the poles, so they did not collect substantial sea ice data. Fortunately, this is changing. Cryosat, a European Space Agency (ESA) satellite to be launched in September 2005, is specifically designed to detect ice-covered regions of the earth, including sea ice. To learn more about Cryosat, visit ESA - Living Planet Programme - CryoSat.
+
+Another type of altimeter, called laser altimeter, sends pulses of visible light toward the earth. The Ice, Cloud, and land Elevation Satellite (ICESat), launched in 2002 by NASA, was designed for studying ice-covered regions. ICESat is already collecting valuable data about sea ice thickness. ICESat data are available from NSIDC. (Visit ICESat on the NASA Web site for more information.)
+

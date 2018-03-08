@@ -1,0 +1,35 @@
+
+
+Page 30 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+Coping with the Gaps in our Knowledge 
+
+When trying to produce a long-range earthquake outlook for an area, using historical records alone can be risky.  That's not because the past is a poor guide to the future, but because our records of the past in some areas are so limited, and earthquakes repeat times are generally much longer than that record.  In Activity 11, we included in our tally a percentage of the energy released in a "Fort-Tejon-style" earthquake on the San Andreas fault for exactly that reason -- such an event will happen again, for certain, but the time between earthquakes like that is generally more than the 100 years we sampled.  On other faults, the repeat time can even be in the thousands of years. 
+
+In fact, if we judged fault segments as active based only upon whether they have experienced a damaging (M &gt; 6) earthquake since records have been kept, only a fraction of the faults in southern California would qualify as active, as seen on the map at right. Researchers need to keep in mind that our records haven't covered all the possibilities of southern California seismicity, and that trying to figure out those "rules" after only about 140 years of observation is like trying to understand the rules to a card game without even seeing one full round played! 
+
+One way to expand our awareness of what to expect for the future of seismicity in southern California is to look at the properties of faults and the crustal rocks in general.  These observations of and inferences about how faults slip can effectively lengthen the period over which we can study the motion of faults.  Slip rate studies, for example, often look at several thousand years of fault rupture history.  Monitoring the slow, continuous motion of tectonic plates and the resulting deformation is important, too. Though earthquake ruptures can be spectacular events, they occur intermittently.  Tectonic motion is subtle, but powerful and constant. As mentioned in Section 1, this motion can be observed using stations accurately located by the Global Positioning System (GPS). 
+
+Let's investigate the possible correlations between crustal properties and seismicity rates, starting with slip rate.  It seems sensible to assume that for one fault to accommodate more slip than a neighboring fault in the same amount of time (say, 4 mm per year instead of 1 mm), it would need to rupture more often.  But in actuality, is this a valid hypothesis? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

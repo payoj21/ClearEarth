@@ -1,0 +1,33 @@
+
+
+Page 14 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Tracing Waves to their Source 
+
+Once you have determined the distance from a seismometer to an earthquake's hypocenter, you have two constraints placed upon the time and location of that hypocenter.  First, you can easily determine its origin time by dividing the distance by either of the body wave velocities, and then subtracting that answer from the appropriate arrival time.  Second, you know that the hypocenter lies on the surface on an imaginary sphere, centered on the seismometer, with that distance as its radius. 
+
+This constraint on location assumes equivalent wave velocities in all directions for which the sphere intersects solid ground (you can automatically eliminate the sky as an earthquake source!).  This assumption is rarely, if ever, completely valid.  Wave velocities tend to increase with depth, meaning that if the earthquake originated directly underneath the seismometer, the waves probably travelled faster (and thus farther) than they would have had the earthquake originated near the surface.  The correct way to phrase our constraint upon the location of the hypocenter is to say that it lies on the surface of an irregular, spheroidal solid, centered on the seismometer, with the surface at a radially variable distance defined by the travel-time difference multiplied by the velocity factor VPVS/(VP - VS). The velocity factor varies with direction as determined by a velocity profile (like that on Page 11). This complex formula is used by modern seismological laboratories, but for the purposes of our work in this module, we will stick with our initial model: a sphere of fixed radius.  Just keep in mind that you are working under this simplistic assumption.  To help you remember what the sphere really represents -- a travel time multiplied by a velocity factor, not necessarily a set distance -- we will refer to it from here on as a "travel-time sphere". 
+
+Now, think back through the steps we've used to arrive at our travel-time sphere:  picking P-wave and S-wave arrivals on a waveform, calculating the travel-time difference, and computing the distance from the recording instrument to the hypocenter.  We now know that the earthquake was located somewhere on the outer surface of that sphere.  Suppose you did this for another seismogram of the same earthquake, recorded by an instrument at a different location. What would this tell you? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,19 @@
+Page 18 -- What is an Earthquake? 
+
+Calculating Slip Rates and Recurrence Intervals 
+
+One method for finding the slip rate of a fault involves determining the recurrence interval of that fault. A recurrence interval for a fault is the average time between ruptures of a particular size along that fault.  Most often, the term is used to denote the repeat time of major events, which are usually defined as those which rupture much or all of the length of the fault, and typically resulting in appreciable surface rupture (if the fault is not a blind fault). 
+
+Knowing the recurrence interval between major ruptures along a fault and the average slip of such ruptures allows you to make an estimate of the slip rate of that fault. While the repeat time may vary significantly, an average value can generally be determined if enough geologic evidence exists along the fault trace to date past ruptures.  This value can then be used with either a mathematical calculation of the amount of slip a whole-fault rupture would produce, or an estimate of a typical rupture displacement taken from field observations of recent surface ruptures. 
+
+These values are then inserted into the equation below to arrive at a slip rate.  (Make sure your units are all in agreement!) 
+
+For example, if you know from geological studies that the recurrence interval on the (hypothetical) Desert View Fault is 1000 years, and that the average slip in each major rupture (as defined above) is 3.0 meters, then you can estimate a slip rate for the Desert View Fault of 3000 mm divided by 1000 years, or 3.0 mm/yr. 
+
+To calculate the slip rate in this manner, you need to know how to arrive at a recurrence interval.  For geologists, determining the recurrence interval of a fault can require a lot of field work, and often includes the digging of a trench across the fault's surface trace.  In your case, the activity below will let you try out several different approaches to finding recurrence intervals -- without even getting your hands dirty -- including one example using actual data from a real-world fault. 
+
+Recurrence Interval 
+
+Recurrence intervals sound useful, but how can you determine them? 
+
+While recurrence intervals can be used to calculate slip rates, so too can other methods.  Using more than one method on a particular fault allows us to check the accuracy of our findings.  Let's study some of these other methods, now, and then compare their results.

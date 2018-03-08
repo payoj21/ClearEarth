@@ -1,0 +1,15 @@
+
+
+Page 12 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+Defining a Seismicity Rate 
+
+Defining a seismicity rate requires several things.  First off, you must define a region for which you wish to find a rate.  That area can be any size you want it to be.  You can even assign boundaries in depth, so that you're actually counting the rate of earthquakes within a particular volume.  Whatever you choose, the boundaries should be definite, and fixed. 
+
+Naturally, to count earthquakes, you need a way to record and locate earthquakes, or access to a reliable source of data (already recorded for you). Working on this module, you will have access to data recorded by the Southern California Seismic Network, and stored at the  SCEC Data Center. There are also many other seismic databases around the world that offer similar information to the public. That's good -- few people could afford to have their own seismic network! 

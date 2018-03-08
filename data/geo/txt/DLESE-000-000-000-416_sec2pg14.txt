@@ -1,0 +1,34 @@
+
+
+Page 14 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+Mainshocks Defined 
+
+As implied before, a mainshock is simply the largest earthquake in a sequence of earthquakes.  It is usually significantly greater in size than the second largest earthquake in the same sequence.  In terms of magnitude, a numerical measure of the "size" of earthquakes (often abbreviated as a capital M), a mainshock is usually at least one-half of a whole unit of magnitude larger than its largest aftershock (or foreshock, a term we'll get to shortly).  For example, if the mainshock of a sequence is of magnitude 6.5, you would generally not expect to see any aftershocks larger than magnitude 6.0 in that same sequence.  Most aftershocks will be much smaller -- several units of magnitude less -- than the mainshock.  An exception to this rule can be found in earthquake swarms, sequences of earthquakes that do not have a clearly defined mainshock. Swarms are a special case we will look at much later in this section. 
+
+
+It may help to illustrate the relations, as well as the distinctions, among these different classes of earthquakes (foreshocks, mainshocks, and aftershocks) by studying an example of seismicity in southern California. The chart on the left is a list of all earthquakes in southern California, greater than magnitude 3.0, that occurred on April 22, 1992.  The time, magnitude, and location (in latitude and longitude) of these events is given on chart.  These three measures are all we need to differentiate foreshocks, mainshocks, and aftershocks. 
+
+As you can see, one large earthquake on the list far exceeds the others in magnitude.  This is the Joshua Tree earthquake, magnitude 6.1.  Note its location.  Now, look at all of the events that follow it.  All these events are smaller in magnitude, but have roughly the same location as the Joshua Tree earthquake.  Thus, we can call these events aftershocks of the M 6.1 Joshua Tree mainshock. Notice how the seismicity rate increases dramatically after the Joshua Tree earthquake -- so much so that this list had to be cut short! This is the same sort of jump in seismicity rate you should have seen in the example of March 1998 from Activity #5: Seismicity Rates. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

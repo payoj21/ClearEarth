@@ -1,0 +1,23 @@
+Page 25 -- What is an Earthquake? 
+
+Fault Bends (continued) 
+
+Were the bend oriented the other way (in a north-south direction rather than an east-west orientation) with the existing right-lateral plate motion, as shown at upper right, this bend would become a divergent bend, and a basin would form around the fault, as in the example above. If we took the hypothetical new bend and reversed the plate motion so that things moved left-laterally, this bend would become a convergent bend (bottom right). The situation would then resemble what is currently going on in southern California -- compressional forces causing the uplift of mountains. 
+
+Any smaller bend works in the same way, but of course, on a scale to match that of the bend and the fault involved.  Convergent bends will always cause compression, as divergent bends will always result in extension.  Fault bends can be referred to as "left bends" or "right bends" depending on their configuration.  The Big Bend of the San Andreas is a "left bend" -- if you were to walk along the fault, starting on a "straight" section, you would have to veer left when you came to the bend, regardless of the direction of your approach.  The hypothetical bend shown in the figures above is a "right bend".  By comparing the slip of a fault to a bend along its length, you can quickly tell if it is a convergent or divergent bend.  If the sense of strike-slip and the bend have the opposite "handedness" -- that is, left-lateral strike-slip with a right bend, or right-lateral strike-slip with a left bend -- the bend will be convergent.  If the handedness is the same, the bend will be divergent. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

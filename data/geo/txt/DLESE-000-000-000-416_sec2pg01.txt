@@ -1,0 +1,9 @@
+Page 1 -- The Distribution of Earthquakes 
+
+The Distribution of Earthquakes 
+
+Rates and relations in seismology 
+
+"What's so important about the distribution of earthquakes?" 
+
+In the first section of this module, we  investigated the principles of earthquakes and their occurrence. We studied the properties of faults, the influence of tectonics, and the dynamics of fault rupture.  But we stopped short of looking at the occurrence of real-world earthquakes with respect to time and location, and we have yet to investigate whether earthquakes occur in any patterns or are influenced by causal relationships with other phenomena, even other earthquakes. In short, we have covered how earthquakes occur, and a little bit of why they occur, but we have yet to observe where and when they occur.  Those questions are the focus of this section, and our case study will be the regional seismicity of southern California.

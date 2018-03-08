@@ -1,0 +1,7 @@
+Population dynamics
+
+It is fairly clear that predators tend to lower the survival and fecundity of their prey, but on a higher level of organization, populations of predator and prey species also interact. It is obvious that predators depend on prey for survival, and this is reflected in predator populations being affected by changes in prey populations. It is not so obvious, however, that predators affect prey populations. Eating a prey organism may simply make room for another if the prey population is approaching its carrying capacity.
+
+The population dynamics of predator-prey interactions can be modelled using the Lotka–Volterra equations. These provide a mathematical model for the cycling of predator and prey populations. Predators tend to select young, weak, and ill individuals.
+
+

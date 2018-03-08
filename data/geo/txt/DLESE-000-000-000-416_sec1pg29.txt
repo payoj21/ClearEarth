@@ -1,0 +1,9 @@
+Page 29 -- What is an Earthquake? 
+
+How Faults Handle Plate Motion 
+
+You probably have a good idea by now of how tectonic environments affect faults.  We still have yet to look at southern California as a whole, however, to see where the boundary of the different environments are, and how important each is, relative to the others.  The activity below will give you the chance to explore these questions. 
+
+By now, you are hopefully beginning to understand, qualitatively, how the motion along the plate boundary is partitioned off among different fault systems with different senses of slip, and how these systems not only allow the plates a way of moving past each other, but also to work around a very large obstacle -- the Big Bend of the San Andreas fault zone. 
+
+But how does this partitioning work, quantitatively? How much slip does each part of the system take up, and what does the complexity of these intersecting faults and different tectonic environments mean, in terms of the slip rates of the major fault zones in southern California? 

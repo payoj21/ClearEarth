@@ -1,0 +1,21 @@
+
+
+Page 18 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+The Proper Application of Observations 
+
+Many assertions have been made of a correlation between the timing of earthquakes and some natural force or cycle.  A lot of people talk about "earthquake weather", as though faults several kilometers underground can "sense" changes in humidity and temperature at the surface.  Even scientists have been trying for decades, with no success, to connect the timing of earthquakes to tidal forces (we will suggest, later, why these efforts fail, though tidal forces may play a role in affecting seismicity).  The fact remains, however, that the only natural process ever convincingly shown to affect the timing of earthquakes is... another earthquake! 
+"Do any man-made influences affect seismicity?" 
+
+
+
+The influence that one earthquake can have upon the timing of others is most glaringly obvious in the outbursts of aftershocks that follow large earthquakes.  But why do aftershocks occur? 
+
+
+It is generally thought that aftershocks are a response to sudden changes in the stress on rocks in the Earth's crust.  Remember that earthquakes occur when rocks, or at least the pre-existing fractures within the rocks, are stressed to the point of breaking.  Though this stress builds up gradually by means of tectonic plate motion, the amount of stress in the crust can be altered suddenly and locally when a fault ruptures, because this shifts large masses of rock into new positions.  While the primary result is a release of energy, and a decrease in stress, some parts of the crust near the fault rupture experience an increase in stress.  That seems to induce other, typically much smaller, earthquakes to occur.

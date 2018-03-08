@@ -1,0 +1,33 @@
+
+
+Page 28 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+"How can we study earthquakes from the time before seismic networks existed?" 
+
+The shaking produced by earthquakes is now recorded efficiently and precisely on seismic instruments, but before such devices existed, earthquakes that produced strong shaking were still recorded anecdotally -- in newspaper stories, official logs, various forms of correspondence, or personal journals. Collecting these sorts of reports can be difficult, but with enough detailed 
+descriptions or even brief mentions of an earthquake from locations scattered across the state, it is possible to determine rough locations and magnitudes for large events. 
+
+This is done by creating an isoseismal map, something you will have the chance to do in Section 3 of this module.  Making this kind of map involves quantifying the intensity of the shaking at various locations (based upon the effects or damage that result), and then drawing contour lines to enclose points of similar intensity.  The result is a sort of target-like pattern, with the epicenter at the bull's-eye, as shown in the example at left (click the map to view a larger image). By comparing the size of these contours with those of events for which instrumental magnitudes were measured, it is also possible to estimate the energy released by the earthquake, and assign an approximate magnitude. 
+
+These techniques have limits, of course.  As you look farther into the past in a given area, residents and written records will dwindle, and the quality of the data will suffer.  Eventually, large earthquakes will go completely unnoticed or unreported. Once such gaps develop in the historical record, the data you can gather is no longer complete, even for the largest earthquakes, and it becomes invalid as a representation of the seismicity rate. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

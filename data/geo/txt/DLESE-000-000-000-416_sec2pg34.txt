@@ -1,0 +1,36 @@
+
+
+Page 34 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+Maturity, Strength and Seismicity 
+
+We've suggested that mature faults have a lower strength and a lower rate of seismicity.  But we've also said that fault rupture (an earthquake) occurs when stress overcomes the strength of a fault.  If that's true, shouldn't mature faults rupture more frequently, since they're "easier to break", and thus be associated with higher seismicity rates? 
+
+That's true for faults with very low strength -- the kind that experience creep and rupture almost continuously.  But for microseismicity associated with a mature fault of substantial (but below-normal) strength, a different principle may be at work. 
+
+Most microseismicity tends not to occur along major faults, but instead along small fractures closely associated with a much larger fault. If the main fault has a high strength, considerable stress will need to build up before that fault reaches its breaking point and ruptures. In the meantime, those small, nearby faults that are weaker than the main fault will be pushed to their breaking points, and small earthquakes will occur as they rupture. 
+
+If, instead, the main fault has a lower strength than most of the smaller faults that surround it, stress in the area will generally not be able to build up to the point where those smaller faults begin to rupture, because before it reaches their breaking points, the major fault will rupture and release the stress. Consequently, microseismicity would be rare in the region around such a fault. 
+
+What else might help explain how the degree of a fault's maturity affects its associated seismicity rate?  To answer that, it might be useful to approach the problem from a different perspective. Instead of asking why mature faults seem to have low microseismicity, perhaps we should look at the exceptions to the rule:  the places along mature fault zones with the highest rates of seismicity.  Let's go back to our two examples of mature fault zones (the San Andreas and the Garlock) and study them with this idea in mind. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

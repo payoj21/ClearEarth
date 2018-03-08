@@ -1,0 +1,15 @@
+
+
+Page 26 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+"Is there no way to recognize a foreshock before the mainshock strikes?" 
+
+Recognizing foreshocks in advance of the mainshock has, quite naturally, been a prize goal of seismologists ever since foreshocks were first recognized.  The reality of the situation, however, is that we still have no consistent method with which to make such identifications. If foreshocks could be consistently recognized as foreshocks, this would have to be done very quickly, since some foreshocks preceed their mainshocks by less than a few hours.  Given the amount of time it might take to send an accurate warning to the public, that would leave very little time for identification.  And since foreshocks are apparently identical to other earthquakes in their "seismic signature" -- that is, you cannot distinguish them from seismograms alone -- the context in which they occur will be what ultimately identifies them.  That context is complex, however, and so the chance for misjudgement will likely be high.  Incomplete data can sometimes allow you to make a good guess (and those guesses are usually promoted more than they deserve), but it can also lead to disastrous oversights, or a loss of credibility. 
+
+By far the greatest problem, however, is that not all large earthquakes have foreshocks.  Accurate forecasting of some, but not all, large earthquakes could leave the public with a false sense of security, unprepared for the quake that isn't predicted.  That's not to say we shouldn't try -- just that we should be careful we don't claim to know more than we really do.  To give you a feel for the difficulties involved in recognizing foreshocks and an impending mainshock, try the activity below.

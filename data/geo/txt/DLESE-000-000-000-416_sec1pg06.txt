@@ -1,0 +1,22 @@
+Page 6 -- What is an Earthquake? 
+
+Hypocenters vs. Epicenters 
+
+A point can be used to locate the hypocenter of an earthquake (also known as the focus), which is, in fact, a true point -- that point at which the slip of an earthquake begins.  Hypocenters are therefore always located at some depth underground. For general purposes, it is more common to refer to the location of an earthquake by plotting its epicenter on a map.  An epicenter has no physical meaning; it is simply the point on the Earth's surface directly above the hypocenter.  Because of this standard way of mapping the location of an earthquake, large earthquakes are often named after the city, town, or geographic location nearest the epicenter. 
+
+The difference between epicenters and hypocenters explains why the epicenter of an earthquake which occurs on a particular mapped fault may not be plotted on, or even very near, the surface trace ("fault line").  A hypocenter located at substantial depth on a fault not oriented vertically with respect to the Earth's surface would not appear along the trace of that fault, but at some distance away from the trace.  Similarly, in later sections, when we review the effects of earthquakes, we will show that sometimes the strongest shaking is not along the "fault line". 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

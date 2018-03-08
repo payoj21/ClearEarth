@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/data/clearearth/anaforaProjectFile/bio/cryosphere/tc-10-1823-2016'
+let g:netrw_dirhist_2='/data/clearearth/anaforaProjectFile/sea-ice/Training/Sea_ice_continues_to_track_at_low_levels'

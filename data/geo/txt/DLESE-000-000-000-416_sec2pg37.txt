@@ -1,0 +1,11 @@
+Page 37 -- The Distribution of Earthquakes 
+
+Checking Our Conclusions 
+
+Looking at the San Jacinto and Imperial fault zones on a map of fault traces, it's clear that most of the San Jacinto fault zone and at least the northernmost part of the Imperial fault zone are indeed complex, with branching and parallel fault segments, large fault steps and discontinuities.  Complexity alone may be enough to explain the abundant seismicity in this area. 
+
+But note that, to the south, the Imperial fault zone appears reasonably simple, in terms of geometry.  Though there is a drop in microseismicity near the Mexican border, there is still plenty of activity along most of this fault zone, including a high rate of large earthquakes.  Which of our factors might explain this? 
+
+The answer appears to be heat flow.  The crust is very thin in this area, and there is a great deal of geothermal energy radiating up through the rocks and to the surface, evidenced by numerous hot springs and wells. This extra heat can be a factor in generating earthquake swarms, as it may act to reduce the friction along fault surfaces directly and/or through an increase in the pressure of fluid at depth.  Both of these would lower the strength of the fault, which might lead to a short recurrence interval for large ruptures, since little stress would need to accumulate to overcome the fault strength. 
+
+Since the two more seismically active fault zones stick to the rules of thumb we arrived at by studying the less active faults, it's looks like we've done a reasonably good job of comparing crustal properties to seismicity rates along faults with high slip rates. As with many of our other previous working models, this is an oversimplification of reality, but it is a good first step toward making sense of the data.  Yet even with the simplified rules of this model, there's still one oddity we've ignored: the recurring magnitude 6 earthquakes at Parkfield, along the San Andreas fault zone.  What could be causing them?

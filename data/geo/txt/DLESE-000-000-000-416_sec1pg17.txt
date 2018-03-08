@@ -1,0 +1,15 @@
+Page 17 -- What is an Earthquake? 
+
+Slip Rate Defined 
+
+Slip rate 
+
+The slip rate of a fault is the speed with which one side of the fault moves with respect to the other.  Since tectonic plates move very slowly, these speeds are measured in units quite different from those we usually associate with measured speeds (for instance, highway traffic moving at kilometers per hour). Slip rates are generally measured in millimeters per year (mm/yr) -- in California, slip rates for faults range from 0 to about 38 mm/yr, though anything over 10 mm/yr is generally considered fast (a slip rate around 1 to 2 mm/yr might be considered average for a major, active fault). 
+
+A key fact about slip rates to keep in mind is that they do not represent constant motion along a fault, even though the motions of tectonic plates are constant.  Instead, slip rates are averages of the total slip along a fault over a long period of time. Thus, a rate of 2 mm/yr does not mean that two points, one on each side of the fault, which are adjacent to begin with will be exactly two millimeters apart one year later.  Instead, it might mean that the two points will remain adjacent for hundreds or thousands of years, then suddenly slide away from each other in a single episode of slip, typically consisting of several centimeters or even meters of offset. 
+
+If, as we said, the slip rate of the fault is 2 mm/yr, then the time it takes to move the two points away from each other, divided into the amount of distance between the two points at the end of that time, should yield a rate of roughly 2 mm/yr.  This simply follows the formula for finding any average speed: 
+
+Figuring out the rate of slip along faults is a key in understanding  the relative "importance" of faults in an area, and the  hazard those faults present to local residents and developments. Slip rates can also tell us about changes in faults that have happened long ago -- well before recorded history. 
+
+There are several ways to determine the slip rate of a fault, and in the following pages, we will investigate how these methods work, and how different methods can produce different results. 

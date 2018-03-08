@@ -1,0 +1,19 @@
+
+
+Page 15 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Running in Circles to Locate Epicenters 
+
+Assuming you have described a second travel-time sphere based upon the arrivals recorded on the second seismogram, you have greatly narrowed down the possible locations for the hypocenter. Now it can only be located somewhere along the intersection of the outer surfaces of these two spheres.  What happens if you add yet another sphere in the same manner? 
+
+Three travel-time spheres can locate the hypocenter of an earthquake, because three spheres centered on the Earth's surface will intersect in at most one point below it.  An exception to this rule occurs if the spheres are colinear.  To keep the intersection clear, it is best to choose three records from seismic stations that form an appreciably "wide" triangle (i.e. one without angles near 0&deg; or 180&deg;).  Though three is the minimum number of travel-time spheres needed, extra ones can be added to reinforce the location, or to guard against bad arrival choices and/or timing errors in the record. 
+
+This is the way earthquakes were first located by the pioneers of modern seismology.  To simplify things, they would draw travel-time circles on a map (or a globe).  You can think of these circles as the intersection of the travel-time sphere with a particular horizontal plane -- a depth. The yellow circle in the diagram on the previous page is an example.  That travel-time circle would assume a hypocenter right at the surface, a depth of 0.0 kilometers. Since finding the exact depth of an earthquake is mathematically complicated, and in some ways, unnecessary -- large uncertainties in near-surface depth produce only small uncertainties in lateral (map-view) distance for stations far from the source -- early attempts to locate earthquakes concentrated only on identifying epicenters, not hypocenters. 
+
+In the activity below, you will have the chance to locate the epicenters of earthquakes using the intersection of three or more travel-time circles, calculated according to the P-wave and S-wave arrivals you choose, and automatically drawn for you on a basemap. These circles will be plotted assuming a hypocentral depth of 6.0 kilometers, a typical depth for seismicity in southern California. 

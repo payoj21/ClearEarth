@@ -1,0 +1,45 @@
+
+
+Page 1 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+
+
+Measuring Earthquakes 
+
+The tricks and tools of seismology 
+
+"How do scientists measure earthquakes?" 
+
+If you've lived in southern California or some other seismically active area for any length of time, you've probably seen or heard some kind of earthquake report.  Whether in the newspaper, on the radio, on television, or online, the details of an earthquake report are generally the same:  a date, a time, a location, and a magnitude. If the earthquake was large enough, the report may include a description of damage caused by the earthquake, or of the size of the area over which it was felt.  But for even the smallest of tremors, you will always see a time, a location, and a magnitude. 
+
+How are these values are determined?  What physical characteristic does each represent?  What kinds of instruments and calculations are involved, and how were these techniques developed?  These are the questions we'll address in this section of the module. 
+
+To start investigating those answers, put yourself in the place of the earliest seismologists -- actually, in the place of those who pondered the signficance and origin of earthquakes before the field of seismology even came into existence.  If you were going to attempt to measure earthquakes "from scratch", how would you start?  What do you think is the most easily measurable aspect or effect of any earthquake? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

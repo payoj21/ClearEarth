@@ -1,0 +1,7 @@
+#
+# Default .mailrc
+#
+set ask
+set askcc
+set autoprint
+set nohold

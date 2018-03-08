@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>11:01:53 21-01-2018</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>35@e@tc-8-2163-2014@gold</id>
+		<span>11,18</span>
+		<type>Ice_source</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>38@e@tc-8-2163-2014@gold</id>
+		<span>130,137</span>
+		<type>Ice_source</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>41@e@tc-8-2163-2014@gold</id>
+		<span>181,188</span>
+		<type>Ice_source</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>42@e@tc-8-2163-2014@gold</id>
+		<span>189,196</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>43@e@tc-8-2163-2014@gold</id>
+		<span>197,203</span>
+		<type>Trait</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_value></has_value>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>44@e@tc-8-2163-2014@gold</id>
+		<span>208,217</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>45@e@tc-8-2163-2014@gold</id>
+		<span>245,250</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>46@e@tc-8-2163-2014@gold</id>
+		<span>285,292</span>
+		<type>Ice_source</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>47@e@tc-8-2163-2014@gold</id>
+		<span>432,442;447,450</span>
+		<type>Ice_devel</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>48@e@tc-8-2163-2014@gold</id>
+		<span>443,450</span>
+		<type>Ice_source</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>49@e@tc-8-2163-2014@gold</id>
+		<span>452,455</span>
+		<type>Ice_devel</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>55@e@tc-8-2163-2014@gold</id>
+		<span>1155,1159</span>
+		<type>Snow</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>56@e@tc-8-2163-2014@gold</id>
+		<span>1164,1169</span>
+		<type>Ice_devel</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>57@e@tc-8-2163-2014@gold</id>
+		<span>1220,1228</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>58@e@tc-8-2163-2014@gold</id>
+		<span>1255,1259</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>59@e@tc-8-2163-2014@gold</id>
+		<span>1263,1268</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>60@e@tc-8-2163-2014@gold</id>
+		<span>1490,1497</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>61@e@tc-8-2163-2014@gold</id>
+		<span>1498,1507</span>
+		<type>Trait</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_value></has_value>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>62@e@tc-8-2163-2014@gold</id>
+		<span>19,28</span>
+		<type>Melting_stage</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>63@e@tc-8-2163-2014@gold</id>
+		<span>138,147</span>
+		<type>Melting_stage</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>64@e@tc-8-2163-2014@gold</id>
+		<span>148,156</span>
+		<type>Function</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_unit></has_unit>
+			<has_eventuality></has_eventuality>
+			<has_season></has_season>
+			<has_time></has_time>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>65@e@tc-8-2163-2014@gold</id>
+		<span>29,37</span>
+		<type>Function</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_unit></has_unit>
+			<has_eventuality></has_eventuality>
+			<has_season></has_season>
+			<has_time></has_time>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>66@e@tc-8-2163-2014@gold</id>
+		<span>175,180</span>
+		<type>Function</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_unit></has_unit>
+			<has_eventuality></has_eventuality>
+			<has_season></has_season>
+			<has_time></has_time>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>67@e@tc-8-2163-2014@gold</id>
+		<span>218,237</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>68@e@tc-8-2163-2014@gold</id>
+		<span>605,615</span>
+		<type>Water</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>69@e@tc-8-2163-2014@gold</id>
+		<span>616,626</span>
+		<type>Melting_stage</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>71@e@tc-8-2163-2014@gold</id>
+		<span>595,601</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>72@e@tc-8-2163-2014@gold</id>
+		<span>1054,1066;1076,1082</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>73@e@tc-8-2163-2014@gold</id>
+		<span>1071,1082</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>74@e@tc-8-2163-2014@gold</id>
+		<span>1086,1093</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>75@e@tc-8-2163-2014@gold</id>
+		<span>1139,1147</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>76@e@tc-8-2163-2014@gold</id>
+		<span>1151,1154</span>
+		<type>Trait</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_value></has_value>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>77@e@tc-8-2163-2014@gold</id>
+		<span>1177,1184</span>
+		<type>Trait</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_value></has_value>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>78@e@tc-8-2163-2014@gold</id>
+		<span>1185,1192</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>79@e@tc-8-2163-2014@gold</id>
+		<span>1229,1234</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>81@e@tc-8-2163-2014@gold</id>
+		<span>1243,1246</span>
+		<type>Ice</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>82@e@tc-8-2163-2014@gold</id>
+		<span>1247,1251</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>83@e@tc-8-2163-2014@gold</id>
+		<span>1451,1454</span>
+		<type>Ice</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>84@e@tc-8-2163-2014@gold</id>
+		<span>1455,1459</span>
+		<type>Area</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>85@e@tc-8-2163-2014@gold</id>
+		<span>1464,1471</span>
+		<type>Eventuality</type>
+		<parentsType>General_Entities</parentsType>
+		<properties>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+			<has_function></has_function>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>86@e@tc-8-2163-2014@gold</id>
+		<span>0,10;15,18</span>
+		<type>Ice_devel</type>
+		<parentsType>Ice_Types_And_Stages</parentsType>
+		<properties>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_eventuality></has_eventuality>
+			<subtypes></subtypes>
+			<supertypes></supertypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

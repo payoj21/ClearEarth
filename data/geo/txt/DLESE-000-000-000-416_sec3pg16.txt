@@ -1,0 +1,36 @@
+
+
+Page 16 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Rating the Size of Earthquakes 
+
+When earthquakes were still being crudely located based upon isoseismal maps and were considered to be "centered" below the area that experienced the greatest shaking intensity at the surface, using the maximum intensity as a standard for rating the overall "size" of earthquakes was common practice.  As seismograms gave researchers a new, more precise way to locate earthquakes, however, the demand arose for a new instrumental standard for rating them according to size -- even though no one was entirely sure what factors made some earthquakes large and others small. 
+
+Modifying an idea employed a few years earlier by K. Wadati (studying earthquakes in Japan), Charles F. Richter divised a way of rating earthquakes in southern California according to an instrumental analysis of the amount of energy they released in the form of seismic waves.  It was Harry O. Wood who suggested the term "magnitude" for this new measure.  With the help of Beno Gutenberg, another pioneer in the field of seismology, Richter published his magnitude scale in 1935.  It eventually became known the world over as the Richter scale.  The original definition of Richter magnitude is as follows: 
+
+The magnitude of any shock is taken as the logarithm of the maximum trace amplitude, expressed in microns, with which the standard short-period torsion seismometer would register that shock at an epicentral distance of 100 kilometers. 
+
+
+Using data gathered on southern California earthquakes in January 1932, Richter made a graph (at left) of the logarithm of maximum amplitude versus epicentral distance from all the seismic recording stations that existed then.  From this empirical evidence he drew a parallel best-fit curve (shown in red), arbitrarily positioned so that a zero-magnitude earthquake at 100 kilometers would produce a maximum trace amplitude of 0.001 millimeters.  He then turned this curve into a table of values that could be used to calculate magnitudes. All one had to do to find magnitude was to calculate the logarithm (to the base 10) of the maximum amplitude, in millimeters, recorded on a seismogram, and subtract from that the value  listed on the table next to the epicentral distance (measured from the instrument that recorded the seismogram). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

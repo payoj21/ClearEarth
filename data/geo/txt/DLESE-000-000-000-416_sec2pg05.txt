@@ -1,0 +1,11 @@
+Page 5 -- The Distribution of Earthquakes 
+
+"What about the large earthquakes that did not appear connected with any major fault?" 
+
+In Activity #2, you saw that large earthquakes are  generally associated with major faults, according to the maps you looked at.  On the other hand, there may have been enough exceptions to this that you feel unconvinced.  Indeed, there were a few flaws associated with this activity which may have been somewhat misleading. How can these "errant" quakes be explained? 
+
+The first and more obvious explanation is that not all the active faults capable of producing an earthquake of magnitude 5 were shown on the maps.  While most of the largest faults were represented, a few areas may have incorrectly seemed to be lacking active faults. 
+
+Also, some of the earthquakes shown occurred deep beneath the surface on thrust or "blind" (buried) thrust faults.  These epicenters, as we saw in previous sections, will not plot along the fault trace because of the dip of the fault involved, or in the case of a blind thrust fault, simply because there is no fault trace.  These exceptions should have been especially notable in the Los Angeles basin image, where thrust faulting is commonplace.  Four of the five highlighted earthquakes on that map occurred along thrust faults, as did many of the smaller earthquakes.  Did you note how spread out the aftershocks of the  Northridge earthquake were, compared to the more linear distribution of the Long Beach earthquake's aftershocks?  These differences are directly related to the faults involved in each earthquake -- a steeply-dipping fault, like that involved in the Long Beach earthquake, looks linear in map view, while a fault with a shallow dip, like the thrust fault responsible for the Northridge earthquake, presents a more open "face" when viewed from above. 
+
+If you knew previously that the Los Angeles basin is an area with numerous thrust and blind thrust faults, you may have felt that the pattern of epicenters you saw was not entirely unexpected. Even without that knowledge, however, there were a few clues on the map itself that may have tipped you off to the exceptions above. Did you notice them?  Read on to find out what they were. 

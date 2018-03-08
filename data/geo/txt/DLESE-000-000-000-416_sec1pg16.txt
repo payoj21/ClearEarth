@@ -1,0 +1,17 @@
+Page 16 -- What is an Earthquake? 
+
+Strike Slip and Oblique Slip 
+
+Strike slip is divided into two lateral senses: left-lateral and right-lateral.  To understand the difference between these two types of slip, imagine standing on one side of a fault trace, looking across the fault at the other side.  Now, imagine the fault breaking, and your view (assuming you can keep your footing in the shaking) shifting due to the movement along the fault. Which way did the things (trees, fences, etc.) on the other side of the fault move?  Was it toward your left or your right?  If it was toward your left, then the fault experienced left-lateral strike slip.  If toward the right, that was right-lateral strike slip.  The distinction is shown by the two pictures below, as well. Clicking on each image allows you to watch an animation of that sense of slip. 
+
+"Must strike slip faults be vertical in dip (as shown)?" 
+
+Small half-arrows are often used on maps and diagrams to designate the lateral sense of strike-slip faults.  The figure at right shows how this works; essentially, the arrow on each side of the fault points in the direction of that side's relative motion.  Similar arrows are often used on cross-sections and cut-away diagrams to indicate the vertical sense of dip-slip faults. 
+
+If a fault is oblique in slip -- neither slip component dominates the other -- then the slip of the fault is referred to with a combination of slip terms.  The sense of strike slip is used first, followed by the sense of dip slip.   For example, if the slip on a fault were such that the hanging wall moved up with respect to the footwall, and the two sides slipped laterally right with respect to each other, you would call this sense of slip "right-lateral reverse", which is sometimes shortened to "right-reverse". 
+
+Oblique Slip 
+
+A simple lesson on the terminology of oblique-slip faults. 
+
+In general, a fault's sense of slip can be a key mark of identification. In an area of numerous and/or intersecting faults, it is often difficult to identify the likely source fault of an individual earthquake without knowing the sense of slip of that earthquake (and, of course, of the faults in that vicinity).  Fortunately, the sense of slip of an earthquake can be determined, with the proper analysis of seismic records, by calculating what is known as a focal mechanism.  For now, we will continue our review of the properties of fault slip, but in later sections, we will look much more closely at what focal mechanisms are, and how they are determined.

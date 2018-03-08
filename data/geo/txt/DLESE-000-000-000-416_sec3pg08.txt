@@ -1,0 +1,37 @@
+
+
+Page 8 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Seismographs and Seismograms 
+
+The first seismographs were built in the late 19th Century.  They were a mechanical synthesis of sorts -- a seismometer rigged up to transfer its motions to some kind of timekeeping and recording device. Records, which became known as seismograms, were made continuously, by a pen tracing ink lines on paper, or a stylus etching smoked paper, with time "ticks" marked periodically to provide temporal reference points. 
+
+The typical seismometer that measured the ground motion recorded by early seismographs was based upon an inertial mass affixed to a damped, suspended oscillator, usually a vertical or horizontal pendulum.  Ground motion can be recorded by such a device (if firmly attached to the ground) because the inertia of the suspended mass tends to keep it at rest while the earth moves beneath it.  Damping the oscillation is essential; without damping, the machine's record is biased by the natural periodicity of the oscillator, and it will continue to record movement well after the actual ground motion has stopped. 
+
+
+One clever variation on this basic seismometer design was developed in southern California by Harry O. Wood and J.A. Anderson, who invented the "torsion seismometer" in 1922 (shown at right, from a 1925 publication). As the name implies, the motion generated when this instrument was shaken by an earthquake came not from a suspended pendulum, but from the torsional (rotational) motion of a small inertial mass affixed to a thin wire under high tension.  The Wood-Anderson torsion seismometer was designed to be as sensitive and as nearly frictionless as possible.  Damping of the torsional motion was accomplished using magnets.  Seismograms were "drawn" not with a stylus or needle, but with a beam of light reflected onto photosensitive paper from off of a mirror on the inertial mass. 
+
+
+If any single instrument revolutionized the field of seismology, it was the Wood-Anderson torsion seismometer.  Not long after its introduction, this instrument became a standard of earthquake research. Waveforms -- the "squiggly lines" on a seismogram (seen at left) that signify an earthquake shaking the sensor -- became the standard for representing recorded seismic events. As seismometers became more common, the study of waveforms became a focus for researchers who quickly recognized that a wealth of information could be retrieved from careful analysis of those squiggly lines. Seismic monitoring equipment has been modernized considerably since the first Wood-Anderson seismometers went into operation, but even today's digital instruments owe much its design, and waveforms are still the preferred means of recording, analyzing and presenting modern seismic data. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

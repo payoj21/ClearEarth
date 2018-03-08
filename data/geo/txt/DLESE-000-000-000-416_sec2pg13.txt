@@ -1,0 +1,31 @@
+
+
+Page 13 -- The Distribution of Earthquakes 
+
+
+Aftershocks Defined 
+
+Aftershocks are actually just normal earthquakes in every physical detail.  Out of context, there is no way to tell the difference between an arbitrary earthquake and an "aftershock".  The only real difference between the two is that an aftershock follows closely in the wake of a larger earthquake, and in roughly the same location as its predecessor.  That larger, initial earthquake is usually referred to as the "mainshock". 
+
+
+More specifically, there are two guidelines for labelling an earthquake as an aftershock.  First, it must occur within one rupture length of the mainshock rupture surface, or alternatively, within an "aftershock zone" based upon early aftershock activity and defined by seismologists. Second, it must occur within that designated area before the seismicity rate in that area returns to its "background", meaning pre-mainshock, level. 
+
+Both of these limitations have somewhat poorly-defined boundaries.  The area in which aftershocks from one mainshock occur might overlap the aftershock zone of another mainshock.  Other factors might cause an aftershock zone to change over time, or to extend farther than is generally expected. 
+
+In addition, defining the normal, "background" seismicity rate for an area can be difficult.  Without good records covering decades of activity in an area, it is tough to say for sure what the typical background rate of earthquakes in an area should be, and whether there is any long-term variation in the rate.  That makes it difficult to say when an aftershock sequence has ended, and the rate has returned to normal in the (former) aftershock zone. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

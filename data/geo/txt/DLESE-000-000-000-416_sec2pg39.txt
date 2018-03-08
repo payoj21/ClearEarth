@@ -1,0 +1,9 @@
+Page 39 -- The Distribution of Earthquakes 
+
+"How is all of this information collected?" 
+
+Fault slip rates, maturity and complexity, the formation of new faults, the composition of and heat flow through crustal rocks, the pressure of fluids at depth...  with so many factors influencing fault rupture behavior and consequently, the distribution of earthquakes, it is little wonder that scientists still have a long way to go before they can even answer the question of whether eathquakes can be predicted reliably, let alone figure out how to do so!  If a serious attempt at forecasting is ever to be made, reliable geologic and seismic data will be a necessary foundation for that endeavor. 
+
+It is thus reassuring to note that while the details of earthquake occurrence (the mechanisms, the timing, etc.) may remain poorly understood, or at least hotly debated, the ability to measure earthquakes has become much more of an exact science in recent years.  New networks for gathering data, and new ways of processing that data, have helped construct impressively extensive catalogues of earthquakes, particularly in areas like southern California, closely studied because of the volatile mix of booming urban areas and a significant seismic hazard. 
+
+Hopefully, such thorough coverage of an area's seismicity will help us to learn what clues, if any, exist to allow more accurate and specific risk assessments, and possibly, earthquake forecasts. Even if prediction is a lost cause, accurate seismic sensing and recording combined with rapid information transfer should lead to early warning systems capable of granting precious seconds of notice in advance of the strongest shaking.  The details of measuring and recording information about earthquakes will be our topic of investigation in Section 3: Measuring Earthquakes --   The Tools and Tricks of Seismology.

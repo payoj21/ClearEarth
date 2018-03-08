@@ -1,0 +1,13 @@
+Page 12 -- What is an Earthquake? 
+
+Finding Strike and Dip 
+
+Measuring the strike and dip of a fault plane at the surface is not always easy, and in the case of a blind fault (explained on the next page), impossible.  When faults exist in solid rock, they are well-constrained, because it is far more difficult to break a new fault surface through solid rock than it is to break the pre-existing fault. The material at the surface, however, is rarely solid, bare rock.  Typically, soil and loose sediments make up the very top layer of the Earth, and because these materials offer little resistance, there is no need for a fault rupture to break along the exact same surface each time.  Measuring the strike and dip of a fault in such material can be misleading.  However, if you can find an exposure of the fault in bedrock, you can be pretty sure that the  fault you see is indicative of the fault plane's orientation, at least in the immediate area.  Geologists rely on these sorts of exposures to measure the strike and dip of a fault along its surface trace. 
+
+Good exposures of faults at the surface can be few and far between. Confirming the strike and dip of a fault at depth, where it is more likely to be consistent, is a valuable thing.  Wells drilled into the ground can provide a source of information about the structures and types of rock beneath the surface, but they are limited in depth.  Seismic reflection surveys may also yield clues about structures at depth, but these studies are costly, limited in scope, and do not always provide excellent results. 
+
+Another method for finding the strike and dip of a fault beneath the surface involves accurately determining the locations of the hypocenters of naturally occurring earthquakes, and plotting these locations in a cross-sectional or 3-dimensional view.  If done correctly with good data, this can allow the "imaging" of fault surfaces deep underground. 
+
+Revealing a Fault Plane with Hypocenters 
+
+Use the locations of hypocenters to "see" a fault plane several kilometers beneath the surface!

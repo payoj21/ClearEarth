@@ -1,0 +1,7 @@
+Page 4 -- The Distribution of Earthquakes 
+
+"Where do large earthquakes occur in southern California?" 
+
+Generally speaking, the larger the magnitude of an earthquake, the greater the chance there is that it will cause damage to structures of injury to people.  Naturally, then, the largest earthquakes are of greatest importance to the average person in southern California. 
+
+We have noted in previous sections that the rupture area of a fault involved in an earthquake is proportional to the energy released, and thus the magnitude, of that earthquake.  This means that large fault surfaces must rupture to produce large earthquakes.  Presumably, then, large earthquakes will only occur where large (and thus, probably known and well-mapped) faults exist.  Does the earthquake record in southern California support this assumption?

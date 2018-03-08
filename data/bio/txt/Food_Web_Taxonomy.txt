@@ -1,0 +1,10 @@
+Taxonomy of a food web
+
+Links in food webs map the feeding connections (who eats whom) in an ecological community. Food cycle is the antiquated term that is synonymous with food web. Ecologists can broadly lump all life forms into one of two trophic layers, the autotrophs and the heterotrophs. Autotrophs produce more biomass energy, either chemically without the suns energy or by capturing the suns energy in photosynthesis, than they use during metabolic respiration. Heterotrophs consume rather than produce biomass energy as they metabolize, grow, and add to levels of secondary production. A food web depicts a collection of polyphagous heterotrophic consumers that network and cycle the flow of energy and nutrients from a productive base of self-feeding autotrophs.
+
+The base or basal species in a food web are those species without prey and can include autotrophs or saprophytic detritivores (i.e., the community of decomposers in soil, biofilms, and periphyton). Feeding connections in the web are called trophic links. The number of trophic links per consumer is a measure of food web connectance. Food chains are nested within the trophic links of food webs. Food chains are linear (noncyclic) feeding pathways that trace monophagous consumers from a base species up to the top consumer, which is usually a larger predatory carnivore.
+
+Linkages connect to nodes in a food web, which are aggregates of biological taxa called trophic species. Trophic species are functional groups that have the same predators and prey in a food web. Common examples of an aggregated node in a food web might include parasites, microbes, decomposers, saprotrophs, consumers, or predators, each containing many species in a web that can otherwise be connected to other trophic species.
+
+
+

@@ -1,0 +1,5 @@
+Page 3 -- The Distribution of Earthquakes 
+
+"Do earthquakes happen everywhere in southern California?" 
+
+Can an earthquake happen -- that is, can a hypocenter be located -- directly beneath your feet, no matter where you choose to stand in southern California (providing you stand there for a long enough period of time)? And if the answer to that is yes, then is there a smaller chance of it happening in one particular place, compared to another?  Such variations in probability can make a big difference when it comes to determining the earthquake risk for a specific area of the state.  Let's study the distribution of recorded earthquakes in southern California, to see if we can find and describe any such variations.

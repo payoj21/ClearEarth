@@ -1,0 +1,8 @@
+Page 30 -- What is an Earthquake? 
+
+
+"How does this complexity affect the slip rates of these faults?" 
+
+Indeed, such complexity does seem to have an impact upon the slip rates of the major faults.  Where slip is drawn off of the main plate boundary (the San Andreas fault zone) and onto other faults and shear zones with a similar sense of slip, the slip rate along the main boundary tends to decrease.  The total relative motion between the two plates, however, always remains constant. 
+
+The same thing is true on a smaller scale.  Suppose a certain fault has a (right-lateral) slip rate of 8 mm/yr.  Now, imagine splitting that fault into two parallel faults somewhere along its length, and then rejoining them. Anywhere you cross this zone of faulting, you must cross 8 mm/yr of right-lateral slip.  Thus, the combined slip rate of the "split", parallel faults must be 8 mm/yr, regardless of what each individual slip rate is.  In this way, a larger amount of slip can be partitioned among several different faults to accomplish the same overall motion as a single fault of higher slip rate.

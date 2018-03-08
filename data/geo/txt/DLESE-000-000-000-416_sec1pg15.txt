@@ -1,0 +1,13 @@
+Page 15 -- What is an Earthquake? 
+
+Dip Slip and Crustal Shortening 
+
+Wherever tectonic forces act to squeeze together or pull apart an area of the Earth's crust, you will find dip-slip faults. That's because these faults not only produce obvious vertical offsets, but horizontal offsets as well.  They allow a volume of crust to thicken or thin (in depth), in exchange for an expansion or compression of the ground-surface area (area as measured on a map of the region).  Thus, where the total ground-surface area of a section of the Earth's crust is under stress to change, dip slip faults are bound to form.  The activity below will help you visualize the way these faults accommodate such changes in the crust. 
+
+Dip Slip and Crustal Dimensions 
+
+Which type of faulting causes which type of crustal change? 
+
+The activity above should have shown you that normal faults thin and extend the Earth's crust, while reverse faults facilitate the crustal shortening and thickening.  Although all reverse faults will cause some shortening of the crust, those with a dip of roughly 45 degrees or less are generally indicators of strong compression and a significant crustal shortening. Such faults are thus considered to be a special class of reverse faults, and are called thrust faults. The sense of slip of a thrust fault is still the same as it is for a reverse fault:  hanging wall up, footwall down.  However, you will note from the animation below that the degree of shortening resulting from a thrust fault is considerably greater than from the more steeply-dipping reverse fault shown on the previous page. 
+
+Also shown below, at right, is a diagram of a blind thrust fault. Click on the image to see an animation of the way the fault cuts the lower layer of rock, but merely folds the upper layer, producing not a break, but rather a rounded scarp.

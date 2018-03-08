@@ -1,0 +1,11 @@
+Page 36 -- The Distribution of Earthquakes 
+
+Earthquake Swarms 
+
+Earthquake swarms are clusters of earthquakes -- sometimes hundreds or thousands of them -- with no definitive mainshock; the largest events in a swarm are all of roughly the same magnitude.  Swarms occur in a limited area, and vary greatly in duration. Some die off within a day, others can persist for months at a time. 
+
+In some ways, swarms resemble aftershock sequences.  But while aftershock sequences likely result from the sudden stress load placed upon the rocks near a fault rupture, patterns in the occurrence of swarms suggest that they have a fundamentally different driving mechanism.  Studies involving the relation between aftershocks and heat flow, a measure of the geothermal energy in the crust, suggest that aftershock sequences decay more rapidly in areas of high heat flow, possibly because heat allows rocks to release stress more readily in the wake of a mainshock. Areas of high heat flow, however, are prone to lengthy swarms that don't show signs of rapid decay, suggesting that an entirely different process is at work in generating earthquake swarms. 
+
+Actually, there seem to be several different mechanisms that can each produce swarms.  Some swarms are likely spawned by the formation of new faults.  Some may to be related to fault creep.  Some result from an increase in the pressure of fluids at depth, and still others are spawned by sub-surface movements of magma. 
+
+Looking back to our conclusions regarding seismicity rates on faults with high slip rates, then, we've reasoned that low seismicity rates occur when a fault zone is mature and simple in terms of geometry, while complexity and conditions favorable for inducing swarms (fault formation, creep, high heat flow, etc.) tend to lead to higher seismicity rates along fault zones.  Do these conclusions hold up when applied to the San Jacinto and Imperial fault zones -- our examples of faults with high slip rates and high seismicity rates? 

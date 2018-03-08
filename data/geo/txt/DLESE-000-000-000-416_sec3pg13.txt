@@ -1,0 +1,40 @@
+
+
+Page 13 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Computing a Distance from Travel Times 
+
+Given the velocity of a seismic wave and its time of arrival at a seismometer, you could calculate the distance from that seismometer back to the source of the earthquake... if only you knew the  earthquake's origin time, the moment at which fault rupture began.  Fortunately for seismologists, there is a way around this dilemma.  P and S waves from an earthquake originate at the same time and place:  the hypocenter. But they travel through rock at different velocities, meaning they will cover the same distance in different amounts of time. Our seismometer will therefore experience and record the two wave arrivals separately. Using the difference in their travel times, it is possible to find the distance to their source without knowing the earthquake's origin time. 
+
+The waveform we'll use to demonstrate this is the same one used on previous pages to illustrate P-wave and S-wave arrivals, both marked here on the initial image.  Along the bottom border is the time scale that corresponds to the recording time of this seismogram. Real seismic records always contain this information; without it, waveforms aren't very useful.  On our seismogram, the S-wave arrival was recorded exactly 10 seconds after the P-wave.  
+
+In addition to the exact time of each wave arrival (and thus, the difference between them), you need to know the P-wave and S-wave velocities for the area between the earthquake source and the recording station.  When you reviewed the properties of P waves, you saw how complex a velocity profile can be.  To simplify things, let's use the values estimated as the average velocities in southern California crustal rocks: 6.34 km/sec for P waves, and 3.67 km/sec for S waves.  
+
+Now that we know the velocities of the two waves, and the fact that they originated at the same time and location, we can create a conversion factor to solve for the distance from that source, given the time elapsed between the two wave arrivals. That conversion factor is just a simple ratio: the product of the two velocities over their difference. 
+
+
+
+
+By moving the mouse pointer over the image you can see that the time between the two arrivals is exactly 10 seconds, while the conversion factor obtained by the ratio of velocities is 8.7 km/sec.  Thus, the product of these two values yields the distance from the seismometer to the source:  87 kilometers. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

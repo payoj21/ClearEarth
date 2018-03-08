@@ -1,0 +1,35 @@
+
+
+Page 7 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+The Development of Instrumentation 
+
+Sixteen hundred years after Chang Heng, crude seismoscopes were still the most advanced seismic monitoring equipment that existed.  Early European researchers tried many different approaches to constructing them, even using bowls of mercury that would spill in a particular direction when the ground first shook.  But the most enduring approach to the seismoscope was the use of a vertically suspended pendulum marking a circular recording plate below. 
+
+Because it is an inexpensive way to record strong ground motion, this kind of device has remained in use even in recent times.  The seismoscope record at right shows the motion the instrument recorded as it sank into the Van Norman Reservoir during the 1971 San Fernando Earthquake.  You can see how part of the trace is discontinuous, meaning that the pendulum must have "jumped" up and off of the recording surface repeatedly.  Though this may have occurred as the foundation was giving way, it's possible this motion happened before the failure -- other instruments in the area recorded ground motion exceeding the acceleration due to gravity, the first earthquake in which accelerations that large were documented. 
+
+One of the primary disadvantages of a seismoscope record like the one at right is that it gives no indication of the time the earthquake occurred.  Early hypotheses about earthquake ground motion suggested that it travelled in waves outward from a point source, much like a pebble dropped into a still pond will create circularly propagating ripples. To confirm this idea, scientists needed to know the exact time that ground motion occurred in several different locations. 
+
+In response to this need, new and better seismometers were developed.  Some of these new instruments were capable of creating a continuously timed, graphical record of ground motion.  These were the first seismographs, and the records they produced became known as seismograms.  The use of this new technology marked the beginning of modern seismological research. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

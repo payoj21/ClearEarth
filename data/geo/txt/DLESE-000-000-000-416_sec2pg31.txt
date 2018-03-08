@@ -1,0 +1,35 @@
+
+
+Page 31 -- The Distribution of Earthquakes 
+
+
+
+"Do faults with high slip rates always produce similarly high seismicity rates?" 
+
+Odd as it may seem, there is not a direct relation between the slip rate and the seismicity rate of a fault.  One reason for this stems from differences in how slip can be accommodated by a fault. Slip along a fault can occur in two forms:  seismic and aseismic slip. Seismic slip occurs as earthquakes, and the amount of slip is roughly proportional to the magnitude of the earthquake.  Thus, numerous moderate earthquakes would be needed to equal the amount of slip released by a large earthquake.  Aseismic slip happens quietly and much more gradually.  It can be thought of as a very slow, smooth form of fault rupture.  When aseismic slip is seen along a fault trace in the aftermath of a large earthquake (typically the first few months after the rupture), it is known as afterslip.  When aseismic slip occurs along a fault with no apparent connection to seismicity, it is known as creep. 
+
+There also seem to be fundamental differences in the nature of seismicity along different major fault zones. Some faults with high slip rates have comparitively few small earthquakes. When these faults rupture, they tend to do so in very large earthquakes. Other faults may rupture more frequently, but in smaller events. This difference in behavior can affect the seismicity rates associated with these faults.  The activity below looks at the connections (or lack thereof) between the rates of seismicity and slip. 
+
+
+Slip Rates vs. Seismicity Rates 
+
+
+Examine the correlation between slip rate and seismicty rate, using real-world examples. Is there a simple connection? 
+
+
+Even if you consider that faults with low slip rates are many times more common than the very few with the highest rates of slip, you may still be surprised at how little correlation there seems to be between slip rates and seismicity rates, even for large earthquakes.  What can this tell us about the connections between fault properties and seismicity rates?  We'll need to look at specific examples in southern California -- and their exceptions -- to answer that. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

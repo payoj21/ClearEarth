@@ -1,0 +1,30 @@
+
+
+Page 21 -- The Distribution of Earthquakes 
+
+
+Aftershock Distribution 
+
+If you were to create a Gutenberg-Richter plot for an aftershock sequence, it would be no different than the plotting you did in Activity #8.  Just as you delineated the boundaries of "southern California" to limit your earthquake count, you would need to define an aftershock zone to restrict your data set to aftershocks only.  And just as each G-R plot needs to be limited to a specific window of time, you should determine a pre-mainshock background seismicity rate to help you decide when the series of aftershocks ends. 
+
+The resulting graph of aftershock frequency with respect to magnitude would look very much like those you've made before.  One example, the aftershocks of the North Palm Springs earthquake of 1986 (the same sequence used for "imaging" a fault plane at depth in Activity #5 of Section 1), is shown at right, relative to a ten-year plot of all seismic activity in southern California. You can see that the slopes (b values) are very similar. The mean b value for aftershock sequences in southern California is about 0.9, but the range of values for b among those sequences can vary signficantly, between about 0.5 to 1.5, with some rare sequences having values falling outside that range. 
+
+That may be interesting, but what does it really tell us?  Well, first off, we've answered the question we asked on the previous page:  since aftershock sequences, on average, have about the same b value as the overall seismicity, there's no need to worry that the results of our ten-year plot  are somehow skewed and misleading due to the large number of aftershocks in the data. 
+
+Also, knowing that b values can be obtained for aftershock sequences, and that they vary significantly, opens up the possibility of characterizing specific aftershock sequences.  Since some series of aftershocks can last for years, it could be useful to make an early determination of certain characteristics of the sequence, and then use this to forecast future aftershock activity. What other properties do aftershock sequences display, and are there any useful patterns within them? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

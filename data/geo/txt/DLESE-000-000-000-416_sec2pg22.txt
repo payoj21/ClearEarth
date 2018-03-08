@@ -1,0 +1,17 @@
+
+
+Page 22 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+A Method to Aftershock Madness 
+
+The most important property of aftershock sequences is the rate of decay.  The number of aftershocks in any sequence will drop as time progresses.  Expressed mathematically, this relation is commonly known as Omori's Law, after the Japanese seismologist who first described such a correlation in 1894.  It states that the number of aftershocks occurring at a given time t after the mainshock will be proportional to that time t taken to the negative power of p, a constant.  This means that the decrease in aftershock numbers will be rapid at first, but will gradually become less severe until it levels out, when the rate of activity in the area of the mainshock returns to the prior background seismicity rate.  At this point, the aftershock sequence is officially over.  We saw this in the diagram for Guideline #2 on Page 13: Aftershocks Defined. 
+
+The severity of decay in an aftershock sequence will influence other "properties" of that sequence.  Naturally, the duration of an aftershock sequence will depend upon its rate of decay.  Also, the maximum magnitude of aftershocks generally appears to decay in a way similar to the total number of aftershocks.  This is purely an illusion, however -- a result of the interaction of the rate of decay and the b value of a sequence.  Large aftershocks can occur long after a mainshock, they simply become less likely as the total number of aftershocks decays. 
+
+In the activity below, you will look at some of the variations within aftershock sequences, and ultimately, attempt to combine Omori's Law with the Gutenberg-Richter relation to arrive at a way to anticipate the activity of a specific aftershock sequence! 

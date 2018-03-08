@@ -1,0 +1,23 @@
+Page 24 -- What is an Earthquake? 
+
+"Why are there different fault motions in this area?" 
+
+This and the previous question have basically the same answer. In northern and central California, the plates slide reasonably  smoothly past each other because the alignment of the plate boundary  (the San Andreas fault) is essentially parallel to the relative motion of the plates.  In southern California, the plate boundary is not so simply oriented;  there is a bend in the San Andreas fault, often referred to as the "Big Bend". There is even some uncertainty as to the exact nature and location of the plate boundary in the southern half of this bend.  Even farther to the south, the plate boundary is no longer represented by the San Andreas fault, or any single transform fault.  Instead, it appears as a series of rift zones connected by transform faults, similar to a mid-ocean ridge, located in the Gulf of California. 
+
+Ignoring the complexity in the bend and to the south, we can consider the plate boundary in southern California to be a fairly simple right-lateral strike-slip vertical fault with a "kink", as shown at left.  The right-lateral motion of the plates causes the two sides of the bend to push against each other, preventing easy sliding, so this particular bend is known as a "restraining" or "convergent" bend.  The result of this compression is the uplift of the Transverse Ranges by the action of reverse and thrust faults. If the plate motion were the opposite, and the slip along the San Andreas fault became left-lateral in nature, the existing bend would cause extension in the area near the bend and this bend would be called a "releasing" or "divergent" bend (bottom left).  This action would likely cause a basin to form around the bend. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

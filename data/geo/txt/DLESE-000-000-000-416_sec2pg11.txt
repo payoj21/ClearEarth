@@ -1,0 +1,37 @@
+
+
+Page 11 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+Distribution in Time? 
+
+So far in this section, we have been examining the geographic distribution of earthquakes in southern California.  We've looked at how the locations of earthquakes correspond to various features of the landscape, even features deep below the surface.  But these are not the only forms of distribution we can use to study seismic activity.  We can also investigate the distribution of seismicity with respect to time. 
+
+In Section 1, we looked at slip rate and recurrence interval, two concepts related to time, and both important for risk assessment and in 
+
+creating a long-term outlook for the tectonic activity in southern California.  But while knowing that a fault may experience a major rupture about once every two millennia is interesting, we would also like to be able to recognize patterns on a more human timescale -- that of days, months, or years.  To do this, we need to look at the recent distribution of earthquakes with respect to time. 
+
+Indeed, the distribution of earthquakes over time, generally referred to as the seismicity rate, can be a powerful tool for understanding the workings of the Earth's crust.  Similar to the way engine noises help an experienced mechanic determine what needs repair, seismicity rates can allow a seismologist to distinguish different types of events, and even in some cases, to anticipate them. 
+
+To do this requires a consistent way of finding seismicity rates.  Only then can one begin to make comparisons.  Or, to continue the engine noise analogy, a mechanic needs to know to what sounds "normal" before he or she can say what sounds unusual.  But with seismicity -- much more complicated than any engine -- how can we define what is "normal"? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

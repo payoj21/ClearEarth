@@ -1,0 +1,17 @@
+
+
+Page 19 -- The Distribution of Earthquakes 
+
+
+
+
+
+
+
+"Can earthquakes trigger other earthquakes -- those outside of their `aftershock zones'?" 
+
+Evidence suggests that large earthquakes can also trigger earthquakes outside of their aftershock zones, where the stress change resulting from the ground rupture should be minimal.  The exact reasons for this, and the mechanisms behind such "triggering", are debatable. While it's assumed that aftershocks (which are a type of triggered event) are induced by the radical changes in stress on the rocks near a fault rupture, such changes should not extend as far from the rupture as "triggered earthquakes" have been observed. So why do triggered events occur? 
+
+Many scientists feel it has something to do with the ground motion of a large earthquake, and how this shaking affects stressed and faulted rocks.  Think of it as bumping an unstable object, inducing it to fall over, even if the tumble is not immediate. The relationship seen in examples of large earthquakes with triggered events is not as simple as one might expect in a standard "chain reaction" -- when one event immediately and directly leads to another, and another, and so on. As with aftershocks, the time between a triggered earthquake and the event that causes it can be hours, days, weeks, or even months or years. 
+
+This is one explanation for the lack of an obvious correlation between tidal forces (which could act as a trigger in a way similar to  the force of earthquake shaking) and the onset of seismicity.  If the time between a triggered event and its cause can vary greatly, then we would probably see no obvious correlation between tides and earthquake activity, which is indeed the case.  This does not mean tidal effects do not influence earthquakes at all, but rather that any influence they have will be unpredictable, and therefore useless to consider in any practical application involving earthquake forecasting.

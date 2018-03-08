@@ -1,0 +1,89 @@
+Food Web - National Geographic Society
+
+A food web consists of all the food chains in a single ecosystem. Each living thing in an ecosystem is part of multiple food chains. Each food chain is one possible path that energy and nutrients may take as they move through the ecosystem. All of the interconnected and overlapping food chains in an ecosystem make up a food web.
+
+Trophic Levels
+
+Organisms in food webs are grouped into categories called trophic levels. Roughly speaking, these levels are divided into producers (first trophic level), consumers, and decomposers (last trophic level). 
+
+Producers
+
+Producers make up the first trophic level. Producers, also known as autotrophs, make their own food and do not depend on any other organism for nutrition. Most autotrophs use a process called photosynthesis to create food (a nutrient called glucose) from sunlight, carbon dioxide, and water. 
+
+Plants are the most familiar type of autotroph, but there are many other kinds. Algae, whose larger forms are known as seaweed, are autotrophic. Phytoplankton, tiny organisms that live in the ocean, are also autotrophs. Some types of bacteria are autotrophs. For example, bacteria living in active volcanoes use sulfur, not carbon dioxide, to produce their own food. This process is called chemosynthesis.
+
+Consumers
+
+The next trophic levels are made up of animals that eat producers. These organisms are called consumers.
+
+Primary consumers are herbivores. Herbivores eat plants, algae, and other producers. They are at the second trophic level. In a grassland ecosystem, deer, mice, and even elephants are herbivores. They eat grasses, shrubs, and trees. In a desert ecosystem, a mouse that eats seeds and fruits is a primary consumer.
+
+In an ocean ecosystem, many types of fish and turtles are herbivores that eat algae and seagrass. In kelp forests, seaweeds known as giant kelp provide shelter and food for an entire ecosystem. Sea urchins are powerful primary consumers in kelp forests. These small herbivores eat dozens of kilograms (pounds) of giant kelp every day. 
+
+Secondary consumers eat herbivores. They are at the third trophic level. In a desert ecosystem, a secondary consumer may be a snake that eats a mouse. In the kelp forest, sea otters are secondary consumers that hunt sea urchins as prey.
+
+Tertiary consumers eat the secondary consumers. They are at the fourth trophic level. In the desert ecosystem, an owl or eagle may prey on the snake. 
+
+There may be more levels of consumers before a chain finally reaches its top predator. Top predators, also called apex predators, eat other consumers. They may be at the fourth or fifth trophic level. They have no natural enemies except people. Lions are apex predators in the grassland ecosystem. In the ocean, fish such as the great white shark are apex predators. In the desert, bobcats and mountain lions are top predators. 
+
+Consumers can be carnivores (animals that eat other animals) or omnivores (animals that eat both plants and animals). Omnivores, like people, consume many types of foods. People eat plants, such as vegetables and fruits. We also eat animals and animal products, such as meat, milk, and eggs. We eat fungi, such as mushrooms. We also eat algae, in edible seaweeds like nori (used to wrap sushi rolls) and sea lettuce (used in salads). Bears are omnivores, too. They eat berries and mushrooms, as well as animals such as salmon and deer.
+
+Detritivores and Decomposers
+
+Detritivores and decomposers make up the last part of food chains. Detritivores are organisms that eat nonliving plant and animal remains. For example, scavengers such as vultures eat dead animals. Dung beetles eat animal feces. 
+
+Decomposers, like fungi and bacteria, complete the food chain. Decomposers turn organic wastes, such as decaying plants, into inorganic materials, such as nutrient-rich soil. They complete the cycle of life, returning nutrients to the soil or oceans for use by autotrophs. This starts a whole new series of food chains. 
+
+Food Chains
+
+Food webs connect many different food chains, and many different trophic levels. Food webs can support food chains that are long and complicated, or very short.
+
+For example, grass in a forest clearing produces its own food through photosynthesis. A rabbit eats the grass. A fox eats the rabbit. When the fox dies, decomposers such as worms and mushrooms break down its body, returning it to the soil where it provides nutrients for plants like grass.
+
+This short food chain is one part of the forests food web. Another food chain in the same ecosystem might involve completely different organisms. A caterpillar may eat the leaves of a tree in the forest. A bird such as a sparrow may eat the caterpillar. A snake may then prey on the sparrow. An eagle, an apex predator, may prey on the snake. A hawk, another apex predator, may prey on the eagle. Yet another bird, a vulture, consumes the body of the dead hawk. Finally, bacteria in the soil decompose the remains. 
+
+In a desert ecosystem, an autotroph such as a cactus produces fruit. Herbivorous insects, such as flies, consume the cactus fruit. Birds such as the roadrunner consume these insects. Detritivores such as termites eat the roadrunner after it dies. Bacteria and fungi help decompose the remaining bones of the roadrunner. The carbon in the bones enriches the desert soil, helping plants like cactuses develop.
+
+Algae and plankton are the main producers in marine ecosystems. Tiny shrimp called krill eat the microscopic plankton. The largest animal on Earth, the blue whale, preys on thousands of tons of krill every day. Apex predators such as orcas prey on blue whales. As the bodies of large animals such as whales sink to the seafloor, detritivores such as worms break down the material. The nutrients released by the decaying flesh provide chemicals for algae and plankton to start a new series of food chains.
+
+Biomass
+
+Food webs are defined by their biomass. Biomass is the energy in living organisms. Autotrophs, the producers in a food web, convert the suns energy into biomass. Biomass decreases with each trophic level. There is always more biomass in lower trophic levels than in higher ones. 
+
+Because biomass decreases with each trophic level, there are always more autotrophs than herbivores in a healthy food web. There are more herbivores than carnivores. An ecosystem cannot support a large number of omnivores without supporting an even larger number of herbivores, and an even larger number of autotrophs. 
+
+A healthy food web has an abundance of autotrophs, many herbivores, and few carnivores and omnivores. This balance helps the ecosystem maintain and recycle biomass.
+
+In addition, smaller animals are more numerous than larger ones. Tigers and ants are both consumers in a tropical food web. However, it takes much more biomass to support a tiger population than a colony of ants. Tigers consume more food and take up a much larger space. There are many more ants than tigers in the food web of a tropical ecosystem.
+
+Every link in a food web is connected to at least two others. The biomass of an ecosystem depends on how balanced and connected its food web is. When one link in the food web is threatened, some or all of the links are weakened or stressed. The ecosystems biomass declines.
+
+The loss of plant life usually leads to a decline in the herbivore population, for instance. Plant life can decline due to drought, disease, or human activity. Forests are cut down to provide lumber for construction. Grasslands are paved over for shopping malls or parking lots. 
+
+As the number of plants and other autotrophs is reduced, the rest of the food web is forced to adapt or die. Deer have fewer plants to eat. Butterflies and bees have fewer flowers to pollinate. In turn, predators like mountain lions have fewer deer to consume. Birds like kingfishers have fewer insects to eat. 
+
+The loss of biomass on the second or third trophic level can also put a food web out of balance. Consider what may happen if a salmon run is diverted. A salmon run is a river where salmon swim. Salmon runs can be diverted by landslides and earthquakes, as well as the construction of dams and levees. 
+
+Biomass is lost as salmon are cut out of the rivers many food chains, which make up the ecosystems food web. Unable to eat salmon, omnivores like bears are forced to rely more heavily on other food sources, such as ants. The areas ant population shrinks. Ants are usually scavengers and detritivores, so fewer nutrients are broken down in the soil. The soil is unable to support as many autotrophs, so biomass is lost. Salmon themselves are predators of insect larvae and smaller fish. Without salmon to keep their population in check, aquatic insects may devastate local plant communities. Fewer plants survive, and biomass is lost. 
+
+A loss of organisms on higher trophic levels, such as carnivores, can also disrupt a food chain. In the kelp forest, sea urchins are the primary consumer of kelp. Sea otters prey on urchins. If the sea otter population shrinks due to disease or hunting, urchins devastate the kelp forest. Lacking a community of producers, biomass plummets. The entire kelp forest disappears. Such areas are called urchin barrens. 
+
+Human activity can reduce the number of predators. In 1986, officials in Venezuela dammed the Caroni River, creating an enormous lake about twice the size of Rhode Island. About 1,000 hilltops turned into islands in this lake. With their habitats reduced to tiny islands, many terrestrial predators, such as jaguars, armadillos, and weasels, werent able to find enough food. As a result, prey animals like howler monkeys, leaf-cutter ants, and iguanas flourished. The ants became so numerous that they destroyed the rain forest, killing all the trees and other plants. The food web surrounding the Caroni River was destroyed.
+
+Bioaccumulation
+
+Biomass declines as you move up through the trophic levels. However, some types of materials, especially toxic chemicals, increase with each trophic level in the food web. These chemicals usually collect in the fat of animals. 
+
+When an herbivore eats a plant or other autotroph that is covered in pesticides, for example, those pesticides are stored in the animals fat. When a carnivore eats several of these herbivores, it takes in the pesticide chemicals stored in its prey. This process is called bioaccumulation.
+
+Bioaccumulation happens in aquatic ecosystems, too. Runoff from urban areas or farms can be full of pollutants. Tiny producers such as algae, bacteria, and seagrass absorb minute amounts of these pollutants. Primary consumers, such as sea turtles and fish, eat the seagrass. They use the energy and nutrients provided by the plants, but store the chemicals in their fatty tissue. Predators on the third trophic level, such as sharks or tuna, eat the fish. By the time the tuna is consumed by people, it may be storing a remarkable amount of bioaccumulated toxins. 
+
+Because of bioaccumulation, organisms in some polluted ecosystems are unsafe and not allowed to be harvested. Oysters in the harbor of New York City, for instance, are unsafe to eat. The pollutants in the harbor accumulate in oysters, a filter feeder. 
+
+In the 1940s and 1950s, a pesticide called DDT (dichloro-diphenyl-trichloroethane) was widely used to kill insects that spread diseases. During World War II, the Allies used DDT to eliminate typhus in Europe, and to control malaria in the South Pacific. Scientists believed they had discovered a miracle drug. In the 1950s, DDT was largely responsible for eliminating malaria in places like Taiwan, the Caribbean, and the Balkans.
+
+Sadly, DDT bioaccumulates in an ecosystem and causes damage to the environment. DDT accumulates in soil and water. Some forms of DDT may not decompose for 20 years. Worms, grasses, algae, and fish accumulate DDT. Apex predators, such as eagles, had the highest amount of DDT in their bodies, accumulated from the fish and small mammals they prey on. 
+
+Birds with high amounts of DDT in their bodies lay eggs with extremely thin shells. These shells would often break before the baby birds were ready to hatch. Thin shells also made it easier for predators such as snakes and other birds to consume the eggs and embryos inside. 
+
+DDT was a major reason for the decline of the bald eagle, an apex predator that feeds primarily on fish and small rodents. Today, the use of DDT has been restricted. The food webs of which it is a part have recovered in most parts of the country.

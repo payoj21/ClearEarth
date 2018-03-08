@@ -1,0 +1,34 @@
+
+
+Page 20 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Connecting Earthquakes and Faults 
+
+So far in this section, our view of earthquakes has been one entirely based upon the ground motion they produce.  But if you read through Section 1 of this module, you should remember that a tectonic earthquake is also defined as the sudden slip of one part of the Earth's crust, relative to another, along a fault surface.  A gradual build-up of mechanical stress in the crust, primarily the result of tectonic forces, provides the source of energy for earthquakes; sudden motion along a fault releases it in the form of seismic waves. 
+
+It's unclear when the connection between faults and earthquakes was first made, but by the late 19th Century most scientists accepted this association as fact, even if the mechanisms behind it were still a mystery.  Fault research received a tremendous boost in the aftermath of the great San Francisco earthquake of 1906, which led to the deaths of over 700 people (possibly as many as 4000!) and increased awareness of the hazard of earthquakes in California. This was one of the first earthquakes for which both seismographic and fault-rupture studies were conducted.  Of additional importance was the fact that the fault rupture tore through a very well-surveyed, developed area.  Because of this, researchers could not only map the offset across the fault trace, but also the amount of displacement between points far removed from the fault. This work led to the formulation of the elastic rebound theory of fault rupture by Princeton geologist Harry F. Reid. 
+
+
+As technology improved, seismic networks grew, and research into the mechanism of fault rupture increased, new methods arose that helped quantify the link between earthquakes and faults.  One important find helped link magnitude (energy) with the severity of fault rupture.  The seismic moment (MO) of an earthquake, which can be estimated from analysis of seismic waves, was discovered to be directly proportional to the extent of the actual fault rupture. Specifically, it is the product of the area of fault surface that ruptures, the average displacement along that surface, and a constant -- a measure of the elastic property of rock (i.e. how easily it can be stretched) called the modulus of rigidity.  Moment magnitude (MW) is based upon the seismic moment, and as such, it represents a kind of bridge between the seismological and geological views of an earthquake. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

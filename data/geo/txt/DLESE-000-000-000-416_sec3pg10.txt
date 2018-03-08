@@ -1,0 +1,32 @@
+
+
+Page 10 -- Measuring Earthquakes 
+
+
+
+
+There are two classes of seismic waves: body waves and surface waves.  Body waves travel through the interior, or body, of the Earth.  Two types of body waves are recognized: P waves and S waves.  Surface waves travel only within the uppermost layers of the Earth -- i.e. along its surface. The two types of surface waves are called Rayleigh waves and Love waves.  To keep the different types straight in your head as you learn about them, it may help you to use a mnemonic, like the rather silly title of this page, in which "I" stands for "Interior" (body waves), and "U" stands for "Uppermost" (surface waves). 
+
+Surface waves 
+
+Each of the two surface waves travels literally along the surface of the Earth; the farther below the surface a point is, the smaller the displacement it will experience.  Each wave produces a distinct type of motion.  Love waves produce transverse motion -- perpendicular to the direction of wave propagation -- in a horizontal orientation only.  This kind of horizontal shearing can be devastating to the foundations of buildings. 
+
+Rayleigh waves produce a rolling motion analogous to waves on the surface of a body of water.  An object on the surface will experience both an up-and-down motion transverse to, and a back-and-forth motion parallel to, the propagation direction of the Rayleigh wave. The two components combine to produce a rolling, elliptical motion. 
+
+
+Surface waves are an important phenomenon;  Love and Rayleigh waves are often responsible for much of the damage that occurs during earthquakes.  They were not as fundamental in early studies of measuring earthquakes, however, as were the body waves, the P and the S.  Activity #2 in this section touched upon the notion that the relation between these two waves is crucial to the practice of locating earthquakes. A closer look at each of these waves will reveal how and why that is. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

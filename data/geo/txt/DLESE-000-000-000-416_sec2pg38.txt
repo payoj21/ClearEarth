@@ -1,0 +1,12 @@
+Page 38 -- The Distribution of Earthquakes 
+
+
+Explaining Parkfield's Seismicity 
+
+Finally, let's go back to the special case of the Parkfield segment of the San Andreas fault zone.  The fault there is quite mature, the geometry simple, and heat flow in the area is not high.  But as noted earlier in this section, this segment of the fault ruptures in a magnitude 6 earthquake roughly every 20 to 30 years, and has a high rate of smaller seismic events.  Why? 
+
+One important clue in the search for the answer to this question is the overall behavior of the San Andreas fault on either side of the Parkfield segment.  North of Parkfield, the fault slips almost continuously as creep, generating microseismicity but no large ruptures.  South of Parkfield, the fault is "locked", awaiting infrequent but severe ruptures, and almost completely lacking in microseismicity.  Parkfield, then, represents a transition zone between these two sections. 
+
+This transition could be related to a change in the strength of the San Andreas fault.   Where the fault slips continuously (north of Parkfield), it can be thought of as having almost no strength whatsoever, since there is little resistance to stress acting on the fault.  South of Parkfield, the fault may be low in strength, but strong enough to keep from slipping until a significant amount of stress builds up.  If the Parkfield segment were somewhat weaker than the "locked" segment, it might slip more readily than the "locked" segment to the south, but not as freely as the creeping segment to the north. 
+
+Geologic studies reveal that there is a change in the type of rock that lines the Parkfield segment of the fault (compared to the "locked" section to the south), suggesting that this may have something to do with the increased seismicity.   A change in rock types at depth could affect the strength of a fault, theoretically.  Certain rocks might lower the coefficients of sliding and/or static friction of the fault, or affect the pressure of fluids within the crust.  It's possible that the composition of the material at depth is responsible for many of the minor, localized variations in seismicity seen around the state. 

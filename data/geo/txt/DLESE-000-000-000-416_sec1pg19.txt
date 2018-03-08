@@ -1,0 +1,9 @@
+Page 19 -- What is an Earthquake? 
+
+Calculating Slip Rates (continued) 
+
+A more common and more direct way to estimate the slip rate of a fault is to find a feature, the age of which can be determined, that has been offset by the fault being studied.  A stream channel, which may contain plant material that can be radiocarbon-dated, is an excellent example.  By dividing the offset distance of the two halves of the channel by the estimated time since the channel was first created (before it was cut by the fault), you can derive a slip rate for the fault. 
+
+Assume our hypothetical Desert View Fault cuts a stream channel, as shown in the figure at right.  The oldest deposits associated with the channel are dated at 10,000 years old.  The stream channel has a pure left-lateral offset of roughly 28 meters.  This yields a value of 2.8 mm/yr for the slip rate of the Desert View Fault. 
+
+Note that we originally estimated the slip rate as 3.0 mm/yr.  Which is correct?  Possibly neither, but we now have a good idea that the true slip rate, whatever it may be, lies within the range of 2.8 to 3.0 mm/yr, possibly a little more or a little less.  Real studies of slip rates always include uncertainties, denoted by a "plus-or-minus" (+) value after a mean, average, or otherwise preferred value.  Here, we might say the slip rate is "2.9 + 0.1 mm/yr".  The uncertainty would be greater if our original measurements were not absolutely precise.

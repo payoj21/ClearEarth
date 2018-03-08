@@ -1,0 +1,15 @@
+
+
+Page 9 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Seismic Waves Identified 
+
+The new instruments being developed around the world in the early 20th Century gave scientists an accurate means of measuring time and ground motion simultaneously, providing them with a new way to visualize earthquakes and record them for future study.  Small groups of these instruments operated by a single institution would become the first seismic networks, vital to organized seismological research in their ability to record earthquakes simultaneously from multiple "viewpoints". 
+
+Seismograms recorded by the earliest seismic networks confirmed the wave-propagation theory of earthquake ground motion, as it became clear that different stations were recording the same earthquakes at similar, but slightly different, times. Further examination of the waveforms on those seismograms led to the identification and characterization of distinct classes of seismic waves.  Determining the properties of these waves was a vital step toward countless future seismological discoveries.  Just as electromagnetic waves radiating  from celestial objects are the foundation of all astronomical studies, seismic waves (emanating from earthquakes) are essential to observational seismology, allowing researchers to "see" deep inside the Earth.  The interactive wave generator in the activity below will allow you to run simulations of these kinds of waves, and see how a simple seismometer would respond to their passing. 

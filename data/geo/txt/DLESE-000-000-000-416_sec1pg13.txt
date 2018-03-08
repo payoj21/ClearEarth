@@ -1,0 +1,23 @@
+Page 13 -- What is an Earthquake? 
+
+More About Faults and Associated Features 
+
+Scarp 
+
+Sometimes called an escarpment, a scarp is any roughly linear slope or cliff. Any fault which produces some vertical offset will typically produce a scarp.  While we will focus on scarps formed by the action of faults, they can also be formed by erosion, or other means.  When fault-formed, scarps can be obvious markers of surface traces. 
+
+It should be noted that movement along a fault need not be vertical to produce a scarp.  Try the activity below to see just how this works. 
+
+Scarp Formation 
+
+A brain-teaser involving the origin of a scarp. 
+
+Blind fault 
+
+Some faults do not break through to the surface anywhere along their length.  Naturally, these faults are not easy to locate or study and often go unnoticed for many years.  Sometimes faults are "buried" by deposition of material atop the surface trace during the period between surface ruptures, but other times, faults simply do not reach the surface and/or diffuse into a fold or folds beneath the surface.  When a fault does not reach the surface, and consequently has no surface trace, it is known as a blind fault. 
+
+Fold belt(or Thrust belt) 
+
+The existence of a particular type of "blind" fault is usually expressed at the surface as a chain of hills, or a rounded scarp, and by the folding of local rock formations.   This area of folding is known as a fold belt, or sometimes as a thrust belt, when a type of fault known as a thrust fault (or more specifically, a blind thrust fault), is responsible. 
+
+The folding and deformation of great masses of rock are actually very common phenomena in the Earth's crust.  Although these processes are generally associated with faults, we will largely be ignoring them in this module because of the complexity they can add. Just keep in mind that rocks can be somewhat elastic, and can deform in such a way to accomodate movement within the Earth's crust. We may model the crust as entirely rigid, but given the right conditions, even rocks can bend.

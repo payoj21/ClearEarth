@@ -1,0 +1,7 @@
+Page 2 -- The Distribution of Earthquakes 
+
+"In what parts of southern California are earthquakes most common?" 
+
+Given the popular associations between California and earthquakes, this question might actually sound funny to some people. Earthquakes and this region of the United States are so strongly associated for most people that asking where in California earthquakes are most common might sound as absurd as asking which part of the ocean is the wettest.  And though it is true that any part of California has a higher risk of strong shaking from an earthquake than the highest such risk you can possibly find in the state of Wisconsin, or Florida, or any one of many other states, it is still useful and interesting to look into variations in both seismic activity and hazard that might exist within this area of active tectonics. 
+
+The question at the top of this page assumes that there are variations, with respect to location, in southern California's earthquake activity.  Though it is not specifically stated, it also implies that these differences are long-term, and not merely related to the  changes brought on by a large aftershock sequence, such as that of the 1992 Landers earthquake.  Based on what you have already studied, you may be inclined to agree with these assumptions.  But do the records support them, or not? 

@@ -1,0 +1,7 @@
+Page 9 -- The Distribution of Earthquakes 
+
+"Can we `see' features below the surface at all?" 
+
+Our investigation into topographical changes brings up another similar issue often overlooked when casually reviewing earthquake records in map view.  Maps, as we have learned, display symbols representing the epicenters of earthquakes.  But the true starting point of an earthquake is its hypocenter, a point which can be deep below the surface. With the help of modern seismographic networks, we are capable of determining the depths of hypocenters.  Our catalogs therefore contain data in three dimensions, which we have used in specific activities, but not in an overall view of this region. 
+
+It is true that we are neglecting a lot of data when we study the earthquake distribution of southern California in only a two-dimensional format, but is that extra data worth viewing?  Can the depth of earthquake hypocenters "tell" us anything useful about the nature of this region? Might we be able to see the outlines of fault structures at depth? Are there even any major or systematic variations worth noting?

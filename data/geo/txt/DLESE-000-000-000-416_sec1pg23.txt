@@ -1,0 +1,7 @@
+Page 23 -- What is an Earthquake? 
+
+"Why are there so many faults in southern California?" 
+
+The answer to this is related directly to plate tectonics. California is, as was previously mentioned, home to the boundary between the North American Plate and the Pacific Plate.  However, the presence of that boundary alone does not explain the complexity of faults in southern California.  Studying a fault map of the area around the plate boundary (the San Andreas fault) in central and northern California shows a different picture.  While there are multiple active faults in this area, almost all are roughly parallel and moving with the same type of slip: right-lateral strike slip.  Since the plate boundary here is a transform fault, and the plates are moving right-laterally with respect to each other, this is not surprising. 
+
+However, if you examine a fault map of southern California, the area near the plate boundary is cut by a great number of faults in many different orientations.  A large percentage of these faults are not right-lateral strike-slip faults.  In fact, every sense of slip, pure and oblique, can be found on at least one significant fault in southern California.  Why is this? 

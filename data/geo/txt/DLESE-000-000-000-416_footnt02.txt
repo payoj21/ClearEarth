@@ -1,0 +1,10 @@
+Section 1 -- Footnotes 
+
+Footnote:  Section 1 
+
+"Must strike-slip faults be vertical in dip (as shown)?" 
+
+You may note that the pictures and animations above show the strike-slip faults as being essentially vertical in dip, whereas the dip-slip faults had obvious hanging walls and footwalls.  This is done for two reasons. The first is that it is a fair generalization of reality. Although strike-slip faults need not be vertical in dip, most strike-slip faults have near-surface dips greater than 70 degrees. Of course, some dip-slip faults also have near-vertical dips, so those diagrams could also have used near-vertical faults, were it not for the second reason -- maintaining the clarity of the relation between hanging wall and footwall. 
+
+
+You may also notice that diagrams of dip-slip faults tend to have a horizontal layer beneath the surface of the "block".  This has nothing to do with a realistic characterization of faults and everything to do with the clarity of the diagram.  There is no tendency for dip-slip faults to form in places with horizontal sedimentary layers; these layers merely make the dip slip in the diagram more obvious.

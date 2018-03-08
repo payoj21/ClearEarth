@@ -1,0 +1,13 @@
+Updating the sea ice baseline
+
+June 18, 2013
+
+This July, NSIDC plans to change the baseline climatological period for Arctic Sea Ice News and Analysis and the Sea Ice Index, the data set we use for our sea ice analysis. We are making this change to match the comparison time frames used by other climate research.
+Until now, we have used the 22-year period 1979 to 2000 when comparing current sea ice extent to past conditions. When NSIDC first began to monitor and analyze sea ice extent, a longer period was not available. Since the satellite record is now extended, we are choosing to move to a more standard 30-year reference period, from 1981 to 2010.
+A 30-year period typically defines a climatology (comparsion period) and is the standard used by organizations such as the World Meteorological Organization (WMO) and the U.S. National Oceanic and Atmospheric Administration (NOAA). Thirty years is considered long enough to average out most variability from year to year, but short enough so that longer-term climate trends are not obscured.
+These maxims about climate averages come from the world of weather and climate. Sea ice responds to changes in energy or heat differently from other systems on Earth. So the assumptions behind the use of 30-year averages for weather may not hold true for sea ice, particularly in light of the rapid decrease and repeated record low minimum extents in the Arctic during the past decade. However, matching the 1981 to 2010 period brings us in line with other climate research.
+The monthly and daily sea ice extent images and data values will not change, but data and images that are based on the average or median will change. For example, the trend plot for sea ice extent will have a different scale, and the value of the slope, expressed as change in percent per decade, will change, because this value is relative to the average period. On the the monthly and daily extent images, the position of the average extent lines will change.
+In our July analysis, we will provide more information to help readers put these changes into the larger context of changing climate and changing ice.
+
+Posted in Analysis
+

@@ -1,0 +1,15 @@
+
+Page 11 -- What is an Earthquake? 
+
+
+The Properties of Faults (continued) 
+
+Strike 
+
+The strike of a fault is the line formed by the intersection of the fault plane with a horizontal plane.  The direction of the strike, if noted precisely, should be stated as an angle off of due north, only, since strike is a line (as opposed to the direction of dip, which is a ray).  Thus, instead of stating a strike as  "50˚ west of south", it should be "50˚ east of north". Of course, if precision were not an issue, you could simply say "this is a northeast-striking fault". 
+
+Dip 
+
+The dip of a fault is given by two measurements:  an angle and a direction.  You can think of the direction of dip as the direction a marble would roll if placed on a smooth plane exactly parallel to the fault plane.  This direction is always perpendicular to the direction of the strike of the fault plane.  The angle of the dip is the maximum vertical angle of intersection between the fault plane and a horizontal plane.  To state the dip of a fault, both a direction and an  angle should be given, though the precision used can vary. For instance, the fault above could be said to dip "at 74˚  in the direction of 40˚ east of due south", or you could say it dips "steeply towards the southeast".  If a specific directional angle is given, it should always be stated as some angle off of north or south -- in other words, you should say "40˚ east of south", instead of "50˚ south of east", even though they represent the same direction.  Because the dip of a plane is always perpendicular to its strike, the exact direction of the dip does not need to be given when the strike is precisely defined.  The general practice is to simply point out which of the two potential directions is correct, by naming a rough compass direction.  
+
+You saw a hint of the importance of the dip of a fault in Activity #3, in which it was noted that the model of the Northridge earthquake rupture took into account the angle (dip) of the fault involved. The activity below should help you become familiar enough with the concepts of strike and dip to work through more complex models of fault geometry and mechanics.

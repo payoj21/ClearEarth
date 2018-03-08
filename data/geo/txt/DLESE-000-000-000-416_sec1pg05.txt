@@ -1,0 +1,13 @@
+Page 5 -- What is an Earthquake? 
+
+"In what manner does slip along faults occur?" 
+
+It has been put forward here that earthquakes occur as sudden slip along a fault, but what does that mean?  In what manner does slip occur along faults?  Contrary to many preconceived notions, and to the block models employed for simplicity, the entire length of a fault does not experience slip simultaneously;  instead, slip begins at a particular point on a fault and then propagates, or travels, along the surface of the fault. 
+
+Because of the scale involved, demonstrating the correct method of slip, or an accurate analogy, is not simple.  We will look at some common examples in the activity below, and determine which analogies are the most accurate, and why. 
+
+Fault-Rupture Analogies 
+
+Faults and fault rupture are difficult to envision accurately. What analogies can best help us imagine the process of fault rupture? 
+
+We have been demonstrating that earthquakes occur as movements along fault surfaces, but there is a common misconception that earthquakes occur only at specific points.  Most likely, this idea persists because we see earthquakes represented as dots on maps and other diagrams (geologic cross sections, for example) all the time. While the points plotted on such maps are not arbitrary or meaningless, it is important to understand that all earthquakes occur along surfaces.  Of course, some earthquakes are so small that their rupture surfaces would plot as a point on the scale of most maps. Yet even the locations of very large earthquakes are often represented as points.  The question is, what are those points we see on maps and cross-sections?

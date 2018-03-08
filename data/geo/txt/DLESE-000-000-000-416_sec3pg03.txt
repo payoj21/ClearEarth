@@ -1,0 +1,32 @@
+
+
+Page 3 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Ground Motion: The Shaky Foundation of Earthquake Measurements 
+
+Ground motion, including (but not limited to) the shaking that we associate with earthquakes, is the basis for almost every type of modern measurement associated with earthquakes.  Even those types of earthquake monitoring that do not directly measure ground motion measure effects related to movement in the Earth's crust -- disturbances in electromagnetic fields, changes in water levels, and so on. This dependency upon ground motion only makes sense; earthquakes are essentially defined as the sudden movement of one part of the  Earth's brittle crust past another.  They are also the direct result of the grandest kind of motion on the planet:  the slow but continuous movement of Earth's tectonic plates. 
+
+The science of seismology was founded upon the observation of ground motion.  Well before instrumental recording of earthquakes began, people learned to classify earthquakes by the strength of the shaking involved.  This was, after all, the element of any earthquake that mattered most to anyone living in the vicinity. Would living quarters still be standing?  Would public works like aqueducts need repair or rebuilding?  Or was the shaking simply enough to startle residents, but cause no damage? 
+
+Though the first efforts to describe the relative severity of earthquake effects were very informal, gradually the language was refined.  The drive toward labelling and categorization of the natural world that swept other fields of knowledge (e.g. botany, astronomy, etc.) after the European Renaissance was eventually applied to earthquakes.  This led to the concept of earthquake intensity, a specific rating of the effects produced by an earthquake at a given site. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

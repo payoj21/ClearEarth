@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+<info>
+  <savetime>13:13:20 01-01-2018</savetime>
+  <progress>completed</progress>
+</info>
+
+<schema path="./" protocol="file">temporal.schema.xml</schema>
+
+<annotations>
+	<entity>
+		<id>1@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>624,630</span>
+		<type>Trait</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>2@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>22,32</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>3@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>76,87</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>4@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>153,164</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>5@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>233,239</span>
+		<type>Environment_Context</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<part_of></part_of>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>6@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>344,355</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>7@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>364,373</span>
+		<type>Trait</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>8@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>379,384</span>
+		<type>Environment_Context</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<part_of></part_of>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>9@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>409,413</span>
+		<type>Trait</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>10@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>417,428</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>11@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>430,435</span>
+		<type>Direction</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_location></has_location>
+			<has_environmental_context></has_environmental_context>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>12@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>441,446</span>
+		<type>Environment_Context</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<part_of></part_of>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>13@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>503,509</span>
+		<type>Environment_Context</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<part_of></part_of>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>14@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>562,573</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>15@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>634,645</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>16@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>670,680</span>
+		<type>Eventuality</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_time></has_time>
+			<has_environmental_context></has_environmental_context>
+			<has_location></has_location>
+			<has_eventuality></has_eventuality>
+			<part_of></part_of>
+			<has_trait></has_trait>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>17@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>250,265</span>
+		<type>Trait</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+	<entity>
+		<id>18@e@DLESE-000-000-000-416_sec1pg31@gold</id>
+		<span>325,340</span>
+		<type>Trait</type>
+		<parentsType>general_entities</parentsType>
+		<properties>
+			<has_eventuality></has_eventuality>
+			<has_value></has_value>
+			<has_direction></has_direction>
+			<subtypes></subtypes>
+			<synonyms></synonyms>
+		</properties>
+	</entity>
+
+</annotations>
+
+</data>

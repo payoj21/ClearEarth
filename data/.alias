@@ -1,0 +1,23 @@
+##
+#             oooo   o8o                                        
+#             `888   `"'                                        
+#    .oooo.    888  oooo   .oooo.    .oooo.o  .ooooo.   .oooo.o 
+#   `P  )88b   888  `888  `P  )88b  d88(  "8 d88' `88b d88(  "8 
+#    .oP"888   888   888   .oP"888  `"Y88b.  888ooo888 `"Y88b.  
+#   d8(  888   888   888  d8(  888  o.  )88b 888    .o o.  )88b 
+#   `Y888""8o o888o o888o `Y888""8o 8""888P' `Y8bod8P' 8""888P'
+#
+#	default .alias
+#	Mon Oct 26 18:41:54 MST 1998 - hugger
+#
+#	sourced by .cshrc
+###
+
+#  Generic aliases ...
+alias ls 	'ls -F'
+
+#  Systemy things ...
+alias hgrep	'grep \!* /etc/hosts | more'
+alias psgrep	'ps -eaf | grep \!* | grep -v grep'
+alias matlab-nox 'matlab -nosplash -nodisplay'
+

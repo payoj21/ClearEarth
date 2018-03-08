@@ -1,0 +1,17 @@
+Page 7 -- What is an Earthquake? 
+
+
+Hypocenters -- The Beginnings of Ruptures 
+
+Though epicenters are a useful tool for visualizing seismicity more easily (by a simple map plot), it is the position of the hypocenter that matters to those studying fault rupture at depth.  While the error in the position of a hypocenter of a small earthquake can be larger than the fault area which ruptured to produce that event, for larger earthquakes, we can determine not only the hypocenter, but additional information about the fault area which ruptured at depth.  This picture of what happens beneath the earth when a fault ruptures can be assembled by means of careful and detailed observations of an earthquake. 
+
+The activity below provides a look at the sort of information we can deduce from ground motion when a large fault slips. 
+
+
+Rupture Models 
+
+
+A look deep into the Earth -- models of actual fault rupture. 
+
+
+This activity has hopefully given you a better idea of what really happens at depth when a fault ruptures.  But you may be left wondering why it is that, if all earthquakes start at a point, some grow only a little, and are hardly noticed, while others grow huge, like the two depicted in the activity above.  What determines this size, and how does the rupture "know" when to stop growing?

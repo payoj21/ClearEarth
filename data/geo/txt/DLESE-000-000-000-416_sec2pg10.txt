@@ -1,0 +1,9 @@
+Page 10 -- The Distribution of Earthquakes 
+
+"Are there variations in the depth of seismicity in southern California?" 
+
+Earthquake activity in southern California occurs at shallow depths, relatively speaking.  This has to do with both the thickness of the crust, and the type of plate boundary found here.  Earthquakes only occur in brittle material.  This typically limits their depths to that of normal crustal materials, which may extend as far down as 30 to 40 km below the surface.  Collisions between two tectonic plates can push crustal material down deeper, however.  In the case of a collision between two continental plates, this can result in brittle materials down to about 70 km below the surface.  When at least one oceanic plate is involved in a tectonic collision, however, subduction results, and the oceanic plate which is forced down into the mantle can still produce earthquakes as far down as 700 km below the surface! 
+
+The plate boundary in California is not a zone of tectonic collision, but is instead a transform fault.  Here the plates move laterally past each other.  In such an environment as this, we would expect only shallow earthquakes. 
+
+But just how shallow is the seismicity?  And do the other tectonic features influence the depth?  For instance, the Big Bend of the San Andreas fault does cause compression and crustal thickening, but is this enough to significantly change the maximum depth of seismicity in that area?

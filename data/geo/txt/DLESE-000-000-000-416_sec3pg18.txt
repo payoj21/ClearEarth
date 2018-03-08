@@ -1,0 +1,36 @@
+
+
+Page 18 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Magnitude vs. Intensity 
+
+Maximum intensity, the previous standard for scaling earthquakes by size, had many quantitative limitations.  As seismometers increased in number and accuracy, so did acceptance of the concept of earthquake magnitude.  Because Richter's based his magnitude scale upon two quantities determined instrumentally, meaningful comparisons involving multiple earthquakes became possible.  Assigning a magnitude no longer required observers' (sometimes exaggerated) reports.  This meant researchers finally had a reliable means of measuring energy for those earthquakes located far from the nearest settlement -- offshore, beneath the ocean, for example. 
+
+In addition, the new magnitude scale, unlike the Modified Mercalli intensity scale, was open-ended, capable of providing a useful rating for the largest earthquakes, or for those too small to be felt at all. Earthquakes can have negative magnitudes, but Richter chose the zero point on his magnitude scale in such a way that the smallest easily-recorded tremors would have positive magnitudes.  Even today, most seismic networks don't have the dense coverage needed to locate earthquakes smaller than magnitude zero. 
+
+
+As seismology became modernized, intensity lost its usefulness in other ways. The map linked from the image at right shows the Modified Mercalli intensities recorded during the 1971 San Fernando earthquake.  The instrumentally determined epicenter has been located atop this intensity map.  Note how the area of maximum intensity is several miles removed from the epicenter.  Subsurface geology, the shallow dip of the fault, proximity to surface rupture, and rupture directionality may all have contributed to this mismatch, but similar instances were common enough that intensity was soon abandoned for scientific purposes of rating the size or judging the location of earthquakes. 
+
+That doesn't mean intensity studies disappeared from the field of seismology.  The instrumental equivalents of intensity, peak ground acceleration and velocity, are converted into plots resembling the isoseismal maps of years past.  Even intensity reports are still gathered; indeed, with an increasing number of households connected to the Internet, online submission of these reports now allows intensity maps to be created within hours of a large earthquake.  However they are collected, intensity reports can provide data to support or refute models of basin-induced, wave-focusing effects, and the like.  These reports can also help assess how heavily site effects contribute to the earthquake hazard of a given area.  The type of material in the subsurface can greatly influence what you feel in an earthquake, and the amount of damage sustained by structures.  Both of these issues (focusing and site effects) received a lot of attention in the wake of the 1994 Northridge earthquake, which caused significantly higher intensities in the Santa Monica area than were expected. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

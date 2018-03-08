@@ -1,0 +1,17 @@
+
+
+Page 15 -- The Distribution of Earthquakes 
+
+
+What's a Foreshock?! 
+
+Foreshocks are those earthquakes which occur immediately preceeding a mainshock in the exact same area in which the mainshock occurs. Foreshocks may come in groups, or be single events.  The time between the last foreshock and the mainshock varies somewhat, but is typically less than a day. 
+
+
+To see an example of this type of event in the real world, let's look again at the chart of earthquakes for April 22, 1992, but this time, let's pay attention to what happened before the Joshua Tree mainshock. 
+
+There were three events above M 3.0 that day before the Joshua Tree earthquake.  The first happened on the other side of the state, and is unrelated.  But as you can see, the M 6.1 mainshock occurred in exactly the same location as, and about two hours after, the two earthquakes preceding it.  These earthquakes can therefore be considered  foreshocks of the Joshua Tree earthquake. 
+
+There is nothing intrinsically characteristic about foreshocks, mainshocks, and aftershocks -- that is, if you looked at the records (seismograms) of them "out of context", with no clues as to which were followed or preceeded by other events, you could never hope to categorize them correctly.  They would all look essentially the same; none would have distinguishing features that would let you know its relation to other events.  Even magnitude wouldn't let you distinguish with certainty.  Foreshocks and aftershocks of very large events can be larger than a moderate mainshock. 
+
+Thus, foreshocks cannot be positively identified as foreshocks until after the mainshock has occurred.  Even then, the "mainshock" will sometimes prove to be a large foreshock of an even bigger earthquake, which will then assume the position of the mainshock in that earthquake sequence. An important thing to keep in mind is that while all events above a certain magnitude will have aftershocks, foreshocks do not always occur before large earthquakes.  This will be important when we discuss the possibilities of earthquake prediction later in this section. For now, let's return to our investigation of seismicity rates and those things that can affect them. 

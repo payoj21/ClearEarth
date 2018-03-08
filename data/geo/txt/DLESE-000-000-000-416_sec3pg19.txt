@@ -1,0 +1,43 @@
+
+
+Page 19 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Multiple Magnitudes? 
+
+As it happened with the introduction of the intensity scale, so too did Richter's scale spawn new variations on the idea of magnitude.  But instead of being rooted in personal preferences, this multiplicity of magnitude scales was created to provide new ways to rate earthquake energy using different types of instrumentally-measurable data.  This has given seismologists an enhanced ability to quantify earthquakes.  But when multiple ratings from different scales are applied to the same earthquake, it can cause confusion among members of the public. 
+
+Though initial magnitude estimates are sometimes revised slightly as more data is gathered and analyzed, a lot of the claims that the magnitude of an earthquake was "altered" by some institution (e.g. local government, in one popular urban legend) for some reason (avoidance of a property-tax-waiving law, in the same legend) are rooted in ignorance about the existence of multiple magnitude scales, and confusion between them.  Steps have been taken to try and keep the scales similar to each other, so that we can talk generically about a "magnitude 6 earthquake" without specifying the exact scale used.  Still, different scales don't usually produce the same magnitude rating for any given large earthquake.  To understand why this is, it helps to know what some of the different scales are, and what they measure. 
+
+ML Local Magnitude: Based upon the Richter's original magnitude scale, this is a measure of the amplitude of the maximum trace deflection (i.e. the distance between the resting position of the seismogram needle and the crest of the largest squiggle it records) versus distance from the source. Large earthquakes can produce so much shaking that seismograph traces go "off-scale", leading to a "saturation" in the maximum amplitude of deflection.  Consequently, local magnitude tends to be used only for earthquakes smaller than about magnitude 6. 
+
+MO Seismic Moment: Not actually a magnitude scale, seismic moment is an estimate of the energy of an earthquake, and as such, is typically given in units of Newton-meters (Nm).  A magnitude 6 earthquake has a moment of about 1.0 * 1018 Nm, roughly the energy that would be released by the detonation of 6,000 tons of TNT. On the next page, you'll be introduced to a way of calculating the seismic moment of an earthquake. 
+
+MW Moment Magnitude: The moment magnitude scale is a way of rating the seismic moment of an earthquake with a simple, logarithmic numerical scale similar to the original Richter magnitude scale.  Because it does not "saturate" the way local magnitude does, it is used for large earthquakes -- those that would have a local magnitude of about 6 or larger. 
+
+MS Surface-wave Magnitude: Surface-wave magnitude is calculated using the amplitude, on a long-period vertical seismometer, of surface waves with a 20-second period. 
+
+mb Body-wave Magnitude: Defined by Gutenberg and Richter in 1956, body-wave magnitude uses only short-period P waves to arrive at a numerical magnitude rating. This rating is useful for judging the size of explosions (including nuclear bomb tests!), since they tend to produce smaller S waves than natural earthquakes. 
+
+All magnitude scales, including those listed above, are a way to assess the energy of an earthquake. You've seen how that energy can be transmitted as seismic waves, causing the shaking we feel and call an earthquake, but now consider this:  from where does that energy originate?  What generates it, and what releases it? 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

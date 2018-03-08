@@ -1,0 +1,53 @@
+
+
+Page 17 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Earthquake Magnitude 
+
+Using Richter's method to calculate a magnitude for our sample waveform (at right, as used on previous pages), the procedure would go something like this: 
+
+From previous work, we know the distance to the source is 87 kilometers. Assuming we had this seismogram on paper (and that it was recorded on a standard Wood-Anderson torsion seismometer), we could measure the maximum amplitude of this waveform as 14 millimeters. The logarithm of 14 is 1.15. Reading off of Richter's table of logarithms, we find that 87 kilometers corresponds to a value of roughly -2.95. Subtracting that from the logarithm of the amplitude give us the magnitude:  1.15 - (-2.95) = 4.10. Because of the uncertainties involved in the methods used, Richter advised that final magnitude values never be assigned using more than one decimal place.  We would therefore report this as a magnitude 4.1 earthquake. 
+
+The activity below will give you a chance to find the Richter magnitudes of other earthquakes, utilizing a more graphical approach to solving the calculation made above. 
+
+
+
+
+
+
+
+
+The Richter Scale 
+
+
+Determine the magnitude of earthquakes in southern California using actual waveform data, and an interactive Richter Scale nomograph! 
+
+
+
+
+
+
+
+
+The magnitude scale as initially published by Richter was not without its limitations.  The precision of the first magnitude measurements was not very good; different stations could produce numbers that varied by as much as a half unit of magnitude.  Magnitudes were generally assigned using an average of the magnitudes determined by several different stations.  In addition, the scale was constructed from data gathered in southern California -- it was unclear that measurements made in other regions with non-standard instruments would yield matching results. Still, the Richter Scale was the first well-documented attempt to gauge the absolute strength of an earthquake from simple measurements, and the idea spread quickly, replacing maximum intensity as the preferred standard of earthquake "size." 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
