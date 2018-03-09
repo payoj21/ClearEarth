@@ -1,0 +1,149 @@
+Total number of entity types: 21
+
+LOCATION
+Total occurences: 64
+Total Unique entities: 24
+Average Frequency of each token: 2.6666666666666665
+'Europe', 'Arctic Basin', 'Arctic Basin.The', 'Greenland', 'Weddell Sea', 'Antarctica', 'Baltic Sea', 'Bothnian Sea', 'Franz Josef Land', 'Barents Sea', "earth 's surface", 'polar', 'Weddell and Ross Seas', 'earth surfaces', 'Arctic Basin.The June & ndash ; October', 'earth', 'Fram Strait', 'North Pole', 'Antarctic', 'Paris', 'poles', 'Earth', 'Arctic', 'Boulder'
+
+
+EVENTUALITY
+Total occurences: 330
+Total Unique entities: 163
+Average Frequency of each token: 2.0245398773006134
+'Deformation', 'emission', 'covered', 'Conditions', 'form', 'wind-packed', 'conditions', 'influenced', 'survived', 'compacted', 'responds', 'differences', 'loadings', 'melt', 'keeps', 'backscatter', 'begun', 'Winds', 'changed', 'balance', 'obscured', 'event', 'opening', 'insulate', 'reach', 'varies', 'worked', 'exports', 'advance.Trends generally', 'changing', 'pushed', 'combination', 'freeze-up', 'melting out', 'variation', 'survival', 'slowed', 'overlying', 'export anomalies', 'enhances', 'compacting', 'retention', 'formed', 'freezing in leads', 'shift', 'deformation patterns', 'increasing', 'drains', 'winds', 'delaying', 'increase', 'cooling', 'intermediate', 'salt rejection', 'effect', 'reflects', 'export', 'masked', 'solar energy', 'dynamical regime', 'response', 'decreases', 'declining', 'results', 'energy', 'patterns', 'loss', 'wind', 'mitigate', 'drift', 'present', 'helped', 'causes', 'enter', 'acceleration', 'dominating', 'cause', 'deformationfields from', 'incoming', 'nature', 'diminishes', 'contributes', 'reflect', 'added', 'existing', 'maintaining', 'influence', 'light', 'dynamics', 'trends', 'mitigation', 'change', 'accelerating decline', 'trend', 'decline', 'witnessed', 'retreat', 'solar radiation', 'cloud', 'processes', 'increased deformation', 'melting', 'evolution', 'aspects', 'deformationfields provided', 'brine', 'prone', 'systems', 'deepen', 'decrease', 'exceeded', 'increased', 'presence', 'freezing', 'reaching', 'rises', 'forcing', 'create', 'effects', 'increases', 'fracturing events', 'climate change', 'Thermodynamics', 'become', 'ridging', 'changes', 'growth', 'microwave radiation', 'climate system', 'light transmittance', 'advance', 'respond', 'motion', 'thickening', 'begins', 'deformation', 'Absorbed', 'pressure', 'vary', 'drops', 'microwave energy', 'late stages', 'reflected energy', 'role', 'thermodynamics', 'heat', 'leads', 'meltingsnowpack is', 'ponding', 'reflecting', 'caused', 'absorbs', 'adaptation', 'drop', 'located', 'grow', 'absorption', 'equilibrium', 'closing', 'weather', 'climate', 'produces', 'bubbles'
+
+
+DIRECTION
+Total occurences: 25
+Total Unique entities: 19
+Average Frequency of each token: 1.3157894736842106
+'around', 'surrounding', 'external', 'southwards', 'far north', 'underlying', 'inner', 'inside', 'off', 'northward', 'over', 'central', 'out', 'top', 'southerly', 'north', 'northern', 'southward', 'between'
+
+
+AREA
+Total occurences: 66
+Total Unique entities: 19
+Average Frequency of each token: 3.473684210526316
+'zone', 'area', 'ocean', 'coverage', 'cover', 'region', 'areas.In', 'layer', 'regions', 'sectors', 'land.—Credit :', 'layers', 'basin', 'surface', 'channel', 'lids', 'Regions', 'ponds', 'seas'
+
+
+ICE_SOURCE
+Total occurences: 166
+Total Unique entities: 11
+Average Frequency of each token: 15.090909090909092
+'Sea-Ice', 'ice', 'sea iceconditions have', 'sea-ice', 'sea', 'Ice', 'Sea ice', 'sea ice', 'seaice', 'Sea Ice', 'sea ice type'
+
+
+TRAIT
+Total occurences: 185
+Total Unique entities: 96
+Average Frequency of each token: 1.9270833333333333
+'surface roughness', 'characteristics', 'compacted', 'record low minimum extents', 'light penetration depth', 'packed', 'rheologies', 'variability', 'types', 'albedoand e-folding depth', 'dependent', 'September', 'black', 'optical properties', 'e < /i > -folding depth', 'asymmetry parameter', 'temperatures', 'speeds', 'thick', 'small', 'density', 'area', 'dynamical', 'features', 'extent.The solid', 'tightly', 'altitude', 'mass balance', 'extent', 'trajectories', 'Visible light absorption', 'dry', 'viscous-plastic', 'albedo', 'trajectorieshaving a temporal', 'strength', 'geographic', 'energy', 'thermodynamic', 'thin', 'kinematic features', 'light penetration', 'light-absorbing impurity', 'visible', 'mid-September', 'reflectivity', 'Wet', 'character', 'sensitive', 'intensity', 'high', 'cross-sections', 'propertiesthat are', 'depth', 'whiteness', 'white', 'strain rates', 'age', 'rates', 'light-scattering cross-sections', 'cyclical', 'surface albedo', 'physical properties', 'concentration', 'bare', 'dynamic', 'geostrophic', 'rapid', 'Albedo', 'low', 'following September', 'e-folding depth', 'initial', 'shallow', 'absorption cross-section', 'dark', 'volume', 'rate', 'metrics', 'strong', 'cold', 'responsive', 'properties', 'height', 'sensitivity', 'large', 'hot', 'structure', 'wet', 'complex', 'thickness', 'concentrations', 'timing', 'scatteringcross-section', 'Severe', 'High'
+
+
+FUNCTION
+Total occurences: 130
+Total Unique entities: 91
+Average Frequency of each token: 1.4285714285714286
+'multi-scale', 'much higher', 'overall', 'averages', 'sea level', 'lacks', 'historical', 'moreresponsive to', 'certain', 'total', 'effectively defined', 'value', 'commonly', 'mean', 'cooler', 'highly', 'average', 'linear', 'threshold.We also', 'factor of two', 'thicker', 'relatively', 'long enough', 'additions', 'consistently', 'overestimation', 'repeated', 'amount', 'intermediate', 'statistical', 'thinner', 'three', 'threshold', 'comparable', 'important', 'relative', 'over', 'addition', 'further', 'all', 'very little', 'large-scale', 'average out most variability', 'lower', 'range', 'steady', 'same', 'above', 'less', 'fraction', 'original', 'sharp', 'effectively', 'drastically', 'exceed', 'extreme', 'longer', 'non-linear', 'more', 'longer-term', 'younger', 'typical', 'much lower', 'relativechange in', 'Small scale', 'only', 'even higher', 'halfway', 'minimum', 'short enough', 'maximum.The', 'greatly', 'weaker', 'less than', 'between', 'differently', 'ranging', 'characteristic', 'quite', 'approximately', 'stronger', 'higher', 'below', 'about', 'larger', 'threedifferent', 'additional', 'different', 'factor of four', 'number', 'more standard'
+
+
+ICE_DEVEL
+Total occurences: 28
+Total Unique entities: 11
+Average Frequency of each token: 2.5454545454545454
+'multiyear ice', 'FYI', 'multi-year ice', 'new', 'first-year ice', 'first-year', 'multi-year icefor', 'multi-year', 'slush', 'First-year', 'thin first-year ice'
+
+
+ICE
+Total occurences: 54
+Total Unique entities: 8
+Average Frequency of each token: 6.75
+'ice type', 'ice-albedo feedback', 'ice', 'Ice', 'ice-covered', 'sea ice types', 'sea ice typeswith', 'ice-covered marginal sea'
+
+
+OPENINGS_ICE
+Total occurences: 1
+Total Unique entities: 1
+Average Frequency of each token: 1.0
+'leads'
+
+
+TIME
+Total occurences: 131
+Total Unique entities: 90
+Average Frequency of each token: 1.4555555555555555
+'July', 'the period from 1978 to 2014', 'This year', 'the second full week of September', 'monthly', 'day', 'September 23 , 2008', 'full-year', 'from 1935 to 2014', 'September 24 , 2008', 'about 3 daysand', 'ice-covered days', 'five-month', 'March', 'September', 'April 7', '8 years', 'long-term annual', 'period', 'the present day', 'the two years', 'this period', 'September 2005', 'that day', 'the most current month', 'the period 1989 & ndash ; 2014', 'new', 'January 2008 through December 2008', 'early', 'over the last decades', 'the 1981 to 2010 period', 'over the past 80 years', 'Daily', 'multidecadal', 'from year to year', 'several years', 'afterwards', 'before', 'This July', 'during this period', 'annual', '2007', 'during the last three decades', 'from 1979', '1979 & ndash ; 2014', 'Until now', '1897 & ndash ; 1917', 'last week', 'this year', 'from 1979 to 2014', 'the recent decade', 'the period September 2007 to October 2008', '2002', 'later', '1979 to 2000', 'Thirty years', 'during the Heroic Age of Exploration', 'last year', 'the satellite record', 'current', 'the last decade', 'A 30-year period', 'comparsion period', 'the pre-satellite period', 'inter-annual', '30-year reference period , from 1981 to 2010', 'now', 'still', 'past', 'over the last 80 years', 'from 1 June through 31 October.The', 'future', '22-year period 1979 to 2000', 'during the past decade', 'long-term', '30-year', 'first time', 'the dates', 'night', 'June 18 , 2013', '2008', 'each year', 'August', 'January', 'Between 2013 and 2015', 'daily', 'earlier', 'next March', 'during these decades', 'the 1950 & ndash ; 1970 period'
+
+
+VALUE
+Total occurences: 58
+Total Unique entities: 43
+Average Frequency of each token: 1.3488372093023255
+'1.77 million', '77,000', '0.2', '30,000', '1.0° and', '1.74 million', '0.7', '0.5', '600,000', '99.7', '10', '2–5', '880,000', '+6', '30', '0.15', '1 million', 'three', '−7 to −19 days decade−1', '−3 to −9 days decade−1', '+3 to +9 days decade−1', '0', '70', '90', '500', '19', '0.75', '35', '1.7°', '155', '−1 to −9 percent decade−1.These', '5', '1', '7', '+2.6', '0.06', '+11', '0.4', '2', '4.59 million', '50', '6', '4.52 million'
+
+
+SEASON
+Total occurences: 46
+Total Unique entities: 26
+Average Frequency of each token: 1.7692307692307692
+'autumn', 'seasonal cycles', 'fall.We analyzed', 'season', 'winter ice growth season', 'Spring', 'fall', 'early', 'duringthe severe winter 2011', 'summer melt', 'winter months', 'summer', 'during spring', 'this summer', 'during summer', 'end of the melt season', 'spring', 'seasonally', 'this early-season', 'the summer', 'winter', 'during winter months in 2011 and 2012', 'melt season', 'seasonal', 'During winter', 'during summer or spring'
+
+
+UNIT
+Total occurences: 32
+Total Unique entities: 11
+Average Frequency of each token: 2.909090909090909
+'km2', 'square miles', 'nm', '%', 'percent', 'square kilometers', 'km', '% per decade', 'days per year', 'cm-thick sea ice', 'cm'
+
+
+SNOW
+Total occurences: 30
+Total Unique entities: 8
+Average Frequency of each token: 3.75
+'snow/sea ice type', 'snow/sea ice', 'snow types', 'snow', 'snow-covered', 'snow cover', 'Snow', 'snow/sea'
+
+
+ICE_FORM
+Total occurences: 3
+Total Unique entities: 3
+Average Frequency of each token: 1.0
+'icebergs', 'as much as', 'ice floes'
+
+
+MELTING_STAGE
+Total occurences: 5
+Total Unique entities: 2
+Average Frequency of each token: 2.5
+'melt ponds', 'melt pond'
+
+
+WATER
+Total occurences: 3
+Total Unique entities: 2
+Average Frequency of each token: 1.5
+'free-water', 'water'
+
+
+ICE_CONCENTRATION
+Total occurences: 8
+Total Unique entities: 3
+Average Frequency of each token: 2.6666666666666665
+'ice-free', 'ice pack', 'open water'
+
+
+ICE_ARRANGEMENT
+Total occurences: 2
+Total Unique entities: 1
+Average Frequency of each token: 2.0
+'ice edge'
+
+
+ICE_SURFACE
+Total occurences: 1
+Total Unique entities: 1
+Average Frequency of each token: 1.0
+'bare'
+
+

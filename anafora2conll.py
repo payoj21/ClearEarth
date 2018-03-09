@@ -34,16 +34,19 @@ def conv2train(filename, path):
 	# print(path_to_text)
 	path_to_train = arr[0]+'/'+arr[1]+'/train/'
 	# print(path_to_train)
-	print('Running for '+filename)
+	print(filename)
 	txtfile = open(path_to_text+filename[:filename.find('.')] + '.txt', 'r', encoding = 'utf-8').read()
 	output = open(path_to_train+filename[:filename.find('.')] + '.train', 'w')
 
 
 	tokens = list()
 	filetokens = word_tokenize(txtfile)
+	#print(filetokens)
 
 	ongoing_index = 0
 	for tok in filetokens:
+		if tok == '``' or tok == "''":
+			tok = '"'
 		index = txtfile.find(tok, ongoing_index)
 		if index == -1:
 			break
@@ -52,14 +55,14 @@ def conv2train(filename, path):
 
 	xml = open(path+filename[:filename.find('.')] + '.xml', 'r')
 	xmltxt = xml.read()
-	print(xmltxt)
+#	print(xmltxt)
 	xml.close()
-	soup = BeautifulSoup(xmltxt)
-	print(soup.findAll('entity'))
+	soup = BeautifulSoup(xmltxt, "html5lib")
+#	print(soup.findAll('entity'))
 	for concept in soup.findAll('entity'):
 		id = concept.id.get_text()
 		type = concept.type.get_text()
-		print(concept.span)
+#		print(concept.span)
 		spans = concept.span.get_text().split(';')
 		string = ''
 		# TODO how to handle disjoint spans?
@@ -67,8 +70,8 @@ def conv2train(filename, path):
 		x = int(x)
 		y = int(y)
 		string = txtfile[int(x):int(y)]
-		print(txtfile)
-		print (string)
+#		print(txtfile)
+#		print (string)
 		string = string.lower().rstrip('\'\"-,.:;!?')
 		string = string.strip()
 

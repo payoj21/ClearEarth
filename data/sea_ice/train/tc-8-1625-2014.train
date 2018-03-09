@@ -4,7 +4,7 @@ The X X O
 effect X X Eventuality-B
 of X X O
 snow/sea X X Snow-B
-ice X X Ice-I
+ice X X Ice-B
 type X X Ice-I
 on X X O
 the X X O
@@ -42,7 +42,7 @@ age X X Trait-B
 and X X O
 by X X O
 theprocesses X X O
-they X X Eventuality-I
+they X X O
 were X X O
 formed X X Eventuality-B
 , X X O
@@ -52,7 +52,7 @@ types X X Trait-B
 of X X O
 snow X X Snow-B
 andsea X X O
-ice X X Ice_source-I
+ice X X Ice_source-B
 . X X O
 
 The X X O
@@ -90,7 +90,8 @@ thickness X X Trait-B
 of X X O
 the X X O
 snow X X Snow-B
-orsea X X O
+or X X O
+sea X X Ice_source-B
 ice X X Ice_source-I
 . X X O
 
@@ -220,7 +221,7 @@ of X X O
 each X X O
 snow X X Snow-B
 andsea X X O
-ice X X Ice-I
+ice X X Ice-B
 type X X Ice-I
 is X X O
 intercompared X X O
@@ -313,7 +314,8 @@ carbon X X O
 
 The X X O
 response X X Eventuality-B
-ofe-folding X X O
+of X X O
+e-folding X X Trait-B
 depth X X Trait-I
 is X X O
 effectively X X Function-B
@@ -325,8 +327,9 @@ ice X X Ice-I
 type X X Ice-I
 . X X O
 
-Thealbedo X X O
-of X X Trait-I
+The X X O
+albedo X X Trait-B
+of X X O
 sea X X Ice_source-B
 ice X X Ice_source-I
 is X X O
@@ -341,4 +344,3 @@ carbon X X O
 than X X O
 snow X X Snow-B
 . X X O
-

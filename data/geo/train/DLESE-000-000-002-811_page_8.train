@@ -240,11 +240,11 @@ have X X O
 a X X O
 so-called X X O
 'leading X X O
-edge X X Environment_Context-I
+edge X X Environment_Context-B
 ' X X O
 and X X O
 'trailing X X O
-edge X X Environment_Context-I
+edge X X Environment_Context-B
 ' X X O
 . X X O
 

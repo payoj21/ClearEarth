@@ -132,3 +132,31 @@ no X X O
 longer X X O
 used X X O
 for X X O
+" X X O
+San X X O
+Francisco X X O
+Bay X X O
+shrimp X X O
+cocktails X X O
+" X X O
+, X X O
+they X X O
+are X X O
+harvested X X Eventuality-B
+for X X O
+bait X X Biotic_Entity-B
+. X X O
+
+Other X X O
+predators X X Biotic_Entity-B
+include X X O
+striped X X Biotic_Entity-B
+bass X X Biotic_Entity-I
+and X X O
+Chinook X X Biotic_Entity-B
+salmon X X Biotic_Entity-I
+adults X X Biotic_Entity-I
+and X X O
+smolts X X Biotic_Entity-B
+. X X O
+

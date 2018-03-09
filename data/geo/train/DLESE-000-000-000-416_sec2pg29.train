@@ -294,3 +294,45 @@ there X X O
 is X X O
 really X X O
 an X X O
+" X X O
+earthquake X X Eventuality-B
+deficit X X O
+" X X O
+. X X O
+
+What X X O
+did X X O
+the X X O
+activity X X O
+above X X O
+teach X X O
+you X X O
+about X X O
+reaching X X O
+conclusions X X O
+regarding X X O
+the X X O
+long-term X X Time-B
+prospects X X O
+for X X O
+seismicity X X Eventuality-B
+in X X O
+southern X X Direction-B
+California X X Location-B
+? X X O
+
+Does X X O
+it X X O
+seem X X O
+wise X X O
+to X X O
+use X X O
+past X X Time-B
+recorded X X O
+events X X Eventuality-B
+to X X O
+anticipate X X O
+the X X Time-B
+future X X Time-I
+? X X O
+

@@ -7,7 +7,7 @@ The X X O
 Distribution X X Trait-B
 of X X O
 Earthquakes X X Eventuality-B
-Earthquake X X O
+Earthquake X X Eventuality-B
 Swarms X X Eventuality-I
 Earthquake X X Eventuality-B
 swarms X X Eventuality-I

@@ -7,7 +7,7 @@ in X X O
 a X X O
 Coupled X X O
 Ocean-Sea X X O
-Ice X X Ice_source-I
+Ice X X Ice_source-B
 Model X X O
 and X X O
 in X X O
@@ -251,7 +251,7 @@ in X X O
 the X X O
 seasonal X X Season-B
 sea X X O
-ice X X Ice_source-I
+ice X X Ice_source-B
 zone X X Area-B
 . X X O
 

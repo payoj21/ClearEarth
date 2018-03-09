@@ -5,7 +5,7 @@ Tectonics X X Eventuality-I
 : X X O
 Faults X X Environment_Context-B
 Faults X X O
-Aside X X Environment_Context-I
+Aside X X O
 from X X O
 Mid-Ocean X X Environment_Context-B
 Ridges X X Environment_Context-I
@@ -133,7 +133,7 @@ in X X O
 Montana X X Location-B
 's X X O
 'Glacier X X O
-National X X Environment_Context-I
+National X X Environment_Context-B
 Park X X Environment_Context-I
 . X X O
 
@@ -294,7 +294,7 @@ year X X Unit-I
 relative X X O
 to X X O
 the X X O
-North X X Environment_Context-I
+North X X Environment_Context-B
 American X X Environment_Context-I
 Plate X X Environment_Context-I
 . X X O
