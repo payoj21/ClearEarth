@@ -1,0 +1,4 @@
+ice	Ice_arrangement-B	ice_form-I
+edge	Ice_arrangement-I	O
+ice	Ice_arrangement-B	ice_form-I
+edge	Ice_arrangement-I	O

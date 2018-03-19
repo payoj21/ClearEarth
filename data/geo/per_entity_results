@@ -1,0 +1,93 @@
+EVENTUALITY
+Total occurences: 2586
+Total Unique entities: 643
+Average Frequency of each token: 4.021772939346812
+processed 1805 tokens with 497 phrases; found: 388 phrases; correct: 77.
+accuracy:  49.14%; precision:  19.85%; recall:  15.49%; FB1:  17.40
+                B: precision:   6.60%; recall:   6.98%; FB1:   6.79  318
+                I: precision:  80.00%; recall:  28.57%; FB1:  42.11  70
+
+
+
+LOCATION
+Total occurences: 308
+Total Unique entities: 61
+Average Frequency of each token: 5.049180327868853
+processed 230 tokens with 51 phrases; found: 35 phrases; correct: 18.
+accuracy:  49.13%; precision:  51.43%; recall:  35.29%; FB1:  41.86
+                B: precision:  37.50%; recall:  31.03%; FB1:  33.96  24
+                I: precision:  81.82%; recall:  40.91%; FB1:  54.55  11
+
+
+TRAIT
+Total occurences: 1427
+Total Unique entities: 355
+Average Frequency of each token: 4.019718309859155         
+processed 1178 tokens with 405 phrases; found: 425 phrases; correct: 183.
+accuracy:  44.57%; precision:  43.06%; recall:  45.19%; FB1:  44.10
+                B: precision:  26.60%; recall:  31.78%; FB1:  28.96  282
+                I: precision:  75.52%; recall:  63.91%; FB1:  69.23  143
+
+
+
+ENVIRONMENT_CONTEXT
+Total occurences: 1837
+Total Unique entities: 468
+Average Frequency of each token: 3.925213675213675
+processed 1800 tokens with 746 phrases; found: 704 phrases; correct: 455.
+accuracy:  64.72%; precision:  64.63%; recall:  60.99%; FB1:  62.76
+                B: precision:  50.39%; recall:  47.92%; FB1:  49.12  389
+                I: precision:  82.22%; recall:  76.85%; FB1:  79.45  315
+
+
+
+DIRECTION
+Total occurences: 566
+Total Unique entities: 117
+Average Frequency of each token: 4.837606837606837
+processed 434 tokens with 70 phrases; found: 61 phrases; correct: 3.
+accuracy:  38.94%; precision:   4.92%; recall:   4.29%; FB1:   4.58
+                B: precision:   1.85%; recall:   1.82%; FB1:   1.83  54
+                I: precision:  28.57%; recall:  13.33%; FB1:  18.18  7
+
+
+
+TIME
+Total occurences: 239
+Total Unique entities: 160
+Average Frequency of each token: 1.49375
+processed 272 tokens with 133 phrases; found: 73 phrases; correct: 18.
+accuracy:  14.34%; precision:  24.66%; recall:  13.53%; FB1:  17.48
+                B: precision:  15.91%; recall:  10.29%; FB1:  12.50  44
+                I: precision:  37.93%; recall:  16.92%; FB1:  23.40  29
+
+
+VALUE
+Total occurences: 299
+Total Unique entities: 131
+Average Frequency of each token: 2.282442748091603
+processed 227 tokens with 77 phrases; found: 39 phrases; correct: 1.
+accuracy:  35.24%; precision:   2.56%; recall:   1.30%; FB1:   1.72
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  38
+                I: precision: 100.00%; recall:   3.57%; FB1:   6.90  1
+
+
+UNIT
+Total occurences: 113
+Total Unique entities: 38
+Average Frequency of each token: 2.973684210526316
+processed 97 tokens with 46 phrases; found: 19 phrases; correct: 2.
+accuracy:  27.84%; precision:  10.53%; recall:   4.35%; FB1:   6.15
+                B: precision:  14.29%; recall:   8.33%; FB1:  10.53  14
+                I: precision:   0.00%; recall:   0.00%; FB1:   0.00  5
+
+
+
+LAT_LONG_LOCATION
+Total occurences: 2
+Total Unique entities: 2
+Average Frequency of each token: 1.0
+processed 2 tokens with 1 phrases; found: 0 phrases; correct: 0.
+accuracy:   0.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+                

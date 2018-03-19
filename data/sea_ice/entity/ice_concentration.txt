@@ -1,0 +1,11 @@
+open	Ice_concentration-B	ice_con-B
+water	Ice_concentration-I	ice_con-I
+open	Ice_concentration-B	ice_con-B
+water	Ice_concentration-I	ice_con-I
+ice-free	Ice_concentration-B	ice_con-B
+ice-free	Ice_concentration-B	ice_con-B
+ice-free	Ice_concentration-B	ice_con-B
+open	Ice_concentration-B	ice_con-B
+water	Ice_concentration-I	ice_con-I
+open	Ice_concentration-B	ice_con-B
+water	Ice_concentration-I	ice_con-I

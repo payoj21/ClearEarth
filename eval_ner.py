@@ -59,14 +59,14 @@ def join(c,p,gold,predict):
             j += 1
         fw.write('\n')
     fw.close()
-path = ["data/bio/prediction/"]
+# path = ["data/bio/prediction/"]
 
 
-for p in path:
-    print('\n\nRunning for '+p.split('/')[1].upper())
-    i = 0
-    for filename in os.listdir(p):
-        if filename[0] != '.':
-            preprocessing(p+filename)
-            join(i,p,p[:p.find('prediction/')]+'gold/'+filename[:filename.find('.ner')]+'.train',p+filename)
-            i += 1
+# for p in path:
+#     print('\n\nRunning for '+p.split('/')[1].upper())
+#     i = 0
+#     for filename in os.listdir(p):
+#         if filename[0] != '.':
+#             preprocessing(p+filename)
+#             join(i,p,p[:p.find('prediction/')]+'gold/'+filename[:filename.find('.ner')]+'.train',p+filename)
+#             i += 1

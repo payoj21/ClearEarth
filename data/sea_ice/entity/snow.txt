@@ -1,0 +1,35 @@
+
+Snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+cover	Snow-I	O
+snow-covered	Snow-B	O
+snow	Snow-B	O
+types	Snow-I	O
+snow	Snow-B	O
+
+Snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+is	Snow-I	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
+snow	Snow-B	O
