@@ -1,499 +1,498 @@
--DOCSTART- -X- O O
+1 Section O
+2 1 O
+3 - O
+4 - O
+5 Footnote O
+6 Footnote O
+7 : O
+8 Section O
+9 1 O
+10 " O
+11 Are O
+12 any O
+13 earthquakes Eventuality-B
+14 caused Eventuality-B
+15 by O
+16 something O
+17 other O
+18 than O
+19 tectonic Eventuality-B
+20 forces Eventuality-I
+21 ? O
 
-Section X X O
-1 X X O
--- X X O
-Footnote X X O
-Footnote X X O
-: X X O
-Section X X O
-1 X X O
-" X X O
-Are X X O
-any X X O
-earthquakes X X Eventuality-B
-caused X X Eventuality-B
-by X X O
-something X X O
-other X X O
-than X X O
-tectonic X X Eventuality-B
-forces X X Eventuality-I
-? X X O
+1 " O
+2 It O
+3 has O
+4 been O
+5 stated O
+6 that O
+7 the O
+8 answer O
+9 to O
+10 the O
+11 question O
+12 of O
+13 , O
+14 " O
+15 What O
+16 causes Eventuality-B
+17 the O
+18 forces Eventuality-B
+19 that O
+20 create Eventuality-B
+21 earthquakes Eventuality-B
+22 ? O
 
-" X X O
-It X X O
-has X X O
-been X X O
-stated X X O
-that X X O
-the X X O
-answer X X O
-to X X O
-the X X O
-question X X O
-of X X O
-, X X O
-" X X O
-What X X O
-causes X X Eventuality-B
-the X X O
-forces X X Eventuality-B
-that X X O
-create X X Eventuality-B
-earthquakes X X Eventuality-B
-? X X O
+1 " O
+2 , O
+3 can O
+4 , O
+5 in O
+6 large O
+7 part O
+8 , O
+9 be O
+10 found O
+11 in O
+12 the O
+13 theory O
+14 of O
+15 plate Eventuality-B
+16 tectonics Eventuality-I
+17 . O
 
-" X X O
-, X X O
-can X X O
-, X X O
-in X X O
-large X X O
-part X X O
-, X X O
-be X X O
-found X X O
-in X X O
-the X X O
-theory X X O
-of X X O
-plate X X Eventuality-B
-tectonics X X Eventuality-I
-. X X O
+1 This O
+2 is O
+3 true O
+4 ; O
+5 an O
+6 overwhelming O
+7 percentage O
+8 of O
+9 earthquakes Eventuality-B
+10 are O
+11 the O
+12 direct O
+13 result Eventuality-B
+14 of O
+15 tectonic Eventuality-B
+16 activity Eventuality-I
+17 . O
 
-This X X O
-is X X O
-true X X O
-; X X O
-an X X O
-overwhelming X X O
-percentage X X O
-of X X O
-earthquakes X X Eventuality-B
-are X X O
-the X X O
-direct X X O
-result X X Eventuality-B
-of X X O
-tectonic X X Eventuality-B
-activity X X Eventuality-I
-. X X O
+1 A O
+2 notable O
+3 fraction O
+4 of O
+5 world-wide Location-B
+6 seismic Eventuality-B
+7 activity Eventuality-I
+8 , O
+9 however O
+10 , O
+11 is O
+12 either O
+13 not O
+14 directly O
+15 related O
+16 to O
+17 tectonics Eventuality-B
+18 , O
+19 or O
+20 related O
+21 only O
+22 in O
+23 a O
+24 secondary O
+25 manner O
+26 . O
 
-A X X O
-notable X X O
-fraction X X O
-of X X O
-world-wide X X Location-B
-seismic X X Eventuality-B
-activity X X Eventuality-I
-, X X O
-however X X O
-, X X O
-is X X O
-either X X O
-not X X O
-directly X X O
-related X X O
-to X X O
-tectonics X X Eventuality-B
-, X X O
-or X X O
-related X X O
-only X X O
-in X X O
-a X X O
-secondary X X O
-manner X X O
-. X X O
+1 The O
+2 earthquakes Eventuality-B
+3 least O
+4 connected O
+5 to O
+6 plate Eventuality-B
+7 tectonics Eventuality-I
+8 involve O
+9 the O
+10 rapid Trait-B
+11 removal Eventuality-B
+12 or O
+13 deposition Eventuality-B
+14 of O
+15 a O
+16 large Trait-B
+17 amount Trait-B
+18 of O
+19 material Environment_Context-B
+20 , O
+21 either O
+22 at O
+23 the O
+24 surface Environment_Context-B
+25 or O
+26 in O
+27 the O
+28 rocks Environment_Context-B
+29 below Direction-B
+30 . O
 
-The X X O
-earthquakes X X Eventuality-B
-least X X O
-connected X X O
-to X X O
-plate X X Eventuality-B
-tectonics X X Eventuality-I
-involve X X O
-the X X O
-rapid X X Trait-B
-removal X X Eventuality-B
-or X X O
-deposition X X Eventuality-B
-of X X O
-a X X O
-large X X Trait-B
-amount X X Trait-B
-of X X O
-material X X Environment_Context-B
-, X X O
-either X X O
-at X X O
-the X X O
-surface X X Environment_Context-B
-or X X O
-in X X O
-the X X O
-rocks X X Environment_Context-B
-below X X Direction-B
-. X X O
+1 This O
+2 can O
+3 be O
+4 natural O
+5 , O
+6 as O
+7 when O
+8 the O
+9 glaciers Environment_Context-B
+10 receeded Eventuality-B
+11 at O
+12 the Time-B
+13 end Time-I
+14 of Time-I
+15 the Time-I
+16 last Time-I
+17 Ice Time-I
+18 Age Time-I
+19 , O
+20 or O
+21 caused O
+22 by O
+23 man O
+24 , O
+25 as O
+26 is O
+27 the O
+28 case O
+29 in O
+30 certain O
+31 mining O
+32 or O
+33 drilling O
+34 operations O
+35 , O
+36 and O
+37 even O
+38 in O
+39 the O
+40 construction O
+41 of O
+42 certain O
+43 large O
+44 dams O
+45 . O
 
-This X X O
-can X X O
-be X X O
-natural X X O
-, X X O
-as X X O
-when X X O
-the X X O
-glaciers X X Environment_Context-B
-receeded X X Eventuality-B
-at X X O
-the X X Time-B
-end X X Time-I
-of X X Time-I
-the X X Time-I
-last X X Time-I
-Ice X X Time-I
-Age X X Time-I
-, X X O
-or X X O
-caused X X O
-by X X O
-man X X O
-, X X O
-as X X O
-is X X O
-the X X O
-case X X O
-in X X O
-certain X X O
-mining X X O
-or X X O
-drilling X X O
-operations X X O
-, X X O
-and X X O
-even X X O
-in X X O
-the X X O
-construction X X O
-of X X O
-certain X X O
-large X X O
-dams X X O
-. X X O
+1 Because O
+2 the O
+3 weight Trait-B
+4 of O
+5 the O
+6 overlying Direction-B
+7 material Environment_Context-B
+8 on O
+9 the O
+10 rocks Environment_Context-B
+11 below Direction-B
+12 is O
+13 rapidly Trait-B
+14 altered Eventuality-B
+15 , O
+16 the O
+17 Earth Location-B
+18 's O
+19 crust Environment_Context-B
+20 may O
+21 " O
+22 rebound Eventuality-B
+23 " O
+24 , O
+25 resulting Eventuality-B
+26 in O
+27 uplift Eventuality-B
+28 , O
+29 or O
+30 sag Eventuality-B
+31 , O
+32 resulting Eventuality-B
+33 in O
+34 the O
+35 downward Direction-B
+36 shift Eventuality-B
+37 of O
+38 material Environment_Context-B
+39 . O
 
-Because X X O
-the X X O
-weight X X Trait-B
-of X X O
-the X X O
-overlying X X Direction-B
-material X X Environment_Context-B
-on X X O
-the X X O
-rocks X X Environment_Context-B
-below X X Direction-B
-is X X O
-rapidly X X Trait-B
-altered X X Eventuality-B
-, X X O
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-may X X O
-" X X O
-rebound X X Eventuality-B
-" X X O
-, X X O
-resulting X X Eventuality-B
-in X X O
-uplift X X Eventuality-B
-, X X O
-or X X O
-sag X X Eventuality-B
-, X X O
-resulting X X Eventuality-B
-in X X O
-the X X O
-downward X X Direction-B
-shift X X Eventuality-B
-of X X O
-material X X Environment_Context-B
-. X X O
+1 Either O
+2 way O
+3 , O
+4 this O
+5 movement Eventuality-B
+6 along Direction-B
+7 fractures Environment_Context-B
+8 in O
+9 the O
+10 Earth Location-B
+11 's O
+12 crust Environment_Context-B
+13 will O
+14 cause Eventuality-B
+15 earthquakes Eventuality-B
+16 . O
 
-Either X X O
-way X X O
-, X X O
-this X X O
-movement X X Eventuality-B
-along X X Direction-B
-fractures X X Environment_Context-B
-in X X O
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-will X X O
-cause X X Eventuality-B
-earthquakes X X Eventuality-B
-. X X O
+1 Earthquakes Eventuality-B
+2 may O
+3 also O
+4 be O
+5 triggered Eventuality-B
+6 by O
+7 volcanism Eventuality-B
+8 . O
 
-Earthquakes X X Eventuality-B
-may X X O
-also X X O
-be X X O
-triggered X X Eventuality-B
-by X X O
-volcanism X X Eventuality-B
-. X X O
+1 The O
+2 movement Eventuality-B
+3 of O
+4 magma Environment_Context-B
+5 in O
+6 the O
+7 Earth Location-B
+8 's O
+9 crust Environment_Context-B
+10 can O
+11 cause Eventuality-B
+12 volumes Trait-B
+13 of O
+14 rock Environment_Context-B
+15 to O
+16 shift Eventuality-B
+17 . O
 
-The X X O
-movement X X Eventuality-B
-of X X O
-magma X X Environment_Context-B
-in X X O
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-can X X O
-cause X X Eventuality-B
-volumes X X Trait-B
-of X X O
-rock X X Environment_Context-B
-to X X O
-shift X X Eventuality-B
-. X X O
+1 Volcanoes Environment_Context-B
+2 are O
+3 always O
+4 accompanied O
+5 by O
+6 earthquakes Eventuality-B
+7 , O
+8 even O
+9 though O
+10 these O
+11 quakes Eventuality-B
+12 may O
+13 be O
+14 very O
+15 minor Trait-B
+16 . O
 
-Volcanoes X X Environment_Context-B
-are X X O
-always X X O
-accompanied X X O
-by X X O
-earthquakes X X Eventuality-B
-, X X O
-even X X O
-though X X O
-these X X O
-quakes X X Eventuality-B
-may X X O
-be X X O
-very X X O
-minor X X Trait-B
-. X X O
+1 However O
+2 , O
+3 all O
+4 volcanism Eventuality-B
+5 is O
+6 essentially O
+7 a O
+8 product Eventuality-B
+9 of O
+10 plate Eventuality-B
+11 tectonics Eventuality-I
+12 as O
+13 well O
+14 ( O
+15 if O
+16 you O
+17 consider O
+18 hot Eventuality-B
+19 spot Eventuality-I
+20 activity Eventuality-I
+21 to O
+22 be O
+23 an O
+24 integral O
+25 part O
+26 of O
+27 the O
+28 theory O
+29 ) O
+30 , O
+31 so O
+32 even O
+33 these O
+34 quakes Eventuality-B
+35 have O
+36 their O
+37 basis O
+38 in O
+39 plate Eventuality-B
+40 tectonics Eventuality-I
+41 . O
 
-However X X O
-, X X O
-all X X O
-volcanism X X Eventuality-B
-is X X O
-essentially X X O
-a X X O
-product X X Eventuality-B
-of X X O
-plate X X Eventuality-B
-tectonics X X Eventuality-I
-as X X O
-well X X O
-( X X O
-if X X O
-you X X O
-consider X X O
-hot X X Eventuality-B
-spot X X Eventuality-I
-activity X X Eventuality-I
-to X X O
-be X X O
-an X X O
-integral X X O
-part X X O
-of X X O
-the X X O
-theory X X O
-) X X O
-, X X O
-so X X O
-even X X O
-these X X O
-quakes X X Eventuality-B
-have X X O
-their X X O
-basis X X O
-in X X O
-plate X X Eventuality-B
-tectonics X X Eventuality-I
-. X X O
+1 It O
+2 should O
+3 also O
+4 be O
+5 noted O
+6 that O
+7 some O
+8 areas Environment_Context-B
+9 of O
+10 significant O
+11 non-volcanic Trait-B
+12 earthquake Eventuality-B
+13 activity Eventuality-I
+14 are O
+15 far O
+16 removed O
+17 from O
+18 plate Environment_Context-B
+19 boundaries Environment_Context-I
+20 . O
 
-It X X O
-should X X O
-also X X O
-be X X O
-noted X X O
-that X X O
-some X X O
-areas X X Environment_Context-B
-of X X O
-significant X X O
-non-volcanic X X Trait-B
-earthquake X X Eventuality-B
-activity X X Eventuality-I
-are X X O
-far X X O
-removed X X O
-from X X O
-plate X X Environment_Context-B
-boundaries X X Environment_Context-I
-. X X O
+1 The O
+2 most O
+3 notable O
+4 example O
+5 in O
+6 the O
+7 United Location-B
+8 States Location-I
+9 ( O
+10 also O
+11 one O
+12 of O
+13 the O
+14 most O
+15 striking O
+16 in O
+17 the O
+18 world Location-B
+19 ) O
+20 is O
+21 the O
+22 New Environment_Context-B
+23 Madrid Environment_Context-I
+24 seismic Environment_Context-I
+25 zone Environment_Context-I
+26 , O
+27 located O
+28 along Direction-B
+29 the O
+30 Mississippi Environment_Context-B
+31 River Environment_Context-I
+32 in O
+33 southern Direction-B
+34 Missouri Location-B
+35 , O
+36 and O
+37 extending O
+38 into O
+39 several O
+40 nearby O
+41 states Location-B
+42 . O
 
-The X X O
-most X X O
-notable X X O
-example X X O
-in X X O
-the X X O
-United X X Location-B
-States X X Location-I
-( X X O
-also X X O
-one X X O
-of X X O
-the X X O
-most X X O
-striking X X O
-in X X O
-the X X O
-world X X Location-B
-) X X O
-is X X O
-the X X O
-New X X Environment_Context-B
-Madrid X X Environment_Context-I
-seismic X X Environment_Context-I
-zone X X Environment_Context-I
-, X X O
-located X X O
-along X X Direction-B
-the X X O
-Mississippi X X Environment_Context-B
-River X X Environment_Context-I
-in X X O
-southern X X Direction-B
-Missouri X X Location-B
-, X X O
-and X X O
-extending X X O
-into X X O
-several X X O
-nearby X X O
-states X X Location-B
-. X X O
+1 This O
+2 is O
+3 a O
+4 weakened Trait-B
+5 section Environment_Context-B
+6 of O
+7 the O
+8 continental Environment_Context-B
+9 crust Environment_Context-I
+10 known O
+11 as O
+12 the O
+13 Reelfoot Environment_Context-B
+14 Rift Environment_Context-I
+15 , O
+16 was O
+17 probably O
+18 formed Eventuality-B
+19 millions Time-B
+20 of Time-I
+21 years Time-I
+22 ago Time-I
+23 when O
+24 the O
+25 North Environment_Context-B
+26 American Environment_Context-I
+27 Plate Environment_Context-I
+28 broke Eventuality-B
+29 away Direction-B
+30 from O
+31 surrounding Direction-B
+32 plates Environment_Context-B
+33 . O
 
-This X X O
-is X X O
-a X X O
-weakened X X Trait-B
-section X X Environment_Context-B
-of X X O
-the X X O
-continental X X Environment_Context-B
-crust X X Environment_Context-I
-known X X O
-as X X O
-the X X O
-Reelfoot X X Environment_Context-B
-Rift X X Environment_Context-I
-, X X O
-was X X O
-probably X X O
-formed X X Eventuality-B
-millions X X Time-B
-of X X Time-I
-years X X Time-I
-ago X X Time-I
-when X X O
-the X X O
-North X X Environment_Context-B
-American X X Environment_Context-I
-Plate X X Environment_Context-I
-broke X X Eventuality-B
-away X X Direction-B
-from X X O
-surrounding X X Direction-B
-plates X X Environment_Context-B
-. X X O
+1 The O
+2 break Eventuality-B
+3 was O
+4 likely O
+5 not O
+6 clean Trait-B
+7 , O
+8 and O
+9 several Value-B
+10 failed Environment_Context-B
+11 rifts Environment_Context-I
+12 probably O
+13 formed Eventuality-B
+14 before O
+15 the O
+16 plate Environment_Context-B
+17 finally O
+18 separated Eventuality-B
+19 " O
+20 cleanly Trait-B
+21 " O
+22 . O
 
-The X X O
-break X X Eventuality-B
-was X X O
-likely X X O
-not X X O
-clean X X Trait-B
-, X X O
-and X X O
-several X X Value-B
-failed X X Environment_Context-B
-rifts X X Environment_Context-I
-probably X X O
-formed X X Eventuality-B
-before X X O
-the X X O
-plate X X Environment_Context-B
-finally X X O
-separated X X Eventuality-B
-" X X O
-cleanly X X Trait-B
-" X X O
-. X X O
+1 These O
+2 rifts Environment_Context-B
+3 persist Eventuality-B
+4 even O
+5 after O
+6 the O
+7 rifting Eventuality-B
+8 episode Eventuality-I
+9 is O
+10 over O
+11 , O
+12 and O
+13 because O
+14 of O
+15 their O
+16 weakened O
+17 nature O
+18 , O
+19 they O
+20 remain O
+21 seismically Trait-B
+22 active Trait-I
+23 . O
 
-These X X O
-rifts X X Environment_Context-B
-persist X X Eventuality-B
-even X X O
-after X X O
-the X X O
-rifting X X Eventuality-B
-episode X X Eventuality-I
-is X X O
-over X X O
-, X X O
-and X X O
-because X X O
-of X X O
-their X X O
-weakened X X O
-nature X X O
-, X X O
-they X X O
-remain X X O
-seismically X X Trait-B
-active X X Trait-I
-. X X O
-
-Of X X O
-course X X O
-, X X O
-since X X O
-these X X O
-failed X X Environment_Context-B
-rifts X X Environment_Context-I
-are X X O
-a X X O
-product X X Eventuality-B
-of X X O
-tectonic X X Eventuality-B
-forces X X Eventuality-I
-, X X O
-these X X O
-earthquakes X X Eventuality-B
-also X X O
-have X X O
-their X X O
-basis X X O
-in X X O
-plate X X Eventuality-B
-tectonics X X Eventuality-I
-. X X O
+1 Of O
+2 course O
+3 , O
+4 since O
+5 these O
+6 failed Environment_Context-B
+7 rifts Environment_Context-I
+8 are O
+9 a O
+10 product Eventuality-B
+11 of O
+12 tectonic Eventuality-B
+13 forces Eventuality-I
+14 , O
+15 these O
+16 earthquakes Eventuality-B
+17 also O
+18 have O
+19 their O
+20 basis O
+21 in O
+22 plate Eventuality-B
+23 tectonics Eventuality-I
+24 . O
 

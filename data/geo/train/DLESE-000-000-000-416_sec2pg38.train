@@ -1,432 +1,433 @@
--DOCSTART- -X- O O
+1 Page O
+2 38 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 Explaining O
+10 Parkfield Location-B
+11 's O
+12 Seismicity Eventuality-B
+13 Finally O
+14 , O
+15 let O
+16 's O
+17 go O
+18 back O
+19 to O
+20 the O
+21 special O
+22 case O
+23 of O
+24 the O
+25 Parkfield Location-B
+26 segment Environment_Context-B
+27 of O
+28 the O
+29 San Environment_Context-B
+30 Andreas Environment_Context-I
+31 fault Environment_Context-I
+32 zone Environment_Context-I
+33 . O
 
-Page X X O
-38 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-Explaining X X O
-Parkfield X X Location-B
-'s X X O
-Seismicity X X Eventuality-B
-Finally X X O
-, X X O
-let X X O
-'s X X O
-go X X O
-back X X O
-to X X O
-the X X O
-special X X O
-case X X O
-of X X O
-the X X O
-Parkfield X X Location-B
-segment X X Environment_Context-B
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-zone X X Environment_Context-I
-. X X O
+1 The O
+2 fault Environment_Context-B
+3 there O
+4 is O
+5 quite O
+6 mature Trait-B
+7 , O
+8 the O
+9 geometry Trait-B
+10 simple Trait-B
+11 , O
+12 and O
+13 heat Eventuality-B
+14 flow Eventuality-I
+15 in O
+16 the O
+17 area Environment_Context-B
+18 is O
+19 not O
+20 high Trait-B
+21 . O
 
-The X X O
-fault X X Environment_Context-B
-there X X O
-is X X O
-quite X X O
-mature X X Trait-B
-, X X O
-the X X O
-geometry X X Trait-B
-simple X X Trait-B
-, X X O
-and X X O
-heat X X Eventuality-B
-flow X X Eventuality-I
-in X X O
-the X X O
-area X X Environment_Context-B
-is X X O
-not X X O
-high X X Trait-B
-. X X O
+1 But O
+2 as O
+3 noted O
+4 earlier O
+5 in O
+6 this O
+7 section O
+8 , O
+9 this O
+10 segment Environment_Context-B
+11 of O
+12 the O
+13 fault Environment_Context-B
+14 ruptures Eventuality-B
+15 in O
+16 a O
+17 magnitude Trait-B
+18 6 Value-B
+19 earthquake Eventuality-B
+20 roughly O
+21 every Time-B
+22 20 Time-I
+23 to Time-I
+24 30 Time-I
+25 years Time-I
+26 , O
+27 and O
+28 has O
+29 a O
+30 high Trait-B
+31 rate Trait-B
+32 of O
+33 smaller O
+34 seismic Eventuality-B
+35 events Eventuality-I
+36 . O
 
-But X X O
-as X X O
-noted X X O
-earlier X X O
-in X X O
-this X X O
-section X X O
-, X X O
-this X X O
-segment X X Environment_Context-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-ruptures X X Eventuality-B
-in X X O
-a X X O
-magnitude X X Trait-B
-6 X X Value-B
-earthquake X X Eventuality-B
-roughly X X O
-every X X Time-B
-20 X X Time-I
-to X X Time-I
-30 X X Time-I
-years X X Time-I
-, X X O
-and X X O
-has X X O
-a X X O
-high X X Trait-B
-rate X X Trait-B
-of X X O
-smaller X X O
-seismic X X Eventuality-B
-events X X Eventuality-I
-. X X O
+1 Why O
+2 ? O
 
-Why X X O
-? X X O
+1 One O
+2 important O
+3 clue O
+4 in O
+5 the O
+6 search O
+7 for O
+8 the O
+9 answer O
+10 to O
+11 this O
+12 question O
+13 is O
+14 the O
+15 overall O
+16 behavior Eventuality-B
+17 of O
+18 the O
+19 San Environment_Context-B
+20 Andreas Environment_Context-I
+21 fault Environment_Context-I
+22 on O
+23 either O
+24 side Environment_Context-B
+25 of O
+26 the O
+27 Parkfield Location-B
+28 segment Environment_Context-B
+29 . O
 
-One X X O
-important X X O
-clue X X O
-in X X O
-the X X O
-search X X O
-for X X O
-the X X O
-answer X X O
-to X X O
-this X X O
-question X X O
-is X X O
-the X X O
-overall X X O
-behavior X X Eventuality-B
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-on X X O
-either X X O
-side X X Environment_Context-B
-of X X O
-the X X O
-Parkfield X X Location-B
-segment X X Environment_Context-B
-. X X O
+1 North Direction-B
+2 of O
+3 Parkfield Location-B
+4 , O
+5 the O
+6 fault Environment_Context-B
+7 slips Eventuality-B
+8 almost O
+9 continuously Trait-B
+10 as O
+11 creep Eventuality-B
+12 , O
+13 generating Eventuality-B
+14 microseismicity Eventuality-B
+15 but O
+16 no O
+17 large Trait-B
+18 ruptures Eventuality-B
+19 . O
 
-North X X Direction-B
-of X X O
-Parkfield X X Location-B
-, X X O
-the X X O
-fault X X Environment_Context-B
-slips X X Eventuality-B
-almost X X O
-continuously X X Trait-B
-as X X O
-creep X X Eventuality-B
-, X X O
-generating X X Eventuality-B
-microseismicity X X Eventuality-B
-but X X O
-no X X O
-large X X Trait-B
-ruptures X X Eventuality-B
-. X X O
+1 South Direction-B
+2 of O
+3 Parkfield Location-B
+4 , O
+5 the O
+6 fault Environment_Context-B
+7 is O
+8 " O
+9 locked Trait-B
+10 " O
+11 , O
+12 awaiting O
+13 infrequent Trait-B
+14 but O
+15 severe Trait-B
+16 ruptures Eventuality-B
+17 , O
+18 and O
+19 almost O
+20 completely O
+21 lacking O
+22 in O
+23 microseismicity Eventuality-B
+24 . O
 
-South X X Direction-B
-of X X O
-Parkfield X X Location-B
-, X X O
-the X X O
-fault X X Environment_Context-B
-is X X O
-" X X O
-locked X X Trait-B
-" X X O
-, X X O
-awaiting X X O
-infrequent X X Trait-B
-but X X O
-severe X X Trait-B
-ruptures X X Eventuality-B
-, X X O
-and X X O
-almost X X O
-completely X X O
-lacking X X O
-in X X O
-microseismicity X X Eventuality-B
-. X X O
+1 Parkfield Location-B
+2 , O
+3 then O
+4 , O
+5 represents O
+6 a O
+7 transition Environment_Context-B
+8 zone Environment_Context-I
+9 between Direction-B
+10 these O
+11 two Value-B
+12 sections Environment_Context-B
+13 . O
 
-Parkfield X X Location-B
-, X X O
-then X X O
-, X X O
-represents X X O
-a X X O
-transition X X Environment_Context-B
-zone X X Environment_Context-I
-between X X Direction-B
-these X X O
-two X X Value-B
-sections X X Environment_Context-B
-. X X O
+1 This O
+2 transition Eventuality-B
+3 could O
+4 be O
+5 related O
+6 to O
+7 a O
+8 change Eventuality-B
+9 in O
+10 the O
+11 strength Trait-B
+12 of O
+13 the O
+14 San Environment_Context-B
+15 Andreas Environment_Context-I
+16 fault Environment_Context-I
+17 . O
 
-This X X O
-transition X X Eventuality-B
-could X X O
-be X X O
-related X X O
-to X X O
-a X X O
-change X X Eventuality-B
-in X X O
-the X X O
-strength X X Trait-B
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-. X X O
+1 Where O
+2 the O
+3 fault Environment_Context-B
+4 slips Eventuality-B
+5 continuously Trait-B
+6 ( O
+7 north Direction-B
+8 of O
+9 Parkfield Location-B
+10 ) O
+11 , O
+12 it O
+13 can O
+14 be O
+15 thought O
+16 of O
+17 as O
+18 having O
+19 almost O
+20 no O
+21 strength Trait-B
+22 whatsoever O
+23 , O
+24 since O
+25 there O
+26 is O
+27 little Trait-B
+28 resistance Eventuality-B
+29 to O
+30 stress Eventuality-B
+31 acting Eventuality-B
+32 on O
+33 the O
+34 fault Environment_Context-B
+35 . O
 
-Where X X O
-the X X O
-fault X X Environment_Context-B
-slips X X Eventuality-B
-continuously X X Trait-B
-( X X O
-north X X Direction-B
-of X X O
-Parkfield X X Location-B
-) X X O
-, X X O
-it X X O
-can X X O
-be X X O
-thought X X O
-of X X O
-as X X O
-having X X O
-almost X X O
-no X X O
-strength X X Trait-B
-whatsoever X X O
-, X X O
-since X X O
-there X X O
-is X X O
-little X X Trait-B
-resistance X X Eventuality-B
-to X X O
-stress X X Eventuality-B
-acting X X Eventuality-B
-on X X O
-the X X O
-fault X X Environment_Context-B
-. X X O
+1 South Direction-B
+2 of O
+3 Parkfield Location-B
+4 , O
+5 the O
+6 fault Environment_Context-B
+7 may O
+8 be O
+9 low Trait-B
+10 in O
+11 strength Trait-B
+12 , O
+13 but O
+14 strong O
+15 enough O
+16 to O
+17 keep O
+18 from O
+19 slipping Eventuality-B
+20 until O
+21 a O
+22 significant O
+23 amount O
+24 of O
+25 stress Eventuality-B
+26 builds Eventuality-B
+27 up Eventuality-I
+28 . O
 
-South X X Direction-B
-of X X O
-Parkfield X X Location-B
-, X X O
-the X X O
-fault X X Environment_Context-B
-may X X O
-be X X O
-low X X Trait-B
-in X X O
-strength X X Trait-B
-, X X O
-but X X O
-strong X X O
-enough X X O
-to X X O
-keep X X O
-from X X O
-slipping X X Eventuality-B
-until X X O
-a X X O
-significant X X O
-amount X X O
-of X X O
-stress X X Eventuality-B
-builds X X Eventuality-B
-up X X Eventuality-I
-. X X O
+1 If O
+2 the O
+3 Parkfield Location-B
+4 segment Environment_Context-B
+5 were O
+6 somewhat O
+7 weaker O
+8 than O
+9 the O
+10 " O
+11 locked Trait-B
+12 " O
+13 segment Environment_Context-B
+14 , O
+15 it O
+16 might O
+17 slip Eventuality-B
+18 more O
+19 readily O
+20 than O
+21 the O
+22 " O
+23 locked Trait-B
+24 " O
+25 segment Environment_Context-B
+26 to O
+27 the O
+28 south Direction-B
+29 , O
+30 but O
+31 not O
+32 as O
+33 freely O
+34 as O
+35 the O
+36 creeping Environment_Context-B
+37 segment Environment_Context-I
+38 to O
+39 the O
+40 north Direction-B
+41 . O
 
-If X X O
-the X X O
-Parkfield X X Location-B
-segment X X Environment_Context-B
-were X X O
-somewhat X X O
-weaker X X O
-than X X O
-the X X O
-" X X O
-locked X X Trait-B
-" X X O
-segment X X Environment_Context-B
-, X X O
-it X X O
-might X X O
-slip X X Eventuality-B
-more X X O
-readily X X O
-than X X O
-the X X O
-" X X O
-locked X X Trait-B
-" X X O
-segment X X Environment_Context-B
-to X X O
-the X X O
-south X X Direction-B
-, X X O
-but X X O
-not X X O
-as X X O
-freely X X O
-as X X O
-the X X O
-creeping X X Environment_Context-B
-segment X X Environment_Context-I
-to X X O
-the X X O
-north X X Direction-B
-. X X O
+1 Geologic O
+2 studies O
+3 reveal O
+4 that O
+5 there O
+6 is O
+7 a O
+8 change Eventuality-B
+9 in O
+10 the O
+11 type Trait-B
+12 of O
+13 rock Environment_Context-B
+14 that O
+15 lines Eventuality-B
+16 the O
+17 Parkfield Location-B
+18 segment Environment_Context-B
+19 of O
+20 the O
+21 fault Environment_Context-B
+22 ( O
+23 compared O
+24 to O
+25 the O
+26 " O
+27 locked Trait-B
+28 " O
+29 section Environment_Context-B
+30 to O
+31 the O
+32 south Direction-B
+33 ) O
+34 , O
+35 suggesting O
+36 that O
+37 this O
+38 may O
+39 have O
+40 something O
+41 to O
+42 do O
+43 with O
+44 the O
+45 increased Eventuality-B
+46 seismicity Eventuality-I
+47 . O
 
-Geologic X X O
-studies X X O
-reveal X X O
-that X X O
-there X X O
-is X X O
-a X X O
-change X X Eventuality-B
-in X X O
-the X X O
-type X X Trait-B
-of X X O
-rock X X Environment_Context-B
-that X X O
-lines X X Eventuality-B
-the X X O
-Parkfield X X Location-B
-segment X X Environment_Context-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-( X X O
-compared X X O
-to X X O
-the X X O
-" X X O
-locked X X Trait-B
-" X X O
-section X X Environment_Context-B
-to X X O
-the X X O
-south X X Direction-B
-) X X O
-, X X O
-suggesting X X O
-that X X O
-this X X O
-may X X O
-have X X O
-something X X O
-to X X O
-do X X O
-with X X O
-the X X O
-increased X X Eventuality-B
-seismicity X X Eventuality-I
-. X X O
+1 A O
+2 change Eventuality-B
+3 in O
+4 rock Environment_Context-B
+5 types Trait-B
+6 at O
+7 depth Trait-B
+8 could O
+9 affect Eventuality-B
+10 the O
+11 strength Trait-B
+12 of O
+13 a O
+14 fault Environment_Context-B
+15 , O
+16 theoretically O
+17 . O
 
-A X X O
-change X X Eventuality-B
-in X X O
-rock X X Environment_Context-B
-types X X Trait-B
-at X X O
-depth X X Trait-B
-could X X O
-affect X X Eventuality-B
-the X X O
-strength X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-, X X O
-theoretically X X O
-. X X O
+1 Certain O
+2 rocks Environment_Context-B
+3 might O
+4 lower Eventuality-B
+5 the O
+6 coefficients O
+7 of O
+8 sliding Eventuality-B
+9 and O
+10 / O
+11 or O
+12 static Eventuality-B
+13 friction Eventuality-I
+14 of O
+15 the O
+16 fault Environment_Context-B
+17 , O
+18 or O
+19 affect O
+20 the O
+21 pressure Trait-B
+22 of O
+23 fluids Environment_Context-B
+24 within Direction-B
+25 the O
+26 crust Environment_Context-B
+27 . O
 
-Certain X X O
-rocks X X Environment_Context-B
-might X X O
-lower X X Eventuality-B
-the X X O
-coefficients X X O
-of X X O
-sliding X X Eventuality-B
-and/or X X O
-static X X Eventuality-B
-friction X X Eventuality-I
-of X X O
-the X X O
-fault X X Environment_Context-B
-, X X O
-or X X O
-affect X X O
-the X X O
-pressure X X Trait-B
-of X X O
-fluids X X Environment_Context-B
-within X X Direction-B
-the X X O
-crust X X Environment_Context-B
-. X X O
-
-It X X O
-'s X X O
-possible X X O
-that X X O
-the X X O
-composition X X Trait-B
-of X X O
-the X X O
-material X X Environment_Context-B
-at X X O
-depth X X Trait-B
-is X X O
-responsible X X O
-for X X O
-many X X O
-of X X O
-the X X O
-minor X X Trait-B
-, X X O
-localized X X Trait-B
-variations X X Eventuality-B
-in X X O
-seismicity X X Eventuality-B
-seen X X O
-around X X O
-the X X O
-state X X Location-B
-. X X O
+1 It O
+2 's O
+3 possible O
+4 that O
+5 the O
+6 composition Trait-B
+7 of O
+8 the O
+9 material Environment_Context-B
+10 at O
+11 depth Trait-B
+12 is O
+13 responsible O
+14 for O
+15 many O
+16 of O
+17 the O
+18 minor Trait-B
+19 , O
+20 localized Trait-B
+21 variations Eventuality-B
+22 in O
+23 seismicity Eventuality-B
+24 seen O
+25 around O
+26 the O
+27 state Location-B
+28 . O
 

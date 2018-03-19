@@ -1,155 +1,154 @@
--DOCSTART- -X- O O
+1 Page O
+2 4 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 " O
+10 Where O
+11 do O
+12 large Trait-B
+13 earthquakes Eventuality-B
+14 occur Eventuality-B
+15 in O
+16 southern Direction-B
+17 California Location-B
+18 ? O
 
-Page X X O
-4 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-" X X O
-Where X X O
-do X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-occur X X Eventuality-B
-in X X O
-southern X X Direction-B
-California X X Location-B
-? X X O
+1 " O
+2 Generally O
+3 speaking O
+4 , O
+5 the O
+6 larger O
+7 the O
+8 magnitude Trait-B
+9 of O
+10 an O
+11 earthquake Eventuality-B
+12 , O
+13 the O
+14 greater O
+15 the O
+16 chance O
+17 there O
+18 is O
+19 that O
+20 it O
+21 will O
+22 cause O
+23 damage O
+24 to O
+25 structures O
+26 of O
+27 injury O
+28 to O
+29 people O
+30 . O
 
-" X X O
-Generally X X O
-speaking X X O
-, X X O
-the X X O
-larger X X O
-the X X O
-magnitude X X Trait-B
-of X X O
-an X X O
-earthquake X X Eventuality-B
-, X X O
-the X X O
-greater X X O
-the X X O
-chance X X O
-there X X O
-is X X O
-that X X O
-it X X O
-will X X O
-cause X X O
-damage X X O
-to X X O
-structures X X O
-of X X O
-injury X X O
-to X X O
-people X X O
-. X X O
+1 Naturally O
+2 , O
+3 then O
+4 , O
+5 the O
+6 largest Trait-B
+7 earthquakes Eventuality-B
+8 are O
+9 of O
+10 greatest O
+11 importance O
+12 to O
+13 the O
+14 average O
+15 person O
+16 in O
+17 southern Direction-B
+18 California Location-B
+19 . O
 
-Naturally X X O
-, X X O
-then X X O
-, X X O
-the X X O
-largest X X Trait-B
-earthquakes X X Eventuality-B
-are X X O
-of X X O
-greatest X X O
-importance X X O
-to X X O
-the X X O
-average X X O
-person X X O
-in X X O
-southern X X Direction-B
-California X X Location-B
-. X X O
+1 We O
+2 have O
+3 noted O
+4 in O
+5 previous O
+6 sections O
+7 that O
+8 the O
+9 rupture Environment_Context-B
+10 area Environment_Context-I
+11 of O
+12 a O
+13 fault Environment_Context-B
+14 involved O
+15 in O
+16 an O
+17 earthquake Eventuality-B
+18 is O
+19 proportional O
+20 to O
+21 the O
+22 energy Eventuality-B
+23 released Eventuality-B
+24 , O
+25 and O
+26 thus O
+27 the O
+28 magnitude Trait-B
+29 , O
+30 of O
+31 that O
+32 earthquake Eventuality-B
+33 . O
 
-We X X O
-have X X O
-noted X X O
-in X X O
-previous X X O
-sections X X O
-that X X O
-the X X O
-rupture X X Environment_Context-B
-area X X Environment_Context-I
-of X X O
-a X X O
-fault X X Environment_Context-B
-involved X X O
-in X X O
-an X X O
-earthquake X X Eventuality-B
-is X X O
-proportional X X O
-to X X O
-the X X O
-energy X X Eventuality-B
-released X X Eventuality-B
-, X X O
-and X X O
-thus X X O
-the X X O
-magnitude X X Trait-B
-, X X O
-of X X O
-that X X O
-earthquake X X Eventuality-B
-. X X O
+1 This O
+2 means O
+3 that O
+4 large Trait-B
+5 fault Environment_Context-B
+6 surfaces Environment_Context-I
+7 must O
+8 rupture Eventuality-B
+9 to O
+10 produce Eventuality-B
+11 large Trait-B
+12 earthquakes Eventuality-B
+13 . O
 
-This X X O
-means X X O
-that X X O
-large X X Trait-B
-fault X X Environment_Context-B
-surfaces X X Environment_Context-I
-must X X O
-rupture X X Eventuality-B
-to X X O
-produce X X Eventuality-B
-large X X Trait-B
-earthquakes X X Eventuality-B
-. X X O
+1 Presumably O
+2 , O
+3 then O
+4 , O
+5 large Trait-B
+6 earthquakes Eventuality-B
+7 will O
+8 only O
+9 occur Eventuality-B
+10 where O
+11 large Trait-B
+12 ( O
+13 and O
+14 thus O
+15 , O
+16 probably O
+17 known O
+18 and O
+19 well-mapped O
+20 ) O
+21 faults Environment_Context-B
+22 exist O
+23 . O
 
-Presumably X X O
-, X X O
-then X X O
-, X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-will X X O
-only X X O
-occur X X Eventuality-B
-where X X O
-large X X Trait-B
-( X X O
-and X X O
-thus X X O
-, X X O
-probably X X O
-known X X O
-and X X O
-well-mapped X X O
-) X X O
-faults X X Environment_Context-B
-exist X X O
-. X X O
-
-Does X X O
-the X X O
-earthquake X X Eventuality-B
-record X X O
-in X X O
-southern X X Direction-B
-California X X Location-B
-support X X O
-this X X O
-assumption X X O
-? X X O
+1 Does O
+2 the O
+3 earthquake Eventuality-B
+4 record O
+5 in O
+6 southern Direction-B
+7 California Location-B
+8 support O
+9 this O
+10 assumption O
+11 ? O
 

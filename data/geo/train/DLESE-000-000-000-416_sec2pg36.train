@@ -1,378 +1,380 @@
--DOCSTART- -X- O O
+1 Page O
+2 36 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 Earthquake Eventuality-B
+10 Swarms Eventuality-I
+11 Earthquake Eventuality-B
+12 swarms Eventuality-I
+13 are O
+14 clusters Eventuality-B
+15 of O
+16 earthquakes Eventuality-B
+17 - O
+18 - O
+19 sometimes O
+20 hundreds Value-B
+21 or O
+22 thousands Value-B
+23 of O
+24 them O
+25 - O
+26 - O
+27 with O
+28 no O
+29 definitive O
+30 mainshock Eventuality-B
+31 ; O
+32 the O
+33 largest O
+34 events Eventuality-B
+35 in O
+36 a O
+37 swarm Eventuality-B
+38 are O
+39 all O
+40 of O
+41 roughly O
+42 the O
+43 same O
+44 magnitude Trait-B
+45 . O
 
-Page X X O
-36 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-Earthquake X X Eventuality-B
-Swarms X X Eventuality-I
-Earthquake X X Eventuality-B
-swarms X X Eventuality-I
-are X X O
-clusters X X Eventuality-B
-of X X O
-earthquakes X X Eventuality-B
--- X X O
-sometimes X X O
-hundreds X X Value-B
-or X X O
-thousands X X Value-B
-of X X O
-them X X O
--- X X O
-with X X O
-no X X O
-definitive X X O
-mainshock X X Eventuality-B
-; X X O
-the X X O
-largest X X O
-events X X Eventuality-B
-in X X O
-a X X O
-swarm X X Eventuality-B
-are X X O
-all X X O
-of X X O
-roughly X X O
-the X X O
-same X X O
-magnitude X X Trait-B
-. X X O
+1 Swarms Eventuality-B
+2 occur Eventuality-B
+3 in O
+4 a O
+5 limited O
+6 area Environment_Context-B
+7 , O
+8 and O
+9 vary O
+10 greatly O
+11 in O
+12 duration Trait-B
+13 . O
 
-Swarms X X Eventuality-B
-occur X X Eventuality-B
-in X X O
-a X X O
-limited X X O
-area X X Environment_Context-B
-, X X O
-and X X O
-vary X X O
-greatly X X O
-in X X O
-duration X X Trait-B
-. X X O
+1 Some O
+2 die O
+3 off O
+4 within O
+5 a Time-B
+6 day Time-I
+7 , O
+8 others O
+9 can O
+10 persist Eventuality-B
+11 for O
+12 months Time-B
+13 at O
+14 a O
+15 time O
+16 . O
 
-Some X X O
-die X X O
-off X X O
-within X X O
-a X X Time-B
-day X X Time-I
-, X X O
-others X X O
-can X X O
-persist X X Eventuality-B
-for X X O
-months X X Time-B
-at X X O
-a X X O
-time X X O
-. X X O
+1 In O
+2 some O
+3 ways O
+4 , O
+5 swarms Eventuality-B
+6 resemble O
+7 aftershock Eventuality-B
+8 sequences Eventuality-I
+9 . O
 
-In X X O
-some X X O
-ways X X O
-, X X O
-swarms X X Eventuality-B
-resemble X X O
-aftershock X X Eventuality-B
-sequences X X Eventuality-I
-. X X O
+1 But O
+2 while O
+3 aftershock Eventuality-B
+4 sequences Eventuality-I
+5 likely O
+6 result Eventuality-B
+7 from O
+8 the O
+9 sudden Time-B
+10 stress Eventuality-B
+11 load Eventuality-I
+12 placed O
+13 upon O
+14 the O
+15 rocks Environment_Context-B
+16 near Trait-B
+17 a O
+18 fault Environment_Context-B
+19 rupture Environment_Context-I
+20 , O
+21 patterns Eventuality-B
+22 in O
+23 the O
+24 occurrence Eventuality-B
+25 of O
+26 swarms Eventuality-B
+27 suggest O
+28 that O
+29 they O
+30 have O
+31 a O
+32 fundamentally O
+33 different O
+34 driving O
+35 mechanism O
+36 . O
 
-But X X O
-while X X O
-aftershock X X Eventuality-B
-sequences X X Eventuality-I
-likely X X O
-result X X Eventuality-B
-from X X O
-the X X O
-sudden X X Time-B
-stress X X Eventuality-B
-load X X Eventuality-I
-placed X X O
-upon X X O
-the X X O
-rocks X X Environment_Context-B
-near X X Trait-B
-a X X O
-fault X X Environment_Context-B
-rupture X X Environment_Context-I
-, X X O
-patterns X X Eventuality-B
-in X X O
-the X X O
-occurrence X X Eventuality-B
-of X X O
-swarms X X Eventuality-B
-suggest X X O
-that X X O
-they X X O
-have X X O
-a X X O
-fundamentally X X O
-different X X O
-driving X X O
-mechanism X X O
-. X X O
+1 Studies O
+2 involving O
+3 the O
+4 relation O
+5 between O
+6 aftershocks Eventuality-B
+7 and O
+8 heat Eventuality-B
+9 flow Eventuality-I
+10 , O
+11 a O
+12 measure O
+13 of O
+14 the O
+15 geothermal Eventuality-B
+16 energy Eventuality-I
+17 in O
+18 the O
+19 crust Environment_Context-B
+20 , O
+21 suggest O
+22 that O
+23 aftershock Eventuality-B
+24 sequences Eventuality-I
+25 decay Eventuality-B
+26 more O
+27 rapidly Trait-B
+28 in O
+29 areas Environment_Context-B
+30 of O
+31 high Trait-B
+32 heat Eventuality-B
+33 flow Eventuality-I
+34 , O
+35 possibly O
+36 because O
+37 heat Eventuality-B
+38 allows O
+39 rocks Environment_Context-B
+40 to O
+41 release Eventuality-B
+42 stress Eventuality-B
+43 more O
+44 readily O
+45 in O
+46 the O
+47 wake O
+48 of O
+49 a O
+50 mainshock Eventuality-B
+51 . O
 
-Studies X X O
-involving X X O
-the X X O
-relation X X O
-between X X O
-aftershocks X X Eventuality-B
-and X X O
-heat X X Eventuality-B
-flow X X Eventuality-I
-, X X O
-a X X O
-measure X X O
-of X X O
-the X X O
-geothermal X X Eventuality-B
-energy X X Eventuality-I
-in X X O
-the X X O
-crust X X Environment_Context-B
-, X X O
-suggest X X O
-that X X O
-aftershock X X Eventuality-B
-sequences X X Eventuality-I
-decay X X Eventuality-B
-more X X O
-rapidly X X Trait-B
-in X X O
-areas X X Environment_Context-B
-of X X O
-high X X Trait-B
-heat X X Eventuality-B
-flow X X Eventuality-I
-, X X O
-possibly X X O
-because X X O
-heat X X Eventuality-B
-allows X X O
-rocks X X Environment_Context-B
-to X X O
-release X X Eventuality-B
-stress X X Eventuality-B
-more X X O
-readily X X O
-in X X O
-the X X O
-wake X X O
-of X X O
-a X X O
-mainshock X X Eventuality-B
-. X X O
+1 Areas Environment_Context-B
+2 of O
+3 high Trait-B
+4 heat Eventuality-B
+5 flow Eventuality-I
+6 , O
+7 however O
+8 , O
+9 are O
+10 prone O
+11 to O
+12 lengthy Trait-B
+13 swarms Eventuality-B
+14 that O
+15 don O
+16 't O
+17 show O
+18 signs O
+19 of O
+20 rapid Trait-B
+21 decay Eventuality-B
+22 , O
+23 suggesting O
+24 that O
+25 an O
+26 entirely O
+27 different O
+28 process Eventuality-B
+29 is O
+30 at O
+31 work O
+32 in O
+33 generating Eventuality-B
+34 earthquake Eventuality-B
+35 swarms Eventuality-I
+36 . O
 
-Areas X X Environment_Context-B
-of X X O
-high X X Trait-B
-heat X X Eventuality-B
-flow X X Eventuality-I
-, X X O
-however X X O
-, X X O
-are X X O
-prone X X O
-to X X O
-lengthy X X Trait-B
-swarms X X Eventuality-B
-that X X O
-do X X O
-n't X X O
-show X X O
-signs X X O
-of X X O
-rapid X X Trait-B
-decay X X Eventuality-B
-, X X O
-suggesting X X O
-that X X O
-an X X O
-entirely X X O
-different X X O
-process X X Eventuality-B
-is X X O
-at X X O
-work X X O
-in X X O
-generating X X Eventuality-B
-earthquake X X Eventuality-B
-swarms X X Eventuality-I
-. X X O
+1 Actually O
+2 , O
+3 there O
+4 seem O
+5 to O
+6 be O
+7 several O
+8 different O
+9 mechanisms Eventuality-B
+10 that O
+11 can O
+12 each O
+13 produce Eventuality-B
+14 swarms Eventuality-B
+15 . O
 
-Actually X X O
-, X X O
-there X X O
-seem X X O
-to X X O
-be X X O
-several X X O
-different X X O
-mechanisms X X Eventuality-B
-that X X O
-can X X O
-each X X O
-produce X X Eventuality-B
-swarms X X Eventuality-B
-. X X O
+1 Some O
+2 swarms Eventuality-B
+3 are O
+4 likely O
+5 spawned O
+6 by O
+7 the O
+8 formation Eventuality-B
+9 of O
+10 new Trait-B
+11 faults Environment_Context-B
+12 . O
 
-Some X X O
-swarms X X Eventuality-B
-are X X O
-likely X X O
-spawned X X O
-by X X O
-the X X O
-formation X X Eventuality-B
-of X X O
-new X X Trait-B
-faults X X Environment_Context-B
-. X X O
+1 Some O
+2 may O
+3 to O
+4 be O
+5 related O
+6 to O
+7 fault Eventuality-B
+8 creep Eventuality-I
+9 . O
 
-Some X X O
-may X X O
-to X X O
-be X X O
-related X X O
-to X X O
-fault X X Eventuality-B
-creep X X Eventuality-I
-. X X O
+1 Some O
+2 result O
+3 from O
+4 an O
+5 increase Eventuality-B
+6 in O
+7 the O
+8 pressure Trait-B
+9 of O
+10 fluids Environment_Context-B
+11 at O
+12 depth Trait-B
+13 , O
+14 and O
+15 still O
+16 others O
+17 are O
+18 spawned O
+19 by O
+20 sub-surface Environment_Context-B
+21 movements Eventuality-B
+22 of O
+23 magma Environment_Context-B
+24 . O
 
-Some X X O
-result X X O
-from X X O
-an X X O
-increase X X Eventuality-B
-in X X O
-the X X O
-pressure X X Trait-B
-of X X O
-fluids X X Environment_Context-B
-at X X O
-depth X X Trait-B
-, X X O
-and X X O
-still X X O
-others X X O
-are X X O
-spawned X X O
-by X X O
-sub-surface X X Environment_Context-B
-movements X X Eventuality-B
-of X X O
-magma X X Environment_Context-B
-. X X O
+1 Looking O
+2 back O
+3 to O
+4 our O
+5 conclusions O
+6 regarding O
+7 seismicity Trait-B
+8 rates Trait-I
+9 on O
+10 faults Environment_Context-B
+11 with O
+12 high Trait-B
+13 slip Trait-B
+14 rates Trait-I
+15 , O
+16 then O
+17 , O
+18 we O
+19 've O
+20 reasoned O
+21 that O
+22 low Trait-B
+23 seismicity Trait-B
+24 rates Trait-I
+25 occur Eventuality-B
+26 when O
+27 a O
+28 fault Environment_Context-B
+29 zone Environment_Context-I
+30 is O
+31 mature Trait-B
+32 and O
+33 simple Trait-B
+34 in O
+35 terms O
+36 of O
+37 geometry Trait-B
+38 , O
+39 while O
+40 complexity Trait-B
+41 and O
+42 conditions Trait-B
+43 favorable O
+44 for O
+45 inducing Eventuality-B
+46 swarms Eventuality-B
+47 ( O
+48 fault Eventuality-B
+49 formation Eventuality-I
+50 , O
+51 creep Eventuality-B
+52 , O
+53 high Trait-B
+54 heat Eventuality-B
+55 flow Eventuality-I
+56 , O
+57 etc O
+58 . O
 
-Looking X X O
-back X X O
-to X X O
-our X X O
-conclusions X X O
-regarding X X O
-seismicity X X Trait-B
-rates X X Trait-I
-on X X O
-faults X X Environment_Context-B
-with X X O
-high X X Trait-B
-slip X X Trait-B
-rates X X Trait-I
-, X X O
-then X X O
-, X X O
-we X X O
-'ve X X O
-reasoned X X O
-that X X O
-low X X Trait-B
-seismicity X X Trait-B
-rates X X Trait-I
-occur X X Eventuality-B
-when X X O
-a X X O
-fault X X Environment_Context-B
-zone X X Environment_Context-I
-is X X O
-mature X X Trait-B
-and X X O
-simple X X Trait-B
-in X X O
-terms X X O
-of X X O
-geometry X X Trait-B
-, X X O
-while X X O
-complexity X X Trait-B
-and X X O
-conditions X X Trait-B
-favorable X X O
-for X X O
-inducing X X Eventuality-B
-swarms X X Eventuality-B
-( X X O
-fault X X Eventuality-B
-formation X X Eventuality-I
-, X X O
-creep X X Eventuality-B
-, X X O
-high X X Trait-B
-heat X X Eventuality-B
-flow X X Eventuality-I
-, X X O
-etc X X O
-. X X O
+1 ) O
+2 tend O
+3 to O
+4 lead O
+5 to O
+6 higher O
+7 seismicity Trait-B
+8 rates Trait-I
+9 along Direction-B
+10 fault Environment_Context-B
+11 zones Environment_Context-I
+12 . O
 
-) X X O
-tend X X O
-to X X O
-lead X X O
-to X X O
-higher X X O
-seismicity X X Trait-B
-rates X X Trait-I
-along X X Direction-B
-fault X X Environment_Context-B
-zones X X Environment_Context-I
-. X X O
-
-Do X X O
-these X X O
-conclusions X X O
-hold X X O
-up X X O
-when X X O
-applied X X O
-to X X O
-the X X O
-San X X Environment_Context-B
-Jacinto X X Environment_Context-I
-and X X Environment_Context-I
-Imperial X X Environment_Context-I
-fault X X Environment_Context-I
-zones X X Environment_Context-I
--- X X O
-our X X O
-examples X X O
-of X X O
-faults X X Environment_Context-B
-with X X O
-high X X Trait-B
-slip X X Trait-B
-rates X X Trait-I
-and X X O
-high X X Trait-B
-seismicity X X Trait-B
-rates X X Trait-I
-? X X O
+1 Do O
+2 these O
+3 conclusions O
+4 hold O
+5 up O
+6 when O
+7 applied O
+8 to O
+9 the O
+10 San Environment_Context-B
+11 Jacinto Environment_Context-I
+12 and Environment_Context-I
+13 Imperial Environment_Context-I
+14 fault Environment_Context-I
+15 zones Environment_Context-I
+16 - O
+17 - O
+18 our O
+19 examples O
+20 of O
+21 faults Environment_Context-B
+22 with O
+23 high Trait-B
+24 slip Trait-B
+25 rates Trait-I
+26 and O
+27 high Trait-B
+28 seismicity Trait-B
+29 rates Trait-I
+30 ? O
 

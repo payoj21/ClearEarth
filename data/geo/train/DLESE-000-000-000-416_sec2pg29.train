@@ -1,338 +1,337 @@
--DOCSTART- -X- O O
+1 Page O
+2 29 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 Missing O
+10 Earthquakes Eventuality-B
+11 or O
+12 Missing O
+13 Records O
+14 ? O
 
-Page X X O
-29 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-Missing X X O
-Earthquakes X X Eventuality-B
-or X X O
-Missing X X O
-Records X X O
-? X X O
+1 To O
+2 come O
+3 up O
+4 with O
+5 an O
+6 accurate O
+7 view O
+8 of O
+9 the Time-B
+10 past Time-I
+11 , O
+12 researchers O
+13 need O
+14 to O
+15 know O
+16 how O
+17 far O
+18 back O
+19 in O
+20 the O
+21 historical O
+22 record O
+23 you O
+24 can O
+25 go O
+26 before O
+27 significant O
+28 gaps O
+29 first O
+30 appear O
+31 . O
 
-To X X O
-come X X O
-up X X O
-with X X O
-an X X O
-accurate X X O
-view X X O
-of X X O
-the X X Time-B
-past X X Time-I
-, X X O
-researchers X X O
-need X X O
-to X X O
-know X X O
-how X X O
-far X X O
-back X X O
-in X X O
-the X X O
-historical X X O
-record X X O
-you X X O
-can X X O
-go X X O
-before X X O
-significant X X O
-gaps X X O
-first X X O
-appear X X O
-. X X O
+1 Otherwise O
+2 , O
+3 any O
+4 conclusions O
+5 they O
+6 reach O
+7 about O
+8 seismicity Trait-B
+9 rates Trait-I
+10 might O
+11 be O
+12 misleading O
+13 . O
 
-Otherwise X X O
-, X X O
-any X X O
-conclusions X X O
-they X X O
-reach X X O
-about X X O
-seismicity X X Trait-B
-rates X X Trait-I
-might X X O
-be X X O
-misleading X X O
-. X X O
+1 A O
+2 scientific O
+3 report O
+4 published O
+5 in O
+6 1995 Time-B
+7 concluded O
+8 that O
+9 there O
+10 had O
+11 been O
+12 too O
+13 few Value-B
+14 large Trait-B
+15 earthquakes Eventuality-B
+16 in O
+17 southern Direction-B
+18 California Location-B
+19 since O
+20 1850 Time-B
+21 , O
+22 given O
+23 the O
+24 rate Trait-B
+25 of O
+26 slip Eventuality-B
+27 along Direction-B
+28 the O
+29 plate Environment_Context-B
+30 boundary Environment_Context-I
+31 , O
+32 and O
+33 the O
+34 amount O
+35 of O
+36 energy Trait-B
+37 that O
+38 would O
+39 need O
+40 to O
+41 be O
+42 released Eventuality-B
+43 ( O
+44 as O
+45 earthquakes Eventuality-B
+46 ) O
+47 to O
+48 accomodate O
+49 that O
+50 motion Eventuality-B
+51 . O
 
-A X X O
-scientific X X O
-report X X O
-published X X O
-in X X O
-1995 X X Time-B
-concluded X X O
-that X X O
-there X X O
-had X X O
-been X X O
-too X X O
-few X X Value-B
-large X X Trait-B
-earthquakes X X Eventuality-B
-in X X O
-southern X X Direction-B
-California X X Location-B
-since X X O
-1850 X X Time-B
-, X X O
-given X X O
-the X X O
-rate X X Trait-B
-of X X O
-slip X X Eventuality-B
-along X X Direction-B
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-, X X O
-and X X O
-the X X O
-amount X X O
-of X X O
-energy X X Trait-B
-that X X O
-would X X O
-need X X O
-to X X O
-be X X O
-released X X Eventuality-B
-( X X O
-as X X O
-earthquakes X X Eventuality-B
-) X X O
-to X X O
-accomodate X X O
-that X X O
-motion X X Eventuality-B
-. X X O
+1 Thus O
+2 , O
+3 this O
+4 report O
+5 reasoned O
+6 that O
+7 southern Direction-B
+8 California Location-B
+9 should O
+10 expect O
+11 an O
+12 increased Eventuality-B
+13 rate Trait-B
+14 of O
+15 damaging O
+16 earthquakes Eventuality-B
+17 in O
+18 the Time-B
+19 next Time-I
+20 few Time-I
+21 decades Time-I
+22 . O
 
-Thus X X O
-, X X O
-this X X O
-report X X O
-reasoned X X O
-that X X O
-southern X X Direction-B
-California X X Location-B
-should X X O
-expect X X O
-an X X O
-increased X X Eventuality-B
-rate X X Trait-B
-of X X O
-damaging X X O
-earthquakes X X Eventuality-B
-in X X O
-the X X Time-B
-next X X Time-I
-few X X Time-I
-decades X X Time-I
-. X X O
+1 Rates Trait-B
+2 for O
+3 earthquake Eventuality-B
+4 insurance O
+5 quadrupled O
+6 as O
+7 a O
+8 result O
+9 ! O
 
-Rates X X Trait-B
-for X X O
-earthquake X X Eventuality-B
-insurance X X O
-quadrupled X X O
-as X X O
-a X X O
-result X X O
-! X X O
+1 In O
+2 1998 Time-B
+3 , O
+4 another O
+5 scientific O
+6 paper O
+7 cast O
+8 doubt O
+9 upon O
+10 those O
+11 findings O
+12 . O
 
-In X X O
-1998 X X Time-B
-, X X O
-another X X O
-scientific X X O
-paper X X O
-cast X X O
-doubt X X O
-upon X X O
-those X X O
-findings X X O
-. X X O
+1 Southern Direction-B
+2 California Location-B
+3 in O
+4 1850 Time-B
+5 , O
+6 it O
+7 argued O
+8 , O
+9 was O
+10 too O
+11 sparsely O
+12 settled O
+13 for O
+14 all O
+15 damaging O
+16 earthquakes Eventuality-B
+17 to O
+18 have O
+19 been O
+20 recorded O
+21 . O
 
-Southern X X Direction-B
-California X X Location-B
-in X X O
-1850 X X Time-B
-, X X O
-it X X O
-argued X X O
-, X X O
-was X X O
-too X X O
-sparsely X X O
-settled X X O
-for X X O
-all X X O
-damaging X X O
-earthquakes X X Eventuality-B
-to X X O
-have X X O
-been X X O
-recorded X X O
-. X X O
+1 If O
+2 a O
+3 list O
+4 of O
+5 earthquakes Eventuality-B
+6 were O
+7 constructed O
+8 from O
+9 after O
+10 a O
+11 time O
+12 that O
+13 southern Direction-B
+14 California Location-B
+15 had O
+16 more O
+17 complete O
+18 coverage O
+19 by O
+20 sources O
+21 that O
+22 would O
+23 record O
+24 notable O
+25 shaking Eventuality-B
+26 , O
+27 the O
+28 newer O
+29 paper O
+30 argued O
+31 , O
+32 the O
+33 apparent O
+34 deficit O
+35 of O
+36 large Trait-B
+37 earthquakes Eventuality-B
+38 would O
+39 vanish O
+40 . O
 
-If X X O
-a X X O
-list X X O
-of X X O
-earthquakes X X Eventuality-B
-were X X O
-constructed X X O
-from X X O
-after X X O
-a X X O
-time X X O
-that X X O
-southern X X Direction-B
-California X X Location-B
-had X X O
-more X X O
-complete X X O
-coverage X X O
-by X X O
-sources X X O
-that X X O
-would X X O
-record X X O
-notable X X O
-shaking X X Eventuality-B
-, X X O
-the X X O
-newer X X O
-paper X X O
-argued X X O
-, X X O
-the X X O
-apparent X X O
-deficit X X O
-of X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-would X X O
-vanish X X O
-. X X O
+1 Is O
+2 this O
+3 earthquake Eventuality-B
+4 deficit O
+5 real O
+6 , O
+7 or O
+8 only O
+9 the O
+10 result O
+11 of O
+12 an O
+13 incomplete O
+14 historical O
+15 record O
+16 ? O
 
-Is X X O
-this X X O
-earthquake X X Eventuality-B
-deficit X X O
-real X X O
-, X X O
-or X X O
-only X X O
-the X X O
-result X X O
-of X X O
-an X X O
-incomplete X X O
-historical X X O
-record X X O
-? X X O
+1 The O
+2 activity O
+3 below O
+4 allows O
+5 you O
+6 to O
+7 investigate O
+8 this O
+9 question O
+10 for O
+11 yourself O
+12 . O
 
-The X X O
-activity X X O
-below X X O
-allows X X O
-you X X O
-to X X O
-investigate X X O
-this X X O
-question X X O
-for X X O
-yourself X X O
-. X X O
+1 An O
+2 Earthquake Eventuality-B
+3 Deficit O
+4 ? O
 
-An X X O
-Earthquake X X Eventuality-B
-Deficit X X O
-? X X O
+1 Have O
+2 there O
+3 been O
+4 too O
+5 few Value-B
+6 large Trait-B
+7 earthquakes Eventuality-B
+8 in O
+9 southern Direction-B
+10 California Location-B
+11 in O
+12 historic Time-B
+13 times Time-I
+14 ? O
 
-Have X X O
-there X X O
-been X X O
-too X X O
-few X X Value-B
-large X X Trait-B
-earthquakes X X Eventuality-B
-in X X O
-southern X X Direction-B
-California X X Location-B
-in X X O
-historic X X Time-B
-times X X Time-I
-? X X O
+1 Piece O
+2 together O
+3 information O
+4 to O
+5 arrive O
+6 at O
+7 a O
+8 conclusion O
+9 about O
+10 the O
+11 long-term Time-B
+12 seismicity Trait-B
+13 rate Trait-I
+14 , O
+15 and O
+16 determine O
+17 for O
+18 yourself O
+19 if O
+20 there O
+21 is O
+22 really O
+23 an O
+24 " O
+25 earthquake Eventuality-B
+26 deficit O
+27 " O
+28 . O
 
-Piece X X O
-together X X O
-information X X O
-to X X O
-arrive X X O
-at X X O
-a X X O
-conclusion X X O
-about X X O
-the X X O
-long-term X X Time-B
-seismicity X X Trait-B
-rate X X Trait-I
-, X X O
-and X X O
-determine X X O
-for X X O
-yourself X X O
-if X X O
-there X X O
-is X X O
-really X X O
-an X X O
-" X X O
-earthquake X X Eventuality-B
-deficit X X O
-" X X O
-. X X O
+1 What O
+2 did O
+3 the O
+4 activity O
+5 above O
+6 teach O
+7 you O
+8 about O
+9 reaching O
+10 conclusions O
+11 regarding O
+12 the O
+13 long-term Time-B
+14 prospects O
+15 for O
+16 seismicity Eventuality-B
+17 in O
+18 southern Direction-B
+19 California Location-B
+20 ? O
 
-What X X O
-did X X O
-the X X O
-activity X X O
-above X X O
-teach X X O
-you X X O
-about X X O
-reaching X X O
-conclusions X X O
-regarding X X O
-the X X O
-long-term X X Time-B
-prospects X X O
-for X X O
-seismicity X X Eventuality-B
-in X X O
-southern X X Direction-B
-California X X Location-B
-? X X O
-
-Does X X O
-it X X O
-seem X X O
-wise X X O
-to X X O
-use X X O
-past X X Time-B
-recorded X X O
-events X X Eventuality-B
-to X X O
-anticipate X X O
-the X X Time-B
-future X X Time-I
-? X X O
+1 Does O
+2 it O
+3 seem O
+4 wise O
+5 to O
+6 use O
+7 past Time-B
+8 recorded O
+9 events Eventuality-B
+10 to O
+11 anticipate O
+12 the Time-B
+13 future Time-I
+14 ? O
 

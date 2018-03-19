@@ -1,906 +1,910 @@
--DOCSTART- -X- O O
+1 A O
+2 food Aggregate_Biotic_Abiotic_Entity-B
+3 web Aggregate_Biotic_Abiotic_Entity-I
+4 is O
+5 a O
+6 graphical O
+7 description O
+8 of O
+9 feeding Eventuality-B
+10 relationships Eventuality-I
+11 among O
+12 species Biotic_Entity-B
+13 in O
+14 an O
+15 ecological Biotic_Entity-B
+16 community Biotic_Entity-I
+17 , O
+18 that O
+19 is O
+20 , O
+21 of O
+22 who O
+23 eats Eventuality-B
+24 whom O
+25 . O
 
-A X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-is X X O
-a X X O
-graphical X X O
-description X X O
-of X X O
-feeding X X Eventuality-B
-relationships X X Eventuality-I
-among X X O
-species X X Biotic_Entity-B
-in X X O
-an X X O
-ecological X X Biotic_Entity-B
-community X X Biotic_Entity-I
-, X X O
-that X X O
-is X X O
-, X X O
-of X X O
-who X X O
-eats X X Eventuality-B
-whom X X O
-. X X O
+1 It O
+2 is O
+3 also O
+4 a O
+5 means O
+6 of O
+7 showing O
+8 how O
+9 energy Abiotic_Entity-B
+10 and O
+11 materials Aggregate_Biotic_Abiotic_Entity-B
+12 ( O
+13 e.g O
+14 . O
 
-It X X O
-is X X O
-also X X O
-a X X O
-means X X O
-of X X O
-showing X X O
-how X X O
-energy X X Abiotic_Entity-B
-and X X O
-materials X X Aggregate_Biotic_Abiotic_Entity-B
-( X X O
-e.g. X X O
-, X X O
-carbon X X Abiotic_Entity-B
-) X X O
-flow X X Eventuality-B
-through X X O
-a X X O
-community X X Biotic_Entity-B
-of X X O
-species X X Biotic_Entity-B
-as X X O
-a X X O
-result X X O
-of X X O
-these X X O
-feeding X X Eventuality-B
-relationships X X Eventuality-I
-. X X O
+1 , O
+2 carbon Abiotic_Entity-B
+3 ) O
+4 flow Eventuality-B
+5 through O
+6 a O
+7 community Biotic_Entity-B
+8 of O
+9 species Biotic_Entity-B
+10 as O
+11 a O
+12 result O
+13 of O
+14 these O
+15 feeding Eventuality-B
+16 relationships Eventuality-I
+17 . O
 
-Typically X X O
-, X X O
-species X X Biotic_Entity-B
-are X X O
-connected X X O
-by X X O
-lines X X O
-or X X O
-arrows X X O
-called X X O
-" X X O
-links X X O
-" X X O
-, X X O
-and X X O
-the X X O
-species X X Biotic_Entity-B
-are X X O
-sometimes X X O
-referred X X O
-to X X O
-as X X O
-" X X O
-nodes X X O
-" X X O
-in X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-diagrams X X O
-. X X O
+1 Typically O
+2 , O
+3 species Biotic_Entity-B
+4 are O
+5 connected O
+6 by O
+7 lines O
+8 or O
+9 arrows O
+10 called O
+11 " O
+12 links O
+13 " O
+14 , O
+15 and O
+16 the O
+17 species Biotic_Entity-B
+18 are O
+19 sometimes O
+20 referred O
+21 to O
+22 as O
+23 " O
+24 nodes O
+25 " O
+26 in O
+27 food Aggregate_Biotic_Abiotic_Entity-B
+28 web Aggregate_Biotic_Abiotic_Entity-I
+29 diagrams O
+30 . O
 
-The X X O
-pioneering X X O
-animal X X O
-ecologist X X O
-Charles X X O
-Elton X X O
-( X X O
-1927 X X O
-) X X O
-introduced X X O
-the X X O
-concept X X O
-of X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-( X X O
-which X X O
-he X X O
-called X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-cycle X X Aggregate_Biotic_Abiotic_Entity-I
-) X X O
-to X X O
-general X X O
-ecological X X O
-science X X O
-. X X O
+1 The O
+2 pioneering O
+3 animal O
+4 ecologist O
+5 Charles O
+6 Elton O
+7 ( O
+8 1927 O
+9 ) O
+10 introduced O
+11 the O
+12 concept O
+13 of O
+14 the O
+15 food Aggregate_Biotic_Abiotic_Entity-B
+16 web Aggregate_Biotic_Abiotic_Entity-I
+17 ( O
+18 which O
+19 he O
+20 called O
+21 food Aggregate_Biotic_Abiotic_Entity-B
+22 cycle Aggregate_Biotic_Abiotic_Entity-I
+23 ) O
+24 to O
+25 general O
+26 ecological O
+27 science O
+28 . O
 
-As X X O
-he X X O
-described X X O
-it X X O
-: X X O
-" X X O
-The X X O
-herbivores X X Biotic_Entity-B
-( X X O
-Herbivory X X Eventuality-B
-) X X O
-are X X O
-usually X X O
-preyed X X Eventuality-B
-upon X X Eventuality-I
-by X X O
-carnivores X X Biotic_Entity-B
-, X X O
-which X X O
-get X X O
-the X X O
-energy X X Abiotic_Entity-B
-of X X O
-the X X O
-sunlight X X Abiotic_Entity-B
-( X X O
-Solar X X Abiotic_Entity-B
-radiation X X Abiotic_Entity-I
-) X X O
-at X X O
-third-hand X X O
-, X X O
-and X X O
-these X X O
-again X X O
-may X X O
-be X X O
-preyed X X Eventuality-B
-upon X X Eventuality-I
-by X X O
-other X X O
-carnivores X X Biotic_Entity-B
-, X X O
-and X X O
-so X X O
-on X X O
-, X X O
-until X X O
-we X X O
-reach X X O
-an X X O
-animal X X Biotic_Entity-B
-which X X O
-has X X O
-no X X O
-enemies X X Biotic_Entity-B
-, X X O
-and X X O
-which X X O
-forms X X O
-, X X O
-as X X O
-it X X O
-were X X O
-, X X O
-a X X O
-terminus X X O
-on X X O
-this X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-cycle X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 As O
+2 he O
+3 described O
+4 it O
+5 : O
+6 " O
+7 The O
+8 herbivores Biotic_Entity-B
+9 ( O
+10 Herbivory Eventuality-B
+11 ) O
+12 are O
+13 usually O
+14 preyed Eventuality-B
+15 upon Eventuality-I
+16 by O
+17 carnivores Biotic_Entity-B
+18 , O
+19 which O
+20 get O
+21 the O
+22 energy Abiotic_Entity-B
+23 of O
+24 the O
+25 sunlight Abiotic_Entity-B
+26 ( O
+27 Solar Abiotic_Entity-B
+28 radiation Abiotic_Entity-I
+29 ) O
+30 at O
+31 third-hand O
+32 , O
+33 and O
+34 these O
+35 again O
+36 may O
+37 be O
+38 preyed Eventuality-B
+39 upon Eventuality-I
+40 by O
+41 other O
+42 carnivores Biotic_Entity-B
+43 , O
+44 and O
+45 so O
+46 on O
+47 , O
+48 until O
+49 we O
+50 reach O
+51 an O
+52 animal Biotic_Entity-B
+53 which O
+54 has O
+55 no O
+56 enemies Biotic_Entity-B
+57 , O
+58 and O
+59 which O
+60 forms O
+61 , O
+62 as O
+63 it O
+64 were O
+65 , O
+66 a O
+67 terminus O
+68 on O
+69 this O
+70 food Aggregate_Biotic_Abiotic_Entity-B
+71 cycle Aggregate_Biotic_Abiotic_Entity-I
+72 . O
 
-There X X O
-are X X O
-, X X O
-in X X O
-fact X X O
-, X X O
-chains X X Aggregate_Biotic_Abiotic_Entity-B
-of X X O
-animals X X Biotic_Entity-B
-linked X X O
-together X X O
-by X X O
-food X X Biotic_Entity-B
-, X X O
-and X X O
-all X X O
-dependent X X Eventuality-B
-in X X O
-the X X O
-long X X O
-run X X O
-upon X X O
-plants X X Biotic_Entity-B
-. X X O
+1 There O
+2 are O
+3 , O
+4 in O
+5 fact O
+6 , O
+7 chains Aggregate_Biotic_Abiotic_Entity-B
+8 of O
+9 animals Biotic_Entity-B
+10 linked O
+11 together O
+12 by O
+13 food Biotic_Entity-B
+14 , O
+15 and O
+16 all O
+17 dependent Eventuality-B
+18 in O
+19 the O
+20 long O
+21 run O
+22 upon O
+23 plants Biotic_Entity-B
+24 . O
 
-We X X O
-refer X X O
-to X X O
-these X X O
-as X X O
-'food-chains X X O
-' X X O
-, X X O
-and X X O
-to X X O
-all X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chains X X Aggregate_Biotic_Abiotic_Entity-I
-in X X O
-a X X O
-community X X Biotic_Entity-B
-as X X O
-the X X O
-'food-cycle X X O
-. X X Aggregate_Biotic_Abiotic_Entity-I
+1 We O
+2 refer O
+3 to O
+4 these O
+5 as O
+6 ' O
+7 food-chains Aggregate_Biotic_Abiotic_Entity-B
+8 ' O
+9 , O
+10 and O
+11 to O
+12 all O
+13 the O
+14 food Aggregate_Biotic_Abiotic_Entity-B
+15 chains Aggregate_Biotic_Abiotic_Entity-I
+16 in O
+17 a O
+18 community Biotic_Entity-B
+19 as O
+20 the O
+21 ' O
+22 food-cycle Aggregate_Biotic_Abiotic_Entity-B
+23 . O
 
-' X X O
-" X X O
-A X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-differs X X O
-from X X O
-a X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chain X X Aggregate_Biotic_Abiotic_Entity-I
-in X X O
-that X X O
-the X X O
-latter X X O
-shows X X O
-only X X O
-a X X O
-portion X X O
-of X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-involving X X O
-a X X O
-simple X X O
-, X X O
-linear X X O
-series X X O
-of X X O
-species X X Biotic_Entity-B
-( X X O
-e.g. X X O
-, X X O
-predator X X Biotic_Entity-B
-, X X O
-herbivore X X Biotic_Entity-B
-, X X O
-plant X X Biotic_Entity-B
-) X X O
-connected X X O
-by X X O
-feeding X X Eventuality-B
-links X X O
-. X X O
+1 ' O
+2 " O
+3 A O
+4 food Aggregate_Biotic_Abiotic_Entity-B
+5 web Aggregate_Biotic_Abiotic_Entity-I
+6 differs O
+7 from O
+8 a O
+9 food Aggregate_Biotic_Abiotic_Entity-B
+10 chain Aggregate_Biotic_Abiotic_Entity-I
+11 in O
+12 that O
+13 the O
+14 latter O
+15 shows O
+16 only O
+17 a O
+18 portion O
+19 of O
+20 the O
+21 food Aggregate_Biotic_Abiotic_Entity-B
+22 web Aggregate_Biotic_Abiotic_Entity-I
+23 involving O
+24 a O
+25 simple O
+26 , O
+27 linear O
+28 series O
+29 of O
+30 species Biotic_Entity-B
+31 ( O
+32 e.g O
+33 . O
 
-A X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-aims X X O
-to X X O
-depict X X O
-a X X O
-more X X O
-complete X X O
-picture X X O
-of X X O
-the X X O
-feeding X X Eventuality-B
-relationships X X Eventuality-I
-, X X O
-and X X O
-can X X O
-be X X O
-considered X X O
-a X X O
-bundle X X O
-of X X O
-many X X O
-interconnected X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chains X X Aggregate_Biotic_Abiotic_Entity-I
-occurring X X Eventuality-B
-within X X O
-the X X O
-community X X Biotic_Entity-B
-. X X O
+1 , O
+2 predator Biotic_Entity-B
+3 , O
+4 herbivore Biotic_Entity-B
+5 , O
+6 plant Biotic_Entity-B
+7 ) O
+8 connected O
+9 by O
+10 feeding Eventuality-B
+11 links O
+12 . O
 
-All X X O
-species X X Biotic_Entity-B
-occupying X X O
-the X X O
-same X X O
-position X X O
-within X X O
-a X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chain X X Aggregate_Biotic_Abiotic_Entity-I
-comprise X X O
-a X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-within X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 A O
+2 food Aggregate_Biotic_Abiotic_Entity-B
+3 web Aggregate_Biotic_Abiotic_Entity-I
+4 aims O
+5 to O
+6 depict O
+7 a O
+8 more O
+9 complete O
+10 picture O
+11 of O
+12 the O
+13 feeding Eventuality-B
+14 relationships Eventuality-I
+15 , O
+16 and O
+17 can O
+18 be O
+19 considered O
+20 a O
+21 bundle O
+22 of O
+23 many O
+24 interconnected O
+25 food Aggregate_Biotic_Abiotic_Entity-B
+26 chains Aggregate_Biotic_Abiotic_Entity-I
+27 occurring Eventuality-B
+28 within O
+29 the O
+30 community Biotic_Entity-B
+31 . O
 
-For X X O
-instance X X O
-, X X O
-all X X O
-of X X O
-the X X O
-plants X X Biotic_Entity-B
-in X X O
-the X X O
-foodweb X X Aggregate_Biotic_Abiotic_Entity-B
-comprise X X O
-the X X O
-first X X O
-or X X O
-" X X O
-primary X X Biotic_Entity-B
-producer X X Biotic_Entity-I
-" X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-, X X O
-all X X O
-herbivores X X Biotic_Entity-B
-( X X O
-Herbivory X X Eventuality-B
-) X X O
-comprise X X O
-the X X O
-second X X O
-or X X O
-" X X O
-primary X X Biotic_Entity-B
-consumer X X Biotic_Entity-I
-" X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-, X X O
-and X X O
-carnivores X X Biotic_Entity-B
-that X X O
-eat X X Eventuality-B
-herbivores X X Biotic_Entity-B
-( X X O
-Herbivory X X Eventuality-B
-) X X O
-comprise X X O
-the X X O
-third X X O
-or X X O
-" X X O
-secondary X X Biotic_Entity-B
-consumer X X Biotic_Entity-I
-" X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-. X X O
+1 All O
+2 species Biotic_Entity-B
+3 occupying O
+4 the O
+5 same O
+6 position O
+7 within O
+8 a O
+9 food Aggregate_Biotic_Abiotic_Entity-B
+10 chain Aggregate_Biotic_Abiotic_Entity-I
+11 comprise O
+12 a O
+13 trophic Biotic_Entity-B
+14 level Biotic_Entity-I
+15 within O
+16 the O
+17 food Aggregate_Biotic_Abiotic_Entity-B
+18 web Aggregate_Biotic_Abiotic_Entity-I
+19 . O
 
-Additional X X O
-levels X X O
-, X X O
-in X X O
-which X X O
-carnivores X X Biotic_Entity-B
-eat X X Eventuality-B
-other X X O
-carnivores X X Biotic_Entity-B
-, X X O
-comprise X X O
-a X X O
-tertiary X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-. X X O
+1 For O
+2 instance O
+3 , O
+4 all O
+5 of O
+6 the O
+7 plants Biotic_Entity-B
+8 in O
+9 the O
+10 foodweb Aggregate_Biotic_Abiotic_Entity-B
+11 comprise O
+12 the O
+13 first O
+14 or O
+15 " O
+16 primary Biotic_Entity-B
+17 producer Biotic_Entity-I
+18 " O
+19 trophic Biotic_Entity-B
+20 level Biotic_Entity-I
+21 , O
+22 all O
+23 herbivores Biotic_Entity-B
+24 ( O
+25 Herbivory Eventuality-B
+26 ) O
+27 comprise O
+28 the O
+29 second O
+30 or O
+31 " O
+32 primary Biotic_Entity-B
+33 consumer Biotic_Entity-I
+34 " O
+35 trophic Biotic_Entity-B
+36 level Biotic_Entity-I
+37 , O
+38 and O
+39 carnivores Biotic_Entity-B
+40 that O
+41 eat Eventuality-B
+42 herbivores Biotic_Entity-B
+43 ( O
+44 Herbivory Eventuality-B
+45 ) O
+46 comprise O
+47 the O
+48 third O
+49 or O
+50 " O
+51 secondary Biotic_Entity-B
+52 consumer Biotic_Entity-I
+53 " O
+54 trophic Biotic_Entity-B
+55 level Biotic_Entity-I
+56 . O
 
-Elton X X O
-emphasized X X O
-early X X O
-on X X O
-that X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chains X X Aggregate_Biotic_Abiotic_Entity-I
-tend X X O
-to X X O
-show X X O
-characteristic X X O
-patterns X X Quality-B
-of X X O
-increasing X X Eventuality-B
-body X X Quality-B
-size X X Quality-I
-as X X O
-one X X O
-moves X X O
-up X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chain X X Aggregate_Biotic_Abiotic_Entity-I
-, X X O
-for X X O
-example X X O
-from X X O
-phytoplankton X X Biotic_Entity-B
-to X X O
-invertebrate X X Quality-B
-grazers X X Biotic_Entity-B
-to X X O
-fishes X X Biotic_Entity-B
-, X X O
-or X X O
-from X X O
-insects X X Biotic_Entity-B
-to X X O
-rodents X X Biotic_Entity-B
-to X X O
-larger X X O
-carnivores X X Biotic_Entity-B
-like X X O
-foxes X X Biotic_Entity-B
-. X X O
+1 Additional O
+2 levels O
+3 , O
+4 in O
+5 which O
+6 carnivores Biotic_Entity-B
+7 eat Eventuality-B
+8 other O
+9 carnivores Biotic_Entity-B
+10 , O
+11 comprise O
+12 a O
+13 tertiary O
+14 trophic Biotic_Entity-B
+15 level Biotic_Entity-I
+16 . O
 
-Because X X O
-individuals X X Biotic_Entity-B
-of X X O
-small-bodied X X Quality-B
-species X X Biotic_Entity-B
-require X X Eventuality-B
-less X X O
-energy X X Abiotic_Entity-B
-and X X O
-food X X Biotic_Entity-B
-than X X O
-individuals X X Biotic_Entity-B
-of X X O
-larger-bodied X X Quality-B
-species X X Biotic_Entity-B
-, X X O
-a X X O
-given X X O
-amount X X Quality-B
-of X X O
-energy X X Abiotic_Entity-B
-can X X O
-support X X Eventuality-B
-a X X O
-greater X X O
-number X X Quality-B
-of X X O
-individuals X X Biotic_Entity-B
-of X X O
-the X X O
-smaller-bodied X X Quality-B
-species X X Biotic_Entity-B
-. X X O
+1 Elton O
+2 emphasized O
+3 early O
+4 on O
+5 that O
+6 food Aggregate_Biotic_Abiotic_Entity-B
+7 chains Aggregate_Biotic_Abiotic_Entity-I
+8 tend O
+9 to O
+10 show O
+11 characteristic O
+12 patterns Quality-B
+13 of O
+14 increasing Eventuality-B
+15 body Quality-B
+16 size Quality-I
+17 as O
+18 one O
+19 moves O
+20 up O
+21 the O
+22 food Aggregate_Biotic_Abiotic_Entity-B
+23 chain Aggregate_Biotic_Abiotic_Entity-I
+24 , O
+25 for O
+26 example O
+27 from O
+28 phytoplankton Biotic_Entity-B
+29 to O
+30 invertebrate Quality-B
+31 grazers Biotic_Entity-B
+32 to O
+33 fishes Biotic_Entity-B
+34 , O
+35 or O
+36 from O
+37 insects Biotic_Entity-B
+38 to O
+39 rodents Biotic_Entity-B
+40 to O
+41 larger O
+42 carnivores Biotic_Entity-B
+43 like O
+44 foxes Biotic_Entity-B
+45 . O
 
-Hence X X O
-, X X O
-ecological X X Biotic_Entity-B
-communities X X Biotic_Entity-I
-typically X X O
-show X X O
-what X X O
-Elton X X O
-called X X O
-a X X O
-pyramid X X O
-of X X O
-numbers X X O
-( X X O
-later X X O
-dubbed X X O
-the X X O
-Eltonian X X O
-pyramid X X O
-) X X O
-, X X O
-in X X O
-which X X O
-the X X O
-species X X Biotic_Entity-B
-at X X O
-lower X X O
-trophic X X Biotic_Entity-B
-levels X X Biotic_Entity-I
-in X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-tend X X Eventuality-B
-to X X O
-be X X O
-more X X O
-numerous X X Quality-B
-than X X O
-those X X O
-at X X O
-higher X X O
-trophic X X Biotic_Entity-B
-levels X X Biotic_Entity-I
-. X X O
+1 Because O
+2 individuals Biotic_Entity-B
+3 of O
+4 small-bodied Quality-B
+5 species Biotic_Entity-B
+6 require Eventuality-B
+7 less O
+8 energy Abiotic_Entity-B
+9 and O
+10 food Biotic_Entity-B
+11 than O
+12 individuals Biotic_Entity-B
+13 of O
+14 larger-bodied Quality-B
+15 species Biotic_Entity-B
+16 , O
+17 a O
+18 given O
+19 amount Quality-B
+20 of O
+21 energy Abiotic_Entity-B
+22 can O
+23 support Eventuality-B
+24 a O
+25 greater O
+26 number Quality-B
+27 of O
+28 individuals Biotic_Entity-B
+29 of O
+30 the O
+31 smaller-bodied Quality-B
+32 species Biotic_Entity-B
+33 . O
 
-A X X O
-second X X O
-reason X X O
-for X X O
-the X X O
-pyramid X X O
-of X X O
-numbers X X O
-is X X O
-low X X Quality-B
-ecological X X Quality-B
-efficiency X X Quality-I
-: X X O
-some X X O
-energy X X Abiotic_Entity-B
-is X X O
-lost X X Eventuality-B
-at X X O
-each X X O
-transfer X X Eventuality-B
-between X X O
-consumer X X Biotic_Entity-B
-and X X O
-prey X X Biotic_Entity-B
-, X X O
-such X X O
-that X X O
-the X X O
-energy X X Abiotic_Entity-B
-that X X O
-reaches X X O
-top X X Biotic_Entity-B
-predators X X Biotic_Entity-I
-is X X O
-a X X O
-very X X O
-small X X O
-fraction X X O
-of X X O
-that X X O
-available X X Quality-B
-in X X O
-the X X O
-plants X X Biotic_Entity-B
-at X X O
-the X X O
-base X X Aggregate_Biotic_Abiotic_Entity-B
-of X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 Hence O
+2 , O
+3 ecological Biotic_Entity-B
+4 communities Biotic_Entity-I
+5 typically O
+6 show O
+7 what O
+8 Elton O
+9 called O
+10 a O
+11 pyramid O
+12 of O
+13 numbers O
+14 ( O
+15 later O
+16 dubbed O
+17 the O
+18 Eltonian O
+19 pyramid O
+20 ) O
+21 , O
+22 in O
+23 which O
+24 the O
+25 species Biotic_Entity-B
+26 at O
+27 lower O
+28 trophic Biotic_Entity-B
+29 levels Biotic_Entity-I
+30 in O
+31 the O
+32 food Aggregate_Biotic_Abiotic_Entity-B
+33 web Aggregate_Biotic_Abiotic_Entity-I
+34 tend Eventuality-B
+35 to O
+36 be O
+37 more O
+38 numerous Quality-B
+39 than O
+40 those O
+41 at O
+42 higher O
+43 trophic Biotic_Entity-B
+44 levels Biotic_Entity-I
+45 . O
 
-Although X X O
-there X X O
-is X X O
-wide X X O
-variation X X Quality-B
-among X X O
-types X X O
-of X X O
-organisms X X Biotic_Entity-B
-and X X O
-types X X O
-of X X O
-ecosystems X X Aggregate_Biotic_Abiotic_Entity-B
-, X X O
-a X X O
-general X X O
-rule X X O
-of X X O
-thumb X X O
-is X X O
-that X X O
-available X X Quality-B
-energy X X Abiotic_Entity-B
-decreases X X Eventuality-B
-by X X O
-about X X O
-an X X O
-order X X O
-of X X O
-magnitude X X O
-at X X O
-each X X O
-step X X O
-in X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chain X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 A O
+2 second O
+3 reason O
+4 for O
+5 the O
+6 pyramid O
+7 of O
+8 numbers O
+9 is O
+10 low Quality-B
+11 ecological Quality-B
+12 efficiency Quality-I
+13 : O
+14 some O
+15 energy Abiotic_Entity-B
+16 is O
+17 lost Eventuality-B
+18 at O
+19 each O
+20 transfer Eventuality-B
+21 between O
+22 consumer Biotic_Entity-B
+23 and O
+24 prey Biotic_Entity-B
+25 , O
+26 such O
+27 that O
+28 the O
+29 energy Abiotic_Entity-B
+30 that O
+31 reaches O
+32 top Biotic_Entity-B
+33 predators Biotic_Entity-I
+34 is O
+35 a O
+36 very O
+37 small O
+38 fraction O
+39 of O
+40 that O
+41 available Quality-B
+42 in O
+43 the O
+44 plants Biotic_Entity-B
+45 at O
+46 the O
+47 base Aggregate_Biotic_Abiotic_Entity-B
+48 of O
+49 the O
+50 food Aggregate_Biotic_Abiotic_Entity-B
+51 web Aggregate_Biotic_Abiotic_Entity-I
+52 . O
 
-That X X O
-is X X O
-, X X O
-only X X O
-about X X O
-10 X X Value-B
-% X X Unit-B
-of X X O
-the X X O
-energy X X Abiotic_Entity-B
-harvested X X Eventuality-B
-by X X O
-plants X X Biotic_Entity-B
-is X X O
-consumed X X Eventuality-B
-and X X O
-converted X X Eventuality-B
-into X X O
-herbivore X X Biotic_Entity-B
-biomass X X Biotic_Entity-I
-, X X O
-only X X O
-10 X X Value-B
-% X X Unit-B
-of X X O
-that X X O
-makes X X O
-it X X O
-into X X O
-biomass X X Biotic_Entity-B
-of X X O
-primary X X Biotic_Entity-B
-carnivores X X Biotic_Entity-I
-, X X O
-and X X O
-so X X O
-on X X O
-. X X O
+1 Although O
+2 there O
+3 is O
+4 wide O
+5 variation Quality-B
+6 among O
+7 types O
+8 of O
+9 organisms Biotic_Entity-B
+10 and O
+11 types O
+12 of O
+13 ecosystems Aggregate_Biotic_Abiotic_Entity-B
+14 , O
+15 a O
+16 general O
+17 rule O
+18 of O
+19 thumb O
+20 is O
+21 that O
+22 available Quality-B
+23 energy Abiotic_Entity-B
+24 decreases Eventuality-B
+25 by O
+26 about O
+27 an O
+28 order O
+29 of O
+30 magnitude O
+31 at O
+32 each O
+33 step O
+34 in O
+35 the O
+36 food Aggregate_Biotic_Abiotic_Entity-B
+37 chain Aggregate_Biotic_Abiotic_Entity-I
+38 . O
 
-Thus X X O
-, X X O
-the X X O
-structure X X Quality-B
-of X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-is X X O
-dictated X X O
-in X X O
-part X X O
-by X X O
-basic X X Quality-B
-constraints X X Eventuality-B
-set X X O
-by X X O
-thermodynamics X X Eventuality-B
-. X X O
+1 That O
+2 is O
+3 , O
+4 only O
+5 about O
+6 10 Value-B
+7 % Unit-B
+8 of O
+9 the O
+10 energy Abiotic_Entity-B
+11 harvested Eventuality-B
+12 by O
+13 plants Biotic_Entity-B
+14 is O
+15 consumed Eventuality-B
+16 and O
+17 converted Eventuality-B
+18 into O
+19 herbivore Biotic_Entity-B
+20 biomass Biotic_Entity-I
+21 , O
+22 only O
+23 10 Value-B
+24 % Unit-B
+25 of O
+26 that O
+27 makes O
+28 it O
+29 into O
+30 biomass Biotic_Entity-B
+31 of O
+32 primary Biotic_Entity-B
+33 carnivores Biotic_Entity-I
+34 , O
+35 and O
+36 so O
+37 on O
+38 . O
 
-The X X O
-predictable X X O
-dissipation X X Eventuality-B
-of X X O
-energy X X Abiotic_Entity-B
-at X X O
-each X X O
-step X X O
-in X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chains X X Aggregate_Biotic_Abiotic_Entity-I
-is X X O
-one X X O
-of X X O
-the X X O
-factors X X O
-thought X X O
-to X X O
-limit X X Eventuality-B
-the X X O
-length X X Quality-B
-of X X O
-most X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-chains X X Aggregate_Biotic_Abiotic_Entity-I
-to X X O
-a X X O
-maximum X X O
-of X X O
-four X X O
-or X X O
-five X X O
-steps X X O
-. X X O
+1 Thus O
+2 , O
+3 the O
+4 structure Quality-B
+5 of O
+6 food Aggregate_Biotic_Abiotic_Entity-B
+7 webs Aggregate_Biotic_Abiotic_Entity-I
+8 is O
+9 dictated O
+10 in O
+11 part O
+12 by O
+13 basic Quality-B
+14 constraints Eventuality-B
+15 set O
+16 by O
+17 thermodynamics Eventuality-B
+18 . O
 
-Cohen X X O
-et X X O
-al X X O
-. X X O
+1 The O
+2 predictable O
+3 dissipation Eventuality-B
+4 of O
+5 energy Abiotic_Entity-B
+6 at O
+7 each O
+8 step O
+9 in O
+10 food Aggregate_Biotic_Abiotic_Entity-B
+11 chains Aggregate_Biotic_Abiotic_Entity-I
+12 is O
+13 one O
+14 of O
+15 the O
+16 factors O
+17 thought O
+18 to O
+19 limit Eventuality-B
+20 the O
+21 length Quality-B
+22 of O
+23 most O
+24 food Aggregate_Biotic_Abiotic_Entity-B
+25 chains Aggregate_Biotic_Abiotic_Entity-I
+26 to O
+27 a O
+28 maximum O
+29 of O
+30 four O
+31 or O
+32 five O
+33 steps O
+34 . O
 
-( X X O
-2003 X X O
-) X X O
-emphasized X X O
-that X X O
-the X X O
-correlations X X O
-among X X O
-body X X Quality-B
-size X X Quality-I
-, X X O
-abundance X X Quality-B
-, X X O
-and X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-produce X X O
-a X X O
-characteristic X X O
-trivariate X X Quality-B
-structure X X Quality-B
-to X X O
-( X X O
-pelagic X X Quality-B
-) X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 Cohen O
+2 et O
+3 al O
+4 . O
 
-The X X O
-pyramid X X O
-of X X O
-numbers X X O
-is X X O
-less X X O
-obvious X X O
-at X X O
-the X X O
-most X X O
-basal X X O
-levels X X O
-in X X O
-terrestrial X X Quality-B
-communities X X Biotic_Entity-B
-based X X O
-on X X O
-trees X X Biotic_Entity-B
-, X X O
-which X X O
-are X X O
-typically X X O
-much X X O
-larger X X O
-than X X O
-the X X O
-herbivores X X Biotic_Entity-B
-( X X O
-Herbivory X X Eventuality-B
-) X X O
-that X X O
-feed X X Eventuality-B
-on X X Eventuality-I
-them X X O
-. X X O
+1 ( O
+2 2003 O
+3 ) O
+4 emphasized O
+5 that O
+6 the O
+7 correlations O
+8 among O
+9 body Quality-B
+10 size Quality-I
+11 , O
+12 abundance Quality-B
+13 , O
+14 and O
+15 trophic Biotic_Entity-B
+16 level Biotic_Entity-I
+17 produce O
+18 a O
+19 characteristic O
+20 trivariate Quality-B
+21 structure Quality-B
+22 to O
+23 ( O
+24 pelagic Quality-B
+25 ) O
+26 food Aggregate_Biotic_Abiotic_Entity-B
+27 webs Aggregate_Biotic_Abiotic_Entity-I
+28 . O
 
-Pyramids X X O
-of X X O
-numbers X X O
-or X X O
-biomass X X Quality-B
-may X X O
-even X X O
-be X X O
-inverted X X O
-in X X O
-cases X X O
-where X X O
-the X X O
-microscopic X X Quality-B
-plants X X Biotic_Entity-B
-that X X O
-support X X Eventuality-B
-the X X O
-web X X Aggregate_Biotic_Abiotic_Entity-B
-show X X O
-very X X O
-rapid X X Quality-B
-turnover X X Eventuality-B
-, X X O
-that X X O
-is X X O
-, X X O
-where X X O
-they X X O
-grow X X Eventuality-B
-and X X O
-are X X O
-eaten X X Eventuality-B
-so X X O
-rapidly X X Quality-B
-that X X O
-there X X O
-is X X O
-less X X O
-plant X X Biotic_Entity-B
-biomass X X Biotic_Entity-I
-than X X O
-herbivore X X Biotic_Entity-B
-biomass X X Biotic_Entity-I
-present X X Quality-B
-at X X O
-a X X O
-given X X O
-time X X Time-B
-. X X O
+1 The O
+2 pyramid O
+3 of O
+4 numbers O
+5 is O
+6 less O
+7 obvious O
+8 at O
+9 the O
+10 most O
+11 basal O
+12 levels O
+13 in O
+14 terrestrial Quality-B
+15 communities Biotic_Entity-B
+16 based O
+17 on O
+18 trees Biotic_Entity-B
+19 , O
+20 which O
+21 are O
+22 typically O
+23 much O
+24 larger O
+25 than O
+26 the O
+27 herbivores Biotic_Entity-B
+28 ( O
+29 Herbivory Eventuality-B
+30 ) O
+31 that O
+32 feed Eventuality-B
+33 on Eventuality-I
+34 them O
+35 . O
 
-Decomposers X X Biotic_Entity-B
-are X X O
-an X X O
-assemblage X X Biotic_Entity-B
-of X X O
-small X X Quality-B
-organisms X X Biotic_Entity-B
-, X X O
-including X X O
-invertebrates X X Biotic_Entity-B
-, X X O
-fungi X X Biotic_Entity-B
-, X X O
-and X X O
-bacteria X X Biotic_Entity-B
-, X X O
-that X X O
-do X X O
-not X X O
-fit X X O
-neatly X X O
-into X X O
-any X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-because X X O
-they X X O
-consume X X Eventuality-B
-dead X X Eventuality-B
-biomass X X Biotic_Entity-B
-of X X O
-organisms X X Biotic_Entity-B
-from X X O
-all X X O
-trophic X X Biotic_Entity-B
-levels X X Biotic_Entity-I
-. X X O
+1 Pyramids O
+2 of O
+3 numbers O
+4 or O
+5 biomass Quality-B
+6 may O
+7 even O
+8 be O
+9 inverted O
+10 in O
+11 cases O
+12 where O
+13 the O
+14 microscopic Quality-B
+15 plants Biotic_Entity-B
+16 that O
+17 support Eventuality-B
+18 the O
+19 web Aggregate_Biotic_Abiotic_Entity-B
+20 show O
+21 very O
+22 rapid Quality-B
+23 turnover Eventuality-B
+24 , O
+25 that O
+26 is O
+27 , O
+28 where O
+29 they O
+30 grow Eventuality-B
+31 and O
+32 are O
+33 eaten Eventuality-B
+34 so O
+35 rapidly Quality-B
+36 that O
+37 there O
+38 is O
+39 less O
+40 plant Biotic_Entity-B
+41 biomass Biotic_Entity-I
+42 than O
+43 herbivore Biotic_Entity-B
+44 biomass Biotic_Entity-I
+45 present Quality-B
+46 at O
+47 a O
+48 given O
+49 time Time-B
+50 . O
 
-Decomposers X X Biotic_Entity-B
-are X X O
-a X X O
-critical X X O
-component X X O
-of X X O
-the X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-, X X O
-however X X O
-, X X O
-because X X O
-they X X O
-recycle X X Eventuality-B
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-that X X O
-otherwise X X O
-would X X O
-become X X Eventuality-B
-sequestered X X Eventuality-B
-in X X O
-accumulating X X Eventuality-B
-detritus X X Aggregate_Biotic_Abiotic_Entity-B
-. X X O
+1 Decomposers Biotic_Entity-B
+2 are O
+3 an O
+4 assemblage Biotic_Entity-B
+5 of O
+6 small Quality-B
+7 organisms Biotic_Entity-B
+8 , O
+9 including O
+10 invertebrates Biotic_Entity-B
+11 , O
+12 fungi Biotic_Entity-B
+13 , O
+14 and O
+15 bacteria Biotic_Entity-B
+16 , O
+17 that O
+18 do O
+19 not O
+20 fit O
+21 neatly O
+22 into O
+23 any O
+24 trophic Biotic_Entity-B
+25 level Biotic_Entity-I
+26 because O
+27 they O
+28 consume Eventuality-B
+29 dead Eventuality-B
+30 biomass Biotic_Entity-B
+31 of O
+32 organisms Biotic_Entity-B
+33 from O
+34 all O
+35 trophic Biotic_Entity-B
+36 levels Biotic_Entity-I
+37 . O
+
+1 Decomposers Biotic_Entity-B
+2 are O
+3 a O
+4 critical O
+5 component O
+6 of O
+7 the O
+8 food Aggregate_Biotic_Abiotic_Entity-B
+9 web Aggregate_Biotic_Abiotic_Entity-I
+10 , O
+11 however O
+12 , O
+13 because O
+14 they O
+15 recycle Eventuality-B
+16 nutrients Aggregate_Biotic_Abiotic_Entity-B
+17 that O
+18 otherwise O
+19 would O
+20 become Eventuality-B
+21 sequestered Eventuality-B
+22 in O
+23 accumulating Eventuality-B
+24 detritus Aggregate_Biotic_Abiotic_Entity-B
+25 . O
 

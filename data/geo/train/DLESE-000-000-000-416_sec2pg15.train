@@ -1,428 +1,428 @@
--DOCSTART- -X- O O
+1 Page O
+2 15 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 What O
+10 's O
+11 a O
+12 Foreshock Eventuality-B
+13 ? O
 
-Page X X O
-15 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-What X X O
-'s X X O
-a X X O
-Foreshock X X Eventuality-B
-? X X O
+1 ! O
 
-! X X O
+1 Foreshocks Eventuality-B
+2 are O
+3 those O
+4 earthquakes Eventuality-B
+5 which O
+6 occur O
+7 immediately O
+8 preceeding O
+9 a O
+10 mainshock Eventuality-B
+11 in O
+12 the O
+13 exact O
+14 same O
+15 area Environment_Context-B
+16 in O
+17 which O
+18 the O
+19 mainshock Eventuality-B
+20 occurs O
+21 . O
 
-Foreshocks X X Eventuality-B
-are X X O
-those X X O
-earthquakes X X Eventuality-B
-which X X O
-occur X X O
-immediately X X O
-preceeding X X O
-a X X O
-mainshock X X Eventuality-B
-in X X O
-the X X O
-exact X X O
-same X X O
-area X X Environment_Context-B
-in X X O
-which X X O
-the X X O
-mainshock X X Eventuality-B
-occurs X X O
-. X X O
+1 Foreshocks Eventuality-B
+2 may O
+3 come O
+4 in O
+5 groups O
+6 , O
+7 or O
+8 be O
+9 single Value-B
+10 events Eventuality-B
+11 . O
 
-Foreshocks X X Eventuality-B
-may X X O
-come X X O
-in X X O
-groups X X O
-, X X O
-or X X O
-be X X O
-single X X Value-B
-events X X Eventuality-B
-. X X O
+1 The O
+2 time O
+3 between O
+4 the O
+5 last Time-B
+6 foreshock Eventuality-B
+7 and O
+8 the O
+9 mainshock Eventuality-B
+10 varies O
+11 somewhat O
+12 , O
+13 but O
+14 is O
+15 typically O
+16 less Time-B
+17 than Time-I
+18 a Time-I
+19 day Time-I
+20 . O
 
-The X X O
-time X X O
-between X X O
-the X X O
-last X X Time-B
-foreshock X X Eventuality-B
-and X X O
-the X X O
-mainshock X X Eventuality-B
-varies X X O
-somewhat X X O
-, X X O
-but X X O
-is X X O
-typically X X O
-less X X Time-B
-than X X Time-I
-a X X Time-I
-day X X Time-I
-. X X O
+1 To O
+2 see O
+3 an O
+4 example O
+5 of O
+6 this O
+7 type O
+8 of O
+9 event Eventuality-B
+10 in O
+11 the O
+12 real O
+13 world O
+14 , O
+15 let O
+16 's O
+17 look O
+18 again O
+19 at O
+20 the O
+21 chart O
+22 of O
+23 earthquakes Eventuality-B
+24 for O
+25 April Time-B
+26 22 Time-I
+27 , Time-I
+28 1992 Time-I
+29 , O
+30 but O
+31 this O
+32 time O
+33 , O
+34 let O
+35 's O
+36 pay O
+37 attention O
+38 to O
+39 what O
+40 happened O
+41 before O
+42 the O
+43 Joshua Location-B
+44 Tree Location-I
+45 mainshock Eventuality-B
+46 . O
 
-To X X O
-see X X O
-an X X O
-example X X O
-of X X O
-this X X O
-type X X O
-of X X O
-event X X Eventuality-B
-in X X O
-the X X O
-real X X O
-world X X O
-, X X O
-let X X O
-'s X X O
-look X X O
-again X X O
-at X X O
-the X X O
-chart X X O
-of X X O
-earthquakes X X Eventuality-B
-for X X O
-April X X Time-B
-22 X X Time-I
-, X X Time-I
-1992 X X Time-I
-, X X O
-but X X O
-this X X O
-time X X O
-, X X O
-let X X O
-'s X X O
-pay X X O
-attention X X O
-to X X O
-what X X O
-happened X X O
-before X X O
-the X X O
-Joshua X X Location-B
-Tree X X Location-I
-mainshock X X Eventuality-B
-. X X O
+1 There O
+2 were O
+3 three Value-B
+4 events Eventuality-B
+5 above O
+6 M Unit-B
+7 3.0 Value-B
+8 that O
+9 day O
+10 before O
+11 the O
+12 Joshua Location-B
+13 Tree Location-I
+14 earthquake Eventuality-B
+15 . O
 
-There X X O
-were X X O
-three X X Value-B
-events X X Eventuality-B
-above X X O
-M X X Unit-B
-3.0 X X Value-B
-that X X O
-day X X O
-before X X O
-the X X O
-Joshua X X Location-B
-Tree X X Location-I
-earthquake X X Eventuality-B
-. X X O
+1 The O
+2 first O
+3 happened O
+4 on O
+5 the O
+6 other O
+7 side O
+8 of O
+9 the O
+10 state O
+11 , O
+12 and O
+13 is O
+14 unrelated O
+15 . O
 
-The X X O
-first X X O
-happened X X O
-on X X O
-the X X O
-other X X O
-side X X O
-of X X O
-the X X O
-state X X O
-, X X O
-and X X O
-is X X O
-unrelated X X O
-. X X O
+1 But O
+2 as O
+3 you O
+4 can O
+5 see O
+6 , O
+7 the O
+8 M Unit-B
+9 6.1 Value-B
+10 mainshock Eventuality-B
+11 occurred O
+12 in O
+13 exactly O
+14 the O
+15 same O
+16 location O
+17 as O
+18 , O
+19 and O
+20 about O
+21 two O
+22 hours O
+23 after O
+24 , O
+25 the O
+26 two Value-B
+27 earthquakes Eventuality-B
+28 preceding O
+29 it O
+30 . O
 
-But X X O
-as X X O
-you X X O
-can X X O
-see X X O
-, X X O
-the X X O
-M X X Unit-B
-6.1 X X Value-B
-mainshock X X Eventuality-B
-occurred X X O
-in X X O
-exactly X X O
-the X X O
-same X X O
-location X X O
-as X X O
-, X X O
-and X X O
-about X X O
-two X X O
-hours X X O
-after X X O
-, X X O
-the X X O
-two X X Value-B
-earthquakes X X Eventuality-B
-preceding X X O
-it X X O
-. X X O
+1 These O
+2 earthquakes Eventuality-B
+3 can O
+4 therefore O
+5 be O
+6 considered O
+7 foreshocks Eventuality-B
+8 of O
+9 the O
+10 Joshua Location-B
+11 Tree Location-I
+12 earthquake Eventuality-B
+13 . O
 
-These X X O
-earthquakes X X Eventuality-B
-can X X O
-therefore X X O
-be X X O
-considered X X O
-foreshocks X X Eventuality-B
-of X X O
-the X X O
-Joshua X X Location-B
-Tree X X Location-I
-earthquake X X Eventuality-B
-. X X O
+1 There O
+2 is O
+3 nothing O
+4 intrinsically O
+5 characteristic O
+6 about O
+7 foreshocks Eventuality-B
+8 , O
+9 mainshocks Eventuality-B
+10 , O
+11 and O
+12 aftershocks Eventuality-B
+13 - O
+14 - O
+15 that O
+16 is O
+17 , O
+18 if O
+19 you O
+20 looked O
+21 at O
+22 the O
+23 records O
+24 ( O
+25 seismograms O
+26 ) O
+27 of O
+28 them O
+29 " O
+30 out O
+31 of O
+32 context O
+33 " O
+34 , O
+35 with O
+36 no O
+37 clues O
+38 as O
+39 to O
+40 which O
+41 were O
+42 followed O
+43 or O
+44 preceeded O
+45 by O
+46 other O
+47 events Eventuality-B
+48 , O
+49 you O
+50 could O
+51 never O
+52 hope O
+53 to O
+54 categorize O
+55 them O
+56 correctly O
+57 . O
 
-There X X O
-is X X O
-nothing X X O
-intrinsically X X O
-characteristic X X O
-about X X O
-foreshocks X X Eventuality-B
-, X X O
-mainshocks X X Eventuality-B
-, X X O
-and X X O
-aftershocks X X Eventuality-B
--- X X O
-that X X O
-is X X O
-, X X O
-if X X O
-you X X O
-looked X X O
-at X X O
-the X X O
-records X X O
-( X X O
-seismograms X X O
-) X X O
-of X X O
-them X X O
-" X X O
-out X X O
-of X X O
-context X X O
-" X X O
-, X X O
-with X X O
-no X X O
-clues X X O
-as X X O
-to X X O
-which X X O
-were X X O
-followed X X O
-or X X O
-preceeded X X O
-by X X O
-other X X O
-events X X Eventuality-B
-, X X O
-you X X O
-could X X O
-never X X O
-hope X X O
-to X X O
-categorize X X O
-them X X O
-correctly X X O
-. X X O
+1 They O
+2 would O
+3 all O
+4 look O
+5 essentially O
+6 the O
+7 same O
+8 ; O
+9 none O
+10 would O
+11 have O
+12 distinguishing O
+13 features Trait-B
+14 that O
+15 would O
+16 let O
+17 you O
+18 know O
+19 its O
+20 relation O
+21 to O
+22 other O
+23 events Eventuality-B
+24 . O
 
-They X X O
-would X X O
-all X X O
-look X X O
-essentially X X O
-the X X O
-same X X O
-; X X O
-none X X O
-would X X O
-have X X O
-distinguishing X X O
-features X X Trait-B
-that X X O
-would X X O
-let X X O
-you X X O
-know X X O
-its X X O
-relation X X O
-to X X O
-other X X O
-events X X Eventuality-B
-. X X O
+1 Even O
+2 magnitude Trait-B
+3 wouldn O
+4 't O
+5 let O
+6 you O
+7 distinguish O
+8 with O
+9 certainty O
+10 . O
 
-Even X X O
-magnitude X X Trait-B
-would X X O
-n't X X O
-let X X O
-you X X O
-distinguish X X O
-with X X O
-certainty X X O
-. X X O
+1 Foreshocks Eventuality-B
+2 and O
+3 aftershocks Eventuality-B
+4 of O
+5 very O
+6 large Trait-B
+7 events Eventuality-B
+8 can O
+9 be O
+10 larger O
+11 than O
+12 a O
+13 moderate Trait-B
+14 mainshock Eventuality-B
+15 . O
 
-Foreshocks X X Eventuality-B
-and X X O
-aftershocks X X Eventuality-B
-of X X O
-very X X O
-large X X Trait-B
-events X X Eventuality-B
-can X X O
-be X X O
-larger X X O
-than X X O
-a X X O
-moderate X X Trait-B
-mainshock X X Eventuality-B
-. X X O
+1 Thus O
+2 , O
+3 foreshocks Eventuality-B
+4 can O
+5 not O
+6 be O
+7 positively O
+8 identified O
+9 as O
+10 foreshocks Eventuality-B
+11 until O
+12 after O
+13 the O
+14 mainshock Eventuality-B
+15 has O
+16 occurred O
+17 . O
 
-Thus X X O
-, X X O
-foreshocks X X Eventuality-B
-can X X O
-not X X O
-be X X O
-positively X X O
-identified X X O
-as X X O
-foreshocks X X Eventuality-B
-until X X O
-after X X O
-the X X O
-mainshock X X Eventuality-B
-has X X O
-occurred X X O
-. X X O
+1 Even O
+2 then O
+3 , O
+4 the O
+5 " O
+6 mainshock Eventuality-B
+7 " O
+8 will O
+9 sometimes O
+10 prove O
+11 to O
+12 be O
+13 a O
+14 large Trait-B
+15 foreshock Eventuality-B
+16 of O
+17 an O
+18 even O
+19 bigger O
+20 earthquake Eventuality-B
+21 , O
+22 which O
+23 will O
+24 then O
+25 assume O
+26 the O
+27 position O
+28 of O
+29 the O
+30 mainshock Eventuality-B
+31 in O
+32 that O
+33 earthquake Eventuality-B
+34 sequence Eventuality-I
+35 . O
 
-Even X X O
-then X X O
-, X X O
-the X X O
-" X X O
-mainshock X X Eventuality-B
-" X X O
-will X X O
-sometimes X X O
-prove X X O
-to X X O
-be X X O
-a X X O
-large X X Trait-B
-foreshock X X Eventuality-B
-of X X O
-an X X O
-even X X O
-bigger X X O
-earthquake X X Eventuality-B
-, X X O
-which X X O
-will X X O
-then X X O
-assume X X O
-the X X O
-position X X O
-of X X O
-the X X O
-mainshock X X Eventuality-B
-in X X O
-that X X O
-earthquake X X Eventuality-B
-sequence X X Eventuality-I
-. X X O
+1 An O
+2 important O
+3 thing O
+4 to O
+5 keep O
+6 in O
+7 mind O
+8 is O
+9 that O
+10 while O
+11 all O
+12 events Eventuality-B
+13 above O
+14 a O
+15 certain O
+16 magnitude Trait-B
+17 will O
+18 have O
+19 aftershocks Eventuality-B
+20 , O
+21 foreshocks Eventuality-B
+22 do O
+23 not O
+24 always O
+25 occur O
+26 before O
+27 large Trait-B
+28 earthquakes Eventuality-B
+29 . O
 
-An X X O
-important X X O
-thing X X O
-to X X O
-keep X X O
-in X X O
-mind X X O
-is X X O
-that X X O
-while X X O
-all X X O
-events X X Eventuality-B
-above X X O
-a X X O
-certain X X O
-magnitude X X Trait-B
-will X X O
-have X X O
-aftershocks X X Eventuality-B
-, X X O
-foreshocks X X Eventuality-B
-do X X O
-not X X O
-always X X O
-occur X X O
-before X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-. X X O
+1 This O
+2 will O
+3 be O
+4 important O
+5 when O
+6 we O
+7 discuss O
+8 the O
+9 possibilities O
+10 of O
+11 earthquake Eventuality-B
+12 prediction O
+13 later O
+14 in O
+15 this O
+16 section O
+17 . O
 
-This X X O
-will X X O
-be X X O
-important X X O
-when X X O
-we X X O
-discuss X X O
-the X X O
-possibilities X X O
-of X X O
-earthquake X X Eventuality-B
-prediction X X O
-later X X O
-in X X O
-this X X O
-section X X O
-. X X O
-
-For X X O
-now X X O
-, X X O
-let X X O
-'s X X O
-return X X O
-to X X O
-our X X O
-investigation X X O
-of X X O
-seismicity X X Trait-B
-rates X X Trait-I
-and X X O
-those X X O
-things X X O
-that X X O
-can X X O
-affect X X O
-them X X O
-. X X O
+1 For O
+2 now O
+3 , O
+4 let O
+5 's O
+6 return O
+7 to O
+8 our O
+9 investigation O
+10 of O
+11 seismicity Trait-B
+12 rates Trait-I
+13 and O
+14 those O
+15 things O
+16 that O
+17 can O
+18 affect O
+19 them O
+20 . O
 

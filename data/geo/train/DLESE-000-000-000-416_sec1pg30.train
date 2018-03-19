@@ -1,232 +1,237 @@
--DOCSTART- -X- O O
+1 Page O
+2 30 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-30 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 " O
+2 How O
+3 does O
+4 this O
+5 complexity Trait-B
+6 affect Eventuality-B
+7 the O
+8 slip Trait-B
+9 rates Trait-I
+10 of O
+11 these O
+12 faults Environment_Context-B
+13 ? O
 
-" X X O
-How X X O
-does X X O
-this X X O
-complexity X X Trait-B
-affect X X Eventuality-B
-the X X O
-slip X X Trait-B
-rates X X Trait-I
-of X X O
-these X X O
-faults X X Environment_Context-B
-? X X O
+1 " O
+2 Indeed O
+3 , O
+4 such O
+5 complexity Trait-B
+6 does O
+7 seem O
+8 to O
+9 have O
+10 an O
+11 impact Eventuality-B
+12 upon O
+13 the O
+14 slip Trait-B
+15 rates Trait-I
+16 of O
+17 the O
+18 major Environment_Context-B
+19 faults Environment_Context-I
+20 . O
 
-" X X O
-Indeed X X O
-, X X O
-such X X O
-complexity X X Trait-B
-does X X O
-seem X X O
-to X X O
-have X X O
-an X X O
-impact X X Eventuality-B
-upon X X O
-the X X O
-slip X X Trait-B
-rates X X Trait-I
-of X X O
-the X X O
-major X X Environment_Context-B
-faults X X Environment_Context-I
-. X X O
+1 Where O
+2 slip Eventuality-B
+3 is O
+4 drawn O
+5 off O
+6 of O
+7 the O
+8 main Environment_Context-B
+9 plate Environment_Context-I
+10 boundary Environment_Context-I
+11 ( O
+12 the O
+13 San Environment_Context-B
+14 Andreas Environment_Context-I
+15 fault Environment_Context-I
+16 zone Environment_Context-I
+17 ) O
+18 and O
+19 onto Direction-B
+20 other O
+21 faults Environment_Context-B
+22 and O
+23 shear Environment_Context-B
+24 zones Environment_Context-I
+25 with O
+26 a O
+27 similar O
+28 sense Trait-B
+29 of Trait-I
+30 slip Trait-I
+31 , O
+32 the O
+33 slip Trait-B
+34 rate Trait-I
+35 along Direction-B
+36 the O
+37 main Environment_Context-B
+38 boundary Environment_Context-I
+39 tends O
+40 to O
+41 decrease Eventuality-B
+42 . O
 
-Where X X O
-slip X X Eventuality-B
-is X X O
-drawn X X O
-off X X O
-of X X O
-the X X O
-main X X Environment_Context-B
-plate X X Environment_Context-I
-boundary X X Environment_Context-I
-( X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-zone X X Environment_Context-I
-) X X O
-and X X O
-onto X X Direction-B
-other X X O
-faults X X Environment_Context-B
-and X X O
-shear X X Environment_Context-B
-zones X X Environment_Context-I
-with X X O
-a X X O
-similar X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-, X X O
-the X X O
-slip X X Trait-B
-rate X X Trait-I
-along X X Direction-B
-the X X O
-main X X Environment_Context-B
-boundary X X Environment_Context-I
-tends X X O
-to X X O
-decrease X X Eventuality-B
-. X X O
+1 The O
+2 total O
+3 relative Eventuality-B
+4 motion Eventuality-I
+5 between Direction-B
+6 the O
+7 two Value-B
+8 plates Environment_Context-B
+9 , O
+10 however O
+11 , O
+12 always O
+13 remains O
+14 constant Trait-B
+15 . O
 
-The X X O
-total X X O
-relative X X Eventuality-B
-motion X X Eventuality-I
-between X X Direction-B
-the X X O
-two X X Value-B
-plates X X Environment_Context-B
-, X X O
-however X X O
-, X X O
-always X X O
-remains X X O
-constant X X Trait-B
-. X X O
+1 The O
+2 same O
+3 thing O
+4 is O
+5 true O
+6 on O
+7 a O
+8 smaller O
+9 scale O
+10 . O
 
-The X X O
-same X X O
-thing X X O
-is X X O
-true X X O
-on X X O
-a X X O
-smaller X X O
-scale X X O
-. X X O
+1 Suppose O
+2 a O
+3 certain O
+4 fault Environment_Context-B
+5 has O
+6 a O
+7 ( O
+8 right-lateral Direction-B
+9 ) O
+10 slip Trait-B
+11 rate Trait-I
+12 of O
+13 8 Value-B
+14 mm Unit-B
+15 / Unit-I
+16 yr Unit-I
+17 . O
 
-Suppose X X O
-a X X O
-certain X X O
-fault X X Environment_Context-B
-has X X O
-a X X O
-( X X O
-right-lateral X X Direction-B
-) X X O
-slip X X Trait-B
-rate X X Trait-I
-of X X O
-8 X X Value-B
-mm/yr X X Unit-B
-. X X O
+1 Now O
+2 , O
+3 imagine O
+4 splitting O
+5 that O
+6 fault Environment_Context-B
+7 into O
+8 two Value-B
+9 parallel Direction-B
+10 faults Environment_Context-B
+11 somewhere O
+12 along Direction-B
+13 its O
+14 length Trait-B
+15 , O
+16 and O
+17 then O
+18 rejoining O
+19 them O
+20 . O
 
-Now X X O
-, X X O
-imagine X X O
-splitting X X O
-that X X O
-fault X X Environment_Context-B
-into X X O
-two X X Value-B
-parallel X X Direction-B
-faults X X Environment_Context-B
-somewhere X X O
-along X X Direction-B
-its X X O
-length X X Trait-B
-, X X O
-and X X O
-then X X O
-rejoining X X O
-them X X O
-. X X O
+1 Anywhere O
+2 you O
+3 cross O
+4 this O
+5 zone Environment_Context-B
+6 of O
+7 faulting Environment_Context-B
+8 , O
+9 you O
+10 must O
+11 cross O
+12 8 Value-B
+13 mm Unit-B
+14 / Unit-I
+15 yr Unit-I
+16 of O
+17 right-lateral Direction-B
+18 slip Eventuality-B
+19 . O
 
-Anywhere X X O
-you X X O
-cross X X O
-this X X O
-zone X X Environment_Context-B
-of X X O
-faulting X X Environment_Context-B
-, X X O
-you X X O
-must X X O
-cross X X O
-8 X X Value-B
-mm/yr X X Unit-B
-of X X O
-right-lateral X X Direction-B
-slip X X Eventuality-B
-. X X O
+1 Thus O
+2 , O
+3 the O
+4 combined O
+5 slip Trait-B
+6 rate Trait-I
+7 of O
+8 the O
+9 " O
+10 split O
+11 " O
+12 , O
+13 parallel Direction-B
+14 faults Environment_Context-B
+15 must O
+16 be O
+17 8 Value-B
+18 mm Unit-B
+19 / Unit-I
+20 yr Unit-I
+21 , O
+22 regardless O
+23 of O
+24 what O
+25 each O
+26 individual O
+27 slip Trait-B
+28 rate Trait-I
+29 is O
+30 . O
 
-Thus X X O
-, X X O
-the X X O
-combined X X O
-slip X X Trait-B
-rate X X Trait-I
-of X X O
-the X X O
-" X X O
-split X X O
-" X X O
-, X X O
-parallel X X Direction-B
-faults X X Environment_Context-B
-must X X O
-be X X O
-8 X X Value-B
-mm/yr X X Unit-B
-, X X O
-regardless X X O
-of X X O
-what X X O
-each X X O
-individual X X O
-slip X X Trait-B
-rate X X Trait-I
-is X X O
-. X X O
-
-In X X O
-this X X O
-way X X O
-, X X O
-a X X O
-larger X X O
-amount X X O
-of X X O
-slip X X Eventuality-B
-can X X O
-be X X O
-partitioned X X O
-among X X O
-several X X Value-B
-different X X O
-faults X X Environment_Context-B
-to X X O
-accomplish X X O
-the X X O
-same X X O
-overall X X O
-motion X X Eventuality-B
-as X X O
-a X X O
-single X X Value-B
-fault X X Environment_Context-B
-of X X O
-higher X X O
-slip X X Trait-B
-rate X X Trait-I
-. X X O
+1 In O
+2 this O
+3 way O
+4 , O
+5 a O
+6 larger O
+7 amount O
+8 of O
+9 slip Eventuality-B
+10 can O
+11 be O
+12 partitioned O
+13 among O
+14 several Value-B
+15 different O
+16 faults Environment_Context-B
+17 to O
+18 accomplish O
+19 the O
+20 same O
+21 overall O
+22 motion Eventuality-B
+23 as O
+24 a O
+25 single Value-B
+26 fault Environment_Context-B
+27 of O
+28 higher O
+29 slip Trait-B
+30 rate Trait-I
+31 . O
 

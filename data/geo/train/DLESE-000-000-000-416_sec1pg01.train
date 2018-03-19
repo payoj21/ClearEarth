@@ -1,334 +1,336 @@
--DOCSTART- -X- O O
+1 What O
+2 is O
+3 an O
+4 Earthquake Eventuality-B
+5 ? O
 
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 - O
+2 - O
+3 Page O
+4 1 O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
--- X X O
-Page X X O
-1 X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 The O
+2 basic O
+3 facts O
+4 of O
+5 seismology Eventuality-B
+6 Earthquake Eventuality-B
+7 ! O
 
-The X X O
-basic X X O
-facts X X O
-of X X O
-seismology X X Eventuality-B
-Earthquake X X Eventuality-B
-! X X O
+1 : O
+2 When O
+3 the O
+4 ground Environment_Context-B
+5 starts Eventuality-B
+6 to O
+7 shake Eventuality-B
+8 ! O
 
-: X X O
-When X X O
-the X X O
-ground X X Environment_Context-B
-starts X X Eventuality-B
-to X X O
-shake X X Eventuality-B
-! X X O
+1 You O
+2 're O
+3 going O
+4 about O
+5 your O
+6 normal O
+7 daily O
+8 routine O
+9 when O
+10 suddenly Time-B
+11 , O
+12 something O
+13 is O
+14 not O
+15 quite O
+16 right O
+17 . O
 
-You X X O
-'re X X O
-going X X O
-about X X O
-your X X O
-normal X X O
-daily X X O
-routine X X O
-when X X O
-suddenly X X Time-B
-, X X O
-something X X O
-is X X O
-not X X O
-quite X X O
-right X X O
-. X X O
+1 It O
+2 may O
+3 be O
+4 frighteningly O
+5 obvious O
+6 , O
+7 like O
+8 watching O
+9 your O
+10 shelves O
+11 emptied O
+12 by O
+13 a O
+14 sudden O
+15 and O
+16 violent O
+17 shaking O
+18 that O
+19 stops O
+20 just O
+21 as O
+22 mysteriously O
+23 as O
+24 it O
+25 began O
+26 . O
 
-It X X O
-may X X O
-be X X O
-frighteningly X X O
-obvious X X O
-, X X O
-like X X O
-watching X X O
-your X X O
-shelves X X O
-emptied X X O
-by X X O
-a X X O
-sudden X X O
-and X X O
-violent X X O
-shaking X X O
-that X X O
-stops X X O
-just X X O
-as X X O
-mysteriously X X O
-as X X O
-it X X O
-began X X O
-. X X O
+1 It O
+2 may O
+3 be O
+4 very O
+5 subtle O
+6 , O
+7 perhaps O
+8 just O
+9 a O
+10 slight O
+11 queasy O
+12 feeling O
+13 and O
+14 the O
+15 gentle O
+16 swaying O
+17 of O
+18 a O
+19 hanging O
+20 lamp O
+21 . O
 
-It X X O
-may X X O
-be X X O
-very X X O
-subtle X X O
-, X X O
-perhaps X X O
-just X X O
-a X X O
-slight X X O
-queasy X X O
-feeling X X O
-and X X O
-the X X O
-gentle X X O
-swaying X X O
-of X X O
-a X X O
-hanging X X O
-lamp X X O
-. X X O
+1 If O
+2 you O
+3 're O
+4 in O
+5 a O
+6 wide O
+7 open O
+8 space O
+9 and O
+10 in O
+11 a O
+12 good O
+13 mood O
+14 , O
+15 it O
+16 can O
+17 even O
+18 be O
+19 fun O
+20 - O
+21 - O
+22 a O
+23 free O
+24 roller O
+25 coaster O
+26 ride O
+27 that O
+28 lasts O
+29 a Time-B
+30 few Time-I
+31 seconds Time-I
+32 . O
 
-If X X O
-you X X O
-'re X X O
-in X X O
-a X X O
-wide X X O
-open X X O
-space X X O
-and X X O
-in X X O
-a X X O
-good X X O
-mood X X O
-, X X O
-it X X O
-can X X O
-even X X O
-be X X O
-fun X X O
--- X X O
-a X X O
-free X X O
-roller X X O
-coaster X X O
-ride X X O
-that X X O
-lasts X X O
-a X X Time-B
-few X X Time-I
-seconds X X Time-I
-. X X O
+1 Whatever O
+2 the O
+3 case O
+4 , O
+5 experiencing O
+6 an O
+7 earthquake Eventuality-B
+8 tends O
+9 to O
+10 leave O
+11 a O
+12 lasting O
+13 impression O
+14 . O
 
-Whatever X X O
-the X X O
-case X X O
-, X X O
-experiencing X X O
-an X X O
-earthquake X X Eventuality-B
-tends X X O
-to X X O
-leave X X O
-a X X O
-lasting X X O
-impression X X O
-. X X O
+1 If O
+2 you O
+3 've O
+4 lived O
+5 in O
+6 southern Direction-B
+7 California Location-B
+8 for O
+9 more Time-B
+10 than Time-I
+11 a Time-I
+12 year Time-I
+13 or Time-I
+14 two Time-I
+15 , O
+16 it O
+17 's O
+18 likely O
+19 you O
+20 've O
+21 had O
+22 an O
+23 experience O
+24 similar O
+25 to O
+26 one O
+27 of O
+28 those O
+29 mentioned O
+30 above O
+31 . O
 
-If X X O
-you X X O
-'ve X X O
-lived X X O
-in X X O
-southern X X Direction-B
-California X X Location-B
-for X X O
-more X X Time-B
-than X X Time-I
-a X X Time-I
-year X X Time-I
-or X X Time-I
-two X X Time-I
-, X X O
-it X X O
-'s X X O
-likely X X O
-you X X O
-'ve X X O
-had X X O
-an X X O
-experience X X O
-similar X X O
-to X X O
-one X X O
-of X X O
-those X X O
-mentioned X X O
-above X X O
-. X X O
+1 Maybe O
+2 you O
+3 've O
+4 even O
+5 had O
+6 several O
+7 . O
 
-Maybe X X O
-you X X O
-'ve X X O
-even X X O
-had X X O
-several X X O
-. X X O
+1 Certainly O
+2 you O
+3 've O
+4 heard O
+5 the O
+6 news O
+7 reports O
+8 . O
 
-Certainly X X O
-you X X O
-'ve X X O
-heard X X O
-the X X O
-news X X O
-reports X X O
-. X X O
+1 Reporters O
+2 talk O
+3 at O
+4 length O
+5 about O
+6 faults Environment_Context-B
+7 and O
+8 aftershocks Eventuality-B
+9 and O
+10 magnitudes Trait-B
+11 , O
+12 and O
+13 we O
+14 grow O
+15 accustomed O
+16 to O
+17 hearing O
+18 these O
+19 words O
+20 , O
+21 and O
+22 even O
+23 using O
+24 them O
+25 in O
+26 conversation O
+27 . O
 
-Reporters X X O
-talk X X O
-at X X O
-length X X O
-about X X O
-faults X X Environment_Context-B
-and X X O
-aftershocks X X Eventuality-B
-and X X O
-magnitudes X X Trait-B
-, X X O
-and X X O
-we X X O
-grow X X O
-accustomed X X O
-to X X O
-hearing X X O
-these X X O
-words X X O
-, X X O
-and X X O
-even X X O
-using X X O
-them X X O
-in X X O
-conversation X X O
-. X X O
+1 But O
+2 despite O
+3 the O
+4 ability O
+5 of O
+6 earthquakes Eventuality-B
+7 to O
+8 strike O
+9 awe O
+10 in O
+11 all O
+12 of O
+13 us O
+14 - O
+15 - O
+16 amazed O
+17 and O
+18 a O
+19 little O
+20 fearful O
+21 as O
+22 we O
+23 are O
+24 of O
+25 their O
+26 power Trait-B
+27 and O
+28 unpredictable O
+29 nature O
+30 - O
+31 - O
+32 many O
+33 people O
+34 never O
+35 really O
+36 come O
+37 to O
+38 understand O
+39 the O
+40 concepts O
+41 behind O
+42 them O
+43 . O
 
-But X X O
-despite X X O
-the X X O
-ability X X O
-of X X O
-earthquakes X X Eventuality-B
-to X X O
-strike X X O
-awe X X O
-in X X O
-all X X O
-of X X O
-us X X O
--- X X O
-amazed X X O
-and X X O
-a X X O
-little X X O
-fearful X X O
-as X X O
-we X X O
-are X X O
-of X X O
-their X X O
-power X X Trait-B
-and X X O
-unpredictable X X O
-nature X X O
--- X X O
-many X X O
-people X X O
-never X X O
-really X X O
-come X X O
-to X X O
-understand X X O
-the X X O
-concepts X X O
-behind X X O
-them X X O
-. X X O
+1 Before O
+2 you O
+3 launch O
+4 into O
+5 this O
+6 module O
+7 , O
+8 which O
+9 is O
+10 designed O
+11 to O
+12 help O
+13 you O
+14 understand O
+15 what O
+16 earthquakes Eventuality-B
+17 are O
+18 all O
+19 about O
+20 , O
+21 here O
+22 's O
+23 a O
+24 chance O
+25 to O
+26 test O
+27 your O
+28 knowledge O
+29 of O
+30 earthquakes Eventuality-B
+31 in O
+32 a O
+33 fun O
+34 way O
+35 . O
 
-Before X X O
-you X X O
-launch X X O
-into X X O
-this X X O
-module X X O
-, X X O
-which X X O
-is X X O
-designed X X O
-to X X O
-help X X O
-you X X O
-understand X X O
-what X X O
-earthquakes X X Eventuality-B
-are X X O
-all X X O
-about X X O
-, X X O
-here X X O
-'s X X O
-a X X O
-chance X X O
-to X X O
-test X X O
-your X X O
-knowledge X X O
-of X X O
-earthquakes X X Eventuality-B
-in X X O
-a X X O
-fun X X O
-way X X O
-. X X O
-
-In X X O
-the X X O
-activity X X O
-below X X O
-, X X O
-you X X O
-will X X O
-take X X O
-on X X O
-the X X O
-role X X O
-of X X O
-emergency X X O
-response X X O
-and X X O
-, X X O
-armed X X O
-only X X O
-with X X O
-your X X O
-knowledge X X O
-of X X O
-seismology X X O
-, X X O
-stage X X O
-a X X O
-rescue X X O
-in X X O
-Pinevale X X O
-! X X O
+1 In O
+2 the O
+3 activity O
+4 below O
+5 , O
+6 you O
+7 will O
+8 take O
+9 on O
+10 the O
+11 role O
+12 of O
+13 emergency O
+14 response O
+15 and O
+16 , O
+17 armed O
+18 only O
+19 with O
+20 your O
+21 knowledge O
+22 of O
+23 seismology O
+24 , O
+25 stage O
+26 a O
+27 rescue O
+28 in O
+29 Pinevale O
+30 ! O
 

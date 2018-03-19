@@ -1,204 +1,204 @@
--DOCSTART- -X- O O
+1 Detrital Aggregate_Biotic_Abiotic_Entity-B
+2 web Aggregate_Biotic_Abiotic_Entity-I
+3 In O
+4 a O
+5 detrital Aggregate_Biotic_Abiotic_Entity-B
+6 web Aggregate_Biotic_Abiotic_Entity-I
+7 , O
+8 plant Biotic_Entity-B
+9 and O
+10 animal Biotic_Entity-B
+11 matter Biotic_Entity-I
+12 is O
+13 broken Eventuality-B
+14 down Eventuality-I
+15 by O
+16 decomposers Biotic_Entity-B
+17 , O
+18 e.g O
+19 . O
 
-Detrital X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-In X X O
-a X X O
-detrital X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-, X X O
-plant X X Biotic_Entity-B
-and X X O
-animal X X Biotic_Entity-B
-matter X X Biotic_Entity-I
-is X X O
-broken X X Eventuality-B
-down X X Eventuality-I
-by X X O
-decomposers X X Biotic_Entity-B
-, X X O
-e.g. X X O
-, X X O
-bacteria X X Biotic_Entity-B
-and X X O
-fungi X X Biotic_Entity-B
-, X X O
-and X X O
-moves X X Eventuality-B
-to X X O
-detritivores X X Biotic_Entity-B
-and X X O
-then X X O
-carnivores X X Biotic_Entity-B
-. X X O
+1 , O
+2 bacteria Biotic_Entity-B
+3 and O
+4 fungi Biotic_Entity-B
+5 , O
+6 and O
+7 moves Eventuality-B
+8 to O
+9 detritivores Biotic_Entity-B
+10 and O
+11 then O
+12 carnivores Biotic_Entity-B
+13 . O
 
-There X X O
-are X X O
-often X X O
-relationships X X Eventuality-B
-between X X O
-the X X O
-detrital X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-and X X O
-the X X O
-grazing X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 There O
+2 are O
+3 often O
+4 relationships Eventuality-B
+5 between O
+6 the O
+7 detrital Aggregate_Biotic_Abiotic_Entity-B
+8 web Aggregate_Biotic_Abiotic_Entity-I
+9 and O
+10 the O
+11 grazing Aggregate_Biotic_Abiotic_Entity-B
+12 web Aggregate_Biotic_Abiotic_Entity-I
+13 . O
 
-Mushrooms X X Biotic_Entity-B
-produced X X Eventuality-B
-by X X O
-decomposers X X Biotic_Entity-B
-in X X O
-the X X O
-detrital X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-become X X Eventuality-B
-a X X O
-food X X Biotic_Entity-B
-source X X Biotic_Entity-I
-for X X O
-deer X X Biotic_Entity-B
-, X X O
-squirrels X X Biotic_Entity-B
-, X X O
-and X X O
-mice X X Biotic_Entity-B
-in X X O
-the X X O
-grazing X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
+1 Mushrooms Biotic_Entity-B
+2 produced Eventuality-B
+3 by O
+4 decomposers Biotic_Entity-B
+5 in O
+6 the O
+7 detrital Aggregate_Biotic_Abiotic_Entity-B
+8 web Aggregate_Biotic_Abiotic_Entity-I
+9 become Eventuality-B
+10 a O
+11 food Biotic_Entity-B
+12 source Biotic_Entity-I
+13 for O
+14 deer Biotic_Entity-B
+15 , O
+16 squirrels Biotic_Entity-B
+17 , O
+18 and O
+19 mice Biotic_Entity-B
+20 in O
+21 the O
+22 grazing Aggregate_Biotic_Abiotic_Entity-B
+23 web Aggregate_Biotic_Abiotic_Entity-I
+24 . O
 
-Earthworms X X Biotic_Entity-B
-eaten X X Eventuality-B
-by X X O
-robins X X Biotic_Entity-B
-are X X O
-detritivores X X Biotic_Entity-B
-consuming X X Eventuality-B
-decaying X X Eventuality-B
-leaves X X Biotic_Entity-B
-. X X O
+1 Earthworms Biotic_Entity-B
+2 eaten Eventuality-B
+3 by O
+4 robins Biotic_Entity-B
+5 are O
+6 detritivores Biotic_Entity-B
+7 consuming Eventuality-B
+8 decaying Eventuality-B
+9 leaves Biotic_Entity-B
+10 . O
 
-" X X O
-Detritus X X Aggregate_Biotic_Abiotic_Entity-B
-can X X O
-be X X O
-broadly X X O
-defined X X O
-as X X O
-any X X O
-form X X O
-of X X O
-non-living X X Eventuality-B
-organic X X Biotic_Entity-B
-matter X X Biotic_Entity-I
-, X X O
-including X X O
-different X X O
-types X X Quality-B
-of X X O
-plant X X Biotic_Entity-B
-tissue X X Biotic_Entity-I
-( X X O
-e.g X X O
-. X X O
+1 " O
+2 Detritus Aggregate_Biotic_Abiotic_Entity-B
+3 can O
+4 be O
+5 broadly O
+6 defined O
+7 as O
+8 any O
+9 form O
+10 of O
+11 non-living Eventuality-B
+12 organic Biotic_Entity-B
+13 matter Biotic_Entity-I
+14 , O
+15 including O
+16 different O
+17 types Quality-B
+18 of O
+19 plant Biotic_Entity-B
+20 tissue Biotic_Entity-I
+21 ( O
+22 e.g O
+23 . O
 
-leaf X X Biotic_Entity-B
-litter X X Biotic_Entity-I
-, X X O
-dead X X Eventuality-B
-wood X X Biotic_Entity-B
-, X X O
-aquatic X X Quality-B
-macrophytes X X Biotic_Entity-B
-, X X O
-algae X X Biotic_Entity-B
-) X X O
-, X X O
-animal X X Biotic_Entity-B
-tissue X X Biotic_Entity-I
-( X X O
-carrion X X Biotic_Entity-B
-) X X O
-, X X O
-dead X X Eventuality-B
-microbes X X Biotic_Entity-B
-, X X O
-faeces X X Biotic_Entity-B
-( X X O
-manure X X Biotic_Entity-B
-, X X O
-dung X X Biotic_Entity-B
-, X X O
-faecal X X Biotic_Entity-B
-pellets X X Biotic_Entity-I
-, X X O
-guano X X Biotic_Entity-B
-, X X O
-frass X X Biotic_Entity-B
-) X X O
-, X X O
-as X X O
-well X X O
-as X X O
-products X X Biotic_Entity-B
-secreted X X Eventuality-B
-, X X O
-excreted X X Eventuality-B
-or X X O
-exuded X X Eventuality-B
-from X X O
-organisms X X Biotic_Entity-B
-( X X O
-e.g X X O
-. X X O
+1 leaf Biotic_Entity-B
+2 litter Biotic_Entity-I
+3 , O
+4 dead Eventuality-B
+5 wood Biotic_Entity-B
+6 , O
+7 aquatic Quality-B
+8 macrophytes Biotic_Entity-B
+9 , O
+10 algae Biotic_Entity-B
+11 ) O
+12 , O
+13 animal Biotic_Entity-B
+14 tissue Biotic_Entity-I
+15 ( O
+16 carrion Biotic_Entity-B
+17 ) O
+18 , O
+19 dead Eventuality-B
+20 microbes Biotic_Entity-B
+21 , O
+22 faeces Biotic_Entity-B
+23 ( O
+24 manure Biotic_Entity-B
+25 , O
+26 dung Biotic_Entity-B
+27 , O
+28 faecal Biotic_Entity-B
+29 pellets Biotic_Entity-I
+30 , O
+31 guano Biotic_Entity-B
+32 , O
+33 frass Biotic_Entity-B
+34 ) O
+35 , O
+36 as O
+37 well O
+38 as O
+39 products Biotic_Entity-B
+40 secreted Eventuality-B
+41 , O
+42 excreted Eventuality-B
+43 or O
+44 exuded Eventuality-B
+45 from O
+46 organisms Biotic_Entity-B
+47 ( O
+48 e.g O
+49 . O
 
-extra-cellular X X Quality-B
-polymers X X Biotic_Entity-B
-, X X O
-nectar X X Biotic_Entity-B
-, X X O
-root X X Biotic_Entity-B
-exudates X X Biotic_Entity-I
-and X X O
-leachates X X Biotic_Entity-B
-, X X O
-dissolved X X Biotic_Entity-B
-organic X X Biotic_Entity-I
-matter X X Biotic_Entity-I
-, X X O
-extra-cellular X X Biotic_Entity-B
-matrix X X Biotic_Entity-I
-, X X O
-mucilage X X Biotic_Entity-B
-) X X O
-. X X O
+1 extra-cellular Quality-B
+2 polymers Biotic_Entity-B
+3 , O
+4 nectar Biotic_Entity-B
+5 , O
+6 root Biotic_Entity-B
+7 exudates Biotic_Entity-I
+8 and O
+9 leachates Biotic_Entity-B
+10 , O
+11 dissolved Biotic_Entity-B
+12 organic Biotic_Entity-I
+13 matter Biotic_Entity-I
+14 , O
+15 extra-cellular Biotic_Entity-B
+16 matrix Biotic_Entity-I
+17 , O
+18 mucilage Biotic_Entity-B
+19 ) O
+20 . O
 
-The X X O
-relative X X O
-importance X X O
-of X X O
-these X X O
-forms X X O
-of X X O
-detritus X X Aggregate_Biotic_Abiotic_Entity-B
-, X X O
-in X X O
-terms X X O
-of X X O
-origin X X Quality-B
-, X X O
-size X X Quality-B
-and X X O
-chemical X X Quality-B
-composition X X Quality-I
-, X X O
-varies X X Eventuality-B
-across X X O
-ecosystems X X Aggregate_Biotic_Abiotic_Entity-B
-. X X O
+1 The O
+2 relative O
+3 importance O
+4 of O
+5 these O
+6 forms O
+7 of O
+8 detritus Aggregate_Biotic_Abiotic_Entity-B
+9 , O
+10 in O
+11 terms O
+12 of O
+13 origin Quality-B
+14 , O
+15 size Quality-B
+16 and O
+17 chemical Quality-B
+18 composition Quality-I
+19 , O
+20 varies Eventuality-B
+21 across O
+22 ecosystems Aggregate_Biotic_Abiotic_Entity-B
+23 . O
 
-" X X O
+1 " O

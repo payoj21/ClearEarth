@@ -1,134 +1,133 @@
--DOCSTART- -X- O O
+1 Page O
+2 31 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-31 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 " O
+2 How O
+3 do O
+4 all O
+5 these O
+6 things O
+7 relate O
+8 back O
+9 to O
+10 earthquakes Eventuality-B
+11 ? O
 
-" X X O
-How X X O
-do X X O
-all X X O
-these X X O
-things X X O
-relate X X O
-back X X O
-to X X O
-earthquakes X X Eventuality-B
-? X X O
+1 " O
+2 We O
+3 originally O
+4 began O
+5 this O
+6 section O
+7 by O
+8 looking O
+9 into O
+10 the O
+11 nature O
+12 of O
+13 earthquakes Eventuality-B
+14 . O
 
-" X X O
-We X X O
-originally X X O
-began X X O
-this X X O
-section X X O
-by X X O
-looking X X O
-into X X O
-the X X O
-nature X X O
-of X X O
-earthquakes X X Eventuality-B
-. X X O
+1 Answering O
+2 that O
+3 question O
+4 has O
+5 taken O
+6 us O
+7 into O
+8 a O
+9 complex O
+10 discussion O
+11 of O
+12 faults Environment_Context-B
+13 and O
+14 their O
+15 characteristics Trait-B
+16 . O
 
-Answering X X O
-that X X O
-question X X O
-has X X O
-taken X X O
-us X X O
-into X X O
-a X X O
-complex X X O
-discussion X X O
-of X X O
-faults X X Environment_Context-B
-and X X O
-their X X O
-characteristics X X Trait-B
-. X X O
+1 This O
+2 , O
+3 in O
+4 turn O
+5 , O
+6 has O
+7 brought O
+8 us O
+9 to O
+10 new O
+11 questions O
+12 about O
+13 the O
+14 characteristics Trait-B
+15 of O
+16 earthquakes Eventuality-B
+17 . O
 
-This X X O
-, X X O
-in X X O
-turn X X O
-, X X O
-has X X O
-brought X X O
-us X X O
-to X X O
-new X X O
-questions X X O
-about X X O
-the X X O
-characteristics X X Trait-B
-of X X O
-earthquakes X X Eventuality-B
-. X X O
+1 Is O
+2 the O
+3 slip Trait-B
+4 rate Trait-I
+5 of O
+6 a O
+7 fault Environment_Context-B
+8 directly O
+9 related O
+10 to O
+11 the O
+12 rate Trait-B
+13 of O
+14 earthquakes Eventuality-B
+15 along Direction-B
+16 that O
+17 fault Environment_Context-B
+18 ? O
 
-Is X X O
-the X X O
-slip X X Trait-B
-rate X X Trait-I
-of X X O
-a X X O
-fault X X Environment_Context-B
-directly X X O
-related X X O
-to X X O
-the X X O
-rate X X Trait-B
-of X X O
-earthquakes X X Eventuality-B
-along X X Direction-B
-that X X O
-fault X X Environment_Context-B
-? X X O
+1 If O
+2 we O
+3 can O
+4 make O
+5 so O
+6 many O
+7 distinctions O
+8 between O
+9 different O
+10 faults Environment_Context-B
+11 , O
+12 can O
+13 we O
+14 make O
+15 similar O
+16 distinctions O
+17 between O
+18 different O
+19 earthquakes Eventuality-B
+20 ? O
 
-If X X O
-we X X O
-can X X O
-make X X O
-so X X O
-many X X O
-distinctions X X O
-between X X O
-different X X O
-faults X X Environment_Context-B
-, X X O
-can X X O
-we X X O
-make X X O
-similar X X O
-distinctions X X O
-between X X O
-different X X O
-earthquakes X X Eventuality-B
-? X X O
-
-Could X X O
-such X X O
-distinctions X X O
-give X X O
-us X X O
-insight X X O
-into X X O
-the X X O
-timing X X Trait-B
-of X X O
-earthquakes X X Eventuality-B
-, X X O
-and X X O
-maybe X X O
-even X X O
-lead X X O
-to X X O
-earthquake X X Eventuality-B
-prediction X X O
-? X X O
+1 Could O
+2 such O
+3 distinctions O
+4 give O
+5 us O
+6 insight O
+7 into O
+8 the O
+9 timing Trait-B
+10 of O
+11 earthquakes Eventuality-B
+12 , O
+13 and O
+14 maybe O
+15 even O
+16 lead O
+17 to O
+18 earthquake Eventuality-B
+19 prediction O
+20 ? O
 

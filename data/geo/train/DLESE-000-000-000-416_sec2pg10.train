@@ -1,283 +1,282 @@
--DOCSTART- -X- O O
+1 Page O
+2 10 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 " O
+10 Are O
+11 there O
+12 variations Eventuality-B
+13 in O
+14 the O
+15 depth Trait-B
+16 of O
+17 seismicity Eventuality-B
+18 in O
+19 southern Direction-B
+20 California Location-B
+21 ? O
 
-Page X X O
-10 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-" X X O
-Are X X O
-there X X O
-variations X X Eventuality-B
-in X X O
-the X X O
-depth X X Trait-B
-of X X O
-seismicity X X Eventuality-B
-in X X O
-southern X X Direction-B
-California X X Location-B
-? X X O
+1 " O
+2 Earthquake Eventuality-B
+3 activity Eventuality-I
+4 in O
+5 southern Direction-B
+6 California Location-B
+7 occurs Eventuality-B
+8 at O
+9 shallow Trait-B
+10 depths Trait-B
+11 , O
+12 relatively O
+13 speaking O
+14 . O
 
-" X X O
-Earthquake X X Eventuality-B
-activity X X Eventuality-I
-in X X O
-southern X X Direction-B
-California X X Location-B
-occurs X X Eventuality-B
-at X X O
-shallow X X Trait-B
-depths X X Trait-B
-, X X O
-relatively X X O
-speaking X X O
-. X X O
+1 This O
+2 has O
+3 to O
+4 do O
+5 with O
+6 both O
+7 the O
+8 thickness Trait-B
+9 of O
+10 the O
+11 crust Environment_Context-B
+12 , O
+13 and O
+14 the O
+15 type O
+16 of O
+17 plate Environment_Context-B
+18 boundary Environment_Context-I
+19 found O
+20 here O
+21 . O
 
-This X X O
-has X X O
-to X X O
-do X X O
-with X X O
-both X X O
-the X X O
-thickness X X Trait-B
-of X X O
-the X X O
-crust X X Environment_Context-B
-, X X O
-and X X O
-the X X O
-type X X O
-of X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-found X X O
-here X X O
-. X X O
+1 Earthquakes Eventuality-B
+2 only O
+3 occur Eventuality-B
+4 in O
+5 brittle Trait-B
+6 material Environment_Context-B
+7 . O
 
-Earthquakes X X Eventuality-B
-only X X O
-occur X X Eventuality-B
-in X X O
-brittle X X Trait-B
-material X X Environment_Context-B
-. X X O
+1 This O
+2 typically O
+3 limits O
+4 their O
+5 depths Trait-B
+6 to O
+7 that O
+8 of O
+9 normal O
+10 crustal Environment_Context-B
+11 materials Environment_Context-I
+12 , O
+13 which O
+14 may O
+15 extend O
+16 as O
+17 far O
+18 down Direction-B
+19 as O
+20 30 Value-B
+21 to O
+22 40 Value-B
+23 km Unit-B
+24 below Direction-B
+25 the O
+26 surface Environment_Context-B
+27 . O
 
-This X X O
-typically X X O
-limits X X O
-their X X O
-depths X X Trait-B
-to X X O
-that X X O
-of X X O
-normal X X O
-crustal X X Environment_Context-B
-materials X X Environment_Context-I
-, X X O
-which X X O
-may X X O
-extend X X O
-as X X O
-far X X O
-down X X Direction-B
-as X X O
-30 X X Value-B
-to X X O
-40 X X Value-B
-km X X Unit-B
-below X X Direction-B
-the X X O
-surface X X Environment_Context-B
-. X X O
+1 Collisions Eventuality-B
+2 between Direction-B
+3 two Value-B
+4 tectonic Environment_Context-B
+5 plates Environment_Context-I
+6 can O
+7 push Eventuality-B
+8 crustal Environment_Context-B
+9 material Environment_Context-I
+10 down Direction-B
+11 deeper O
+12 , O
+13 however O
+14 . O
 
-Collisions X X Eventuality-B
-between X X Direction-B
-two X X Value-B
-tectonic X X Environment_Context-B
-plates X X Environment_Context-I
-can X X O
-push X X Eventuality-B
-crustal X X Environment_Context-B
-material X X Environment_Context-I
-down X X Direction-B
-deeper X X O
-, X X O
-however X X O
-. X X O
+1 In O
+2 the O
+3 case O
+4 of O
+5 a O
+6 collision Eventuality-B
+7 between Direction-B
+8 two Value-B
+9 continental Environment_Context-B
+10 plates Environment_Context-I
+11 , O
+12 this O
+13 can O
+14 result O
+15 in O
+16 brittle Trait-B
+17 materials Environment_Context-B
+18 down Direction-B
+19 to O
+20 about O
+21 70 Value-B
+22 km Unit-B
+23 below Direction-B
+24 the O
+25 surface Environment_Context-B
+26 . O
 
-In X X O
-the X X O
-case X X O
-of X X O
-a X X O
-collision X X Eventuality-B
-between X X Direction-B
-two X X Value-B
-continental X X Environment_Context-B
-plates X X Environment_Context-I
-, X X O
-this X X O
-can X X O
-result X X O
-in X X O
-brittle X X Trait-B
-materials X X Environment_Context-B
-down X X Direction-B
-to X X O
-about X X O
-70 X X Value-B
-km X X Unit-B
-below X X Direction-B
-the X X O
-surface X X Environment_Context-B
-. X X O
+1 When O
+2 at O
+3 least O
+4 one Value-B
+5 oceanic Environment_Context-B
+6 plate Environment_Context-I
+7 is O
+8 involved O
+9 in O
+10 a O
+11 tectonic Eventuality-B
+12 collision Eventuality-I
+13 , O
+14 however O
+15 , O
+16 subduction Eventuality-B
+17 results O
+18 , O
+19 and O
+20 the O
+21 oceanic Environment_Context-B
+22 plate Environment_Context-I
+23 which O
+24 is O
+25 forced Eventuality-B
+26 down Direction-B
+27 into Direction-B
+28 the O
+29 mantle Environment_Context-B
+30 can O
+31 still O
+32 produce Eventuality-B
+33 earthquakes Eventuality-B
+34 as O
+35 far O
+36 down O
+37 as O
+38 700 Value-B
+39 km Unit-B
+40 below Direction-B
+41 the O
+42 surface Environment_Context-B
+43 ! O
 
-When X X O
-at X X O
-least X X O
-one X X Value-B
-oceanic X X Environment_Context-B
-plate X X Environment_Context-I
-is X X O
-involved X X O
-in X X O
-a X X O
-tectonic X X Eventuality-B
-collision X X Eventuality-I
-, X X O
-however X X O
-, X X O
-subduction X X Eventuality-B
-results X X O
-, X X O
-and X X O
-the X X O
-oceanic X X Environment_Context-B
-plate X X Environment_Context-I
-which X X O
-is X X O
-forced X X Eventuality-B
-down X X Direction-B
-into X X Direction-B
-the X X O
-mantle X X Environment_Context-B
-can X X O
-still X X O
-produce X X Eventuality-B
-earthquakes X X Eventuality-B
-as X X O
-far X X O
-down X X O
-as X X O
-700 X X Value-B
-km X X Unit-B
-below X X Direction-B
-the X X O
-surface X X Environment_Context-B
-! X X O
+1 The O
+2 plate Environment_Context-B
+3 boundary Environment_Context-I
+4 in O
+5 California Location-B
+6 is O
+7 not O
+8 a O
+9 zone Environment_Context-B
+10 of O
+11 tectonic Eventuality-B
+12 collision Eventuality-I
+13 , O
+14 but O
+15 is O
+16 instead O
+17 a O
+18 transform Environment_Context-B
+19 fault Environment_Context-I
+20 . O
 
-The X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-in X X O
-California X X Location-B
-is X X O
-not X X O
-a X X O
-zone X X Environment_Context-B
-of X X O
-tectonic X X Eventuality-B
-collision X X Eventuality-I
-, X X O
-but X X O
-is X X O
-instead X X O
-a X X O
-transform X X Environment_Context-B
-fault X X Environment_Context-I
-. X X O
+1 Here O
+2 the O
+3 plates Environment_Context-B
+4 move Eventuality-B
+5 laterally Direction-B
+6 past O
+7 each O
+8 other O
+9 . O
 
-Here X X O
-the X X O
-plates X X Environment_Context-B
-move X X Eventuality-B
-laterally X X Direction-B
-past X X O
-each X X O
-other X X O
-. X X O
+1 In O
+2 such O
+3 an O
+4 environment O
+5 as O
+6 this O
+7 , O
+8 we O
+9 would O
+10 expect O
+11 only O
+12 shallow Trait-B
+13 earthquakes Eventuality-B
+14 . O
 
-In X X O
-such X X O
-an X X O
-environment X X O
-as X X O
-this X X O
-, X X O
-we X X O
-would X X O
-expect X X O
-only X X O
-shallow X X Trait-B
-earthquakes X X Eventuality-B
-. X X O
+1 But O
+2 just O
+3 how O
+4 shallow Trait-B
+5 is O
+6 the O
+7 seismicity Eventuality-B
+8 ? O
 
-But X X O
-just X X O
-how X X O
-shallow X X Trait-B
-is X X O
-the X X O
-seismicity X X Eventuality-B
-? X X O
+1 And O
+2 do O
+3 the O
+4 other O
+5 tectonic Environment_Context-B
+6 features Environment_Context-I
+7 influence O
+8 the O
+9 depth Trait-B
+10 ? O
 
-And X X O
-do X X O
-the X X O
-other X X O
-tectonic X X Environment_Context-B
-features X X Environment_Context-I
-influence X X O
-the X X O
-depth X X Trait-B
-? X X O
-
-For X X O
-instance X X O
-, X X O
-the X X O
-Big X X Environment_Context-B
-Bend X X Environment_Context-I
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-does X X O
-cause X X Eventuality-B
-compression X X Eventuality-B
-and X X O
-crustal X X Eventuality-B
-thickening X X Eventuality-I
-, X X O
-but X X O
-is X X O
-this X X O
-enough X X O
-to X X O
-significantly X X O
-change X X O
-the X X O
-maximum X X O
-depth X X Trait-B
-of X X O
-seismicity X X Eventuality-B
-in X X O
-that X X O
-area X X Environment_Context-B
-? X X O
+1 For O
+2 instance O
+3 , O
+4 the O
+5 Big Environment_Context-B
+6 Bend Environment_Context-I
+7 of O
+8 the O
+9 San Environment_Context-B
+10 Andreas Environment_Context-I
+11 fault Environment_Context-I
+12 does O
+13 cause Eventuality-B
+14 compression Eventuality-B
+15 and O
+16 crustal Eventuality-B
+17 thickening Eventuality-I
+18 , O
+19 but O
+20 is O
+21 this O
+22 enough O
+23 to O
+24 significantly O
+25 change O
+26 the O
+27 maximum O
+28 depth Trait-B
+29 of O
+30 seismicity Eventuality-B
+31 in O
+32 that O
+33 area Environment_Context-B
+34 ? O
 

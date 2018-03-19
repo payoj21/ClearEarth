@@ -1,230 +1,229 @@
--DOCSTART- -X- O O
+1 Page O
+2 28 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-28 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 The O
+2 Plate Environment_Context-B
+3 Boundary Environment_Context-I
+4 and O
+5 the O
+6 Faults Environment_Context-B
+7 of O
+8 Southern Direction-B
+9 California Location-B
+10 Some O
+11 of O
+12 the O
+13 stress Eventuality-B
+14 and O
+15 slip Eventuality-B
+16 generated Eventuality-B
+17 by O
+18 the O
+19 plate Environment_Context-B
+20 boundary Environment_Context-I
+21 also O
+22 seems O
+23 to O
+24 be O
+25 shunted Eventuality-B
+26 off Direction-B
+27 the O
+28 main Trait-B
+29 plate Environment_Context-B
+30 boundary Environment_Context-I
+31 and O
+32 onto Direction-B
+33 the O
+34 Eastern Environment_Context-B
+35 California Environment_Context-I
+36 Shear Environment_Context-I
+37 Zone Environment_Context-I
+38 ( O
+39 ECSZ Environment_Context-B
+40 ) O
+41 , O
+42 shown O
+43 in O
+44 yellowish-orange O
+45 on O
+46 the O
+47 map O
+48 of O
+49 fault Environment_Context-B
+50 traces Environment_Context-I
+51 at O
+52 right O
+53 . O
 
-The X X O
-Plate X X Environment_Context-B
-Boundary X X Environment_Context-I
-and X X O
-the X X O
-Faults X X Environment_Context-B
-of X X O
-Southern X X Direction-B
-California X X Location-B
-Some X X O
-of X X O
-the X X O
-stress X X Eventuality-B
-and X X O
-slip X X Eventuality-B
-generated X X Eventuality-B
-by X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-also X X O
-seems X X O
-to X X O
-be X X O
-shunted X X Eventuality-B
-off X X Direction-B
-the X X O
-main X X Trait-B
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-and X X O
-onto X X Direction-B
-the X X O
-Eastern X X Environment_Context-B
-California X X Environment_Context-I
-Shear X X Environment_Context-I
-Zone X X Environment_Context-I
-( X X O
-ECSZ X X Environment_Context-B
-) X X O
-, X X O
-shown X X O
-in X X O
-yellowish-orange X X O
-on X X O
-the X X O
-map X X O
-of X X O
-fault X X Environment_Context-B
-traces X X Environment_Context-I
-at X X O
-right X X O
-. X X O
+1 This O
+2 broad Trait-B
+3 area Environment_Context-B
+4 of O
+5 right-lateral Direction-B
+6 shearing Eventuality-B
+7 motion Eventuality-I
+8 branches Eventuality-B
+9 off Direction-B
+10 from O
+11 the O
+12 San Environment_Context-B
+13 Andreas Environment_Context-I
+14 fault Environment_Context-I
+15 zone Environment_Context-I
+16 near Direction-B
+17 Indio Location-B
+18 , O
+19 just O
+20 south Direction-B
+21 of O
+22 the O
+23 epicenter Environment_Context-B
+24 of O
+25 the O
+26 1992 Time-B
+27 Landers Location-B
+28 earthquake Eventuality-B
+29 ( O
+30 magnitude Trait-B
+31 7.3 Value-B
+32 ) O
+33 . O
 
-This X X O
-broad X X Trait-B
-area X X Environment_Context-B
-of X X O
-right-lateral X X Direction-B
-shearing X X Eventuality-B
-motion X X Eventuality-I
-branches X X Eventuality-B
-off X X Direction-B
-from X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-zone X X Environment_Context-I
-near X X Direction-B
-Indio X X Location-B
-, X X O
-just X X O
-south X X Direction-B
-of X X O
-the X X O
-epicenter X X Environment_Context-B
-of X X O
-the X X O
-1992 X X Time-B
-Landers X X Location-B
-earthquake X X Eventuality-B
-( X X O
-magnitude X X Trait-B
-7.3 X X Value-B
-) X X O
-. X X O
+1 The O
+2 ECSZ Environment_Context-B
+3 continues O
+4 in O
+5 a O
+6 north-northwest Direction-B
+7 direction Direction-I
+8 through Direction-B
+9 the O
+10 Mojave Location-B
+11 , O
+12 past Direction-B
+13 Barstow Location-B
+14 , O
+15 and O
+16 on O
+17 into Direction-B
+18 Owens Environment_Context-B
+19 Valley Environment_Context-I
+20 , O
+21 crossing O
+22 the O
+23 Garlock Environment_Context-B
+24 fault Environment_Context-I
+25 as O
+26 it O
+27 goes O
+28 . O
 
-The X X O
-ECSZ X X Environment_Context-B
-continues X X O
-in X X O
-a X X O
-north-northwest X X Direction-B
-direction X X Direction-I
-through X X Direction-B
-the X X O
-Mojave X X Location-B
-, X X O
-past X X Direction-B
-Barstow X X Location-B
-, X X O
-and X X O
-on X X O
-into X X Direction-B
-Owens X X Environment_Context-B
-Valley X X Environment_Context-I
-, X X O
-crossing X X O
-the X X O
-Garlock X X Environment_Context-B
-fault X X Environment_Context-I
-as X X O
-it X X O
-goes X X O
-. X X O
+1 Seismicity Eventuality-B
+2 continues O
+3 along Direction-B
+4 this O
+5 trend Trait-B
+6 well O
+7 into Direction-B
+8 Nevada Location-B
+9 . O
 
-Seismicity X X Eventuality-B
-continues X X O
-along X X Direction-B
-this X X O
-trend X X Trait-B
-well X X O
-into X X Direction-B
-Nevada X X Location-B
-. X X O
+1 Also O
+2 contributing O
+3 to O
+4 fault Eventuality-B
+5 activity Eventuality-I
+6 in O
+7 this O
+8 area Environment_Context-B
+9 is O
+10 the O
+11 Basin Environment_Context-B
+12 and Environment_Context-I
+13 Range Environment_Context-I
+14 tectonic Environment_Context-I
+15 province Environment_Context-I
+16 to O
+17 the O
+18 east Direction-B
+19 of O
+20 this O
+21 zone Environment_Context-B
+22 . O
 
-Also X X O
-contributing X X O
-to X X O
-fault X X Eventuality-B
-activity X X Eventuality-I
-in X X O
-this X X O
-area X X Environment_Context-B
-is X X O
-the X X O
-Basin X X Environment_Context-B
-and X X Environment_Context-I
-Range X X Environment_Context-I
-tectonic X X Environment_Context-I
-province X X Environment_Context-I
-to X X O
-the X X O
-east X X Direction-B
-of X X O
-this X X O
-zone X X Environment_Context-B
-. X X O
+1 This O
+2 region Environment_Context-B
+3 of O
+4 extensional Eventuality-B
+5 faulting Eventuality-I
+6 , O
+7 shown O
+8 in O
+9 light O
+10 blue O
+11 , O
+12 is O
+13 most O
+14 pronounced O
+15 to O
+16 the O
+17 north Direction-B
+18 of O
+19 where O
+20 the O
+21 ECSZ Environment_Context-B
+22 crosses Direction-B
+23 the O
+24 Garlock Environment_Context-B
+25 fault Environment_Context-I
+26 . O
 
-This X X O
-region X X Environment_Context-B
-of X X O
-extensional X X Eventuality-B
-faulting X X Eventuality-I
-, X X O
-shown X X O
-in X X O
-light X X O
-blue X X O
-, X X O
-is X X O
-most X X O
-pronounced X X O
-to X X O
-the X X O
-north X X Direction-B
-of X X O
-where X X O
-the X X O
-ECSZ X X Environment_Context-B
-crosses X X Direction-B
-the X X O
-Garlock X X Environment_Context-B
-fault X X Environment_Context-I
-. X X O
-
-Unlike X X O
-the X X O
-features X X Environment_Context-B
-mentioned X X O
-above X X O
-, X X O
-it X X O
-may X X O
-have X X O
-no X X O
-direct X X O
-connection X X O
-with X X O
-the X X O
-Big X X Environment_Context-B
-Bend X X Environment_Context-I
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-, X X O
-though X X O
-it X X O
-does X X O
-most X X O
-likely X X O
-originate X X O
-from X X O
-the X X O
-interaction X X Eventuality-B
-of X X O
-the X X O
-North X X Environment_Context-B
-American X X Environment_Context-I
-Plate X X Environment_Context-I
-with X X O
-the X X O
-Pacific X X Environment_Context-B
-Plate X X Environment_Context-I
-. X X O
+1 Unlike O
+2 the O
+3 features Environment_Context-B
+4 mentioned O
+5 above O
+6 , O
+7 it O
+8 may O
+9 have O
+10 no O
+11 direct O
+12 connection O
+13 with O
+14 the O
+15 Big Environment_Context-B
+16 Bend Environment_Context-I
+17 of O
+18 the O
+19 San Environment_Context-B
+20 Andreas Environment_Context-I
+21 fault Environment_Context-I
+22 , O
+23 though O
+24 it O
+25 does O
+26 most O
+27 likely O
+28 originate O
+29 from O
+30 the O
+31 interaction Eventuality-B
+32 of O
+33 the O
+34 North Environment_Context-B
+35 American Environment_Context-I
+36 Plate Environment_Context-I
+37 with O
+38 the O
+39 Pacific Environment_Context-B
+40 Plate Environment_Context-I
+41 . O
 

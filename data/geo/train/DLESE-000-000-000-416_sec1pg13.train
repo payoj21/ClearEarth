@@ -1,421 +1,422 @@
--DOCSTART- -X- O O
+1 Page O
+2 13 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-13 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 More O
+2 About O
+3 Faults Environment_Context-B
+4 and O
+5 Associated O
+6 Features Trait-B
+7 Scarp Environment_Context-B
+8 Sometimes O
+9 called O
+10 an O
+11 escarpment Environment_Context-B
+12 , O
+13 a O
+14 scarp Environment_Context-B
+15 is O
+16 any O
+17 roughly O
+18 linear Trait-B
+19 slope Environment_Context-B
+20 or O
+21 cliff Environment_Context-B
+22 . O
 
-More X X O
-About X X O
-Faults X X Environment_Context-B
-and X X O
-Associated X X O
-Features X X Trait-B
-Scarp X X Environment_Context-B
-Sometimes X X O
-called X X O
-an X X O
-escarpment X X Environment_Context-B
-, X X O
-a X X O
-scarp X X Environment_Context-B
-is X X O
-any X X O
-roughly X X O
-linear X X Trait-B
-slope X X Environment_Context-B
-or X X O
-cliff X X Environment_Context-B
-. X X O
+1 Any O
+2 fault Environment_Context-B
+3 which O
+4 produces Eventuality-B
+5 some O
+6 vertical Direction-B
+7 offset Trait-B
+8 will O
+9 typically O
+10 produce Eventuality-B
+11 a O
+12 scarp Environment_Context-B
+13 . O
 
-Any X X O
-fault X X Environment_Context-B
-which X X O
-produces X X Eventuality-B
-some X X O
-vertical X X Direction-B
-offset X X Trait-B
-will X X O
-typically X X O
-produce X X Eventuality-B
-a X X O
-scarp X X Environment_Context-B
-. X X O
+1 While O
+2 we O
+3 will O
+4 focus O
+5 on O
+6 scarps Environment_Context-B
+7 formed Eventuality-B
+8 by O
+9 the O
+10 action Eventuality-B
+11 of O
+12 faults Environment_Context-B
+13 , O
+14 they O
+15 can O
+16 also O
+17 be O
+18 formed Eventuality-B
+19 by O
+20 erosion Eventuality-B
+21 , O
+22 or O
+23 other O
+24 means O
+25 . O
 
-While X X O
-we X X O
-will X X O
-focus X X O
-on X X O
-scarps X X Environment_Context-B
-formed X X Eventuality-B
-by X X O
-the X X O
-action X X Eventuality-B
-of X X O
-faults X X Environment_Context-B
-, X X O
-they X X O
-can X X O
-also X X O
-be X X O
-formed X X Eventuality-B
-by X X O
-erosion X X Eventuality-B
-, X X O
-or X X O
-other X X O
-means X X O
-. X X O
+1 When O
+2 fault-formed Eventuality-B
+3 , O
+4 scarps Environment_Context-B
+5 can O
+6 be O
+7 obvious O
+8 markers O
+9 of O
+10 surface Environment_Context-B
+11 traces Environment_Context-I
+12 . O
 
-When X X O
-fault-formed X X Eventuality-B
-, X X O
-scarps X X Environment_Context-B
-can X X O
-be X X O
-obvious X X O
-markers X X O
-of X X O
-surface X X Environment_Context-B
-traces X X Environment_Context-I
-. X X O
+1 It O
+2 should O
+3 be O
+4 noted O
+5 that O
+6 movement Eventuality-B
+7 along Direction-B
+8 a O
+9 fault Environment_Context-B
+10 need O
+11 not O
+12 be O
+13 vertical Direction-B
+14 to O
+15 produce Eventuality-B
+16 a O
+17 scarp Environment_Context-B
+18 . O
 
-It X X O
-should X X O
-be X X O
-noted X X O
-that X X O
-movement X X Eventuality-B
-along X X Direction-B
-a X X O
-fault X X Environment_Context-B
-need X X O
-not X X O
-be X X O
-vertical X X Direction-B
-to X X O
-produce X X Eventuality-B
-a X X O
-scarp X X Environment_Context-B
-. X X O
+1 Try O
+2 the O
+3 activity O
+4 below O
+5 to O
+6 see O
+7 just O
+8 how O
+9 this O
+10 works O
+11 . O
 
-Try X X O
-the X X O
-activity X X O
-below X X O
-to X X O
-see X X O
-just X X O
-how X X O
-this X X O
-works X X O
-. X X O
+1 Scarp Environment_Context-B
+2 Formation Eventuality-B
+3 A O
+4 brain-teaser O
+5 involving O
+6 the O
+7 origin O
+8 of O
+9 a O
+10 scarp Environment_Context-B
+11 . O
 
-Scarp X X Environment_Context-B
-Formation X X Eventuality-B
-A X X O
-brain-teaser X X O
-involving X X O
-the X X O
-origin X X O
-of X X O
-a X X O
-scarp X X Environment_Context-B
-. X X O
+1 Blind Environment_Context-B
+2 fault Environment_Context-I
+3 Some O
+4 faults Environment_Context-B
+5 do O
+6 not O
+7 break Eventuality-B
+8 through Direction-B
+9 to O
+10 the O
+11 surface Environment_Context-B
+12 anywhere O
+13 along Direction-B
+14 their O
+15 length Trait-B
+16 . O
 
-Blind X X Environment_Context-B
-fault X X Environment_Context-I
-Some X X O
-faults X X Environment_Context-B
-do X X O
-not X X O
-break X X Eventuality-B
-through X X Direction-B
-to X X O
-the X X O
-surface X X Environment_Context-B
-anywhere X X O
-along X X Direction-B
-their X X O
-length X X Trait-B
-. X X O
+1 Naturally O
+2 , O
+3 these O
+4 faults Environment_Context-B
+5 are O
+6 not O
+7 easy O
+8 to O
+9 locate O
+10 or O
+11 study O
+12 and O
+13 often O
+14 go O
+15 unnoticed O
+16 for O
+17 many Time-B
+18 years Time-I
+19 . O
 
-Naturally X X O
-, X X O
-these X X O
-faults X X Environment_Context-B
-are X X O
-not X X O
-easy X X O
-to X X O
-locate X X O
-or X X O
-study X X O
-and X X O
-often X X O
-go X X O
-unnoticed X X O
-for X X O
-many X X Time-B
-years X X Time-I
-. X X O
+1 Sometimes O
+2 faults Environment_Context-B
+3 are O
+4 " O
+5 buried Eventuality-B
+6 " O
+7 by O
+8 deposition Eventuality-B
+9 of O
+10 material Environment_Context-B
+11 atop Direction-B
+12 the O
+13 surface Environment_Context-B
+14 trace Environment_Context-I
+15 during O
+16 the O
+17 period O
+18 between O
+19 surface Eventuality-B
+20 ruptures Eventuality-I
+21 , O
+22 but O
+23 other O
+24 times O
+25 , O
+26 faults Environment_Context-B
+27 simply O
+28 do O
+29 not O
+30 reach Eventuality-B
+31 the O
+32 surface Environment_Context-B
+33 and O
+34 / O
+35 or O
+36 diffuse Eventuality-B
+37 into O
+38 a O
+39 fold Environment_Context-B
+40 or O
+41 folds Environment_Context-B
+42 beneath Direction-B
+43 the O
+44 surface Environment_Context-B
+45 . O
 
-Sometimes X X O
-faults X X Environment_Context-B
-are X X O
-" X X O
-buried X X Eventuality-B
-" X X O
-by X X O
-deposition X X Eventuality-B
-of X X O
-material X X Environment_Context-B
-atop X X Direction-B
-the X X O
-surface X X Environment_Context-B
-trace X X Environment_Context-I
-during X X O
-the X X O
-period X X O
-between X X O
-surface X X Eventuality-B
-ruptures X X Eventuality-I
-, X X O
-but X X O
-other X X O
-times X X O
-, X X O
-faults X X Environment_Context-B
-simply X X O
-do X X O
-not X X O
-reach X X Eventuality-B
-the X X O
-surface X X Environment_Context-B
-and/or X X O
-diffuse X X Eventuality-B
-into X X O
-a X X O
-fold X X Environment_Context-B
-or X X O
-folds X X Environment_Context-B
-beneath X X Direction-B
-the X X O
-surface X X Environment_Context-B
-. X X O
+1 When O
+2 a O
+3 fault Environment_Context-B
+4 does O
+5 not O
+6 reach Eventuality-B
+7 the O
+8 surface Environment_Context-B
+9 , O
+10 and O
+11 consequently O
+12 has O
+13 no O
+14 surface Environment_Context-B
+15 trace Environment_Context-I
+16 , O
+17 it O
+18 is O
+19 known O
+20 as O
+21 a O
+22 blind Environment_Context-B
+23 fault Environment_Context-I
+24 . O
 
-When X X O
-a X X O
-fault X X Environment_Context-B
-does X X O
-not X X O
-reach X X Eventuality-B
-the X X O
-surface X X Environment_Context-B
-, X X O
-and X X O
-consequently X X O
-has X X O
-no X X O
-surface X X Environment_Context-B
-trace X X Environment_Context-I
-, X X O
-it X X O
-is X X O
-known X X O
-as X X O
-a X X O
-blind X X Environment_Context-B
-fault X X Environment_Context-I
-. X X O
+1 Fold Environment_Context-B
+2 belt Environment_Context-I
+3 ( O
+4 or O
+5 Thrust Environment_Context-B
+6 belt Environment_Context-I
+7 ) O
+8 The O
+9 existence O
+10 of O
+11 a O
+12 particular O
+13 type O
+14 of O
+15 " O
+16 blind Environment_Context-B
+17 " O
+18 fault O
+19 is O
+20 usually O
+21 expressed O
+22 at O
+23 the O
+24 surface Environment_Context-B
+25 as O
+26 a O
+27 chain Environment_Context-B
+28 of O
+29 hills Environment_Context-B
+30 , O
+31 or O
+32 a O
+33 rounded Trait-B
+34 scarp Environment_Context-B
+35 , O
+36 and O
+37 by O
+38 the O
+39 folding Eventuality-B
+40 of O
+41 local O
+42 rock Environment_Context-B
+43 formations Environment_Context-I
+44 . O
 
-Fold X X Environment_Context-B
-belt X X Environment_Context-I
-( X X O
-or X X O
-Thrust X X Environment_Context-B
-belt X X Environment_Context-I
-) X X O
-The X X O
-existence X X O
-of X X O
-a X X O
-particular X X O
-type X X O
-of X X O
-" X X O
-blind X X Environment_Context-B
-" X X O
-fault X X O
-is X X O
-usually X X O
-expressed X X O
-at X X O
-the X X O
-surface X X Environment_Context-B
-as X X O
-a X X O
-chain X X Environment_Context-B
-of X X O
-hills X X Environment_Context-B
-, X X O
-or X X O
-a X X O
-rounded X X Trait-B
-scarp X X Environment_Context-B
-, X X O
-and X X O
-by X X O
-the X X O
-folding X X Eventuality-B
-of X X O
-local X X O
-rock X X Environment_Context-B
-formations X X Environment_Context-I
-. X X O
+1 This O
+2 area Environment_Context-B
+3 of O
+4 folding Eventuality-B
+5 is O
+6 known O
+7 as O
+8 a O
+9 fold Environment_Context-B
+10 belt Environment_Context-I
+11 , O
+12 or O
+13 sometimes O
+14 as O
+15 a O
+16 thrust Environment_Context-B
+17 belt Environment_Context-I
+18 , O
+19 when O
+20 a O
+21 type O
+22 of O
+23 fault Environment_Context-B
+24 known O
+25 as O
+26 a O
+27 thrust Environment_Context-B
+28 fault Environment_Context-I
+29 ( O
+30 or O
+31 more O
+32 specifically O
+33 , O
+34 a O
+35 blind Environment_Context-B
+36 thrust Environment_Context-I
+37 fault Environment_Context-I
+38 ) O
+39 , O
+40 is O
+41 responsible O
+42 . O
 
-This X X O
-area X X Environment_Context-B
-of X X O
-folding X X Eventuality-B
-is X X O
-known X X O
-as X X O
-a X X O
-fold X X Environment_Context-B
-belt X X Environment_Context-I
-, X X O
-or X X O
-sometimes X X O
-as X X O
-a X X O
-thrust X X Environment_Context-B
-belt X X Environment_Context-I
-, X X O
-when X X O
-a X X O
-type X X O
-of X X O
-fault X X Environment_Context-B
-known X X O
-as X X O
-a X X O
-thrust X X Environment_Context-B
-fault X X Environment_Context-I
-( X X O
-or X X O
-more X X O
-specifically X X O
-, X X O
-a X X O
-blind X X Environment_Context-B
-thrust X X Environment_Context-I
-fault X X Environment_Context-I
-) X X O
-, X X O
-is X X O
-responsible X X O
-. X X O
+1 The O
+2 folding Eventuality-B
+3 and O
+4 deformation Eventuality-B
+5 of O
+6 great Trait-B
+7 masses Trait-B
+8 of O
+9 rock Environment_Context-B
+10 are O
+11 actually O
+12 very O
+13 common O
+14 phenomena Eventuality-B
+15 in O
+16 the O
+17 Earth Location-B
+18 's O
+19 crust Environment_Context-B
+20 . O
 
-The X X O
-folding X X Eventuality-B
-and X X O
-deformation X X Eventuality-B
-of X X O
-great X X Trait-B
-masses X X Trait-B
-of X X O
-rock X X Environment_Context-B
-are X X O
-actually X X O
-very X X O
-common X X O
-phenomena X X Eventuality-B
-in X X O
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-. X X O
+1 Although O
+2 these O
+3 processes Eventuality-B
+4 are O
+5 generally O
+6 associated O
+7 with O
+8 faults Environment_Context-B
+9 , O
+10 we O
+11 will O
+12 largely O
+13 be O
+14 ignoring O
+15 them O
+16 in O
+17 this O
+18 module O
+19 because O
+20 of O
+21 the O
+22 complexity O
+23 they O
+24 can O
+25 add O
+26 . O
 
-Although X X O
-these X X O
-processes X X Eventuality-B
-are X X O
-generally X X O
-associated X X O
-with X X O
-faults X X Environment_Context-B
-, X X O
-we X X O
-will X X O
-largely X X O
-be X X O
-ignoring X X O
-them X X O
-in X X O
-this X X O
-module X X O
-because X X O
-of X X O
-the X X O
-complexity X X O
-they X X O
-can X X O
-add X X O
-. X X O
+1 Just O
+2 keep O
+3 in O
+4 mind O
+5 that O
+6 rocks Environment_Context-B
+7 can O
+8 be O
+9 somewhat O
+10 elastic Trait-B
+11 , O
+12 and O
+13 can O
+14 deform Eventuality-B
+15 in O
+16 such O
+17 a O
+18 way O
+19 to O
+20 accomodate O
+21 movement Eventuality-B
+22 within Direction-B
+23 the O
+24 Earth Location-B
+25 's O
+26 crust Environment_Context-B
+27 . O
 
-Just X X O
-keep X X O
-in X X O
-mind X X O
-that X X O
-rocks X X Environment_Context-B
-can X X O
-be X X O
-somewhat X X O
-elastic X X Trait-B
-, X X O
-and X X O
-can X X O
-deform X X Eventuality-B
-in X X O
-such X X O
-a X X O
-way X X O
-to X X O
-accomodate X X O
-movement X X Eventuality-B
-within X X Direction-B
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-. X X O
-
-We X X O
-may X X O
-model X X O
-the X X O
-crust X X Environment_Context-B
-as X X O
-entirely X X O
-rigid X X Trait-B
-, X X O
-but X X O
-given X X O
-the X X O
-right X X O
-conditions X X O
-, X X O
-even X X O
-rocks X X Environment_Context-B
-can X X O
-bend X X Eventuality-B
-. X X O
+1 We O
+2 may O
+3 model O
+4 the O
+5 crust Environment_Context-B
+6 as O
+7 entirely O
+8 rigid Trait-B
+9 , O
+10 but O
+11 given O
+12 the O
+13 right O
+14 conditions O
+15 , O
+16 even O
+17 rocks Environment_Context-B
+18 can O
+19 bend Eventuality-B
+20 . O
 

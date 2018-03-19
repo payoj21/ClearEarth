@@ -1,258 +1,259 @@
--DOCSTART- -X- O O
+1 Page O
+2 7 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-7 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 Hypocenters Environment_Context-B
+2 - O
+3 - O
+4 The O
+5 Beginnings Eventuality-B
+6 of O
+7 Ruptures Eventuality-B
+8 Though O
+9 epicenters Environment_Context-B
+10 are O
+11 a O
+12 useful O
+13 tool O
+14 for O
+15 visualizing O
+16 seismicity Eventuality-B
+17 more O
+18 easily O
+19 ( O
+20 by O
+21 a O
+22 simple O
+23 map O
+24 plot O
+25 ) O
+26 , O
+27 it O
+28 is O
+29 the O
+30 position Trait-B
+31 of O
+32 the O
+33 hypocenter Environment_Context-B
+34 that O
+35 matters O
+36 to O
+37 those O
+38 studying O
+39 fault Eventuality-B
+40 rupture Eventuality-I
+41 at O
+42 depth Trait-B
+43 . O
 
-Hypocenters X X Environment_Context-B
--- X X O
-The X X O
-Beginnings X X Eventuality-B
-of X X O
-Ruptures X X Eventuality-B
-Though X X O
-epicenters X X Environment_Context-B
-are X X O
-a X X O
-useful X X O
-tool X X O
-for X X O
-visualizing X X O
-seismicity X X Eventuality-B
-more X X O
-easily X X O
-( X X O
-by X X O
-a X X O
-simple X X O
-map X X O
-plot X X O
-) X X O
-, X X O
-it X X O
-is X X O
-the X X O
-position X X Trait-B
-of X X O
-the X X O
-hypocenter X X Environment_Context-B
-that X X O
-matters X X O
-to X X O
-those X X O
-studying X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-at X X O
-depth X X Trait-B
-. X X O
+1 While O
+2 the O
+3 error O
+4 in O
+5 the O
+6 position Trait-B
+7 of O
+8 a O
+9 hypocenter Environment_Context-B
+10 of O
+11 a O
+12 small Trait-B
+13 earthquake Eventuality-B
+14 can O
+15 be O
+16 larger O
+17 than O
+18 the O
+19 fault Environment_Context-B
+20 area Environment_Context-I
+21 which O
+22 ruptured Eventuality-B
+23 to O
+24 produce Eventuality-B
+25 that O
+26 event Eventuality-B
+27 , O
+28 for O
+29 larger O
+30 earthquakes Eventuality-B
+31 , O
+32 we O
+33 can O
+34 determine O
+35 not O
+36 only O
+37 the O
+38 hypocenter Environment_Context-B
+39 , O
+40 but O
+41 additional O
+42 information O
+43 about O
+44 the O
+45 fault Environment_Context-B
+46 area Environment_Context-I
+47 which O
+48 ruptured Eventuality-B
+49 at O
+50 depth Trait-B
+51 . O
 
-While X X O
-the X X O
-error X X O
-in X X O
-the X X O
-position X X Trait-B
-of X X O
-a X X O
-hypocenter X X Environment_Context-B
-of X X O
-a X X O
-small X X Trait-B
-earthquake X X Eventuality-B
-can X X O
-be X X O
-larger X X O
-than X X O
-the X X O
-fault X X Environment_Context-B
-area X X Environment_Context-I
-which X X O
-ruptured X X Eventuality-B
-to X X O
-produce X X Eventuality-B
-that X X O
-event X X Eventuality-B
-, X X O
-for X X O
-larger X X O
-earthquakes X X Eventuality-B
-, X X O
-we X X O
-can X X O
-determine X X O
-not X X O
-only X X O
-the X X O
-hypocenter X X Environment_Context-B
-, X X O
-but X X O
-additional X X O
-information X X O
-about X X O
-the X X O
-fault X X Environment_Context-B
-area X X Environment_Context-I
-which X X O
-ruptured X X Eventuality-B
-at X X O
-depth X X Trait-B
-. X X O
+1 This O
+2 picture O
+3 of O
+4 what O
+5 happens O
+6 beneath Direction-B
+7 the O
+8 earth Location-B
+9 when O
+10 a O
+11 fault Environment_Context-B
+12 ruptures Eventuality-B
+13 can O
+14 be O
+15 assembled O
+16 by O
+17 means O
+18 of O
+19 careful O
+20 and O
+21 detailed O
+22 observations O
+23 of O
+24 an O
+25 earthquake Eventuality-B
+26 . O
 
-This X X O
-picture X X O
-of X X O
-what X X O
-happens X X O
-beneath X X Direction-B
-the X X O
-earth X X Location-B
-when X X O
-a X X O
-fault X X Environment_Context-B
-ruptures X X Eventuality-B
-can X X O
-be X X O
-assembled X X O
-by X X O
-means X X O
-of X X O
-careful X X O
-and X X O
-detailed X X O
-observations X X O
-of X X O
-an X X O
-earthquake X X Eventuality-B
-. X X O
+1 The O
+2 activity O
+3 below O
+4 provides O
+5 a O
+6 look O
+7 at O
+8 the O
+9 sort O
+10 of O
+11 information O
+12 we O
+13 can O
+14 deduce O
+15 from O
+16 ground Eventuality-B
+17 motion Eventuality-I
+18 when O
+19 a O
+20 large Trait-B
+21 fault Environment_Context-B
+22 slips Eventuality-B
+23 . O
 
-The X X O
-activity X X O
-below X X O
-provides X X O
-a X X O
-look X X O
-at X X O
-the X X O
-sort X X O
-of X X O
-information X X O
-we X X O
-can X X O
-deduce X X O
-from X X O
-ground X X Eventuality-B
-motion X X Eventuality-I
-when X X O
-a X X O
-large X X Trait-B
-fault X X Environment_Context-B
-slips X X Eventuality-B
-. X X O
+1 Rupture Eventuality-B
+2 Models O
+3 A O
+4 look O
+5 deep O
+6 into O
+7 the O
+8 Earth Location-B
+9 - O
+10 - O
+11 models O
+12 of O
+13 actual O
+14 fault Eventuality-B
+15 rupture Eventuality-I
+16 . O
 
-Rupture X X Eventuality-B
-Models X X O
-A X X O
-look X X O
-deep X X O
-into X X O
-the X X O
-Earth X X Location-B
--- X X O
-models X X O
-of X X O
-actual X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-. X X O
+1 This O
+2 activity O
+3 has O
+4 hopefully O
+5 given O
+6 you O
+7 a O
+8 better O
+9 idea O
+10 of O
+11 what O
+12 really O
+13 happens O
+14 at O
+15 depth Trait-B
+16 when O
+17 a O
+18 fault Environment_Context-B
+19 ruptures Eventuality-B
+20 . O
 
-This X X O
-activity X X O
-has X X O
-hopefully X X O
-given X X O
-you X X O
-a X X O
-better X X O
-idea X X O
-of X X O
-what X X O
-really X X O
-happens X X O
-at X X O
-depth X X Trait-B
-when X X O
-a X X O
-fault X X Environment_Context-B
-ruptures X X Eventuality-B
-. X X O
+1 But O
+2 you O
+3 may O
+4 be O
+5 left O
+6 wondering O
+7 why O
+8 it O
+9 is O
+10 that O
+11 , O
+12 if O
+13 all O
+14 earthquakes Eventuality-B
+15 start Eventuality-B
+16 at O
+17 a O
+18 point Environment_Context-B
+19 , O
+20 some O
+21 grow Eventuality-B
+22 only O
+23 a O
+24 little Trait-B
+25 , O
+26 and O
+27 are O
+28 hardly O
+29 noticed O
+30 , O
+31 while O
+32 others O
+33 grow Eventuality-B
+34 huge Trait-B
+35 , O
+36 like O
+37 the O
+38 two O
+39 depicted O
+40 in O
+41 the O
+42 activity O
+43 above O
+44 . O
 
-But X X O
-you X X O
-may X X O
-be X X O
-left X X O
-wondering X X O
-why X X O
-it X X O
-is X X O
-that X X O
-, X X O
-if X X O
-all X X O
-earthquakes X X Eventuality-B
-start X X Eventuality-B
-at X X O
-a X X O
-point X X Environment_Context-B
-, X X O
-some X X O
-grow X X Eventuality-B
-only X X O
-a X X O
-little X X Trait-B
-, X X O
-and X X O
-are X X O
-hardly X X O
-noticed X X O
-, X X O
-while X X O
-others X X O
-grow X X Eventuality-B
-huge X X Trait-B
-, X X O
-like X X O
-the X X O
-two X X O
-depicted X X O
-in X X O
-the X X O
-activity X X O
-above X X O
-. X X O
-
-What X X O
-determines X X O
-this X X O
-size X X Trait-B
-, X X O
-and X X O
-how X X O
-does X X O
-the X X O
-rupture X X Eventuality-B
-" X X O
-know X X O
-" X X O
-when X X O
-to X X O
-stop X X Eventuality-B
-growing X X Eventuality-B
-? X X O
+1 What O
+2 determines O
+3 this O
+4 size Trait-B
+5 , O
+6 and O
+7 how O
+8 does O
+9 the O
+10 rupture Eventuality-B
+11 " O
+12 know O
+13 " O
+14 when O
+15 to O
+16 stop Eventuality-B
+17 growing Eventuality-B
+18 ? O
 

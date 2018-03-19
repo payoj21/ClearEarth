@@ -1,412 +1,411 @@
--DOCSTART- -X- O O
+1 Page O
+2 12 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-12 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 Finding O
+2 Strike Trait-B
+3 and O
+4 Dip Trait-B
+5 Measuring O
+6 the O
+7 strike Trait-B
+8 and O
+9 dip Trait-B
+10 of O
+11 a O
+12 fault Environment_Context-B
+13 plane Environment_Context-I
+14 at O
+15 the O
+16 surface Environment_Context-B
+17 is O
+18 not O
+19 always O
+20 easy O
+21 , O
+22 and O
+23 in O
+24 the O
+25 case O
+26 of O
+27 a O
+28 blind Environment_Context-B
+29 fault Environment_Context-I
+30 ( O
+31 explained O
+32 on O
+33 the O
+34 next O
+35 page O
+36 ) O
+37 , O
+38 impossible O
+39 . O
 
-Finding X X O
-Strike X X Trait-B
-and X X O
-Dip X X Trait-B
-Measuring X X O
-the X X O
-strike X X Trait-B
-and X X O
-dip X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-plane X X Environment_Context-I
-at X X O
-the X X O
-surface X X Environment_Context-B
-is X X O
-not X X O
-always X X O
-easy X X O
-, X X O
-and X X O
-in X X O
-the X X O
-case X X O
-of X X O
-a X X O
-blind X X Environment_Context-B
-fault X X Environment_Context-I
-( X X O
-explained X X O
-on X X O
-the X X O
-next X X O
-page X X O
-) X X O
-, X X O
-impossible X X O
-. X X O
+1 When O
+2 faults Environment_Context-B
+3 exist Eventuality-B
+4 in O
+5 solid Trait-B
+6 rock Environment_Context-B
+7 , O
+8 they O
+9 are O
+10 well-constrained Trait-B
+11 , O
+12 because O
+13 it O
+14 is O
+15 far O
+16 more O
+17 difficult O
+18 to O
+19 break Eventuality-B
+20 a O
+21 new Trait-B
+22 fault Environment_Context-B
+23 surface Environment_Context-I
+24 through Direction-B
+25 solid Environment_Context-B
+26 rock Environment_Context-I
+27 than O
+28 it O
+29 is O
+30 to O
+31 break Eventuality-B
+32 the O
+33 pre-existing O
+34 fault Environment_Context-B
+35 . O
 
-When X X O
-faults X X Environment_Context-B
-exist X X Eventuality-B
-in X X O
-solid X X Trait-B
-rock X X Environment_Context-B
-, X X O
-they X X O
-are X X O
-well-constrained X X Trait-B
-, X X O
-because X X O
-it X X O
-is X X O
-far X X O
-more X X O
-difficult X X O
-to X X O
-break X X Eventuality-B
-a X X O
-new X X Trait-B
-fault X X Environment_Context-B
-surface X X Environment_Context-I
-through X X Direction-B
-solid X X Environment_Context-B
-rock X X Environment_Context-I
-than X X O
-it X X O
-is X X O
-to X X O
-break X X Eventuality-B
-the X X O
-pre-existing X X O
-fault X X Environment_Context-B
-. X X O
+1 The O
+2 material Environment_Context-B
+3 at O
+4 the O
+5 surface Environment_Context-B
+6 , O
+7 however O
+8 , O
+9 is O
+10 rarely O
+11 solid Trait-B
+12 , O
+13 bare Trait-B
+14 rock Environment_Context-B
+15 . O
 
-The X X O
-material X X Environment_Context-B
-at X X O
-the X X O
-surface X X Environment_Context-B
-, X X O
-however X X O
-, X X O
-is X X O
-rarely X X O
-solid X X Trait-B
-, X X O
-bare X X Trait-B
-rock X X Environment_Context-B
-. X X O
+1 Typically O
+2 , O
+3 soil Environment_Context-B
+4 and O
+5 loose Trait-B
+6 sediments Environment_Context-B
+7 make Eventuality-B
+8 up Eventuality-I
+9 the O
+10 very O
+11 top Direction-B
+12 layer Environment_Context-B
+13 of O
+14 the O
+15 Earth Location-B
+16 , O
+17 and O
+18 because O
+19 these O
+20 materials Environment_Context-B
+21 offer O
+22 little O
+23 resistance Trait-B
+24 , O
+25 there O
+26 is O
+27 no O
+28 need O
+29 for O
+30 a O
+31 fault Eventuality-B
+32 rupture Eventuality-I
+33 to O
+34 break Eventuality-B
+35 along Direction-B
+36 the O
+37 exact O
+38 same O
+39 surface Environment_Context-B
+40 each O
+41 time O
+42 . O
 
-Typically X X O
-, X X O
-soil X X Environment_Context-B
-and X X O
-loose X X Trait-B
-sediments X X Environment_Context-B
-make X X Eventuality-B
-up X X Eventuality-I
-the X X O
-very X X O
-top X X Direction-B
-layer X X Environment_Context-B
-of X X O
-the X X O
-Earth X X Location-B
-, X X O
-and X X O
-because X X O
-these X X O
-materials X X Environment_Context-B
-offer X X O
-little X X O
-resistance X X Trait-B
-, X X O
-there X X O
-is X X O
-no X X O
-need X X O
-for X X O
-a X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-to X X O
-break X X Eventuality-B
-along X X Direction-B
-the X X O
-exact X X O
-same X X O
-surface X X Environment_Context-B
-each X X O
-time X X O
-. X X O
+1 Measuring O
+2 the O
+3 strike Trait-B
+4 and O
+5 dip Trait-B
+6 of O
+7 a O
+8 fault Environment_Context-B
+9 in O
+10 such O
+11 material Environment_Context-B
+12 can O
+13 be O
+14 misleading O
+15 . O
 
-Measuring X X O
-the X X O
-strike X X Trait-B
-and X X O
-dip X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-in X X O
-such X X O
-material X X Environment_Context-B
-can X X O
-be X X O
-misleading X X O
-. X X O
+1 However O
+2 , O
+3 if O
+4 you O
+5 can O
+6 find O
+7 an O
+8 exposure Environment_Context-B
+9 of O
+10 the O
+11 fault Environment_Context-B
+12 in O
+13 bedrock Environment_Context-B
+14 , O
+15 you O
+16 can O
+17 be O
+18 pretty O
+19 sure O
+20 that O
+21 the O
+22 fault Environment_Context-B
+23 you O
+24 see O
+25 is O
+26 indicative O
+27 of O
+28 the O
+29 fault Environment_Context-B
+30 plane Environment_Context-I
+31 's O
+32 orientation Trait-B
+33 , O
+34 at O
+35 least O
+36 in O
+37 the O
+38 immediate O
+39 area Environment_Context-B
+40 . O
 
-However X X O
-, X X O
-if X X O
-you X X O
-can X X O
-find X X O
-an X X O
-exposure X X Environment_Context-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-in X X O
-bedrock X X Environment_Context-B
-, X X O
-you X X O
-can X X O
-be X X O
-pretty X X O
-sure X X O
-that X X O
-the X X O
-fault X X Environment_Context-B
-you X X O
-see X X O
-is X X O
-indicative X X O
-of X X O
-the X X O
-fault X X Environment_Context-B
-plane X X Environment_Context-I
-'s X X O
-orientation X X Trait-B
-, X X O
-at X X O
-least X X O
-in X X O
-the X X O
-immediate X X O
-area X X Environment_Context-B
-. X X O
+1 Geologists O
+2 rely O
+3 on O
+4 these O
+5 sorts O
+6 of O
+7 exposures Environment_Context-B
+8 to O
+9 measure O
+10 the O
+11 strike Trait-B
+12 and O
+13 dip Trait-B
+14 of O
+15 a O
+16 fault Environment_Context-B
+17 along Direction-B
+18 its O
+19 surface Environment_Context-B
+20 trace Environment_Context-I
+21 . O
 
-Geologists X X O
-rely X X O
-on X X O
-these X X O
-sorts X X O
-of X X O
-exposures X X Environment_Context-B
-to X X O
-measure X X O
-the X X O
-strike X X Trait-B
-and X X O
-dip X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-along X X Direction-B
-its X X O
-surface X X Environment_Context-B
-trace X X Environment_Context-I
-. X X O
+1 Good O
+2 exposures Environment_Context-B
+3 of O
+4 faults Environment_Context-B
+5 at O
+6 the O
+7 surface Environment_Context-B
+8 can O
+9 be O
+10 few O
+11 and O
+12 far O
+13 between O
+14 . O
 
-Good X X O
-exposures X X Environment_Context-B
-of X X O
-faults X X Environment_Context-B
-at X X O
-the X X O
-surface X X Environment_Context-B
-can X X O
-be X X O
-few X X O
-and X X O
-far X X O
-between X X O
-. X X O
+1 Confirming O
+2 the O
+3 strike Trait-B
+4 and O
+5 dip Trait-B
+6 of O
+7 a O
+8 fault Environment_Context-B
+9 at O
+10 depth Trait-B
+11 , O
+12 where O
+13 it O
+14 is O
+15 more O
+16 likely O
+17 to O
+18 be O
+19 consistent Trait-B
+20 , O
+21 is O
+22 a O
+23 valuable O
+24 thing O
+25 . O
 
-Confirming X X O
-the X X O
-strike X X Trait-B
-and X X O
-dip X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-at X X O
-depth X X Trait-B
-, X X O
-where X X O
-it X X O
-is X X O
-more X X O
-likely X X O
-to X X O
-be X X O
-consistent X X Trait-B
-, X X O
-is X X O
-a X X O
-valuable X X O
-thing X X O
-. X X O
+1 Wells O
+2 drilled O
+3 into O
+4 the O
+5 ground Environment_Context-B
+6 can O
+7 provide O
+8 a O
+9 source O
+10 of O
+11 information O
+12 about O
+13 the O
+14 structures Environment_Context-B
+15 and O
+16 types Trait-B
+17 of O
+18 rock Environment_Context-B
+19 beneath Direction-B
+20 the O
+21 surface Environment_Context-B
+22 , O
+23 but O
+24 they O
+25 are O
+26 limited O
+27 in O
+28 depth Trait-B
+29 . O
 
-Wells X X O
-drilled X X O
-into X X O
-the X X O
-ground X X Environment_Context-B
-can X X O
-provide X X O
-a X X O
-source X X O
-of X X O
-information X X O
-about X X O
-the X X O
-structures X X Environment_Context-B
-and X X O
-types X X Trait-B
-of X X O
-rock X X Environment_Context-B
-beneath X X Direction-B
-the X X O
-surface X X Environment_Context-B
-, X X O
-but X X O
-they X X O
-are X X O
-limited X X O
-in X X O
-depth X X Trait-B
-. X X O
+1 Seismic O
+2 reflection O
+3 surveys O
+4 may O
+5 also O
+6 yield O
+7 clues O
+8 about O
+9 structures Environment_Context-B
+10 at O
+11 depth Trait-B
+12 , O
+13 but O
+14 these O
+15 studies O
+16 are O
+17 costly O
+18 , O
+19 limited O
+20 in O
+21 scope O
+22 , O
+23 and O
+24 do O
+25 not O
+26 always O
+27 provide O
+28 excellent O
+29 results O
+30 . O
 
-Seismic X X O
-reflection X X O
-surveys X X O
-may X X O
-also X X O
-yield X X O
-clues X X O
-about X X O
-structures X X Environment_Context-B
-at X X O
-depth X X Trait-B
-, X X O
-but X X O
-these X X O
-studies X X O
-are X X O
-costly X X O
-, X X O
-limited X X O
-in X X O
-scope X X O
-, X X O
-and X X O
-do X X O
-not X X O
-always X X O
-provide X X O
-excellent X X O
-results X X O
-. X X O
+1 Another O
+2 method O
+3 for O
+4 finding O
+5 the O
+6 strike Trait-B
+7 and O
+8 dip Trait-B
+9 of O
+10 a O
+11 fault Environment_Context-B
+12 beneath Direction-B
+13 the O
+14 surface Environment_Context-B
+15 involves O
+16 accurately O
+17 determining O
+18 the O
+19 locations Trait-B
+20 of O
+21 the O
+22 hypocenters Environment_Context-B
+23 of O
+24 naturally O
+25 occurring O
+26 earthquakes Eventuality-B
+27 , O
+28 and O
+29 plotting O
+30 these O
+31 locations Trait-B
+32 in O
+33 a O
+34 cross-sectional O
+35 or O
+36 3-dimensional O
+37 view O
+38 . O
 
-Another X X O
-method X X O
-for X X O
-finding X X O
-the X X O
-strike X X Trait-B
-and X X O
-dip X X Trait-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-beneath X X Direction-B
-the X X O
-surface X X Environment_Context-B
-involves X X O
-accurately X X O
-determining X X O
-the X X O
-locations X X Trait-B
-of X X O
-the X X O
-hypocenters X X Environment_Context-B
-of X X O
-naturally X X O
-occurring X X O
-earthquakes X X Eventuality-B
-, X X O
-and X X O
-plotting X X O
-these X X O
-locations X X Trait-B
-in X X O
-a X X O
-cross-sectional X X O
-or X X O
-3-dimensional X X O
-view X X O
-. X X O
+1 If O
+2 done O
+3 correctly O
+4 with O
+5 good O
+6 data O
+7 , O
+8 this O
+9 can O
+10 allow O
+11 the O
+12 " O
+13 imaging O
+14 " O
+15 of O
+16 fault Environment_Context-B
+17 surfaces Environment_Context-I
+18 deep Trait-B
+19 underground Environment_Context-B
+20 . O
 
-If X X O
-done X X O
-correctly X X O
-with X X O
-good X X O
-data X X O
-, X X O
-this X X O
-can X X O
-allow X X O
-the X X O
-" X X O
-imaging X X O
-" X X O
-of X X O
-fault X X Environment_Context-B
-surfaces X X Environment_Context-I
-deep X X Trait-B
-underground X X Environment_Context-B
-. X X O
-
-Revealing X X O
-a X X O
-Fault X X Environment_Context-B
-Plane X X Environment_Context-I
-with X X O
-Hypocenters X X Environment_Context-B
-Use X X O
-the X X O
-locations X X Trait-B
-of X X O
-hypocenters X X Environment_Context-B
-to X X O
-" X X O
-see X X O
-" X X O
-a X X O
-fault X X Environment_Context-B
-plane X X Environment_Context-I
-several X X Value-B
-kilometers X X Unit-B
-beneath X X Direction-B
-the X X O
-surface X X Environment_Context-B
-! X X O
+1 Revealing O
+2 a O
+3 Fault Environment_Context-B
+4 Plane Environment_Context-I
+5 with O
+6 Hypocenters Environment_Context-B
+7 Use O
+8 the O
+9 locations Trait-B
+10 of O
+11 hypocenters Environment_Context-B
+12 to O
+13 " O
+14 see O
+15 " O
+16 a O
+17 fault Environment_Context-B
+18 plane Environment_Context-I
+19 several Value-B
+20 kilometers Unit-B
+21 beneath Direction-B
+22 the O
+23 surface Environment_Context-B
+24 ! O
 

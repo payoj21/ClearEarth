@@ -1,313 +1,313 @@
--DOCSTART- -X- O O
+1 Page O
+2 8 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-8 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 " O
+2 What O
+3 causes Eventuality-B
+4 the O
+5 rupture Eventuality-B
+6 to O
+7 come O
+8 to O
+9 a O
+10 stop Eventuality-B
+11 ? O
 
-" X X O
-What X X O
-causes X X Eventuality-B
-the X X O
-rupture X X Eventuality-B
-to X X O
-come X X O
-to X X O
-a X X O
-stop X X Eventuality-B
-? X X O
+1 " O
+2 The O
+3 answer O
+4 to O
+5 that O
+6 question O
+7 is O
+8 currently O
+9 being O
+10 researched O
+11 . O
 
-" X X O
-The X X O
-answer X X O
-to X X O
-that X X O
-question X X O
-is X X O
-currently X X O
-being X X O
-researched X X O
-. X X O
+1 While O
+2 it O
+3 may O
+4 seem O
+5 a O
+6 simple O
+7 question O
+8 , O
+9 the O
+10 factors O
+11 that O
+12 control O
+13 the O
+14 size Trait-B
+15 of O
+16 a O
+17 fault Eventuality-B
+18 rupture Eventuality-I
+19 , O
+20 and O
+21 thus O
+22 determine O
+23 where O
+24 it O
+25 stops Eventuality-B
+26 , O
+27 are O
+28 complex O
+29 and O
+30 do O
+31 not O
+32 easily O
+33 lend O
+34 themselves O
+35 to O
+36 being O
+37 reproduced O
+38 in O
+39 laboratory O
+40 experiments O
+41 . O
 
-While X X O
-it X X O
-may X X O
-seem X X O
-a X X O
-simple X X O
-question X X O
-, X X O
-the X X O
-factors X X O
-that X X O
-control X X O
-the X X O
-size X X Trait-B
-of X X O
-a X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-, X X O
-and X X O
-thus X X O
-determine X X O
-where X X O
-it X X O
-stops X X Eventuality-B
-, X X O
-are X X O
-complex X X O
-and X X O
-do X X O
-not X X O
-easily X X O
-lend X X O
-themselves X X O
-to X X O
-being X X O
-reproduced X X O
-in X X O
-laboratory X X O
-experiments X X O
-. X X O
+1 Obtaining O
+2 the O
+3 answer O
+4 would O
+5 give O
+6 us O
+7 great O
+8 insight O
+9 into O
+10 the O
+11 processes Eventuality-B
+12 at O
+13 work O
+14 in O
+15 fault Eventuality-B
+16 ruptures Eventuality-I
+17 , O
+18 and O
+19 might O
+20 provide O
+21 more O
+22 understanding O
+23 of O
+24 what O
+25 leads O
+26 to O
+27 the O
+28 onset Eventuality-B
+29 of O
+30 rupture Eventuality-B
+31 and O
+32 the O
+33 earthquakes Eventuality-B
+34 which O
+35 result Eventuality-B
+36 . O
 
-Obtaining X X O
-the X X O
-answer X X O
-would X X O
-give X X O
-us X X O
-great X X O
-insight X X O
-into X X O
-the X X O
-processes X X Eventuality-B
-at X X O
-work X X O
-in X X O
-fault X X Eventuality-B
-ruptures X X Eventuality-I
-, X X O
-and X X O
-might X X O
-provide X X O
-more X X O
-understanding X X O
-of X X O
-what X X O
-leads X X O
-to X X O
-the X X O
-onset X X Eventuality-B
-of X X O
-rupture X X Eventuality-B
-and X X O
-the X X O
-earthquakes X X Eventuality-B
-which X X O
-result X X Eventuality-B
-. X X O
+1 Since O
+2 laboratory O
+3 experiments O
+4 fall O
+5 short O
+6 of O
+7 duplicating O
+8 the O
+9 natural O
+10 proces Eventuality-B
+11 of O
+12 fault Eventuality-B
+13 rupture Eventuality-I
+14 , O
+15 researchers O
+16 must O
+17 use O
+18 data O
+19 from O
+20 actual O
+21 earthquakes Eventuality-B
+22 in O
+23 their O
+24 studies O
+25 . O
 
-Since X X O
-laboratory X X O
-experiments X X O
-fall X X O
-short X X O
-of X X O
-duplicating X X O
-the X X O
-natural X X O
-proces X X Eventuality-B
-of X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-, X X O
-researchers X X O
-must X X O
-use X X O
-data X X O
-from X X O
-actual X X O
-earthquakes X X Eventuality-B
-in X X O
-their X X O
-studies X X O
-. X X O
+1 Southern Direction-B
+2 California Location-B
+3 is O
+4 an O
+5 excellent O
+6 place O
+7 to O
+8 obtain O
+9 such O
+10 data O
+11 . O
 
-Southern X X Direction-B
-California X X Location-B
-is X X O
-an X X O
-excellent X X O
-place X X O
-to X X O
-obtain X X O
-such X X O
-data X X O
-. X X O
+1 Not O
+2 only O
+3 are O
+4 earthquakes Eventuality-B
+5 common O
+6 here O
+7 , O
+8 but O
+9 the O
+10 area Environment_Context-B
+11 is O
+12 under O
+13 constant O
+14 surveillance O
+15 by O
+16 a O
+17 large O
+18 network O
+19 of O
+20 seismic O
+21 monitoring O
+22 equipment O
+23 . O
 
-Not X X O
-only X X O
-are X X O
-earthquakes X X Eventuality-B
-common X X O
-here X X O
-, X X O
-but X X O
-the X X O
-area X X Environment_Context-B
-is X X O
-under X X O
-constant X X O
-surveillance X X O
-by X X O
-a X X O
-large X X O
-network X X O
-of X X O
-seismic X X O
-monitoring X X O
-equipment X X O
-. X X O
+1 These O
+2 instruments O
+3 are O
+4 shown O
+5 on O
+6 the O
+7 map O
+8 at O
+9 right O
+10 ; O
+11 each O
+12 green O
+13 box O
+14 represents O
+15 the O
+16 location O
+17 of O
+18 an O
+19 instrument O
+20 collecting O
+21 data O
+22 , O
+23 and O
+24 the O
+25 red O
+26 lines O
+27 represent O
+28 the O
+29 surface Environment_Context-B
+30 traces Environment_Context-I
+31 of O
+32 major Trait-B
+33 faults Environment_Context-B
+34 . O
 
-These X X O
-instruments X X O
-are X X O
-shown X X O
-on X X O
-the X X O
-map X X O
-at X X O
-right X X O
-; X X O
-each X X O
-green X X O
-box X X O
-represents X X O
-the X X O
-location X X O
-of X X O
-an X X O
-instrument X X O
-collecting X X O
-data X X O
-, X X O
-and X X O
-the X X O
-red X X O
-lines X X O
-represent X X O
-the X X O
-surface X X Environment_Context-B
-traces X X Environment_Context-I
-of X X O
-major X X Trait-B
-faults X X Environment_Context-B
-. X X O
+1 We O
+2 will O
+3 study O
+4 this O
+5 network Eventuality-B
+6 more O
+7 closely O
+8 in O
+9 later O
+10 sections O
+11 . O
 
-We X X O
-will X X O
-study X X O
-this X X O
-network X X Eventuality-B
-more X X O
-closely X X O
-in X X O
-later X X O
-sections X X O
-. X X O
+1 Surely O
+2 , O
+3 though O
+4 , O
+5 you O
+6 can O
+7 at O
+8 least O
+9 appreciate O
+10 the O
+11 size Trait-B
+12 and O
+13 density Trait-B
+14 of O
+15 it O
+16 from O
+17 this O
+18 map O
+19 alone O
+20 . O
 
-Surely X X O
-, X X O
-though X X O
-, X X O
-you X X O
-can X X O
-at X X O
-least X X O
-appreciate X X O
-the X X O
-size X X Trait-B
-and X X O
-density X X Trait-B
-of X X O
-it X X O
-from X X O
-this X X O
-map X X O
-alone X X O
-. X X O
+1 In O
+2 addition O
+3 to O
+4 the O
+5 obvious O
+6 benefit O
+7 of O
+8 excellent O
+9 instrumental O
+10 coverage O
+11 , O
+12 southern Direction-B
+13 California Location-B
+14 has O
+15 an O
+16 advantage O
+17 for O
+18 researchers O
+19 that O
+20 some O
+21 parts Environment_Context-B
+22 of O
+23 the O
+24 world Location-B
+25 do O
+26 not O
+27 - O
+28 - O
+29 every O
+30 kind O
+31 of O
+32 slip Eventuality-B
+33 can O
+34 be O
+35 found O
+36 here O
+37 , O
+38 on O
+39 at O
+40 least O
+41 one Value-B
+42 of O
+43 the O
+44 dozens Value-B
+45 of O
+46 significant O
+47 , O
+48 active Environment_Context-B
+49 fault Environment_Context-I
+50 zones Environment_Context-I
+51 . O
 
-In X X O
-addition X X O
-to X X O
-the X X O
-obvious X X O
-benefit X X O
-of X X O
-excellent X X O
-instrumental X X O
-coverage X X O
-, X X O
-southern X X Direction-B
-California X X Location-B
-has X X O
-an X X O
-advantage X X O
-for X X O
-researchers X X O
-that X X O
-some X X O
-parts X X Environment_Context-B
-of X X O
-the X X O
-world X X Location-B
-do X X O
-not X X O
--- X X O
-every X X O
-kind X X O
-of X X O
-slip X X Eventuality-B
-can X X O
-be X X O
-found X X O
-here X X O
-, X X O
-on X X O
-at X X O
-least X X O
-one X X Value-B
-of X X O
-the X X O
-dozens X X Value-B
-of X X O
-significant X X O
-, X X O
-active X X Environment_Context-B
-fault X X Environment_Context-I
-zones X X Environment_Context-I
-. X X O
-
-The X X O
-sheer X X O
-number X X Trait-B
-of X X O
-active X X Environment_Context-B
-faults X X Environment_Context-I
-in X X O
-southern X X Direction-B
-California X X Location-B
-presents X X O
-researchers X X O
-with X X O
-an X X O
-abundance X X O
-of X X O
-opportunities X X O
-. X X O
+1 The O
+2 sheer O
+3 number Trait-B
+4 of O
+5 active Environment_Context-B
+6 faults Environment_Context-I
+7 in O
+8 southern Direction-B
+9 California Location-B
+10 presents O
+11 researchers O
+12 with O
+13 an O
+14 abundance O
+15 of O
+16 opportunities O
+17 . O
 

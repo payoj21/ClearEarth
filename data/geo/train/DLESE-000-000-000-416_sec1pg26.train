@@ -1,408 +1,407 @@
--DOCSTART- -X- O O
+1 Page O
+2 26 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-26 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 Fault Environment_Context-B
+2 Steps Environment_Context-I
+3 Fault Environment_Context-B
+4 steps Environment_Context-I
+5 are O
+6 features Environment_Context-B
+7 similar O
+8 , O
+9 in O
+10 many O
+11 ways O
+12 , O
+13 to O
+14 fault Environment_Context-B
+15 bends Environment_Context-I
+16 . O
 
-Fault X X Environment_Context-B
-Steps X X Environment_Context-I
-Fault X X Environment_Context-B
-steps X X Environment_Context-I
-are X X O
-features X X Environment_Context-B
-similar X X O
-, X X O
-in X X O
-many X X O
-ways X X O
-, X X O
-to X X O
-fault X X Environment_Context-B
-bends X X Environment_Context-I
-. X X O
+1 Just O
+2 as O
+3 fault Environment_Context-B
+4 bends Environment_Context-I
+5 are O
+6 either O
+7 left Direction-B
+8 bends Environment_Context-B
+9 or O
+10 right Direction-B
+11 bends Environment_Context-B
+12 , O
+13 fault Environment_Context-B
+14 steps Environment_Context-I
+15 are O
+16 either O
+17 left Direction-B
+18 steps Environment_Context-B
+19 or O
+20 right Direction-B
+21 steps Environment_Context-B
+22 . O
 
-Just X X O
-as X X O
-fault X X Environment_Context-B
-bends X X Environment_Context-I
-are X X O
-either X X O
-left X X Direction-B
-bends X X Environment_Context-B
-or X X O
-right X X Direction-B
-bends X X Environment_Context-B
-, X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-are X X O
-either X X O
-left X X Direction-B
-steps X X Environment_Context-B
-or X X O
-right X X Direction-B
-steps X X Environment_Context-B
-. X X O
+1 They O
+2 generally O
+3 create O
+4 local O
+5 compression Eventuality-B
+6 or O
+7 extension Eventuality-B
+8 much O
+9 like O
+10 fault Environment_Context-B
+11 bends Environment_Context-I
+12 . O
 
-They X X O
-generally X X O
-create X X O
-local X X O
-compression X X Eventuality-B
-or X X O
-extension X X Eventuality-B
-much X X O
-like X X O
-fault X X Environment_Context-B
-bends X X Environment_Context-I
-. X X O
+1 However O
+2 ( O
+3 as O
+4 shown O
+5 in O
+6 the O
+7 image O
+8 to O
+9 the O
+10 right O
+11 ) O
+12 , O
+13 in O
+14 an O
+15 area Environment_Context-B
+16 with O
+17 a O
+18 fault Environment_Context-B
+19 step Environment_Context-I
+20 , O
+21 the O
+22 main O
+23 trace Trait-B
+24 of O
+25 the O
+26 fault Environment_Context-B
+27 does O
+28 not O
+29 change Eventuality-B
+30 trend Trait-B
+31 . O
 
-However X X O
-( X X O
-as X X O
-shown X X O
-in X X O
-the X X O
-image X X O
-to X X O
-the X X O
-right X X O
-) X X O
-, X X O
-in X X O
-an X X O
-area X X Environment_Context-B
-with X X O
-a X X O
-fault X X Environment_Context-B
-step X X Environment_Context-I
-, X X O
-the X X O
-main X X O
-trace X X Trait-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-does X X O
-not X X O
-change X X Eventuality-B
-trend X X Trait-B
-. X X O
+1 It O
+2 merely O
+3 " O
+4 steps O
+5 " O
+6 over O
+7 , O
+8 sideways Direction-B
+9 , O
+10 and O
+11 continues O
+12 along O
+13 a O
+14 similar O
+15 trend Trait-B
+16 . O
 
-It X X O
-merely X X O
-" X X O
-steps X X O
-" X X O
-over X X O
-, X X O
-sideways X X Direction-B
-, X X O
-and X X O
-continues X X O
-along X X O
-a X X O
-similar X X O
-trend X X Trait-B
-. X X O
+1 For O
+2 this O
+3 reason O
+4 , O
+5 fault Environment_Context-B
+6 steps Environment_Context-I
+7 are O
+8 typically O
+9 small-scale Trait-B
+10 features Environment_Context-B
+11 , O
+12 and O
+13 their O
+14 effects Eventuality-B
+15 are O
+16 limited O
+17 to O
+18 the O
+19 immediate O
+20 area Environment_Context-B
+21 near Trait-B
+22 the O
+23 step-over Environment_Context-B
+24 . O
 
-For X X O
-this X X O
-reason X X O
-, X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-are X X O
-typically X X O
-small-scale X X Trait-B
-features X X Environment_Context-B
-, X X O
-and X X O
-their X X O
-effects X X Eventuality-B
-are X X O
-limited X X O
-to X X O
-the X X O
-immediate X X O
-area X X Environment_Context-B
-near X X Trait-B
-the X X O
-step-over X X Environment_Context-B
-. X X O
+1 No O
+2 fault Environment_Context-B
+3 step Environment_Context-I
+4 even O
+5 comes O
+6 close O
+7 to O
+8 causing Eventuality-B
+9 the O
+10 sort O
+11 of O
+12 effects Eventuality-B
+13 the O
+14 " O
+15 Big Environment_Context-B
+16 Bend Environment_Context-I
+17 " O
+18 of O
+19 the O
+20 San Environment_Context-B
+21 Andreas Environment_Context-I
+22 does O
+23 . O
 
-No X X O
-fault X X Environment_Context-B
-step X X Environment_Context-I
-even X X O
-comes X X O
-close X X O
-to X X O
-causing X X Eventuality-B
-the X X O
-sort X X O
-of X X O
-effects X X Eventuality-B
-the X X O
-" X X O
-Big X X Environment_Context-B
-Bend X X Environment_Context-I
-" X X O
-of X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-does X X O
-. X X O
+1 This O
+2 does O
+3 not O
+4 mean O
+5 that O
+6 fault Environment_Context-B
+7 steps Environment_Context-I
+8 are O
+9 not O
+10 important O
+11 , O
+12 nor O
+13 does O
+14 it O
+15 mean O
+16 they O
+17 are O
+18 not O
+19 the O
+20 subject O
+21 of O
+22 study O
+23 and O
+24 debate O
+25 . O
 
-This X X O
-does X X O
-not X X O
-mean X X O
-that X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-are X X O
-not X X O
-important X X O
-, X X O
-nor X X O
-does X X O
-it X X O
-mean X X O
-they X X O
-are X X O
-not X X O
-the X X O
-subject X X O
-of X X O
-study X X O
-and X X O
-debate X X O
-. X X O
+1 Fault Environment_Context-B
+2 steps Environment_Context-I
+3 create O
+4 landforms Environment_Context-B
+5 which O
+6 can O
+7 be O
+8 used O
+9 to O
+10 study O
+11 past Time-B
+12 movement Eventuality-B
+13 along Direction-B
+14 the O
+15 fault Environment_Context-B
+16 zone Environment_Context-I
+17 , O
+18 as O
+19 shown O
+20 at O
+21 left O
+22 , O
+23 along Direction-B
+24 a O
+25 hypothetical O
+26 right-lateral Direction-B
+27 strike-slip Environment_Context-B
+28 fault Environment_Context-I
+29 . O
 
-Fault X X Environment_Context-B
-steps X X Environment_Context-I
-create X X O
-landforms X X Environment_Context-B
-which X X O
-can X X O
-be X X O
-used X X O
-to X X O
-study X X O
-past X X Time-B
-movement X X Eventuality-B
-along X X Direction-B
-the X X O
-fault X X Environment_Context-B
-zone X X Environment_Context-I
-, X X O
-as X X O
-shown X X O
-at X X O
-left X X O
-, X X O
-along X X Direction-B
-a X X O
-hypothetical X X O
-right-lateral X X Direction-B
-strike-slip X X Environment_Context-B
-fault X X Environment_Context-I
-. X X O
+1 While O
+2 convergent Environment_Context-B
+3 steps Environment_Context-I
+4 create Eventuality-B
+5 compression Eventuality-B
+6 and O
+7 uplift Eventuality-B
+8 , O
+9 more O
+10 geologists O
+11 find O
+12 value O
+13 in O
+14 divergent Environment_Context-B
+15 steps Environment_Context-I
+16 . O
 
-While X X O
-convergent X X Environment_Context-B
-steps X X Environment_Context-I
-create X X Eventuality-B
-compression X X Eventuality-B
-and X X O
-uplift X X Eventuality-B
-, X X O
-more X X O
-geologists X X O
-find X X O
-value X X O
-in X X O
-divergent X X Environment_Context-B
-steps X X Environment_Context-I
-. X X O
+1 These O
+2 fault Environment_Context-B
+3 steps Environment_Context-I
+4 often O
+5 create Eventuality-B
+6 small Trait-B
+7 " O
+8 pull-apart Direction-B
+9 " O
+10 basins Environment_Context-B
+11 and O
+12 sag Environment_Context-B
+13 ponds Environment_Context-I
+14 in O
+15 which O
+16 organic Environment_Context-B
+17 material Environment_Context-I
+18 , O
+19 which O
+20 can O
+21 be O
+22 radiocarbon-dated O
+23 , O
+24 piles Eventuality-B
+25 up Eventuality-I
+26 . O
 
-These X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-often X X O
-create X X Eventuality-B
-small X X Trait-B
-" X X O
-pull-apart X X Direction-B
-" X X O
-basins X X Environment_Context-B
-and X X O
-sag X X Environment_Context-B
-ponds X X Environment_Context-I
-in X X O
-which X X O
-organic X X Environment_Context-B
-material X X Environment_Context-I
-, X X O
-which X X O
-can X X O
-be X X O
-radiocarbon-dated X X O
-, X X O
-piles X X Eventuality-B
-up X X Eventuality-I
-. X X O
+1 When O
+2 a O
+3 major Trait-B
+4 rupture Eventuality-B
+5 happens Eventuality-B
+6 , O
+7 these O
+8 sediments Environment_Context-B
+9 can O
+10 be O
+11 cut Eventuality-B
+12 and O
+13 offset Eventuality-B
+14 , O
+15 then O
+16 overlain Eventuality-B
+17 by O
+18 more O
+19 sediment Environment_Context-B
+20 , O
+21 until O
+22 the O
+23 next O
+24 rupture Eventuality-B
+25 cuts Eventuality-B
+26 those O
+27 . O
 
-When X X O
-a X X O
-major X X Trait-B
-rupture X X Eventuality-B
-happens X X Eventuality-B
-, X X O
-these X X O
-sediments X X Environment_Context-B
-can X X O
-be X X O
-cut X X Eventuality-B
-and X X O
-offset X X Eventuality-B
-, X X O
-then X X O
-overlain X X Eventuality-B
-by X X O
-more X X O
-sediment X X Environment_Context-B
-, X X O
-until X X O
-the X X O
-next X X O
-rupture X X Eventuality-B
-cuts X X Eventuality-B
-those X X O
-. X X O
+1 In O
+2 this O
+3 manner O
+4 , O
+5 a O
+6 chronological O
+7 record O
+8 of O
+9 major Trait-B
+10 ruptures Eventuality-B
+11 can O
+12 be O
+13 preserved O
+14 . O
 
-In X X O
-this X X O
-manner X X O
-, X X O
-a X X O
-chronological X X O
-record X X O
-of X X O
-major X X Trait-B
-ruptures X X Eventuality-B
-can X X O
-be X X O
-preserved X X O
-. X X O
+1 Fault Environment_Context-B
+2 steps Environment_Context-I
+3 also O
+4 affect O
+5 the O
+6 progression Eventuality-B
+7 of O
+8 major Trait-B
+9 ruptures Eventuality-B
+10 . O
 
-Fault X X Environment_Context-B
-steps X X Environment_Context-I
-also X X O
-affect X X O
-the X X O
-progression X X Eventuality-B
-of X X O
-major X X Trait-B
-ruptures X X Eventuality-B
-. X X O
+1 Some O
+2 ruptures Eventuality-B
+3 progress Eventuality-B
+4 through O
+5 fault Environment_Context-B
+6 step-overs Environment_Context-I
+7 ; O
+8 others O
+9 are O
+10 stopped Eventuality-B
+11 . O
 
-Some X X O
-ruptures X X Eventuality-B
-progress X X Eventuality-B
-through X X O
-fault X X Environment_Context-B
-step-overs X X Environment_Context-I
-; X X O
-others X X O
-are X X O
-stopped X X Eventuality-B
-. X X O
+1 Knowing O
+2 more O
+3 about O
+4 the O
+5 ease O
+6 with O
+7 which O
+8 fault Eventuality-B
+9 rupture Eventuality-I
+10 can O
+11 " O
+12 jump O
+13 over O
+14 " O
+15 fault Environment_Context-B
+16 steps Environment_Context-I
+17 would O
+18 help O
+19 assess O
+20 more O
+21 accurately O
+22 the O
+23 risk O
+24 of O
+25 major Trait-B
+26 ruptures Eventuality-B
+27 along Direction-B
+28 certain O
+29 fault Environment_Context-B
+30 zones Environment_Context-I
+31 . O
 
-Knowing X X O
-more X X O
-about X X O
-the X X O
-ease X X O
-with X X O
-which X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-can X X O
-" X X O
-jump X X O
-over X X O
-" X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-would X X O
-help X X O
-assess X X O
-more X X O
-accurately X X O
-the X X O
-risk X X O
-of X X O
-major X X Trait-B
-ruptures X X Eventuality-B
-along X X Direction-B
-certain X X O
-fault X X Environment_Context-B
-zones X X Environment_Context-I
-. X X O
+1 Unfortunately O
+2 , O
+3 determining O
+4 which O
+5 fault Environment_Context-B
+6 steps Environment_Context-I
+7 allow O
+8 and O
+9 which O
+10 prevent O
+11 continuous Trait-B
+12 rupture Eventuality-B
+13 is O
+14 still O
+15 a O
+16 matter O
+17 of O
+18 guesswork O
+19 . O
 
-Unfortunately X X O
-, X X O
-determining X X O
-which X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-allow X X O
-and X X O
-which X X O
-prevent X X O
-continuous X X Trait-B
-rupture X X Eventuality-B
-is X X O
-still X X O
-a X X O
-matter X X O
-of X X O
-guesswork X X O
-. X X O
-
-With X X O
-further X X O
-studies X X O
-into X X O
-the X X O
-nature X X O
-of X X O
-fault X X Environment_Context-B
-steps X X Environment_Context-I
-, X X O
-we X X O
-may X X O
-one X X Time-B
-day X X Time-I
-have X X O
-a X X O
-better X X O
-understanding X X O
-of X X O
-the X X O
-role X X O
-they X X O
-play X X O
-in X X O
-rupture X X Eventuality-B
-progression X X Eventuality-I
-. X X O
+1 With O
+2 further O
+3 studies O
+4 into O
+5 the O
+6 nature O
+7 of O
+8 fault Environment_Context-B
+9 steps Environment_Context-I
+10 , O
+11 we O
+12 may O
+13 one Time-B
+14 day Time-I
+15 have O
+16 a O
+17 better O
+18 understanding O
+19 of O
+20 the O
+21 role O
+22 they O
+23 play O
+24 in O
+25 rupture Eventuality-B
+26 progression Eventuality-I
+27 . O
 

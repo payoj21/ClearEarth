@@ -1,337 +1,339 @@
--DOCSTART- -X- O O
+1 Page O
+2 26 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 " O
+10 Is O
+11 there O
+12 no O
+13 way O
+14 to O
+15 recognize O
+16 a O
+17 foreshock Eventuality-B
+18 before O
+19 the O
+20 mainshock Eventuality-B
+21 strikes Eventuality-B
+22 ? O
 
-Page X X O
-26 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-" X X O
-Is X X O
-there X X O
-no X X O
-way X X O
-to X X O
-recognize X X O
-a X X O
-foreshock X X Eventuality-B
-before X X O
-the X X O
-mainshock X X Eventuality-B
-strikes X X Eventuality-B
-? X X O
+1 " O
+2 Recognizing O
+3 foreshocks Eventuality-B
+4 in O
+5 advance O
+6 of O
+7 the O
+8 mainshock Eventuality-B
+9 has O
+10 , O
+11 quite O
+12 naturally O
+13 , O
+14 been O
+15 a O
+16 prize O
+17 goal O
+18 of O
+19 seismologists O
+20 ever O
+21 since O
+22 foreshocks Eventuality-B
+23 were O
+24 first O
+25 recognized O
+26 . O
 
-" X X O
-Recognizing X X O
-foreshocks X X Eventuality-B
-in X X O
-advance X X O
-of X X O
-the X X O
-mainshock X X Eventuality-B
-has X X O
-, X X O
-quite X X O
-naturally X X O
-, X X O
-been X X O
-a X X O
-prize X X O
-goal X X O
-of X X O
-seismologists X X O
-ever X X O
-since X X O
-foreshocks X X Eventuality-B
-were X X O
-first X X O
-recognized X X O
-. X X O
+1 The O
+2 reality O
+3 of O
+4 the O
+5 situation O
+6 , O
+7 however O
+8 , O
+9 is O
+10 that O
+11 we O
+12 still O
+13 have O
+14 no O
+15 consistent O
+16 method O
+17 with O
+18 which O
+19 to O
+20 make O
+21 such O
+22 identifications O
+23 . O
 
-The X X O
-reality X X O
-of X X O
-the X X O
-situation X X O
-, X X O
-however X X O
-, X X O
-is X X O
-that X X O
-we X X O
-still X X O
-have X X O
-no X X O
-consistent X X O
-method X X O
-with X X O
-which X X O
-to X X O
-make X X O
-such X X O
-identifications X X O
-. X X O
+1 If O
+2 foreshocks Eventuality-B
+3 could O
+4 be O
+5 consistently O
+6 recognized O
+7 as O
+8 foreshocks Eventuality-B
+9 , O
+10 this O
+11 would O
+12 have O
+13 to O
+14 be O
+15 done O
+16 very O
+17 quickly O
+18 , O
+19 since O
+20 some O
+21 foreshocks Eventuality-B
+22 preceed O
+23 their O
+24 mainshocks Eventuality-B
+25 by O
+26 less Time-B
+27 than Time-I
+28 a Time-I
+29 few Time-I
+30 hours Time-I
+31 . O
 
-If X X O
-foreshocks X X Eventuality-B
-could X X O
-be X X O
-consistently X X O
-recognized X X O
-as X X O
-foreshocks X X Eventuality-B
-, X X O
-this X X O
-would X X O
-have X X O
-to X X O
-be X X O
-done X X O
-very X X O
-quickly X X O
-, X X O
-since X X O
-some X X O
-foreshocks X X Eventuality-B
-preceed X X O
-their X X O
-mainshocks X X Eventuality-B
-by X X O
-less X X Time-B
-than X X Time-I
-a X X Time-I
-few X X Time-I
-hours X X Time-I
-. X X O
+1 Given O
+2 the O
+3 amount O
+4 of O
+5 time O
+6 it O
+7 might O
+8 take O
+9 to O
+10 send O
+11 an O
+12 accurate O
+13 warning O
+14 to O
+15 the O
+16 public O
+17 , O
+18 that O
+19 would O
+20 leave O
+21 very O
+22 little O
+23 time O
+24 for O
+25 identification O
+26 . O
 
-Given X X O
-the X X O
-amount X X O
-of X X O
-time X X O
-it X X O
-might X X O
-take X X O
-to X X O
-send X X O
-an X X O
-accurate X X O
-warning X X O
-to X X O
-the X X O
-public X X O
-, X X O
-that X X O
-would X X O
-leave X X O
-very X X O
-little X X O
-time X X O
-for X X O
-identification X X O
-. X X O
+1 And O
+2 since O
+3 foreshocks Eventuality-B
+4 are O
+5 apparently O
+6 identical O
+7 to O
+8 other O
+9 earthquakes Eventuality-B
+10 in O
+11 their O
+12 " O
+13 seismic O
+14 signature O
+15 " O
+16 - O
+17 - O
+18 that O
+19 is O
+20 , O
+21 you O
+22 can O
+23 not O
+24 distinguish O
+25 them O
+26 from O
+27 seismograms O
+28 alone O
+29 - O
+30 - O
+31 the O
+32 context O
+33 in O
+34 which O
+35 they O
+36 occur Eventuality-B
+37 will O
+38 be O
+39 what O
+40 ultimately O
+41 identifies O
+42 them O
+43 . O
 
-And X X O
-since X X O
-foreshocks X X Eventuality-B
-are X X O
-apparently X X O
-identical X X O
-to X X O
-other X X O
-earthquakes X X Eventuality-B
-in X X O
-their X X O
-" X X O
-seismic X X O
-signature X X O
-" X X O
--- X X O
-that X X O
-is X X O
-, X X O
-you X X O
-can X X O
-not X X O
-distinguish X X O
-them X X O
-from X X O
-seismograms X X O
-alone X X O
--- X X O
-the X X O
-context X X O
-in X X O
-which X X O
-they X X O
-occur X X Eventuality-B
-will X X O
-be X X O
-what X X O
-ultimately X X O
-identifies X X O
-them X X O
-. X X O
+1 That O
+2 context O
+3 is O
+4 complex O
+5 , O
+6 however O
+7 , O
+8 and O
+9 so O
+10 the O
+11 chance O
+12 for O
+13 misjudgement O
+14 will O
+15 likely O
+16 be O
+17 high O
+18 . O
 
-That X X O
-context X X O
-is X X O
-complex X X O
-, X X O
-however X X O
-, X X O
-and X X O
-so X X O
-the X X O
-chance X X O
-for X X O
-misjudgement X X O
-will X X O
-likely X X O
-be X X O
-high X X O
-. X X O
+1 Incomplete O
+2 data O
+3 can O
+4 sometimes O
+5 allow O
+6 you O
+7 to O
+8 make O
+9 a O
+10 good O
+11 guess O
+12 ( O
+13 and O
+14 those O
+15 guesses O
+16 are O
+17 usually O
+18 promoted O
+19 more O
+20 than O
+21 they O
+22 deserve O
+23 ) O
+24 , O
+25 but O
+26 it O
+27 can O
+28 also O
+29 lead O
+30 to O
+31 disastrous O
+32 oversights O
+33 , O
+34 or O
+35 a O
+36 loss O
+37 of O
+38 credibility O
+39 . O
 
-Incomplete X X O
-data X X O
-can X X O
-sometimes X X O
-allow X X O
-you X X O
-to X X O
-make X X O
-a X X O
-good X X O
-guess X X O
-( X X O
-and X X O
-those X X O
-guesses X X O
-are X X O
-usually X X O
-promoted X X O
-more X X O
-than X X O
-they X X O
-deserve X X O
-) X X O
-, X X O
-but X X O
-it X X O
-can X X O
-also X X O
-lead X X O
-to X X O
-disastrous X X O
-oversights X X O
-, X X O
-or X X O
-a X X O
-loss X X O
-of X X O
-credibility X X O
-. X X O
+1 By O
+2 far O
+3 the O
+4 greatest O
+5 problem O
+6 , O
+7 however O
+8 , O
+9 is O
+10 that O
+11 not O
+12 all O
+13 large Trait-B
+14 earthquakes Eventuality-B
+15 have O
+16 foreshocks Eventuality-B
+17 . O
 
-By X X O
-far X X O
-the X X O
-greatest X X O
-problem X X O
-, X X O
-however X X O
-, X X O
-is X X O
-that X X O
-not X X O
-all X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-have X X O
-foreshocks X X Eventuality-B
-. X X O
+1 Accurate O
+2 forecasting O
+3 of O
+4 some O
+5 , O
+6 but O
+7 not O
+8 all O
+9 , O
+10 large Trait-B
+11 earthquakes Eventuality-B
+12 could O
+13 leave O
+14 the O
+15 public O
+16 with O
+17 a O
+18 false O
+19 sense O
+20 of O
+21 security O
+22 , O
+23 unprepared O
+24 for O
+25 the O
+26 quake Eventuality-B
+27 that O
+28 isn O
+29 't O
+30 predicted O
+31 . O
 
-Accurate X X O
-forecasting X X O
-of X X O
-some X X O
-, X X O
-but X X O
-not X X O
-all X X O
-, X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-could X X O
-leave X X O
-the X X O
-public X X O
-with X X O
-a X X O
-false X X O
-sense X X O
-of X X O
-security X X O
-, X X O
-unprepared X X O
-for X X O
-the X X O
-quake X X Eventuality-B
-that X X O
-is X X O
-n't X X O
-predicted X X O
-. X X O
+1 That O
+2 's O
+3 not O
+4 to O
+5 say O
+6 we O
+7 shouldn O
+8 't O
+9 try O
+10 - O
+11 - O
+12 just O
+13 that O
+14 we O
+15 should O
+16 be O
+17 careful O
+18 we O
+19 don O
+20 't O
+21 claim O
+22 to O
+23 know O
+24 more O
+25 than O
+26 we O
+27 really O
+28 do O
+29 . O
 
-That X X O
-'s X X O
-not X X O
-to X X O
-say X X O
-we X X O
-should X X O
-n't X X O
-try X X O
--- X X O
-just X X O
-that X X O
-we X X O
-should X X O
-be X X O
-careful X X O
-we X X O
-do X X O
-n't X X O
-claim X X O
-to X X O
-know X X O
-more X X O
-than X X O
-we X X O
-really X X O
-do X X O
-. X X O
-
-To X X O
-give X X O
-you X X O
-a X X O
-feel X X O
-for X X O
-the X X O
-difficulties X X O
-involved X X O
-in X X O
-recognizing X X O
-foreshocks X X Eventuality-B
-and X X O
-an X X O
-impending X X O
-mainshock X X Eventuality-B
-, X X O
-try X X O
-the X X O
-activity X X O
-below X X O
-. X X O
+1 To O
+2 give O
+3 you O
+4 a O
+5 feel O
+6 for O
+7 the O
+8 difficulties O
+9 involved O
+10 in O
+11 recognizing O
+12 foreshocks Eventuality-B
+13 and O
+14 an O
+15 impending O
+16 mainshock Eventuality-B
+17 , O
+18 try O
+19 the O
+20 activity O
+21 below O
+22 . O
 

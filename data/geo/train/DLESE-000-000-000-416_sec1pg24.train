@@ -1,361 +1,360 @@
--DOCSTART- -X- O O
+1 Page O
+2 24 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-24 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 " O
+2 Why O
+3 are O
+4 there O
+5 different O
+6 fault Eventuality-B
+7 motions Eventuality-I
+8 in O
+9 this O
+10 area Environment_Context-B
+11 ? O
 
-" X X O
-Why X X O
-are X X O
-there X X O
-different X X O
-fault X X Eventuality-B
-motions X X Eventuality-I
-in X X O
-this X X O
-area X X Environment_Context-B
-? X X O
+1 " O
+2 This O
+3 and O
+4 the O
+5 previous O
+6 question O
+7 have O
+8 basically O
+9 the O
+10 same O
+11 answer O
+12 . O
 
-" X X O
-This X X O
-and X X O
-the X X O
-previous X X O
-question X X O
-have X X O
-basically X X O
-the X X O
-same X X O
-answer X X O
-. X X O
+1 In O
+2 northern Direction-B
+3 and O
+4 central Direction-B
+5 California Location-B
+6 , O
+7 the O
+8 plates Environment_Context-B
+9 slide Eventuality-B
+10 reasonably O
+11 smoothly Trait-B
+12 past O
+13 each O
+14 other O
+15 because O
+16 the O
+17 alignment Trait-B
+18 of O
+19 the O
+20 plate Environment_Context-B
+21 boundary Environment_Context-I
+22 ( O
+23 the O
+24 San Environment_Context-B
+25 Andreas Environment_Context-I
+26 fault Environment_Context-I
+27 ) O
+28 is O
+29 essentially O
+30 parallel Direction-B
+31 to O
+32 the O
+33 relative Eventuality-B
+34 motion Eventuality-I
+35 of O
+36 the O
+37 plates Environment_Context-B
+38 . O
 
-In X X O
-northern X X Direction-B
-and X X O
-central X X Direction-B
-California X X Location-B
-, X X O
-the X X O
-plates X X Environment_Context-B
-slide X X Eventuality-B
-reasonably X X O
-smoothly X X Trait-B
-past X X O
-each X X O
-other X X O
-because X X O
-the X X O
-alignment X X Trait-B
-of X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-( X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-) X X O
-is X X O
-essentially X X O
-parallel X X Direction-B
-to X X O
-the X X O
-relative X X Eventuality-B
-motion X X Eventuality-I
-of X X O
-the X X O
-plates X X Environment_Context-B
-. X X O
+1 In O
+2 southern Direction-B
+3 California Location-B
+4 , O
+5 the O
+6 plate Environment_Context-B
+7 boundary Environment_Context-I
+8 is O
+9 not O
+10 so O
+11 simply O
+12 oriented Trait-B
+13 ; O
+14 there O
+15 is O
+16 a O
+17 bend Environment_Context-B
+18 in O
+19 the O
+20 San Environment_Context-B
+21 Andreas Environment_Context-I
+22 fault Environment_Context-I
+23 , O
+24 often O
+25 referred O
+26 to O
+27 as O
+28 the O
+29 " O
+30 Big Environment_Context-B
+31 Bend Environment_Context-I
+32 " O
+33 . O
 
-In X X O
-southern X X Direction-B
-California X X Location-B
-, X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-is X X O
-not X X O
-so X X O
-simply X X O
-oriented X X Trait-B
-; X X O
-there X X O
-is X X O
-a X X O
-bend X X Environment_Context-B
-in X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-, X X O
-often X X O
-referred X X O
-to X X O
-as X X O
-the X X O
-" X X O
-Big X X Environment_Context-B
-Bend X X Environment_Context-I
-" X X O
-. X X O
+1 There O
+2 is O
+3 even O
+4 some O
+5 uncertainty O
+6 as O
+7 to O
+8 the O
+9 exact O
+10 nature O
+11 and O
+12 location Environment_Context-B
+13 of O
+14 the O
+15 plate Environment_Context-B
+16 boundary Environment_Context-I
+17 in O
+18 the O
+19 southern Direction-B
+20 half Environment_Context-B
+21 of O
+22 this O
+23 bend Environment_Context-B
+24 . O
 
-There X X O
-is X X O
-even X X O
-some X X O
-uncertainty X X O
-as X X O
-to X X O
-the X X O
-exact X X O
-nature X X O
-and X X O
-location X X Environment_Context-B
-of X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-in X X O
-the X X O
-southern X X Direction-B
-half X X Environment_Context-B
-of X X O
-this X X O
-bend X X Environment_Context-B
-. X X O
+1 Even O
+2 farther O
+3 to O
+4 the O
+5 south Direction-B
+6 , O
+7 the O
+8 plate Environment_Context-B
+9 boundary Environment_Context-I
+10 is O
+11 no O
+12 longer O
+13 represented O
+14 by O
+15 the O
+16 San Environment_Context-B
+17 Andreas Environment_Context-I
+18 fault Environment_Context-I
+19 , O
+20 or O
+21 any O
+22 single O
+23 transform Environment_Context-B
+24 fault Environment_Context-I
+25 . O
 
-Even X X O
-farther X X O
-to X X O
-the X X O
-south X X Direction-B
-, X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-is X X O
-no X X O
-longer X X O
-represented X X O
-by X X O
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-, X X O
-or X X O
-any X X O
-single X X O
-transform X X Environment_Context-B
-fault X X Environment_Context-I
-. X X O
+1 Instead O
+2 , O
+3 it O
+4 appears O
+5 as O
+6 a O
+7 series Environment_Context-B
+8 of O
+9 rift Environment_Context-B
+10 zones Environment_Context-I
+11 connected O
+12 by O
+13 transform Environment_Context-B
+14 faults Environment_Context-I
+15 , O
+16 similar O
+17 to O
+18 a O
+19 mid-ocean Environment_Context-B
+20 ridge Environment_Context-I
+21 , O
+22 located O
+23 in O
+24 the O
+25 Gulf Location-B
+26 of Location-I
+27 California Location-I
+28 . O
 
-Instead X X O
-, X X O
-it X X O
-appears X X O
-as X X O
-a X X O
-series X X Environment_Context-B
-of X X O
-rift X X Environment_Context-B
-zones X X Environment_Context-I
-connected X X O
-by X X O
-transform X X Environment_Context-B
-faults X X Environment_Context-I
-, X X O
-similar X X O
-to X X O
-a X X O
-mid-ocean X X Environment_Context-B
-ridge X X Environment_Context-I
-, X X O
-located X X O
-in X X O
-the X X O
-Gulf X X Location-B
-of X X Location-I
-California X X Location-I
-. X X O
+1 Ignoring O
+2 the O
+3 complexity Trait-B
+4 in O
+5 the O
+6 bend Environment_Context-B
+7 and O
+8 to O
+9 the O
+10 south Direction-B
+11 , O
+12 we O
+13 can O
+14 consider O
+15 the O
+16 plate Environment_Context-B
+17 boundary Environment_Context-I
+18 in O
+19 southern Direction-B
+20 California Location-B
+21 to O
+22 be O
+23 a O
+24 fairly O
+25 simple Trait-B
+26 right-lateral Direction-B
+27 strike-slip Environment_Context-B
+28 vertical Direction-B
+29 fault Environment_Context-B
+30 with O
+31 a O
+32 " O
+33 kink O
+34 " O
+35 , O
+36 as O
+37 shown O
+38 at O
+39 left O
+40 . O
 
-Ignoring X X O
-the X X O
-complexity X X Trait-B
-in X X O
-the X X O
-bend X X Environment_Context-B
-and X X O
-to X X O
-the X X O
-south X X Direction-B
-, X X O
-we X X O
-can X X O
-consider X X O
-the X X O
-plate X X Environment_Context-B
-boundary X X Environment_Context-I
-in X X O
-southern X X Direction-B
-California X X Location-B
-to X X O
-be X X O
-a X X O
-fairly X X O
-simple X X Trait-B
-right-lateral X X Direction-B
-strike-slip X X Environment_Context-B
-vertical X X Direction-B
-fault X X Environment_Context-B
-with X X O
-a X X O
-" X X O
-kink X X O
-" X X O
-, X X O
-as X X O
-shown X X O
-at X X O
-left X X O
-. X X O
+1 The O
+2 right-lateral Direction-B
+3 motion Eventuality-B
+4 of O
+5 the O
+6 plates Environment_Context-B
+7 causes Eventuality-B
+8 the O
+9 two Value-B
+10 sides Environment_Context-B
+11 of O
+12 the O
+13 bend Environment_Context-B
+14 to O
+15 push Eventuality-B
+16 against O
+17 each O
+18 other O
+19 , O
+20 preventing O
+21 easy O
+22 sliding Eventuality-B
+23 , O
+24 so O
+25 this O
+26 particular O
+27 bend Environment_Context-B
+28 is O
+29 known O
+30 as O
+31 a O
+32 " O
+33 restraining Environment_Context-B
+34 " O
+35 or O
+36 " O
+37 convergent Environment_Context-B
+38 " O
+39 bend O
+40 . O
 
-The X X O
-right-lateral X X Direction-B
-motion X X Eventuality-B
-of X X O
-the X X O
-plates X X Environment_Context-B
-causes X X Eventuality-B
-the X X O
-two X X Value-B
-sides X X Environment_Context-B
-of X X O
-the X X O
-bend X X Environment_Context-B
-to X X O
-push X X Eventuality-B
-against X X O
-each X X O
-other X X O
-, X X O
-preventing X X O
-easy X X O
-sliding X X Eventuality-B
-, X X O
-so X X O
-this X X O
-particular X X O
-bend X X Environment_Context-B
-is X X O
-known X X O
-as X X O
-a X X O
-" X X O
-restraining X X Environment_Context-B
-" X X O
-or X X O
-" X X O
-convergent X X Environment_Context-B
-" X X O
-bend X X O
-. X X O
+1 The O
+2 result O
+3 of O
+4 this O
+5 compression Eventuality-B
+6 is O
+7 the O
+8 uplift Eventuality-B
+9 of O
+10 the O
+11 Transverse Environment_Context-B
+12 Ranges Environment_Context-I
+13 by O
+14 the O
+15 action Eventuality-B
+16 of O
+17 reverse Environment_Context-B
+18 and O
+19 thrust Environment_Context-B
+20 faults Environment_Context-I
+21 . O
 
-The X X O
-result X X O
-of X X O
-this X X O
-compression X X Eventuality-B
-is X X O
-the X X O
-uplift X X Eventuality-B
-of X X O
-the X X O
-Transverse X X Environment_Context-B
-Ranges X X Environment_Context-I
-by X X O
-the X X O
-action X X Eventuality-B
-of X X O
-reverse X X Environment_Context-B
-and X X O
-thrust X X Environment_Context-B
-faults X X Environment_Context-I
-. X X O
+1 If O
+2 the O
+3 plate Eventuality-B
+4 motion Eventuality-I
+5 were O
+6 the O
+7 opposite Direction-B
+8 , O
+9 and O
+10 the O
+11 slip Eventuality-B
+12 along Direction-B
+13 the O
+14 San Environment_Context-B
+15 Andreas Environment_Context-I
+16 fault Environment_Context-I
+17 became O
+18 left-lateral Direction-B
+19 in O
+20 nature O
+21 , O
+22 the O
+23 existing O
+24 bend Environment_Context-B
+25 would O
+26 cause Eventuality-B
+27 extension Eventuality-B
+28 in O
+29 the O
+30 area Environment_Context-B
+31 near Direction-B
+32 the O
+33 bend Environment_Context-B
+34 and O
+35 this O
+36 bend Environment_Context-B
+37 would O
+38 be O
+39 called O
+40 a O
+41 " O
+42 releasing Environment_Context-B
+43 " O
+44 or O
+45 " O
+46 divergent Environment_Context-B
+47 " O
+48 bend O
+49 ( O
+50 bottom O
+51 left O
+52 ) O
+53 . O
 
-If X X O
-the X X O
-plate X X Eventuality-B
-motion X X Eventuality-I
-were X X O
-the X X O
-opposite X X Direction-B
-, X X O
-and X X O
-the X X O
-slip X X Eventuality-B
-along X X Direction-B
-the X X O
-San X X Environment_Context-B
-Andreas X X Environment_Context-I
-fault X X Environment_Context-I
-became X X O
-left-lateral X X Direction-B
-in X X O
-nature X X O
-, X X O
-the X X O
-existing X X O
-bend X X Environment_Context-B
-would X X O
-cause X X Eventuality-B
-extension X X Eventuality-B
-in X X O
-the X X O
-area X X Environment_Context-B
-near X X Direction-B
-the X X O
-bend X X Environment_Context-B
-and X X O
-this X X O
-bend X X Environment_Context-B
-would X X O
-be X X O
-called X X O
-a X X O
-" X X O
-releasing X X Environment_Context-B
-" X X O
-or X X O
-" X X O
-divergent X X Environment_Context-B
-" X X O
-bend X X O
-( X X O
-bottom X X O
-left X X O
-) X X O
-. X X O
-
-This X X O
-action X X Eventuality-B
-would X X O
-likely X X O
-cause X X Eventuality-B
-a X X O
-basin X X Environment_Context-B
-to X X O
-form X X Eventuality-B
-around X X Direction-B
-the X X O
-bend X X Environment_Context-B
-. X X O
+1 This O
+2 action Eventuality-B
+3 would O
+4 likely O
+5 cause Eventuality-B
+6 a O
+7 basin Environment_Context-B
+8 to O
+9 form Eventuality-B
+10 around Direction-B
+11 the O
+12 bend Environment_Context-B
+13 . O
 

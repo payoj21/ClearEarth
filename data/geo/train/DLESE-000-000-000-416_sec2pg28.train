@@ -1,340 +1,341 @@
--DOCSTART- -X- O O
+1 Page O
+2 28 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 " O
+10 How O
+11 can O
+12 we O
+13 study O
+14 earthquakes Eventuality-B
+15 from O
+16 the O
+17 time O
+18 before O
+19 seismic O
+20 networks O
+21 existed O
+22 ? O
 
-Page X X O
-28 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-" X X O
-How X X O
-can X X O
-we X X O
-study X X O
-earthquakes X X Eventuality-B
-from X X O
-the X X O
-time X X O
-before X X O
-seismic X X O
-networks X X O
-existed X X O
-? X X O
+1 " O
+2 The O
+3 shaking Eventuality-B
+4 produced Eventuality-B
+5 by O
+6 earthquakes Eventuality-B
+7 is O
+8 now Time-B
+9 recorded O
+10 efficiently O
+11 and O
+12 precisely O
+13 on O
+14 seismic O
+15 instruments O
+16 , O
+17 but O
+18 before O
+19 such O
+20 devices O
+21 existed O
+22 , O
+23 earthquakes Eventuality-B
+24 that O
+25 produced Eventuality-B
+26 strong Trait-B
+27 shaking Eventuality-B
+28 were O
+29 still O
+30 recorded O
+31 anecdotally O
+32 - O
+33 - O
+34 in O
+35 newspaper O
+36 stories O
+37 , O
+38 official O
+39 logs O
+40 , O
+41 various O
+42 forms O
+43 of O
+44 correspondence O
+45 , O
+46 or O
+47 personal O
+48 journals O
+49 . O
 
-" X X O
-The X X O
-shaking X X Eventuality-B
-produced X X Eventuality-B
-by X X O
-earthquakes X X Eventuality-B
-is X X O
-now X X Time-B
-recorded X X O
-efficiently X X O
-and X X O
-precisely X X O
-on X X O
-seismic X X O
-instruments X X O
-, X X O
-but X X O
-before X X O
-such X X O
-devices X X O
-existed X X O
-, X X O
-earthquakes X X Eventuality-B
-that X X O
-produced X X Eventuality-B
-strong X X Trait-B
-shaking X X Eventuality-B
-were X X O
-still X X O
-recorded X X O
-anecdotally X X O
--- X X O
-in X X O
-newspaper X X O
-stories X X O
-, X X O
-official X X O
-logs X X O
-, X X O
-various X X O
-forms X X O
-of X X O
-correspondence X X O
-, X X O
-or X X O
-personal X X O
-journals X X O
-. X X O
+1 Collecting O
+2 these O
+3 sorts O
+4 of O
+5 reports O
+6 can O
+7 be O
+8 difficult O
+9 , O
+10 but O
+11 with O
+12 enough O
+13 detailed O
+14 descriptions O
+15 or O
+16 even O
+17 brief O
+18 mentions O
+19 of O
+20 an O
+21 earthquake Eventuality-B
+22 from O
+23 locations Trait-B
+24 scattered O
+25 across O
+26 the O
+27 state Location-B
+28 , O
+29 it O
+30 is O
+31 possible O
+32 to O
+33 determine O
+34 rough O
+35 locations Trait-B
+36 and O
+37 magnitudes Trait-B
+38 for O
+39 large Trait-B
+40 events Eventuality-B
+41 . O
 
-Collecting X X O
-these X X O
-sorts X X O
-of X X O
-reports X X O
-can X X O
-be X X O
-difficult X X O
-, X X O
-but X X O
-with X X O
-enough X X O
-detailed X X O
-descriptions X X O
-or X X O
-even X X O
-brief X X O
-mentions X X O
-of X X O
-an X X O
-earthquake X X Eventuality-B
-from X X O
-locations X X Trait-B
-scattered X X O
-across X X O
-the X X O
-state X X Location-B
-, X X O
-it X X O
-is X X O
-possible X X O
-to X X O
-determine X X O
-rough X X O
-locations X X Trait-B
-and X X O
-magnitudes X X Trait-B
-for X X O
-large X X Trait-B
-events X X Eventuality-B
-. X X O
+1 This O
+2 is O
+3 done O
+4 by O
+5 creating O
+6 an O
+7 isoseismal O
+8 map O
+9 , O
+10 something O
+11 you O
+12 will O
+13 have O
+14 the O
+15 chance O
+16 to O
+17 do O
+18 in O
+19 Section O
+20 3 O
+21 of O
+22 this O
+23 module O
+24 . O
 
-This X X O
-is X X O
-done X X O
-by X X O
-creating X X O
-an X X O
-isoseismal X X O
-map X X O
-, X X O
-something X X O
-you X X O
-will X X O
-have X X O
-the X X O
-chance X X O
-to X X O
-do X X O
-in X X O
-Section X X O
-3 X X O
-of X X O
-this X X O
-module X X O
-. X X O
+1 Making O
+2 this O
+3 kind O
+4 of O
+5 map O
+6 involves O
+7 quantifying O
+8 the O
+9 intensity Trait-B
+10 of O
+11 the O
+12 shaking Eventuality-B
+13 at O
+14 various O
+15 locations Trait-B
+16 ( O
+17 based O
+18 upon O
+19 the O
+20 effects O
+21 or O
+22 damage O
+23 that O
+24 result O
+25 ) O
+26 , O
+27 and O
+28 then O
+29 drawing O
+30 contour O
+31 lines O
+32 to O
+33 enclose O
+34 points O
+35 of O
+36 similar O
+37 intensity Trait-B
+38 . O
 
-Making X X O
-this X X O
-kind X X O
-of X X O
-map X X O
-involves X X O
-quantifying X X O
-the X X O
-intensity X X Trait-B
-of X X O
-the X X O
-shaking X X Eventuality-B
-at X X O
-various X X O
-locations X X Trait-B
-( X X O
-based X X O
-upon X X O
-the X X O
-effects X X O
-or X X O
-damage X X O
-that X X O
-result X X O
-) X X O
-, X X O
-and X X O
-then X X O
-drawing X X O
-contour X X O
-lines X X O
-to X X O
-enclose X X O
-points X X O
-of X X O
-similar X X O
-intensity X X Trait-B
-. X X O
+1 The O
+2 result O
+3 is O
+4 a O
+5 sort O
+6 of O
+7 target-like O
+8 pattern O
+9 , O
+10 with O
+11 the O
+12 epicenter Environment_Context-B
+13 at O
+14 the O
+15 bull O
+16 's-eye O
+17 , O
+18 as O
+19 shown O
+20 in O
+21 the O
+22 example O
+23 at O
+24 left O
+25 ( O
+26 click O
+27 the O
+28 map O
+29 to O
+30 view O
+31 a O
+32 larger O
+33 image O
+34 ) O
+35 . O
 
-The X X O
-result X X O
-is X X O
-a X X O
-sort X X O
-of X X O
-target-like X X O
-pattern X X O
-, X X O
-with X X O
-the X X O
-epicenter X X Environment_Context-B
-at X X O
-the X X O
-bull's-eye X X O
-, X X O
-as X X O
-shown X X O
-in X X O
-the X X O
-example X X O
-at X X O
-left X X O
-( X X O
-click X X O
-the X X O
-map X X O
-to X X O
-view X X O
-a X X O
-larger X X O
-image X X O
-) X X O
-. X X O
+1 By O
+2 comparing O
+3 the O
+4 size Trait-B
+5 of O
+6 these O
+7 contours O
+8 with O
+9 those O
+10 of O
+11 events Eventuality-B
+12 for O
+13 which O
+14 instrumental O
+15 magnitudes Trait-B
+16 were O
+17 measured O
+18 , O
+19 it O
+20 is O
+21 also O
+22 possible O
+23 to O
+24 estimate O
+25 the O
+26 energy Eventuality-B
+27 released Eventuality-B
+28 by O
+29 the O
+30 earthquake Eventuality-B
+31 , O
+32 and O
+33 assign O
+34 an O
+35 approximate O
+36 magnitude Trait-B
+37 . O
 
-By X X O
-comparing X X O
-the X X O
-size X X Trait-B
-of X X O
-these X X O
-contours X X O
-with X X O
-those X X O
-of X X O
-events X X Eventuality-B
-for X X O
-which X X O
-instrumental X X O
-magnitudes X X Trait-B
-were X X O
-measured X X O
-, X X O
-it X X O
-is X X O
-also X X O
-possible X X O
-to X X O
-estimate X X O
-the X X O
-energy X X Eventuality-B
-released X X Eventuality-B
-by X X O
-the X X O
-earthquake X X Eventuality-B
-, X X O
-and X X O
-assign X X O
-an X X O
-approximate X X O
-magnitude X X Trait-B
-. X X O
+1 These O
+2 techniques O
+3 have O
+4 limits O
+5 , O
+6 of O
+7 course O
+8 . O
 
-These X X O
-techniques X X O
-have X X O
-limits X X O
-, X X O
-of X X O
-course X X O
-. X X O
+1 As O
+2 you O
+3 look O
+4 farther O
+5 into O
+6 the Time-B
+7 past Time-I
+8 in O
+9 a O
+10 given O
+11 area Environment_Context-B
+12 , O
+13 residents O
+14 and O
+15 written O
+16 records O
+17 will O
+18 dwindle O
+19 , O
+20 and O
+21 the O
+22 quality O
+23 of O
+24 the O
+25 data O
+26 will O
+27 suffer O
+28 . O
 
-As X X O
-you X X O
-look X X O
-farther X X O
-into X X O
-the X X Time-B
-past X X Time-I
-in X X O
-a X X O
-given X X O
-area X X Environment_Context-B
-, X X O
-residents X X O
-and X X O
-written X X O
-records X X O
-will X X O
-dwindle X X O
-, X X O
-and X X O
-the X X O
-quality X X O
-of X X O
-the X X O
-data X X O
-will X X O
-suffer X X O
-. X X O
+1 Eventually O
+2 , O
+3 large Trait-B
+4 earthquakes Eventuality-B
+5 will O
+6 go O
+7 completely O
+8 unnoticed O
+9 or O
+10 unreported O
+11 . O
 
-Eventually X X O
-, X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-will X X O
-go X X O
-completely X X O
-unnoticed X X O
-or X X O
-unreported X X O
-. X X O
-
-Once X X O
-such X X O
-gaps X X O
-develop X X O
-in X X O
-the X X O
-historical X X O
-record X X O
-, X X O
-the X X O
-data X X O
-you X X O
-can X X O
-gather X X O
-is X X O
-no X X O
-longer X X O
-complete X X O
-, X X O
-even X X O
-for X X O
-the X X O
-largest X X Trait-B
-earthquakes X X Eventuality-B
-, X X O
-and X X O
-it X X O
-becomes X X O
-invalid X X O
-as X X O
-a X X O
-representation X X O
-of X X O
-the X X O
-seismicity X X Trait-B
-rate X X Trait-I
-. X X O
+1 Once O
+2 such O
+3 gaps O
+4 develop O
+5 in O
+6 the O
+7 historical O
+8 record O
+9 , O
+10 the O
+11 data O
+12 you O
+13 can O
+14 gather O
+15 is O
+16 no O
+17 longer O
+18 complete O
+19 , O
+20 even O
+21 for O
+22 the O
+23 largest Trait-B
+24 earthquakes Eventuality-B
+25 , O
+26 and O
+27 it O
+28 becomes O
+29 invalid O
+30 as O
+31 a O
+32 representation O
+33 of O
+34 the O
+35 seismicity Trait-B
+36 rate Trait-I
+37 . O
 

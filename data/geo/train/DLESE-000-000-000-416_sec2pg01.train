@@ -1,171 +1,170 @@
--DOCSTART- -X- O O
+1 Page O
+2 1 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 The O
+10 Distribution Trait-B
+11 of O
+12 Earthquakes Eventuality-B
+13 Rates Trait-B
+14 and O
+15 relations O
+16 in O
+17 seismology O
+18 " O
+19 What O
+20 's O
+21 so O
+22 important O
+23 about O
+24 the O
+25 distribution Trait-B
+26 of O
+27 earthquakes Eventuality-B
+28 ? O
 
-Page X X O
-1 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-Rates X X Trait-B
-and X X O
-relations X X O
-in X X O
-seismology X X O
-" X X O
-What X X O
-'s X X O
-so X X O
-important X X O
-about X X O
-the X X O
-distribution X X Trait-B
-of X X O
-earthquakes X X Eventuality-B
-? X X O
+1 " O
+2 In O
+3 the O
+4 first O
+5 section O
+6 of O
+7 this O
+8 module O
+9 , O
+10 we O
+11 investigated O
+12 the O
+13 principles O
+14 of O
+15 earthquakes Eventuality-B
+16 and O
+17 their O
+18 occurrence Eventuality-B
+19 . O
 
-" X X O
-In X X O
-the X X O
-first X X O
-section X X O
-of X X O
-this X X O
-module X X O
-, X X O
-we X X O
-investigated X X O
-the X X O
-principles X X O
-of X X O
-earthquakes X X Eventuality-B
-and X X O
-their X X O
-occurrence X X Eventuality-B
-. X X O
+1 We O
+2 studied O
+3 the O
+4 properties Trait-B
+5 of O
+6 faults Environment_Context-B
+7 , O
+8 the O
+9 influence Eventuality-B
+10 of O
+11 tectonics Eventuality-B
+12 , O
+13 and O
+14 the O
+15 dynamics Eventuality-B
+16 of O
+17 fault Eventuality-B
+18 rupture Eventuality-I
+19 . O
 
-We X X O
-studied X X O
-the X X O
-properties X X Trait-B
-of X X O
-faults X X Environment_Context-B
-, X X O
-the X X O
-influence X X Eventuality-B
-of X X O
-tectonics X X Eventuality-B
-, X X O
-and X X O
-the X X O
-dynamics X X Eventuality-B
-of X X O
-fault X X Eventuality-B
-rupture X X Eventuality-I
-. X X O
+1 But O
+2 we O
+3 stopped O
+4 short O
+5 of O
+6 looking O
+7 at O
+8 the O
+9 occurrence Eventuality-B
+10 of O
+11 real-world O
+12 earthquakes Eventuality-B
+13 with O
+14 respect O
+15 to O
+16 time Trait-B
+17 and O
+18 location Trait-B
+19 , O
+20 and O
+21 we O
+22 have O
+23 yet O
+24 to O
+25 investigate O
+26 whether O
+27 earthquakes Eventuality-B
+28 occur Eventuality-B
+29 in O
+30 any O
+31 patterns Eventuality-B
+32 or O
+33 are O
+34 influenced Eventuality-B
+35 by O
+36 causal O
+37 relationships O
+38 with O
+39 other O
+40 phenomena Eventuality-B
+41 , O
+42 even O
+43 other O
+44 earthquakes Eventuality-B
+45 . O
 
-But X X O
-we X X O
-stopped X X O
-short X X O
-of X X O
-looking X X O
-at X X O
-the X X O
-occurrence X X Eventuality-B
-of X X O
-real-world X X O
-earthquakes X X Eventuality-B
-with X X O
-respect X X O
-to X X O
-time X X Trait-B
-and X X O
-location X X Trait-B
-, X X O
-and X X O
-we X X O
-have X X O
-yet X X O
-to X X O
-investigate X X O
-whether X X O
-earthquakes X X Eventuality-B
-occur X X Eventuality-B
-in X X O
-any X X O
-patterns X X Eventuality-B
-or X X O
-are X X O
-influenced X X Eventuality-B
-by X X O
-causal X X O
-relationships X X O
-with X X O
-other X X O
-phenomena X X Eventuality-B
-, X X O
-even X X O
-other X X O
-earthquakes X X Eventuality-B
-. X X O
+1 In O
+2 short O
+3 , O
+4 we O
+5 have O
+6 covered O
+7 how O
+8 earthquakes Eventuality-B
+9 occur Eventuality-B
+10 , O
+11 and O
+12 a O
+13 little O
+14 bit O
+15 of O
+16 why O
+17 they O
+18 occur Eventuality-B
+19 , O
+20 but O
+21 we O
+22 have O
+23 yet O
+24 to O
+25 observe O
+26 where O
+27 and O
+28 when O
+29 they O
+30 occur Eventuality-B
+31 . O
 
-In X X O
-short X X O
-, X X O
-we X X O
-have X X O
-covered X X O
-how X X O
-earthquakes X X Eventuality-B
-occur X X Eventuality-B
-, X X O
-and X X O
-a X X O
-little X X O
-bit X X O
-of X X O
-why X X O
-they X X O
-occur X X Eventuality-B
-, X X O
-but X X O
-we X X O
-have X X O
-yet X X O
-to X X O
-observe X X O
-where X X O
-and X X O
-when X X O
-they X X O
-occur X X Eventuality-B
-. X X O
-
-Those X X O
-questions X X O
-are X X O
-the X X O
-focus X X O
-of X X O
-this X X O
-section X X O
-, X X O
-and X X O
-our X X O
-case X X O
-study X X O
-will X X O
-be X X O
-the X X O
-regional X X O
-seismicity X X Eventuality-B
-of X X O
-southern X X Direction-B
-California X X Location-B
-. X X O
+1 Those O
+2 questions O
+3 are O
+4 the O
+5 focus O
+6 of O
+7 this O
+8 section O
+9 , O
+10 and O
+11 our O
+12 case O
+13 study O
+14 will O
+15 be O
+16 the O
+17 regional O
+18 seismicity Eventuality-B
+19 of O
+20 southern Direction-B
+21 California Location-B
+22 . O
 

@@ -1,528 +1,531 @@
--DOCSTART- -X- O O
+1 Page O
+2 16 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-16 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 Strike Eventuality-B
+2 Slip Eventuality-I
+3 and O
+4 Oblique Eventuality-B
+5 Slip Eventuality-I
+6 Strike Eventuality-B
+7 slip Eventuality-I
+8 is O
+9 divided O
+10 into O
+11 two Value-B
+12 lateral Direction-B
+13 senses Trait-B
+14 : O
+15 left-lateral Direction-B
+16 and O
+17 right-lateral Direction-B
+18 . O
 
-Strike X X Eventuality-B
-Slip X X Eventuality-I
-and X X O
-Oblique X X Eventuality-B
-Slip X X Eventuality-I
-Strike X X Eventuality-B
-slip X X Eventuality-I
-is X X O
-divided X X O
-into X X O
-two X X Value-B
-lateral X X Direction-B
-senses X X Trait-B
-: X X O
-left-lateral X X Direction-B
-and X X O
-right-lateral X X Direction-B
-. X X O
+1 To O
+2 understand O
+3 the O
+4 difference O
+5 between O
+6 these O
+7 two Value-B
+8 types Trait-B
+9 of O
+10 slip Eventuality-B
+11 , O
+12 imagine O
+13 standing O
+14 on O
+15 one O
+16 side Environment_Context-B
+17 of O
+18 a O
+19 fault Environment_Context-B
+20 trace Environment_Context-I
+21 , O
+22 looking O
+23 across O
+24 the O
+25 fault Environment_Context-B
+26 at O
+27 the O
+28 other O
+29 side Environment_Context-B
+30 . O
 
-To X X O
-understand X X O
-the X X O
-difference X X O
-between X X O
-these X X O
-two X X Value-B
-types X X Trait-B
-of X X O
-slip X X Eventuality-B
-, X X O
-imagine X X O
-standing X X O
-on X X O
-one X X O
-side X X Environment_Context-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-trace X X Environment_Context-I
-, X X O
-looking X X O
-across X X O
-the X X O
-fault X X Environment_Context-B
-at X X O
-the X X O
-other X X O
-side X X Environment_Context-B
-. X X O
+1 Now O
+2 , O
+3 imagine O
+4 the O
+5 fault Environment_Context-B
+6 breaking Eventuality-B
+7 , O
+8 and O
+9 your O
+10 view O
+11 ( O
+12 assuming O
+13 you O
+14 can O
+15 keep O
+16 your O
+17 footing O
+18 in O
+19 the O
+20 shaking Eventuality-B
+21 ) O
+22 shifting O
+23 due O
+24 to O
+25 the O
+26 movement Eventuality-B
+27 along Direction-B
+28 the O
+29 fault Environment_Context-B
+30 . O
 
-Now X X O
-, X X O
-imagine X X O
-the X X O
-fault X X Environment_Context-B
-breaking X X Eventuality-B
-, X X O
-and X X O
-your X X O
-view X X O
-( X X O
-assuming X X O
-you X X O
-can X X O
-keep X X O
-your X X O
-footing X X O
-in X X O
-the X X O
-shaking X X Eventuality-B
-) X X O
-shifting X X O
-due X X O
-to X X O
-the X X O
-movement X X Eventuality-B
-along X X Direction-B
-the X X O
-fault X X Environment_Context-B
-. X X O
+1 Which O
+2 way O
+3 did O
+4 the O
+5 things O
+6 ( O
+7 trees O
+8 , O
+9 fences O
+10 , O
+11 etc O
+12 . O
 
-Which X X O
-way X X O
-did X X O
-the X X O
-things X X O
-( X X O
-trees X X O
-, X X O
-fences X X O
-, X X O
-etc X X O
-. X X O
+1 ) O
+2 on O
+3 the O
+4 other O
+5 side Environment_Context-B
+6 of O
+7 the O
+8 fault Environment_Context-B
+9 move Eventuality-B
+10 ? O
 
-) X X O
-on X X O
-the X X O
-other X X O
-side X X Environment_Context-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-move X X Eventuality-B
-? X X O
+1 Was O
+2 it O
+3 toward O
+4 your O
+5 left O
+6 or O
+7 your O
+8 right O
+9 ? O
 
-Was X X O
-it X X O
-toward X X O
-your X X O
-left X X O
-or X X O
-your X X O
-right X X O
-? X X O
+1 If O
+2 it O
+3 was O
+4 toward O
+5 your O
+6 left O
+7 , O
+8 then O
+9 the O
+10 fault Environment_Context-B
+11 experienced O
+12 left-lateral Direction-B
+13 strike Eventuality-B
+14 slip Eventuality-I
+15 . O
 
-If X X O
-it X X O
-was X X O
-toward X X O
-your X X O
-left X X O
-, X X O
-then X X O
-the X X O
-fault X X Environment_Context-B
-experienced X X O
-left-lateral X X Direction-B
-strike X X Eventuality-B
-slip X X Eventuality-I
-. X X O
+1 If O
+2 toward O
+3 the O
+4 right O
+5 , O
+6 that O
+7 was O
+8 right-lateral Direction-B
+9 strike Eventuality-B
+10 slip Eventuality-I
+11 . O
 
-If X X O
-toward X X O
-the X X O
-right X X O
-, X X O
-that X X O
-was X X O
-right-lateral X X Direction-B
-strike X X Eventuality-B
-slip X X Eventuality-I
-. X X O
+1 The O
+2 distinction O
+3 is O
+4 shown O
+5 by O
+6 the O
+7 two O
+8 pictures O
+9 below O
+10 , O
+11 as O
+12 well O
+13 . O
 
-The X X O
-distinction X X O
-is X X O
-shown X X O
-by X X O
-the X X O
-two X X O
-pictures X X O
-below X X O
-, X X O
-as X X O
-well X X O
-. X X O
+1 Clicking O
+2 on O
+3 each O
+4 image O
+5 allows O
+6 you O
+7 to O
+8 watch O
+9 an O
+10 animation O
+11 of O
+12 that O
+13 sense Trait-B
+14 of Trait-I
+15 slip Trait-I
+16 . O
 
-Clicking X X O
-on X X O
-each X X O
-image X X O
-allows X X O
-you X X O
-to X X O
-watch X X O
-an X X O
-animation X X O
-of X X O
-that X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-. X X O
+1 " O
+2 Must O
+3 strike Environment_Context-B
+4 slip Environment_Context-I
+5 faults Environment_Context-I
+6 be O
+7 vertical Direction-B
+8 in O
+9 dip Trait-B
+10 ( O
+11 as O
+12 shown O
+13 ) O
+14 ? O
 
-" X X O
-Must X X O
-strike X X Environment_Context-B
-slip X X Environment_Context-I
-faults X X Environment_Context-I
-be X X O
-vertical X X Direction-B
-in X X O
-dip X X Trait-B
-( X X O
-as X X O
-shown X X O
-) X X O
-? X X O
+1 " O
+2 Small O
+3 half-arrows O
+4 are O
+5 often O
+6 used O
+7 on O
+8 maps O
+9 and O
+10 diagrams O
+11 to O
+12 designate O
+13 the O
+14 lateral Direction-B
+15 sense Trait-B
+16 of O
+17 strike-slip Environment_Context-B
+18 faults Environment_Context-I
+19 . O
 
-" X X O
-Small X X O
-half-arrows X X O
-are X X O
-often X X O
-used X X O
-on X X O
-maps X X O
-and X X O
-diagrams X X O
-to X X O
-designate X X O
-the X X O
-lateral X X Direction-B
-sense X X Trait-B
-of X X O
-strike-slip X X Environment_Context-B
-faults X X Environment_Context-I
-. X X O
+1 The O
+2 figure O
+3 at O
+4 right O
+5 shows O
+6 how O
+7 this O
+8 works O
+9 ; O
+10 essentially O
+11 , O
+12 the O
+13 arrow O
+14 on O
+15 each O
+16 side Environment_Context-B
+17 of O
+18 the O
+19 fault Environment_Context-B
+20 points O
+21 in O
+22 the O
+23 direction Trait-B
+24 of O
+25 that O
+26 side Environment_Context-B
+27 's O
+28 relative Eventuality-B
+29 motion Eventuality-I
+30 . O
 
-The X X O
-figure X X O
-at X X O
-right X X O
-shows X X O
-how X X O
-this X X O
-works X X O
-; X X O
-essentially X X O
-, X X O
-the X X O
-arrow X X O
-on X X O
-each X X O
-side X X Environment_Context-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-points X X O
-in X X O
-the X X O
-direction X X Trait-B
-of X X O
-that X X O
-side X X Environment_Context-B
-'s X X O
-relative X X Eventuality-B
-motion X X Eventuality-I
-. X X O
+1 Similar O
+2 arrows O
+3 are O
+4 often O
+5 used O
+6 on O
+7 cross-sections O
+8 and O
+9 cut-away O
+10 diagrams O
+11 to O
+12 indicate O
+13 the O
+14 vertical Direction-B
+15 sense Trait-B
+16 of O
+17 dip-slip Environment_Context-B
+18 faults Environment_Context-I
+19 . O
 
-Similar X X O
-arrows X X O
-are X X O
-often X X O
-used X X O
-on X X O
-cross-sections X X O
-and X X O
-cut-away X X O
-diagrams X X O
-to X X O
-indicate X X O
-the X X O
-vertical X X Direction-B
-sense X X Trait-B
-of X X O
-dip-slip X X Environment_Context-B
-faults X X Environment_Context-I
-. X X O
+1 If O
+2 a O
+3 fault Environment_Context-B
+4 is O
+5 oblique Direction-B
+6 in O
+7 slip Trait-B
+8 - O
+9 - O
+10 neither O
+11 slip O
+12 component O
+13 dominates O
+14 the O
+15 other O
+16 - O
+17 - O
+18 then O
+19 the O
+20 slip Trait-B
+21 of O
+22 the O
+23 fault Environment_Context-B
+24 is O
+25 referred O
+26 to O
+27 with O
+28 a O
+29 combination O
+30 of O
+31 slip O
+32 terms O
+33 . O
 
-If X X O
-a X X O
-fault X X Environment_Context-B
-is X X O
-oblique X X Direction-B
-in X X O
-slip X X Trait-B
--- X X O
-neither X X O
-slip X X O
-component X X O
-dominates X X O
-the X X O
-other X X O
--- X X O
-then X X O
-the X X O
-slip X X Trait-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-is X X O
-referred X X O
-to X X O
-with X X O
-a X X O
-combination X X O
-of X X O
-slip X X O
-terms X X O
-. X X O
+1 The O
+2 sense Trait-B
+3 of O
+4 strike Eventuality-B
+5 slip Eventuality-I
+6 is O
+7 used O
+8 first O
+9 , O
+10 followed O
+11 by O
+12 the O
+13 sense Trait-B
+14 of O
+15 dip Eventuality-B
+16 slip Eventuality-I
+17 . O
 
-The X X O
-sense X X Trait-B
-of X X O
-strike X X Eventuality-B
-slip X X Eventuality-I
-is X X O
-used X X O
-first X X O
-, X X O
-followed X X O
-by X X O
-the X X O
-sense X X Trait-B
-of X X O
-dip X X Eventuality-B
-slip X X Eventuality-I
-. X X O
+1 For O
+2 example O
+3 , O
+4 if O
+5 the O
+6 slip Trait-B
+7 on O
+8 a O
+9 fault Environment_Context-B
+10 were O
+11 such O
+12 that O
+13 the O
+14 hanging Environment_Context-B
+15 wall Environment_Context-I
+16 moved Eventuality-B
+17 up Direction-B
+18 with O
+19 respect O
+20 to O
+21 the O
+22 footwall Environment_Context-B
+23 , O
+24 and O
+25 the O
+26 two Value-B
+27 sides Environment_Context-B
+28 slipped Eventuality-B
+29 laterally Direction-B
+30 right Direction-I
+31 with O
+32 respect O
+33 to O
+34 each O
+35 other O
+36 , O
+37 you O
+38 would O
+39 call O
+40 this O
+41 sense Trait-B
+42 of Trait-I
+43 slip Trait-I
+44 " O
+45 right-lateral Direction-B
+46 reverse Direction-I
+47 " O
+48 , O
+49 which O
+50 is O
+51 sometimes O
+52 shortened O
+53 to O
+54 " O
+55 right-reverse Direction-B
+56 " O
+57 . O
 
-For X X O
-example X X O
-, X X O
-if X X O
-the X X O
-slip X X Trait-B
-on X X O
-a X X O
-fault X X Environment_Context-B
-were X X O
-such X X O
-that X X O
-the X X O
-hanging X X Environment_Context-B
-wall X X Environment_Context-I
-moved X X Eventuality-B
-up X X Direction-B
-with X X O
-respect X X O
-to X X O
-the X X O
-footwall X X Environment_Context-B
-, X X O
-and X X O
-the X X O
-two X X Value-B
-sides X X Environment_Context-B
-slipped X X Eventuality-B
-laterally X X Direction-B
-right X X Direction-I
-with X X O
-respect X X O
-to X X O
-each X X O
-other X X O
-, X X O
-you X X O
-would X X O
-call X X O
-this X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-" X X O
-right-lateral X X Direction-B
-reverse X X Direction-I
-" X X O
-, X X O
-which X X O
-is X X O
-sometimes X X O
-shortened X X O
-to X X O
-" X X O
-right-reverse X X Direction-B
-" X X O
-. X X O
+1 Oblique Eventuality-B
+2 Slip Eventuality-I
+3 A O
+4 simple O
+5 lesson O
+6 on O
+7 the O
+8 terminology O
+9 of O
+10 oblique-slip Environment_Context-B
+11 faults Environment_Context-I
+12 . O
 
-Oblique X X Eventuality-B
-Slip X X Eventuality-I
-A X X O
-simple X X O
-lesson X X O
-on X X O
-the X X O
-terminology X X O
-of X X O
-oblique-slip X X Environment_Context-B
-faults X X Environment_Context-I
-. X X O
+1 In O
+2 general O
+3 , O
+4 a O
+5 fault Environment_Context-B
+6 's O
+7 sense Trait-B
+8 of Trait-I
+9 slip Trait-I
+10 can O
+11 be O
+12 a O
+13 key O
+14 mark O
+15 of O
+16 identification O
+17 . O
 
-In X X O
-general X X O
-, X X O
-a X X O
-fault X X Environment_Context-B
-'s X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-can X X O
-be X X O
-a X X O
-key X X O
-mark X X O
-of X X O
-identification X X O
-. X X O
+1 In O
+2 an O
+3 area Environment_Context-B
+4 of O
+5 numerous Value-B
+6 and O
+7 / O
+8 or O
+9 intersecting Direction-B
+10 faults Environment_Context-B
+11 , O
+12 it O
+13 is O
+14 often O
+15 difficult O
+16 to O
+17 identify O
+18 the O
+19 likely O
+20 source Environment_Context-B
+21 fault Environment_Context-I
+22 of O
+23 an O
+24 individual O
+25 earthquake Eventuality-B
+26 without O
+27 knowing O
+28 the O
+29 sense Trait-B
+30 of Trait-I
+31 slip Trait-I
+32 of O
+33 that O
+34 earthquake Eventuality-B
+35 ( O
+36 and O
+37 , O
+38 of O
+39 course O
+40 , O
+41 of O
+42 the O
+43 faults Environment_Context-B
+44 in O
+45 that O
+46 vicinity O
+47 ) O
+48 . O
 
-In X X O
-an X X O
-area X X Environment_Context-B
-of X X O
-numerous X X Value-B
-and/or X X O
-intersecting X X Direction-B
-faults X X Environment_Context-B
-, X X O
-it X X O
-is X X O
-often X X O
-difficult X X O
-to X X O
-identify X X O
-the X X O
-likely X X O
-source X X Environment_Context-B
-fault X X Environment_Context-I
-of X X O
-an X X O
-individual X X O
-earthquake X X Eventuality-B
-without X X O
-knowing X X O
-the X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-of X X O
-that X X O
-earthquake X X Eventuality-B
-( X X O
-and X X O
-, X X O
-of X X O
-course X X O
-, X X O
-of X X O
-the X X O
-faults X X Environment_Context-B
-in X X O
-that X X O
-vicinity X X O
-) X X O
-. X X O
+1 Fortunately O
+2 , O
+3 the O
+4 sense Trait-B
+5 of Trait-I
+6 slip Trait-I
+7 of O
+8 an O
+9 earthquake Eventuality-B
+10 can O
+11 be O
+12 determined O
+13 , O
+14 with O
+15 the O
+16 proper O
+17 analysis O
+18 of O
+19 seismic O
+20 records O
+21 , O
+22 by O
+23 calculating O
+24 what O
+25 is O
+26 known O
+27 as O
+28 a O
+29 focal O
+30 mechanism O
+31 . O
 
-Fortunately X X O
-, X X O
-the X X O
-sense X X Trait-B
-of X X Trait-I
-slip X X Trait-I
-of X X O
-an X X O
-earthquake X X Eventuality-B
-can X X O
-be X X O
-determined X X O
-, X X O
-with X X O
-the X X O
-proper X X O
-analysis X X O
-of X X O
-seismic X X O
-records X X O
-, X X O
-by X X O
-calculating X X O
-what X X O
-is X X O
-known X X O
-as X X O
-a X X O
-focal X X O
-mechanism X X O
-. X X O
-
-For X X O
-now X X O
-, X X O
-we X X O
-will X X O
-continue X X O
-our X X O
-review X X O
-of X X O
-the X X O
-properties X X Trait-B
-of X X O
-fault X X Eventuality-B
-slip X X Eventuality-I
-, X X O
-but X X O
-in X X O
-later X X O
-sections X X O
-, X X O
-we X X O
-will X X O
-look X X O
-much X X O
-more X X O
-closely X X O
-at X X O
-what X X O
-focal X X O
-mechanisms X X O
-are X X O
-, X X O
-and X X O
-how X X O
-they X X O
-are X X O
-determined X X O
-. X X O
+1 For O
+2 now O
+3 , O
+4 we O
+5 will O
+6 continue O
+7 our O
+8 review O
+9 of O
+10 the O
+11 properties Trait-B
+12 of O
+13 fault Eventuality-B
+14 slip Eventuality-I
+15 , O
+16 but O
+17 in O
+18 later O
+19 sections O
+20 , O
+21 we O
+22 will O
+23 look O
+24 much O
+25 more O
+26 closely O
+27 at O
+28 what O
+29 focal O
+30 mechanisms O
+31 are O
+32 , O
+33 and O
+34 how O
+35 they O
+36 are O
+37 determined O
+38 . O
 

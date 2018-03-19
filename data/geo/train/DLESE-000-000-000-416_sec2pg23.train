@@ -1,376 +1,376 @@
--DOCSTART- -X- O O
+1 Page O
+2 23 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 " O
+10 Can O
+11 earthquakes Eventuality-B
+12 be O
+13 predicted O
+14 ? O
 
-Page X X O
-23 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-" X X O
-Can X X O
-earthquakes X X Eventuality-B
-be X X O
-predicted X X O
-? X X O
+1 " O
+2 While O
+3 it O
+4 may O
+5 seem O
+6 that O
+7 we O
+8 know O
+9 much O
+10 about O
+11 tectonics Eventuality-B
+12 , O
+13 faulting Eventuality-B
+14 , O
+15 and O
+16 the O
+17 processes Eventuality-B
+18 that O
+19 cause Eventuality-B
+20 earthquakes Eventuality-B
+21 , O
+22 it O
+23 is O
+24 not O
+25 safe O
+26 to O
+27 assume O
+28 that O
+29 we O
+30 have O
+31 the O
+32 ability O
+33 to O
+34 accurately O
+35 forecast O
+36 earthquakes Eventuality-B
+37 . O
 
-" X X O
-While X X O
-it X X O
-may X X O
-seem X X O
-that X X O
-we X X O
-know X X O
-much X X O
-about X X O
-tectonics X X Eventuality-B
-, X X O
-faulting X X Eventuality-B
-, X X O
-and X X O
-the X X O
-processes X X Eventuality-B
-that X X O
-cause X X Eventuality-B
-earthquakes X X Eventuality-B
-, X X O
-it X X O
-is X X O
-not X X O
-safe X X O
-to X X O
-assume X X O
-that X X O
-we X X O
-have X X O
-the X X O
-ability X X O
-to X X O
-accurately X X O
-forecast X X O
-earthquakes X X Eventuality-B
-. X X O
+1 A O
+2 few O
+3 examples O
+4 of O
+5 successful O
+6 predictions O
+7 have O
+8 indeed O
+9 occurred O
+10 , O
+11 but O
+12 many O
+13 have O
+14 failed O
+15 , O
+16 and O
+17 some O
+18 powerful O
+19 earthquakes Eventuality-B
+20 have O
+21 struck Eventuality-B
+22 , O
+23 with O
+24 little O
+25 to O
+26 no O
+27 warning O
+28 , O
+29 in O
+30 settings O
+31 similar O
+32 to O
+33 those O
+34 where O
+35 predictions O
+36 had O
+37 previously O
+38 succeeded O
+39 . O
 
-A X X O
-few X X O
-examples X X O
-of X X O
-successful X X O
-predictions X X O
-have X X O
-indeed X X O
-occurred X X O
-, X X O
-but X X O
-many X X O
-have X X O
-failed X X O
-, X X O
-and X X O
-some X X O
-powerful X X O
-earthquakes X X Eventuality-B
-have X X O
-struck X X Eventuality-B
-, X X O
-with X X O
-little X X O
-to X X O
-no X X O
-warning X X O
-, X X O
-in X X O
-settings X X O
-similar X X O
-to X X O
-those X X O
-where X X O
-predictions X X O
-had X X O
-previously X X O
-succeeded X X O
-. X X O
+1 The O
+2 world Location-B
+3 's O
+4 first O
+5 successful O
+6 prediction O
+7 took O
+8 place O
+9 in O
+10 China Location-B
+11 on O
+12 February Time-B
+13 4 Time-I
+14 , Time-I
+15 1975 Time-I
+16 , O
+17 when O
+18 the O
+19 Chinese O
+20 government O
+21 issued O
+22 a O
+23 specific O
+24 , O
+25 immediate O
+26 warning O
+27 of O
+28 a O
+29 major Trait-B
+30 earthquake Eventuality-B
+31 in O
+32 the O
+33 area Environment_Context-B
+34 of O
+35 the O
+36 city O
+37 of O
+38 Haicheng Location-B
+39 , O
+40 and O
+41 began O
+42 a O
+43 massive O
+44 evacuation O
+45 effort O
+46 . O
 
-The X X O
-world X X Location-B
-'s X X O
-first X X O
-successful X X O
-prediction X X O
-took X X O
-place X X O
-in X X O
-China X X Location-B
-on X X O
-February X X Time-B
-4 X X Time-I
-, X X Time-I
-1975 X X Time-I
-, X X O
-when X X O
-the X X O
-Chinese X X O
-government X X O
-issued X X O
-a X X O
-specific X X O
-, X X O
-immediate X X O
-warning X X O
-of X X O
-a X X O
-major X X Trait-B
-earthquake X X Eventuality-B
-in X X O
-the X X O
-area X X Environment_Context-B
-of X X O
-the X X O
-city X X O
-of X X O
-Haicheng X X Location-B
-, X X O
-and X X O
-began X X O
-a X X O
-massive X X O
-evacuation X X O
-effort X X O
-. X X O
+1 The O
+2 earthquake Eventuality-B
+3 , O
+4 measuring O
+5 magnitude Trait-B
+6 7.3 Value-B
+7 , O
+8 followed O
+9 about Time-B
+10 nine Time-I
+11 hours Time-I
+12 later Time-I
+13 , O
+14 just O
+15 as O
+16 the O
+17 evening O
+18 chill O
+19 was O
+20 setting O
+21 in O
+22 - O
+23 - O
+24 which O
+25 had O
+26 residents O
+27 contemplating O
+28 a O
+29 return O
+30 to O
+31 the O
+32 warmth O
+33 of O
+34 their O
+35 homes O
+36 . O
 
-The X X O
-earthquake X X Eventuality-B
-, X X O
-measuring X X O
-magnitude X X Trait-B
-7.3 X X Value-B
-, X X O
-followed X X O
-about X X Time-B
-nine X X Time-I
-hours X X Time-I
-later X X Time-I
-, X X O
-just X X O
-as X X O
-the X X O
-evening X X O
-chill X X O
-was X X O
-setting X X O
-in X X O
--- X X O
-which X X O
-had X X O
-residents X X O
-contemplating X X O
-a X X O
-return X X O
-to X X O
-the X X O
-warmth X X O
-of X X O
-their X X O
-homes X X O
-. X X O
+1 Thankfully O
+2 , O
+3 most O
+4 remained O
+5 outside O
+6 until O
+7 the O
+8 earthquake Eventuality-B
+9 occurred Eventuality-B
+10 , O
+11 and O
+12 thus O
+13 while O
+14 90 O
+15 % O
+16 of O
+17 the O
+18 city O
+19 's O
+20 buildings O
+21 were O
+22 severely O
+23 damaged O
+24 or O
+25 destroyed O
+26 , O
+27 casualties O
+28 were O
+29 few O
+30 . O
 
-Thankfully X X O
-, X X O
-most X X O
-remained X X O
-outside X X O
-until X X O
-the X X O
-earthquake X X Eventuality-B
-occurred X X Eventuality-B
-, X X O
-and X X O
-thus X X O
-while X X O
-90 X X O
-% X X O
-of X X O
-the X X O
-city X X O
-'s X X O
-buildings X X O
-were X X O
-severely X X O
-damaged X X O
-or X X O
-destroyed X X O
-, X X O
-casualties X X O
-were X X O
-few X X O
-. X X O
+1 Haicheng Location-B
+2 is O
+3 located O
+4 in O
+5 an O
+6 area Environment_Context-B
+7 of O
+8 frequent Trait-B
+9 earthquakes Eventuality-B
+10 , O
+11 and O
+12 was O
+13 being O
+14 extensively O
+15 monitored O
+16 at O
+17 the O
+18 time O
+19 . O
 
-Haicheng X X Location-B
-is X X O
-located X X O
-in X X O
-an X X O
-area X X Environment_Context-B
-of X X O
-frequent X X Trait-B
-earthquakes X X Eventuality-B
-, X X O
-and X X O
-was X X O
-being X X O
-extensively X X O
-monitored X X O
-at X X O
-the X X O
-time X X O
-. X X O
+1 The O
+2 monitoring O
+3 efforts O
+4 resulted O
+5 in O
+6 the O
+7 decision O
+8 to O
+9 announce O
+10 an O
+11 earthquake Eventuality-B
+12 warning O
+13 only O
+14 after O
+15 assembling O
+16 circumstantial O
+17 evidence O
+18 for O
+19 an O
+20 imminent Trait-B
+21 earthquake Eventuality-B
+22 from O
+23 many O
+24 different O
+25 sources O
+26 using O
+27 several O
+28 different O
+29 techniques O
+30 and O
+31 " O
+32 warning O
+33 signs O
+34 " O
+35 . O
 
-The X X O
-monitoring X X O
-efforts X X O
-resulted X X O
-in X X O
-the X X O
-decision X X O
-to X X O
-announce X X O
-an X X O
-earthquake X X Eventuality-B
-warning X X O
-only X X O
-after X X O
-assembling X X O
-circumstantial X X O
-evidence X X O
-for X X O
-an X X O
-imminent X X Trait-B
-earthquake X X Eventuality-B
-from X X O
-many X X O
-different X X O
-sources X X O
-using X X O
-several X X O
-different X X O
-techniques X X O
-and X X O
-" X X O
-warning X X O
-signs X X O
-" X X O
-. X X O
+1 The O
+2 success O
+3 of O
+4 the O
+5 prediction O
+6 ultimately O
+7 hinged O
+8 on O
+9 good O
+10 fortune O
+11 and O
+12 massive O
+13 government-backed O
+14 monitoring O
+15 efforts O
+16 . O
 
-The X X O
-success X X O
-of X X O
-the X X O
-prediction X X O
-ultimately X X O
-hinged X X O
-on X X O
-good X X O
-fortune X X O
-and X X O
-massive X X O
-government-backed X X O
-monitoring X X O
-efforts X X O
-. X X O
+1 Similar O
+2 methods O
+3 led O
+4 to O
+5 two O
+6 more O
+7 successful O
+8 predictions O
+9 in O
+10 the O
+11 Yunnan Location-B
+12 and O
+13 Sichaun Location-B
+14 provinces O
+15 of O
+16 China Location-B
+17 in O
+18 the Time-B
+19 year Time-I
+20 following O
+21 the O
+22 Haicheng Location-B
+23 prediction O
+24 . O
 
-Similar X X O
-methods X X O
-led X X O
-to X X O
-two X X O
-more X X O
-successful X X O
-predictions X X O
-in X X O
-the X X O
-Yunnan X X Location-B
-and X X O
-Sichaun X X Location-B
-provinces X X O
-of X X O
-China X X Location-B
-in X X O
-the X X Time-B
-year X X Time-I
-following X X O
-the X X O
-Haicheng X X Location-B
-prediction X X O
-. X X O
+1 However O
+2 , O
+3 several O
+4 other O
+5 predictions O
+6 were O
+7 made O
+8 which O
+9 did O
+10 not O
+11 come O
+12 true O
+13 , O
+14 casting O
+15 some O
+16 doubt O
+17 on O
+18 the O
+19 reliability O
+20 of O
+21 official O
+22 predictions O
+23 . O
 
-However X X O
-, X X O
-several X X O
-other X X O
-predictions X X O
-were X X O
-made X X O
-which X X O
-did X X O
-not X X O
-come X X O
-true X X O
-, X X O
-casting X X O
-some X X O
-doubt X X O
-on X X O
-the X X O
-reliability X X O
-of X X O
-official X X O
-predictions X X O
-. X X O
-
-Just X X O
-seventeen X X Time-B
-months X X Time-I
-after X X O
-the X X O
-Haicheng X X Location-B
-prediction X X O
-, X X O
-a X X O
-powerful X X O
-and X X O
-unexpected X X O
-earthquake X X Eventuality-B
-beneath X X Direction-B
-the X X O
-city X X O
-of X X O
-Tangshan X X Location-B
-, X X O
-150 X X Value-B
-kilometers X X Unit-B
-east X X Direction-B
-of X X O
-Beijing X X Location-B
-, X X O
-provided X X O
-solid X X O
-support X X O
-for X X O
-these X X O
-doubts X X O
-, X X O
-and X X O
-shattered X X O
-hopes X X O
-that X X O
-regular X X O
-earthquake X X Eventuality-B
-prediction X X O
-would X X O
-soon X X O
-become X X O
-a X X O
-reality X X O
-. X X O
+1 Just O
+2 seventeen Time-B
+3 months Time-I
+4 after O
+5 the O
+6 Haicheng Location-B
+7 prediction O
+8 , O
+9 a O
+10 powerful O
+11 and O
+12 unexpected O
+13 earthquake Eventuality-B
+14 beneath Direction-B
+15 the O
+16 city O
+17 of O
+18 Tangshan Location-B
+19 , O
+20 150 Value-B
+21 kilometers Unit-B
+22 east Direction-B
+23 of O
+24 Beijing Location-B
+25 , O
+26 provided O
+27 solid O
+28 support O
+29 for O
+30 these O
+31 doubts O
+32 , O
+33 and O
+34 shattered O
+35 hopes O
+36 that O
+37 regular O
+38 earthquake Eventuality-B
+39 prediction O
+40 would O
+41 soon O
+42 become O
+43 a O
+44 reality O
+45 . O
 

@@ -1,378 +1,98 @@
--DOCSTART- -X- O O
+1 What O
+2 eats Eventuality-B
+3 what O
+4 ? O
 
-What X X O
-eats X X Eventuality-B
-what X X O
-? X X O
+1 Aquatic Aggregate_Biotic_Abiotic_Entity-B
+2 food Aggregate_Biotic_Abiotic_Entity-I
+3 webs Aggregate_Biotic_Abiotic_Entity-I
+4 are O
+5 complex Quality-B
+6 groups Biotic_Entity-B
+7 of O
+8 organisms Biotic_Entity-B
+9 that O
+10 perform Eventuality-B
+11 different O
+12 functions Eventuality-B
+13 in O
+14 the O
+15 ecosystem Aggregate_Biotic_Abiotic_Entity-B
+16 . O
 
-Aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-food X X Aggregate_Biotic_Abiotic_Entity-I
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-are X X O
-complex X X Quality-B
-groups X X Biotic_Entity-B
-of X X O
-organisms X X Biotic_Entity-B
-that X X O
-perform X X Eventuality-B
-different X X O
-functions X X Eventuality-B
-in X X O
-the X X O
-ecosystem X X Aggregate_Biotic_Abiotic_Entity-B
-. X X O
+1 Phytoplankton Biotic_Entity-B
+2 are O
+3 small Quality-B
+4 primary Biotic_Entity-B
+5 producers Biotic_Entity-I
+6 suspended Eventuality-B
+7 in O
+8 water Abiotic_Entity-B
+9 . O
 
-Phytoplankton X X Biotic_Entity-B
-are X X O
-small X X Quality-B
-primary X X Biotic_Entity-B
-producers X X Biotic_Entity-I
-suspended X X Eventuality-B
-in X X O
-water X X Abiotic_Entity-B
-. X X O
+1 They O
+2 use Eventuality-B
+3 nutrients Aggregate_Biotic_Abiotic_Entity-B
+4 along O
+5 with O
+6 carbon Abiotic_Entity-B
+7 dioxide Abiotic_Entity-I
+8 to O
+9 harness Eventuality-B
+10 sunlight Abiotic_Entity-B
+11 energy Abiotic_Entity-I
+12 and O
+13 create Eventuality-B
+14 biomass Biotic_Entity-B
+15 through O
+16 the O
+17 process Eventuality-B
+18 of O
+19 photosynthesis Eventuality-B
+20 . O
 
-They X X O
-use X X Eventuality-B
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-along X X O
-with X X O
-carbon X X Abiotic_Entity-B
-dioxide X X Abiotic_Entity-I
-to X X O
-harness X X Eventuality-B
-sunlight X X Abiotic_Entity-B
-energy X X Abiotic_Entity-I
-and X X O
-create X X Eventuality-B
-biomass X X Biotic_Entity-B
-through X X O
-the X X O
-process X X Eventuality-B
-of X X O
-photosynthesis X X Eventuality-B
-. X X O
+1 Phytoplankton Biotic_Entity-B
+2 biomass Biotic_Entity-I
+3 is O
+4 usually O
+5 the O
+6 primary O
+7 food Biotic_Entity-B
+8 for O
+9 other O
+10 aquatic Quality-B
+11 organisms Biotic_Entity-B
+12 , O
+13 including O
+14 zooplankton Biotic_Entity-B
+15 . O
 
-Phytoplankton X X Biotic_Entity-B
-biomass X X Biotic_Entity-I
-is X X O
-usually X X O
-the X X O
-primary X X O
-food X X Biotic_Entity-B
-for X X O
-other X X O
-aquatic X X Quality-B
-organisms X X Biotic_Entity-B
-, X X O
-including X X O
-zooplankton X X Biotic_Entity-B
-. X X O
+1 Zooplankton Biotic_Entity-B
+2 are O
+3 small Quality-B
+4 , O
+5 heterotrophic Quality-B
+6 organisms Biotic_Entity-B
+7 that O
+8 feed Eventuality-B
+9 on Eventuality-I
+10 phytoplankton Biotic_Entity-B
+11 and O
+12 other O
+13 zooplankton Biotic_Entity-B
+14 , O
+15 and O
+16 are O
+17 themselves O
+18 food Biotic_Entity-B
+19 for O
+20 larger O
+21 planktivores Biotic_Entity-B
+22 . O
 
-Zooplankton X X Biotic_Entity-B
-are X X O
-small X X Quality-B
-, X X O
-heterotrophic X X Quality-B
-organisms X X Biotic_Entity-B
-that X X O
-feed X X Eventuality-B
-on X X Eventuality-I
-phytoplankton X X Biotic_Entity-B
-and X X O
-other X X O
-zooplankton X X Biotic_Entity-B
-, X X O
-and X X O
-are X X O
-themselves X X O
-food X X Biotic_Entity-B
-for X X O
-larger X X O
-planktivores X X Biotic_Entity-B
-. X X O
-
-In X X O
-this X X O
-way X X O
-, X X O
-the X X O
-sun X X Abiotic_Entity-B
-’ X X Abiotic_Entity-I
-s X X Abiotic_Entity-I
-energy X X Abiotic_Entity-I
-is X X O
-transferred X X Eventuality-B
-up X X O
-aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-food X X Aggregate_Biotic_Abiotic_Entity-I
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-, X X O
-eventually X X O
-feeding X X Eventuality-B
-apex X X Biotic_Entity-B
-predators X X Biotic_Entity-I
-such X X O
-as X X O
-sharks X X Biotic_Entity-B
-and X X O
-other X X O
-large X X Quality-B
-fish X X Biotic_Entity-B
-. X X O
-
-What X X O
-factors X X O
-shape X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-? X X O
-
-Aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-food X X Aggregate_Biotic_Abiotic_Entity-I
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-can X X O
-be X X O
-characterized X X O
-by X X O
-the X X O
-number X X O
-of X X O
-trophic X X Biotic_Entity-B
-levels X X Biotic_Entity-I
-and X X O
-the X X O
-amount X X O
-of X X O
-biomass X X Quality-B
-in X X O
-each X X O
-level X X O
-. X X O
-
-Nutrient X X Quality-B
-availability X X Quality-I
-is X X O
-central X X O
-in X X O
-shaping X X Eventuality-B
-food X X Aggregate_Biotic_Abiotic_Entity-B
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-. X X O
-
-Plants X X Biotic_Entity-B
-require X X Eventuality-B
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-in X X O
-specific X X O
-quantities X X O
-in X X O
-order X X O
-to X X O
-photosynthesize X X Eventuality-B
-and X X O
-convert X X Eventuality-B
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-into X X O
-usable X X Eventuality-B
-food X X Biotic_Entity-B
-. X X O
-
-Low X X O
-quantities X X O
-of X X O
-certain X X O
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-can X X O
-limit X X Eventuality-B
-the X X O
-food X X Abiotic_Entity-B
-energy X X Abiotic_Entity-I
-available X X Quality-B
-in X X O
-the X X O
-web X X Aggregate_Biotic_Abiotic_Entity-B
-. X X O
-
-Another X X O
-factor X X O
-shaping X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-is X X O
-the X X O
-amount X X O
-of X X O
-biomass X X Quality-B
-in X X O
-each X X O
-trophic X X Biotic_Entity-B
-level X X Biotic_Entity-I
-. X X O
-
-For X X O
-example X X O
-, X X O
-a X X O
-food X X Aggregate_Biotic_Abiotic_Entity-B
-web X X Aggregate_Biotic_Abiotic_Entity-I
-with X X O
-many X X O
-predators X X Biotic_Entity-B
-may X X O
-have X X O
-little X X Value-B
-prey X X Biotic_Entity-B
-biomass X X Quality-B
-than X X O
-one X X O
-with X X O
-fewer X X O
-predators X X Biotic_Entity-B
-, X X O
-because X X O
-the X X O
-predators X X Biotic_Entity-B
-eat X X Eventuality-B
-more X X O
-of X X O
-the X X O
-prey X X Biotic_Entity-B
-. X X O
-
-Where X X O
-do X X O
-humans X X Biotic_Entity-B
-fit X X O
-in X X O
-? X X O
-
-Human X X Eventuality-B
-activities X X Eventuality-I
-change X X Eventuality-B
-aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-environments X X Aggregate_Biotic_Abiotic_Entity-I
-and X X O
-food X X O
-webs X X O
-in X X O
-many X X O
-ways X X O
-. X X O
-
-We X X O
-dam X X Eventuality-B
-rivers X X Aggregate_Biotic_Abiotic_Entity-B
-to X X O
-the X X O
-sea X X Aggregate_Biotic_Abiotic_Entity-B
-and X X O
-then X X O
-reclaim X X Eventuality-B
-land X X Abiotic_Entity-B
-and X X O
-re-populate X X Eventuality-B
-it X X O
-. X X O
-
-Aquatic X X Quality-B
-organisms X X Biotic_Entity-B
-may X X O
-be X X O
-transported X X Eventuality-B
-around X X O
-the X X O
-world X X Aggregate_Biotic_Abiotic_Entity-B
-through X X O
-, X X O
-for X X O
-example X X O
-, X X O
-bilge X X Abiotic_Entity-B
-water X X Abiotic_Entity-I
-in X X O
-ships X X O
-, X X O
-potentially X X O
-establishing X X Eventuality-B
-populations X X Biotic_Entity-B
-of X X O
-invasive X X Quality-B
-species X X Biotic_Entity-B
-. X X O
-
-Most X X O
-human X X Biotic_Entity-B
-populations X X Biotic_Entity-I
-reside X X Eventuality-B
-near X X O
-water X X Abiotic_Entity-B
-, X X O
-and X X O
-human X X Eventuality-B
-activities X X Eventuality-I
-introduce X X Eventuality-B
-excess X X Quality-B
-nutrients X X Aggregate_Biotic_Abiotic_Entity-B
-to X X O
-aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-systems X X Aggregate_Biotic_Abiotic_Entity-I
-through X X O
-sewage X X Aggregate_Biotic_Abiotic_Entity-B
-, X X O
-detergents X X Abiotic_Entity-B
-, X X O
-fertilizer X X Aggregate_Biotic_Abiotic_Entity-B
-and X X O
-animal X X Biotic_Entity-B
-waste X X Biotic_Entity-I
-. X X O
-
-Humans X X Biotic_Entity-B
-rely X X Eventuality-B
-on X X Eventuality-I
-the X X O
-oceans X X Aggregate_Biotic_Abiotic_Entity-B
-for X X O
-food X X Biotic_Entity-B
-, X X O
-and X X O
-thus X X O
-play X X Eventuality-B
-a X X O
-role X X Eventuality-B
-as X X O
-apex X X Biotic_Entity-B
-predators X X Biotic_Entity-I
-, X X O
-influencing X X Eventuality-B
-aquatic X X Aggregate_Biotic_Abiotic_Entity-B
-food X X Aggregate_Biotic_Abiotic_Entity-I
-webs X X Aggregate_Biotic_Abiotic_Entity-I
-through X X O
-overfishing X X Eventuality-B
-. X X O
-
-Human X X Eventuality-B
-activities X X Eventuality-I
-may X X O
-decrease X X Eventuality-B
-the X X O
-biomass X X Quality-B
-of X X O
-fished X X Eventuality-B
-animals X X Biotic_Entity-B
-, X X O
-decrease X X Eventuality-B
-biodiversity X X Quality-B
-, X X O
-and X X O
-alter X X Eventuality-B
-the X X O
-species X X Biotic_Entity-B
-present X X Quality-B
-in X X O
-an X X O
-ecosystem X X Aggregate_Biotic_Abiotic_Entity-B
-. X X O
-
+1 In O
+2 this O
+3 way O
+4 , O
+5 the O
+6 sun Abiotic_Entity-B

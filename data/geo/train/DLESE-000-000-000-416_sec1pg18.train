@@ -1,476 +1,479 @@
--DOCSTART- -X- O O
+1 Page O
+2 18 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-18 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 Calculating O
+2 Slip Trait-B
+3 Rates Trait-I
+4 and O
+5 Recurrence Trait-B
+6 Intervals Trait-I
+7 One O
+8 method O
+9 for O
+10 finding O
+11 the O
+12 slip Trait-B
+13 rate Trait-I
+14 of O
+15 a O
+16 fault Environment_Context-B
+17 involves O
+18 determining O
+19 the O
+20 recurrence Trait-B
+21 interval Trait-I
+22 of O
+23 that O
+24 fault Environment_Context-B
+25 . O
 
-Calculating X X O
-Slip X X Trait-B
-Rates X X Trait-I
-and X X O
-Recurrence X X Trait-B
-Intervals X X Trait-I
-One X X O
-method X X O
-for X X O
-finding X X O
-the X X O
-slip X X Trait-B
-rate X X Trait-I
-of X X O
-a X X O
-fault X X Environment_Context-B
-involves X X O
-determining X X O
-the X X O
-recurrence X X Trait-B
-interval X X Trait-I
-of X X O
-that X X O
-fault X X Environment_Context-B
-. X X O
+1 A O
+2 recurrence Trait-B
+3 interval Trait-I
+4 for O
+5 a O
+6 fault Environment_Context-B
+7 is O
+8 the O
+9 average O
+10 time Trait-B
+11 between O
+12 ruptures Eventuality-B
+13 of O
+14 a O
+15 particular O
+16 size Trait-B
+17 along Direction-B
+18 that O
+19 fault Environment_Context-B
+20 . O
 
-A X X O
-recurrence X X Trait-B
-interval X X Trait-I
-for X X O
-a X X O
-fault X X Environment_Context-B
-is X X O
-the X X O
-average X X O
-time X X Trait-B
-between X X O
-ruptures X X Eventuality-B
-of X X O
-a X X O
-particular X X O
-size X X Trait-B
-along X X Direction-B
-that X X O
-fault X X Environment_Context-B
-. X X O
+1 Most O
+2 often O
+3 , O
+4 the O
+5 term O
+6 is O
+7 used O
+8 to O
+9 denote O
+10 the O
+11 repeat Trait-B
+12 time Trait-I
+13 of O
+14 major Trait-B
+15 events Eventuality-B
+16 , O
+17 which O
+18 are O
+19 usually O
+20 defined O
+21 as O
+22 those O
+23 which O
+24 rupture Eventuality-B
+25 much O
+26 or O
+27 all O
+28 of O
+29 the O
+30 length Trait-B
+31 of O
+32 the O
+33 fault Environment_Context-B
+34 , O
+35 and O
+36 typically O
+37 resulting O
+38 in O
+39 appreciable O
+40 surface Eventuality-B
+41 rupture Eventuality-I
+42 ( O
+43 if O
+44 the O
+45 fault Environment_Context-B
+46 is O
+47 not O
+48 a O
+49 blind Environment_Context-B
+50 fault Environment_Context-I
+51 ) O
+52 . O
 
-Most X X O
-often X X O
-, X X O
-the X X O
-term X X O
-is X X O
-used X X O
-to X X O
-denote X X O
-the X X O
-repeat X X Trait-B
-time X X Trait-I
-of X X O
-major X X Trait-B
-events X X Eventuality-B
-, X X O
-which X X O
-are X X O
-usually X X O
-defined X X O
-as X X O
-those X X O
-which X X O
-rupture X X Eventuality-B
-much X X O
-or X X O
-all X X O
-of X X O
-the X X O
-length X X Trait-B
-of X X O
-the X X O
-fault X X Environment_Context-B
-, X X O
-and X X O
-typically X X O
-resulting X X O
-in X X O
-appreciable X X O
-surface X X Eventuality-B
-rupture X X Eventuality-I
-( X X O
-if X X O
-the X X O
-fault X X Environment_Context-B
-is X X O
-not X X O
-a X X O
-blind X X Environment_Context-B
-fault X X Environment_Context-I
-) X X O
-. X X O
+1 Knowing O
+2 the O
+3 recurrence Trait-B
+4 interval Trait-I
+5 between O
+6 major Trait-B
+7 ruptures Eventuality-B
+8 along Direction-B
+9 a O
+10 fault Environment_Context-B
+11 and O
+12 the O
+13 average O
+14 slip Eventuality-B
+15 of O
+16 such O
+17 ruptures Eventuality-B
+18 allows O
+19 you O
+20 to O
+21 make O
+22 an O
+23 estimate O
+24 of O
+25 the O
+26 slip Trait-B
+27 rate Trait-I
+28 of O
+29 that O
+30 fault Environment_Context-B
+31 . O
 
-Knowing X X O
-the X X O
-recurrence X X Trait-B
-interval X X Trait-I
-between X X O
-major X X Trait-B
-ruptures X X Eventuality-B
-along X X Direction-B
-a X X O
-fault X X Environment_Context-B
-and X X O
-the X X O
-average X X O
-slip X X Eventuality-B
-of X X O
-such X X O
-ruptures X X Eventuality-B
-allows X X O
-you X X O
-to X X O
-make X X O
-an X X O
-estimate X X O
-of X X O
-the X X O
-slip X X Trait-B
-rate X X Trait-I
-of X X O
-that X X O
-fault X X Environment_Context-B
-. X X O
+1 While O
+2 the O
+3 repeat Trait-B
+4 time Trait-I
+5 may O
+6 vary O
+7 significantly O
+8 , O
+9 an O
+10 average O
+11 value O
+12 can O
+13 generally O
+14 be O
+15 determined O
+16 if O
+17 enough O
+18 geologic O
+19 evidence O
+20 exists O
+21 along Direction-B
+22 the O
+23 fault Environment_Context-B
+24 trace Environment_Context-I
+25 to O
+26 date O
+27 past Time-B
+28 ruptures Eventuality-B
+29 . O
 
-While X X O
-the X X O
-repeat X X Trait-B
-time X X Trait-I
-may X X O
-vary X X O
-significantly X X O
-, X X O
-an X X O
-average X X O
-value X X O
-can X X O
-generally X X O
-be X X O
-determined X X O
-if X X O
-enough X X O
-geologic X X O
-evidence X X O
-exists X X O
-along X X Direction-B
-the X X O
-fault X X Environment_Context-B
-trace X X Environment_Context-I
-to X X O
-date X X O
-past X X Time-B
-ruptures X X Eventuality-B
-. X X O
+1 This O
+2 value O
+3 can O
+4 then O
+5 be O
+6 used O
+7 with O
+8 either O
+9 a O
+10 mathematical O
+11 calculation O
+12 of O
+13 the O
+14 amount O
+15 of O
+16 slip Eventuality-B
+17 a O
+18 whole-fault Eventuality-B
+19 rupture Eventuality-I
+20 would O
+21 produce Eventuality-B
+22 , O
+23 or O
+24 an O
+25 estimate O
+26 of O
+27 a O
+28 typical O
+29 rupture Eventuality-B
+30 displacement Eventuality-I
+31 taken O
+32 from O
+33 field O
+34 observations O
+35 of O
+36 recent Time-B
+37 surface Eventuality-B
+38 ruptures Eventuality-I
+39 . O
 
-This X X O
-value X X O
-can X X O
-then X X O
-be X X O
-used X X O
-with X X O
-either X X O
-a X X O
-mathematical X X O
-calculation X X O
-of X X O
-the X X O
-amount X X O
-of X X O
-slip X X Eventuality-B
-a X X O
-whole-fault X X Eventuality-B
-rupture X X Eventuality-I
-would X X O
-produce X X Eventuality-B
-, X X O
-or X X O
-an X X O
-estimate X X O
-of X X O
-a X X O
-typical X X O
-rupture X X Eventuality-B
-displacement X X Eventuality-I
-taken X X O
-from X X O
-field X X O
-observations X X O
-of X X O
-recent X X Time-B
-surface X X Eventuality-B
-ruptures X X Eventuality-I
-. X X O
+1 These O
+2 values O
+3 are O
+4 then O
+5 inserted O
+6 into O
+7 the O
+8 equation O
+9 below O
+10 to O
+11 arrive O
+12 at O
+13 a O
+14 slip Trait-B
+15 rate Trait-I
+16 . O
 
-These X X O
-values X X O
-are X X O
-then X X O
-inserted X X O
-into X X O
-the X X O
-equation X X O
-below X X O
-to X X O
-arrive X X O
-at X X O
-a X X O
-slip X X Trait-B
-rate X X Trait-I
-. X X O
+1 ( O
+2 Make O
+3 sure O
+4 your O
+5 units O
+6 are O
+7 all O
+8 in O
+9 agreement O
+10 ! O
 
-( X X O
-Make X X O
-sure X X O
-your X X O
-units X X O
-are X X O
-all X X O
-in X X O
-agreement X X O
-! X X O
+1 ) O
+2 For O
+3 example O
+4 , O
+5 if O
+6 you O
+7 know O
+8 from O
+9 geological O
+10 studies O
+11 that O
+12 the O
+13 recurrence Trait-B
+14 interval Trait-I
+15 on O
+16 the O
+17 ( O
+18 hypothetical O
+19 ) O
+20 Desert Environment_Context-B
+21 View Environment_Context-I
+22 Fault Environment_Context-I
+23 is O
+24 1000 Time-B
+25 years Time-I
+26 , O
+27 and O
+28 that O
+29 the O
+30 average O
+31 slip Eventuality-B
+32 in O
+33 each O
+34 major Trait-B
+35 rupture Eventuality-B
+36 ( O
+37 as O
+38 defined O
+39 above O
+40 ) O
+41 is O
+42 3.0 Value-B
+43 meters Unit-B
+44 , O
+45 then O
+46 you O
+47 can O
+48 estimate O
+49 a O
+50 slip Trait-B
+51 rate Trait-I
+52 for O
+53 the O
+54 Desert Environment_Context-B
+55 View Environment_Context-I
+56 Fault Environment_Context-I
+57 of O
+58 3000 Value-B
+59 mm Unit-B
+60 divided O
+61 by O
+62 1000 Time-B
+63 years Time-I
+64 , O
+65 or O
+66 3.0 Value-B
+67 mm Unit-B
+68 / Unit-I
+69 yr Unit-I
+70 . O
 
-) X X O
-For X X O
-example X X O
-, X X O
-if X X O
-you X X O
-know X X O
-from X X O
-geological X X O
-studies X X O
-that X X O
-the X X O
-recurrence X X Trait-B
-interval X X Trait-I
-on X X O
-the X X O
-( X X O
-hypothetical X X O
-) X X O
-Desert X X Environment_Context-B
-View X X Environment_Context-I
-Fault X X Environment_Context-I
-is X X O
-1000 X X Time-B
-years X X Time-I
-, X X O
-and X X O
-that X X O
-the X X O
-average X X O
-slip X X Eventuality-B
-in X X O
-each X X O
-major X X Trait-B
-rupture X X Eventuality-B
-( X X O
-as X X O
-defined X X O
-above X X O
-) X X O
-is X X O
-3.0 X X Value-B
-meters X X Unit-B
-, X X O
-then X X O
-you X X O
-can X X O
-estimate X X O
-a X X O
-slip X X Trait-B
-rate X X Trait-I
-for X X O
-the X X O
-Desert X X Environment_Context-B
-View X X Environment_Context-I
-Fault X X Environment_Context-I
-of X X O
-3000 X X Value-B
-mm X X Unit-B
-divided X X O
-by X X O
-1000 X X Time-B
-years X X Time-I
-, X X O
-or X X O
-3.0 X X Value-B
-mm/yr X X Unit-B
-. X X O
+1 To O
+2 calculate O
+3 the O
+4 slip Trait-B
+5 rate Trait-I
+6 in O
+7 this O
+8 manner O
+9 , O
+10 you O
+11 need O
+12 to O
+13 know O
+14 how O
+15 to O
+16 arrive O
+17 at O
+18 a O
+19 recurrence Trait-B
+20 interval Trait-I
+21 . O
 
-To X X O
-calculate X X O
-the X X O
-slip X X Trait-B
-rate X X Trait-I
-in X X O
-this X X O
-manner X X O
-, X X O
-you X X O
-need X X O
-to X X O
-know X X O
-how X X O
-to X X O
-arrive X X O
-at X X O
-a X X O
-recurrence X X Trait-B
-interval X X Trait-I
-. X X O
+1 For O
+2 geologists O
+3 , O
+4 determining O
+5 the O
+6 recurrence Trait-B
+7 interval Trait-I
+8 of O
+9 a O
+10 fault Environment_Context-B
+11 can O
+12 require O
+13 a O
+14 lot O
+15 of O
+16 field O
+17 work O
+18 , O
+19 and O
+20 often O
+21 includes O
+22 the O
+23 digging O
+24 of O
+25 a O
+26 trench O
+27 across O
+28 the O
+29 fault Environment_Context-B
+30 's O
+31 surface Environment_Context-B
+32 trace Environment_Context-I
+33 . O
 
-For X X O
-geologists X X O
-, X X O
-determining X X O
-the X X O
-recurrence X X Trait-B
-interval X X Trait-I
-of X X O
-a X X O
-fault X X Environment_Context-B
-can X X O
-require X X O
-a X X O
-lot X X O
-of X X O
-field X X O
-work X X O
-, X X O
-and X X O
-often X X O
-includes X X O
-the X X O
-digging X X O
-of X X O
-a X X O
-trench X X O
-across X X O
-the X X O
-fault X X Environment_Context-B
-'s X X O
-surface X X Environment_Context-B
-trace X X Environment_Context-I
-. X X O
+1 In O
+2 your O
+3 case O
+4 , O
+5 the O
+6 activity O
+7 below O
+8 will O
+9 let O
+10 you O
+11 try O
+12 out O
+13 several O
+14 different O
+15 approaches O
+16 to O
+17 finding O
+18 recurrence Trait-B
+19 intervals Trait-I
+20 - O
+21 - O
+22 without O
+23 even O
+24 getting O
+25 your O
+26 hands O
+27 dirty O
+28 - O
+29 - O
+30 including O
+31 one O
+32 example O
+33 using O
+34 actual O
+35 data O
+36 from O
+37 a O
+38 real-world O
+39 fault Environment_Context-B
+40 . O
 
-In X X O
-your X X O
-case X X O
-, X X O
-the X X O
-activity X X O
-below X X O
-will X X O
-let X X O
-you X X O
-try X X O
-out X X O
-several X X O
-different X X O
-approaches X X O
-to X X O
-finding X X O
-recurrence X X Trait-B
-intervals X X Trait-I
--- X X O
-without X X O
-even X X O
-getting X X O
-your X X O
-hands X X O
-dirty X X O
--- X X O
-including X X O
-one X X O
-example X X O
-using X X O
-actual X X O
-data X X O
-from X X O
-a X X O
-real-world X X O
-fault X X Environment_Context-B
-. X X O
+1 Recurrence Trait-B
+2 Interval Trait-I
+3 Recurrence Trait-B
+4 intervals Trait-I
+5 sound O
+6 useful O
+7 , O
+8 but O
+9 how O
+10 can O
+11 you O
+12 determine O
+13 them O
+14 ? O
 
-Recurrence X X Trait-B
-Interval X X Trait-I
-Recurrence X X Trait-B
-intervals X X Trait-I
-sound X X O
-useful X X O
-, X X O
-but X X O
-how X X O
-can X X O
-you X X O
-determine X X O
-them X X O
-? X X O
+1 While O
+2 recurrence Trait-B
+3 intervals Trait-I
+4 can O
+5 be O
+6 used O
+7 to O
+8 calculate O
+9 slip Trait-B
+10 rates Trait-I
+11 , O
+12 so O
+13 too O
+14 can O
+15 other O
+16 methods O
+17 . O
 
-While X X O
-recurrence X X Trait-B
-intervals X X Trait-I
-can X X O
-be X X O
-used X X O
-to X X O
-calculate X X O
-slip X X Trait-B
-rates X X Trait-I
-, X X O
-so X X O
-too X X O
-can X X O
-other X X O
-methods X X O
-. X X O
+1 Using O
+2 more O
+3 than O
+4 one O
+5 method O
+6 on O
+7 a O
+8 particular O
+9 fault Environment_Context-B
+10 allows O
+11 us O
+12 to O
+13 check O
+14 the O
+15 accuracy O
+16 of O
+17 our O
+18 findings O
+19 . O
 
-Using X X O
-more X X O
-than X X O
-one X X O
-method X X O
-on X X O
-a X X O
-particular X X O
-fault X X Environment_Context-B
-allows X X O
-us X X O
-to X X O
-check X X O
-the X X O
-accuracy X X O
-of X X O
-our X X O
-findings X X O
-. X X O
-
-Let X X O
-'s X X O
-study X X O
-some X X O
-of X X O
-these X X O
-other X X O
-methods X X O
-, X X O
-now X X O
-, X X O
-and X X O
-then X X O
-compare X X O
-their X X O
-results X X O
-. X X O
+1 Let O
+2 's O
+3 study O
+4 some O
+5 of O
+6 these O
+7 other O
+8 methods O
+9 , O
+10 now O
+11 , O
+12 and O
+13 then O
+14 compare O
+15 their O
+16 results O
+17 . O
 

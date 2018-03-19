@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 import sys
 from bs4 import BeautifulSoup, Comment, Tag, NavigableString
+from irtokz import RomanTokenizer
 from nltk.tokenize import sent_tokenize, word_tokenize
 class Entity:
 	def __init__(self, id, string, attr_dict, type):
@@ -40,36 +41,50 @@ def conv2train(filename, path):
 
 
 	tokens = list()
-	filetokens = word_tokenize(txtfile)
-	#print(filetokens)
+	tokenise = RomanTokenizer(split_sen=True)
+	# print(type(txtfile))
 
+	# filetokens = []
+	toks = tokenise.tokenize(txtfile)
+	# for line in txtfile:
+	# 	filetok = tokenise.tokenize(line)
+	# 	filetokens += filetok
+	# print(filetokens)
+	filetokens = word_tokenize(toks)
+	#print(filetokens)
+#	print(filetokens)
 	ongoing_index = 0
 	for tok in filetokens:
 		if tok == '``' or tok == "''":
 			tok = '"'
 		index = txtfile.find(tok, ongoing_index)
+		# print(index)
 		if index == -1:
 			break
 		tokens.append(Token(tok, index, index + len(tok)))
-		ongoing_index = index
-
+		ongoing_index = index + len(tok)
+	# print(tokens)
 	xml = open(path+filename[:filename.find('.')] + '.xml', 'r')
 	xmltxt = xml.read()
 #	print(xmltxt)
 	xml.close()
 	soup = BeautifulSoup(xmltxt, "html5lib")
-#	print(soup.findAll('entity'))
+	# print(soup.findAll('entity'))
 	for concept in soup.findAll('entity'):
+		# print(concept)
 		id = concept.id.get_text()
 		type = concept.type.get_text()
 #		print(concept.span)
+		# print(concept.span.get_text())
 		spans = concept.span.get_text().split(';')
 		string = ''
 		# TODO how to handle disjoint spans?
 		x, y = spans[0].split(',')
 		x = int(x)
 		y = int(y)
+
 		string = txtfile[int(x):int(y)]
+		# print(string)
 #		print(txtfile)
 #		print (string)
 		string = string.lower().rstrip('\'\"-,.:;!?')
@@ -93,11 +108,14 @@ def conv2train(filename, path):
 			if tok.start >= x and tok.end > y: # this shouldn't happen
 				tok.label = type + '-I'
 				break
-
-	output.write('-DOCSTART- -X- O O\n\n')
+	# print(tokens)
+	# output.write('-DOCSTART- -X- O O\n\n')
+	count = 1
 	for tok in tokens:
 		if tok == '\n' or tok == ' ':
 			continue
-		output.write(tok.string + ' X X ' + tok.label + '\n')
+		output.write(str(count) + ' ' + tok.string + ' ' + tok.label + '\n')
+		count += 1
 		if tok.string in '.!?': # crap, what about quotes?
+			count = 1
 			output.write('\n')

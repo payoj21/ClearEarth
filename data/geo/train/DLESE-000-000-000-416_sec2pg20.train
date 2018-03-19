@@ -1,110 +1,109 @@
--DOCSTART- -X- O O
+1 Page O
+2 20 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 Distribution Trait-B
+10 by O
+11 Magnitude Trait-B
+12 ? O
 
-Page X X O
-20 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-Distribution X X Trait-B
-by X X O
-Magnitude X X Trait-B
-? X X O
+1 In O
+2 Activity O
+3 # O
+4 5 O
+5 , O
+6 it O
+7 was O
+8 noted O
+9 that O
+10 many O
+11 people O
+12 are O
+13 surprised O
+14 at O
+15 how O
+16 many O
+17 earthquakes Eventuality-B
+18 occur Eventuality-B
+19 every Time-B
+20 day Time-I
+21 in O
+22 southern Direction-B
+23 California Location-B
+24 . O
 
-In X X O
-Activity X X O
-# X X O
-5 X X O
-, X X O
-it X X O
-was X X O
-noted X X O
-that X X O
-many X X O
-people X X O
-are X X O
-surprised X X O
-at X X O
-how X X O
-many X X O
-earthquakes X X Eventuality-B
-occur X X Eventuality-B
-every X X Time-B
-day X X Time-I
-in X X O
-southern X X Direction-B
-California X X Location-B
-. X X O
+1 That O
+2 surprise O
+3 , O
+4 it O
+5 was O
+6 said O
+7 , O
+8 stems O
+9 from O
+10 the O
+11 fact O
+12 that O
+13 all O
+14 but O
+15 a O
+16 few O
+17 of O
+18 those O
+19 are O
+20 too O
+21 small Trait-B
+22 for O
+23 the O
+24 shaking Eventuality-B
+25 they O
+26 generate Eventuality-B
+27 to O
+28 be O
+29 felt O
+30 , O
+31 and O
+32 that O
+33 only O
+34 on O
+35 rare O
+36 occasions O
+37 do O
+38 earthquakes Eventuality-B
+39 large Trait-B
+40 enough O
+41 to O
+42 cause O
+43 widespread O
+44 damage O
+45 occur O
+46 . O
 
-That X X O
-surprise X X O
-, X X O
-it X X O
-was X X O
-said X X O
-, X X O
-stems X X O
-from X X O
-the X X O
-fact X X O
-that X X O
-all X X O
-but X X O
-a X X O
-few X X O
-of X X O
-those X X O
-are X X O
-too X X O
-small X X Trait-B
-for X X O
-the X X O
-shaking X X Eventuality-B
-they X X O
-generate X X Eventuality-B
-to X X O
-be X X O
-felt X X O
-, X X O
-and X X O
-that X X O
-only X X O
-on X X O
-rare X X O
-occasions X X O
-do X X O
-earthquakes X X Eventuality-B
-large X X Trait-B
-enough X X O
-to X X O
-cause X X O
-widespread X X O
-damage X X O
-occur X X O
-. X X O
-
-In X X O
-other X X O
-words X X O
-, X X O
-small X X Trait-B
-earthquakes X X Eventuality-B
-are X X O
-much X X O
-more X X O
-common X X O
-than X X O
-moderate X X Trait-B
-earthquakes X X Eventuality-B
-, X X O
-which X X O
-are X X O
-much X X O
-more X X O
-common X X O
-than X X O
-large X X Trait-B
-earthquakes X X Eventuality-B
-. X X O
+1 In O
+2 other O
+3 words O
+4 , O
+5 small Trait-B
+6 earthquakes Eventuality-B
+7 are O
+8 much O
+9 more O
+10 common O
+11 than O
+12 moderate Trait-B
+13 earthquakes Eventuality-B
+14 , O
+15 which O
+16 are O
+17 much O
+18 more O
+19 common O
+20 than O
+21 large Trait-B
+22 earthquakes Eventuality-B
+23 . O
 

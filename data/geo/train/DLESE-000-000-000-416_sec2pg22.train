@@ -1,334 +1,334 @@
--DOCSTART- -X- O O
+1 Page O
+2 22 O
+3 - O
+4 - O
+5 The O
+6 Distribution Trait-B
+7 of O
+8 Earthquakes Eventuality-B
+9 A O
+10 Method O
+11 to O
+12 Aftershock Eventuality-B
+13 Madness O
+14 The O
+15 most O
+16 important O
+17 property Trait-B
+18 of O
+19 aftershock Eventuality-B
+20 sequences Eventuality-I
+21 is O
+22 the O
+23 rate Trait-B
+24 of Trait-I
+25 decay Trait-I
+26 . O
 
-Page X X O
-22 X X O
--- X X O
-The X X O
-Distribution X X Trait-B
-of X X O
-Earthquakes X X Eventuality-B
-A X X O
-Method X X O
-to X X O
-Aftershock X X Eventuality-B
-Madness X X O
-The X X O
-most X X O
-important X X O
-property X X Trait-B
-of X X O
-aftershock X X Eventuality-B
-sequences X X Eventuality-I
-is X X O
-the X X O
-rate X X Trait-B
-of X X Trait-I
-decay X X Trait-I
-. X X O
+1 The O
+2 number O
+3 of O
+4 aftershocks Eventuality-B
+5 in O
+6 any O
+7 sequence Eventuality-B
+8 will O
+9 drop Eventuality-B
+10 as O
+11 time O
+12 progresses O
+13 . O
 
-The X X O
-number X X O
-of X X O
-aftershocks X X Eventuality-B
-in X X O
-any X X O
-sequence X X Eventuality-B
-will X X O
-drop X X Eventuality-B
-as X X O
-time X X O
-progresses X X O
-. X X O
+1 Expressed O
+2 mathematically O
+3 , O
+4 this O
+5 relation O
+6 is O
+7 commonly O
+8 known O
+9 as O
+10 Omori O
+11 's O
+12 Law O
+13 , O
+14 after O
+15 the O
+16 Japanese O
+17 seismologist O
+18 who O
+19 first O
+20 described O
+21 such O
+22 a O
+23 correlation O
+24 in O
+25 1894 Time-B
+26 . O
 
-Expressed X X O
-mathematically X X O
-, X X O
-this X X O
-relation X X O
-is X X O
-commonly X X O
-known X X O
-as X X O
-Omori X X O
-'s X X O
-Law X X O
-, X X O
-after X X O
-the X X O
-Japanese X X O
-seismologist X X O
-who X X O
-first X X O
-described X X O
-such X X O
-a X X O
-correlation X X O
-in X X O
-1894 X X Time-B
-. X X O
+1 It O
+2 states O
+3 that O
+4 the O
+5 number O
+6 of O
+7 aftershocks Eventuality-B
+8 occurring O
+9 at O
+10 a O
+11 given O
+12 time O
+13 t O
+14 after O
+15 the O
+16 mainshock Eventuality-B
+17 will O
+18 be O
+19 proportional O
+20 to O
+21 that O
+22 time O
+23 t O
+24 taken O
+25 to O
+26 the O
+27 negative O
+28 power O
+29 of O
+30 p O
+31 , O
+32 a O
+33 constant O
+34 . O
 
-It X X O
-states X X O
-that X X O
-the X X O
-number X X O
-of X X O
-aftershocks X X Eventuality-B
-occurring X X O
-at X X O
-a X X O
-given X X O
-time X X O
-t X X O
-after X X O
-the X X O
-mainshock X X Eventuality-B
-will X X O
-be X X O
-proportional X X O
-to X X O
-that X X O
-time X X O
-t X X O
-taken X X O
-to X X O
-the X X O
-negative X X O
-power X X O
-of X X O
-p X X O
-, X X O
-a X X O
-constant X X O
-. X X O
+1 This O
+2 means O
+3 that O
+4 the O
+5 decrease O
+6 in O
+7 aftershock Eventuality-B
+8 numbers O
+9 will O
+10 be O
+11 rapid O
+12 at O
+13 first O
+14 , O
+15 but O
+16 will O
+17 gradually Time-B
+18 become O
+19 less O
+20 severe O
+21 until O
+22 it O
+23 levels O
+24 out O
+25 , O
+26 when O
+27 the O
+28 rate Trait-B
+29 of O
+30 activity Eventuality-B
+31 in O
+32 the O
+33 area Environment_Context-B
+34 of O
+35 the O
+36 mainshock Eventuality-B
+37 returns Eventuality-B
+38 to O
+39 the O
+40 prior O
+41 background Trait-B
+42 seismicity Trait-I
+43 rate Trait-I
+44 . O
 
-This X X O
-means X X O
-that X X O
-the X X O
-decrease X X O
-in X X O
-aftershock X X Eventuality-B
-numbers X X O
-will X X O
-be X X O
-rapid X X O
-at X X O
-first X X O
-, X X O
-but X X O
-will X X O
-gradually X X Time-B
-become X X O
-less X X O
-severe X X O
-until X X O
-it X X O
-levels X X O
-out X X O
-, X X O
-when X X O
-the X X O
-rate X X Trait-B
-of X X O
-activity X X Eventuality-B
-in X X O
-the X X O
-area X X Environment_Context-B
-of X X O
-the X X O
-mainshock X X Eventuality-B
-returns X X Eventuality-B
-to X X O
-the X X O
-prior X X O
-background X X Trait-B
-seismicity X X Trait-I
-rate X X Trait-I
-. X X O
+1 At O
+2 this O
+3 point O
+4 , O
+5 the O
+6 aftershock Eventuality-B
+7 sequence Eventuality-I
+8 is O
+9 officially O
+10 over O
+11 . O
 
-At X X O
-this X X O
-point X X O
-, X X O
-the X X O
-aftershock X X Eventuality-B
-sequence X X Eventuality-I
-is X X O
-officially X X O
-over X X O
-. X X O
+1 We O
+2 saw O
+3 this O
+4 in O
+5 the O
+6 diagram O
+7 for O
+8 Guideline O
+9 # O
+10 2 O
+11 on O
+12 Page O
+13 13 O
+14 : O
+15 Aftershocks Eventuality-B
+16 Defined O
+17 . O
 
-We X X O
-saw X X O
-this X X O
-in X X O
-the X X O
-diagram X X O
-for X X O
-Guideline X X O
-# X X O
-2 X X O
-on X X O
-Page X X O
-13 X X O
-: X X O
-Aftershocks X X Eventuality-B
-Defined X X O
-. X X O
+1 The O
+2 severity Trait-B
+3 of O
+4 decay Eventuality-B
+5 in O
+6 an O
+7 aftershock Eventuality-B
+8 sequence Eventuality-I
+9 will O
+10 influence O
+11 other O
+12 " O
+13 properties Trait-B
+14 " O
+15 of O
+16 that O
+17 sequence Eventuality-B
+18 . O
 
-The X X O
-severity X X Trait-B
-of X X O
-decay X X Eventuality-B
-in X X O
-an X X O
-aftershock X X Eventuality-B
-sequence X X Eventuality-I
-will X X O
-influence X X O
-other X X O
-" X X O
-properties X X Trait-B
-" X X O
-of X X O
-that X X O
-sequence X X Eventuality-B
-. X X O
+1 Naturally O
+2 , O
+3 the O
+4 duration Trait-B
+5 of O
+6 an O
+7 aftershock Eventuality-B
+8 sequence Eventuality-I
+9 will O
+10 depend O
+11 upon O
+12 its O
+13 rate Trait-B
+14 of Trait-I
+15 decay Trait-I
+16 . O
 
-Naturally X X O
-, X X O
-the X X O
-duration X X Trait-B
-of X X O
-an X X O
-aftershock X X Eventuality-B
-sequence X X Eventuality-I
-will X X O
-depend X X O
-upon X X O
-its X X O
-rate X X Trait-B
-of X X Trait-I
-decay X X Trait-I
-. X X O
+1 Also O
+2 , O
+3 the O
+4 maximum O
+5 magnitude Trait-B
+6 of O
+7 aftershocks Eventuality-B
+8 generally O
+9 appears O
+10 to O
+11 decay Eventuality-B
+12 in O
+13 a O
+14 way O
+15 similar O
+16 to O
+17 the O
+18 total O
+19 number O
+20 of O
+21 aftershocks Eventuality-B
+22 . O
 
-Also X X O
-, X X O
-the X X O
-maximum X X O
-magnitude X X Trait-B
-of X X O
-aftershocks X X Eventuality-B
-generally X X O
-appears X X O
-to X X O
-decay X X Eventuality-B
-in X X O
-a X X O
-way X X O
-similar X X O
-to X X O
-the X X O
-total X X O
-number X X O
-of X X O
-aftershocks X X Eventuality-B
-. X X O
+1 This O
+2 is O
+3 purely O
+4 an O
+5 illusion O
+6 , O
+7 however O
+8 - O
+9 - O
+10 a O
+11 result O
+12 of O
+13 the O
+14 interaction O
+15 of O
+16 the O
+17 rate Trait-B
+18 of Trait-I
+19 decay Trait-I
+20 and O
+21 the O
+22 b O
+23 value O
+24 of O
+25 a O
+26 sequence Eventuality-B
+27 . O
 
-This X X O
-is X X O
-purely X X O
-an X X O
-illusion X X O
-, X X O
-however X X O
--- X X O
-a X X O
-result X X O
-of X X O
-the X X O
-interaction X X O
-of X X O
-the X X O
-rate X X Trait-B
-of X X Trait-I
-decay X X Trait-I
-and X X O
-the X X O
-b X X O
-value X X O
-of X X O
-a X X O
-sequence X X Eventuality-B
-. X X O
+1 Large Trait-B
+2 aftershocks Eventuality-B
+3 can O
+4 occur Eventuality-B
+5 long Time-B
+6 after O
+7 a O
+8 mainshock Eventuality-B
+9 , O
+10 they O
+11 simply O
+12 become O
+13 less O
+14 likely O
+15 as O
+16 the O
+17 total O
+18 number O
+19 of O
+20 aftershocks Eventuality-B
+21 decays O
+22 . O
 
-Large X X Trait-B
-aftershocks X X Eventuality-B
-can X X O
-occur X X Eventuality-B
-long X X Time-B
-after X X O
-a X X O
-mainshock X X Eventuality-B
-, X X O
-they X X O
-simply X X O
-become X X O
-less X X O
-likely X X O
-as X X O
-the X X O
-total X X O
-number X X O
-of X X O
-aftershocks X X Eventuality-B
-decays X X O
-. X X O
-
-In X X O
-the X X O
-activity X X O
-below X X O
-, X X O
-you X X O
-will X X O
-look X X O
-at X X O
-some X X O
-of X X O
-the X X O
-variations X X O
-within X X O
-aftershock X X Eventuality-B
-sequences X X Eventuality-I
-, X X O
-and X X O
-ultimately X X O
-, X X O
-attempt X X O
-to X X O
-combine X X O
-Omori X X O
-'s X X O
-Law X X O
-with X X O
-the X X O
-Gutenberg-Richter X X O
-relation X X O
-to X X O
-arrive X X O
-at X X O
-a X X O
-way X X O
-to X X O
-anticipate X X O
-the X X O
-activity X X O
-of X X O
-a X X O
-specific X X O
-aftershock X X Eventuality-B
-sequence X X Eventuality-I
-! X X O
+1 In O
+2 the O
+3 activity O
+4 below O
+5 , O
+6 you O
+7 will O
+8 look O
+9 at O
+10 some O
+11 of O
+12 the O
+13 variations O
+14 within O
+15 aftershock Eventuality-B
+16 sequences Eventuality-I
+17 , O
+18 and O
+19 ultimately O
+20 , O
+21 attempt O
+22 to O
+23 combine O
+24 Omori O
+25 's O
+26 Law O
+27 with O
+28 the O
+29 Gutenberg-Richter O
+30 relation O
+31 to O
+32 arrive O
+33 at O
+34 a O
+35 way O
+36 to O
+37 anticipate O
+38 the O
+39 activity O
+40 of O
+41 a O
+42 specific O
+43 aftershock Eventuality-B
+44 sequence Eventuality-I
+45 ! O
 

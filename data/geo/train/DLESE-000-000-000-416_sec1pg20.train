@@ -1,625 +1,628 @@
--DOCSTART- -X- O O
+1 Page O
+2 20 O
+3 - O
+4 - O
+5 What O
+6 is O
+7 an O
+8 Earthquake Eventuality-B
+9 ? O
 
-Page X X O
-20 X X O
--- X X O
-What X X O
-is X X O
-an X X O
-Earthquake X X Eventuality-B
-? X X O
+1 GPS O
+2 Measurements O
+3 Yet O
+4 another O
+5 way O
+6 to O
+7 estimate O
+8 the O
+9 relative Eventuality-B
+10 motion Eventuality-I
+11 of O
+12 the O
+13 two Value-B
+14 sides Environment_Context-B
+15 of O
+16 a O
+17 fault Environment_Context-B
+18 , O
+19 or O
+20 to O
+21 study O
+22 more O
+23 generally O
+24 the O
+25 deformation Eventuality-B
+26 across Direction-B
+27 a O
+28 larger O
+29 area Environment_Context-B
+30 of O
+31 faulting Environment_Context-B
+32 , O
+33 is O
+34 to O
+35 make O
+36 extremely O
+37 accurate O
+38 measurements O
+39 of O
+40 the O
+41 positions Trait-B
+42 of O
+43 at O
+44 least O
+45 two Value-B
+46 points Environment_Context-B
+47 on O
+48 Earth Location-B
+49 's O
+50 surface Environment_Context-B
+51 using O
+52 the O
+53 network O
+54 of O
+55 24 O
+56 satellites O
+57 which O
+58 make O
+59 up O
+60 the O
+61 Global O
+62 Positioning O
+63 System O
+64 . O
 
-GPS X X O
-Measurements X X O
-Yet X X O
-another X X O
-way X X O
-to X X O
-estimate X X O
-the X X O
-relative X X Eventuality-B
-motion X X Eventuality-I
-of X X O
-the X X O
-two X X Value-B
-sides X X Environment_Context-B
-of X X O
-a X X O
-fault X X Environment_Context-B
-, X X O
-or X X O
-to X X O
-study X X O
-more X X O
-generally X X O
-the X X O
-deformation X X Eventuality-B
-across X X Direction-B
-a X X O
-larger X X O
-area X X Environment_Context-B
-of X X O
-faulting X X Environment_Context-B
-, X X O
-is X X O
-to X X O
-make X X O
-extremely X X O
-accurate X X O
-measurements X X O
-of X X O
-the X X O
-positions X X Trait-B
-of X X O
-at X X O
-least X X O
-two X X Value-B
-points X X Environment_Context-B
-on X X O
-Earth X X Location-B
-'s X X O
-surface X X Environment_Context-B
-using X X O
-the X X O
-network X X O
-of X X O
-24 X X O
-satellites X X O
-which X X O
-make X X O
-up X X O
-the X X O
-Global X X O
-Positioning X X O
-System X X O
-. X X O
+1 This O
+2 system O
+3 , O
+4 commonly O
+5 referred O
+6 to O
+7 as O
+8 " O
+9 GPS O
+10 " O
+11 , O
+12 uses O
+13 satellites O
+14 orbiting O
+15 high O
+16 above O
+17 the O
+18 Earth Location-B
+19 in O
+20 extremely O
+21 well-known O
+22 , O
+23 continually-monitored O
+24 orbits O
+25 . O
 
-This X X O
-system X X O
-, X X O
-commonly X X O
-referred X X O
-to X X O
-as X X O
-" X X O
-GPS X X O
-" X X O
-, X X O
-uses X X O
-satellites X X O
-orbiting X X O
-high X X O
-above X X O
-the X X O
-Earth X X Location-B
-in X X O
-extremely X X O
-well-known X X O
-, X X O
-continually-monitored X X O
-orbits X X O
-. X X O
+1 The O
+2 satellites O
+3 can O
+4 obtain O
+5 a O
+6 precise O
+7 fix O
+8 on O
+9 a O
+10 particular O
+11 location Environment_Context-B
+12 on O
+13 the O
+14 Earth Location-B
+15 's O
+16 surface Environment_Context-B
+17 . O
 
-The X X O
-satellites X X O
-can X X O
-obtain X X O
-a X X O
-precise X X O
-fix X X O
-on X X O
-a X X O
-particular X X O
-location X X Environment_Context-B
-on X X O
-the X X O
-Earth X X Location-B
-'s X X O
-surface X X Environment_Context-B
-. X X O
+1 Through O
+2 a O
+3 combination O
+4 of O
+5 state-of-the-art O
+6 technology O
+7 and O
+8 clever O
+9 mathematical O
+10 processing O
+11 , O
+12 this O
+13 system O
+14 allows O
+15 measurements O
+16 of O
+17 position O
+18 accurate O
+19 to O
+20 within O
+21 a O
+22 centimeter Unit-B
+23 or O
+24 less O
+25 . O
 
-Through X X O
-a X X O
-combination X X O
-of X X O
-state-of-the-art X X O
-technology X X O
-and X X O
-clever X X O
-mathematical X X O
-processing X X O
-, X X O
-this X X O
-system X X O
-allows X X O
-measurements X X O
-of X X O
-position X X O
-accurate X X O
-to X X O
-within X X O
-a X X O
-centimeter X X Unit-B
-or X X O
-less X X O
-. X X O
+1 This O
+2 method O
+3 of O
+4 obtaining O
+5 measurements O
+6 allows O
+7 us O
+8 to O
+9 check O
+10 the O
+11 accuracy O
+12 and O
+13 completeness O
+14 of O
+15 slip Trait-B
+16 rate Trait-I
+17 studies O
+18 in O
+19 an O
+20 area Environment_Context-B
+21 . O
 
-This X X O
-method X X O
-of X X O
-obtaining X X O
-measurements X X O
-allows X X O
-us X X O
-to X X O
-check X X O
-the X X O
-accuracy X X O
-and X X O
-completeness X X O
-of X X O
-slip X X Trait-B
-rate X X Trait-I
-studies X X O
-in X X O
-an X X O
-area X X Environment_Context-B
-. X X O
+1 Although O
+2 individual O
+3 faults Environment_Context-B
+4 do O
+5 not O
+6 move Eventuality-B
+7 constantly Trait-B
+8 , O
+9 the O
+10 tectonic Environment_Context-B
+11 plates Environment_Context-I
+12 of O
+13 the O
+14 Earth Location-B
+15 's O
+16 lithosphere Environment_Context-B
+17 do O
+18 move Eventuality-B
+19 all O
+20 the O
+21 time O
+22 . O
 
-Although X X O
-individual X X O
-faults X X Environment_Context-B
-do X X O
-not X X O
-move X X Eventuality-B
-constantly X X Trait-B
-, X X O
-the X X O
-tectonic X X Environment_Context-B
-plates X X Environment_Context-I
-of X X O
-the X X O
-Earth X X Location-B
-'s X X O
-lithosphere X X Environment_Context-B
-do X X O
-move X X Eventuality-B
-all X X O
-the X X O
-time X X O
-. X X O
+1 This O
+2 motion Eventuality-B
+3 manifests O
+4 itself O
+5 as O
+6 strain Eventuality-B
+7 in O
+8 the O
+9 crust Environment_Context-B
+10 . O
 
-This X X O
-motion X X Eventuality-B
-manifests X X O
-itself X X O
-as X X O
-strain X X Eventuality-B
-in X X O
-the X X O
-crust X X Environment_Context-B
-. X X O
+1 Strain Eventuality-B
+2 is O
+3 simply O
+4 the O
+5 deformation Eventuality-B
+6 of O
+7 a O
+8 material Environment_Context-B
+9 . O
 
-Strain X X Eventuality-B
-is X X O
-simply X X O
-the X X O
-deformation X X Eventuality-B
-of X X O
-a X X O
-material X X Environment_Context-B
-. X X O
+1 If O
+2 you O
+3 pull O
+4 a O
+5 lump O
+6 of O
+7 clay O
+8 apart O
+9 , O
+10 for O
+11 example O
+12 , O
+13 it O
+14 will O
+15 stretch O
+16 somewhat O
+17 before O
+18 it O
+19 snaps O
+20 into O
+21 two O
+22 pieces O
+23 . O
 
-If X X O
-you X X O
-pull X X O
-a X X O
-lump X X O
-of X X O
-clay X X O
-apart X X O
-, X X O
-for X X O
-example X X O
-, X X O
-it X X O
-will X X O
-stretch X X O
-somewhat X X O
-before X X O
-it X X O
-snaps X X O
-into X X O
-two X X O
-pieces X X O
-. X X O
+1 A O
+2 similar O
+3 phenomenon O
+4 is O
+5 at O
+6 work O
+7 in O
+8 the O
+9 Earth Location-B
+10 's O
+11 crust Environment_Context-B
+12 . O
 
-A X X O
-similar X X O
-phenomenon X X O
-is X X O
-at X X O
-work X X O
-in X X O
-the X X O
-Earth X X Location-B
-'s X X O
-crust X X Environment_Context-B
-. X X O
+1 The O
+2 " O
+3 breaks Eventuality-B
+4 " O
+5 occur O
+6 in O
+7 the O
+8 form O
+9 of O
+10 rupture Eventuality-B
+11 along Direction-B
+12 faults Environment_Context-B
+13 , O
+14 creating Eventuality-B
+15 earthquakes Eventuality-B
+16 we O
+17 can O
+18 feel O
+19 , O
+20 but O
+21 the O
+22 stretching Eventuality-B
+23 , O
+24 " O
+25 squishing Eventuality-B
+26 " O
+27 , O
+28 or O
+29 warping Eventuality-B
+30 that O
+31 occur Eventuality-B
+32 in O
+33 elastic Trait-B
+34 materials Environment_Context-B
+35 are O
+36 present O
+37 only O
+38 on O
+39 a O
+40 scale O
+41 well O
+42 beyond O
+43 the O
+44 limit O
+45 of O
+46 human O
+47 perception O
+48 . O
 
-The X X O
-" X X O
-breaks X X Eventuality-B
-" X X O
-occur X X O
-in X X O
-the X X O
-form X X O
-of X X O
-rupture X X Eventuality-B
-along X X Direction-B
-faults X X Environment_Context-B
-, X X O
-creating X X Eventuality-B
-earthquakes X X Eventuality-B
-we X X O
-can X X O
-feel X X O
-, X X O
-but X X O
-the X X O
-stretching X X Eventuality-B
-, X X O
-" X X O
-squishing X X Eventuality-B
-" X X O
-, X X O
-or X X O
-warping X X Eventuality-B
-that X X O
-occur X X Eventuality-B
-in X X O
-elastic X X Trait-B
-materials X X Environment_Context-B
-are X X O
-present X X O
-only X X O
-on X X O
-a X X O
-scale X X O
-well X X O
-beyond X X O
-the X X O
-limit X X O
-of X X O
-human X X O
-perception X X O
-. X X O
+1 People O
+2 would O
+3 never O
+4 notice O
+5 them O
+6 without O
+7 sensitive O
+8 monitoring O
+9 instruments O
+10 like O
+11 the O
+12 GPS O
+13 system O
+14 . O
 
-People X X O
-would X X O
-never X X O
-notice X X O
-them X X O
-without X X O
-sensitive X X O
-monitoring X X O
-instruments X X O
-like X X O
-the X X O
-GPS X X O
-system X X O
-. X X O
+1 Thus O
+2 , O
+3 an O
+4 array O
+5 of O
+6 instruments O
+7 across O
+8 an O
+9 area Environment_Context-B
+10 spanning O
+11 an O
+12 active Environment_Context-B
+13 fault Environment_Context-I
+14 or O
+15 faults O
+16 will O
+17 " O
+18 see O
+19 " O
+20 this O
+21 deformation Eventuality-B
+22 as O
+23 an O
+24 ongoing Time-B
+25 process Eventuality-B
+26 . O
 
-Thus X X O
-, X X O
-an X X O
-array X X O
-of X X O
-instruments X X O
-across X X O
-an X X O
-area X X Environment_Context-B
-spanning X X O
-an X X O
-active X X Environment_Context-B
-fault X X Environment_Context-I
-or X X O
-faults X X O
-will X X O
-" X X O
-see X X O
-" X X O
-this X X O
-deformation X X Eventuality-B
-as X X O
-an X X O
-ongoing X X Time-B
-process X X Eventuality-B
-. X X O
+1 Holding O
+2 one O
+3 station O
+4 ( O
+5 preferably O
+6 a O
+7 fair O
+8 distance Trait-B
+9 away O
+10 from O
+11 any O
+12 active Environment_Context-B
+13 fault Environment_Context-I
+14 ) O
+15 " O
+16 fixed O
+17 " O
+18 allows O
+19 an O
+20 analyst O
+21 to O
+22 determine O
+23 the O
+24 relative Eventuality-B
+25 motion Eventuality-I
+26 of O
+27 the O
+28 various O
+29 stations O
+30 with O
+31 regard O
+32 to O
+33 that O
+34 reference O
+35 point O
+36 . O
 
-Holding X X O
-one X X O
-station X X O
-( X X O
-preferably X X O
-a X X O
-fair X X O
-distance X X Trait-B
-away X X O
-from X X O
-any X X O
-active X X Environment_Context-B
-fault X X Environment_Context-I
-) X X O
-" X X O
-fixed X X O
-" X X O
-allows X X O
-an X X O
-analyst X X O
-to X X O
-determine X X O
-the X X O
-relative X X Eventuality-B
-motion X X Eventuality-I
-of X X O
-the X X O
-various X X O
-stations X X O
-with X X O
-regard X X O
-to X X O
-that X X O
-reference X X O
-point X X O
-. X X O
+1 This O
+2 , O
+3 in O
+4 turn O
+5 , O
+6 can O
+7 provide O
+8 valuable O
+9 information O
+10 about O
+11 the O
+12 slip Trait-B
+13 rates Trait-I
+14 of O
+15 faults Environment_Context-B
+16 in O
+17 the O
+18 area Environment_Context-B
+19 . O
 
-This X X O
-, X X O
-in X X O
-turn X X O
-, X X O
-can X X O
-provide X X O
-valuable X X O
-information X X O
-about X X O
-the X X O
-slip X X Trait-B
-rates X X Trait-I
-of X X O
-faults X X Environment_Context-B
-in X X O
-the X X O
-area X X Environment_Context-B
-. X X O
+1 Say O
+2 , O
+3 for O
+4 instance O
+5 , O
+6 a O
+7 particular O
+8 station O
+9 is O
+10 determined O
+11 to O
+12 be O
+13 moving Eventuality-B
+14 , O
+15 horizontally Direction-B
+16 , O
+17 at O
+18 about O
+19 3 Value-B
+20 mm Unit-B
+21 / Unit-I
+22 yr Unit-I
+23 directly O
+24 away O
+25 from O
+26 a O
+27 " O
+28 fixed O
+29 " O
+30 station O
+31 . O
 
-Say X X O
-, X X O
-for X X O
-instance X X O
-, X X O
-a X X O
-particular X X O
-station X X O
-is X X O
-determined X X O
-to X X O
-be X X O
-moving X X Eventuality-B
-, X X O
-horizontally X X Direction-B
-, X X O
-at X X O
-about X X O
-3 X X Value-B
-mm/yr X X Unit-B
-directly X X O
-away X X O
-from X X O
-a X X O
-" X X O
-fixed X X O
-" X X O
-station X X O
-. X X O
+1 In O
+2 between O
+3 the O
+4 two O
+5 stations O
+6 is O
+7 only O
+8 one Value-B
+9 major Trait-B
+10 fault Environment_Context-B
+11 , O
+12 running O
+13 perpendicular Direction-B
+14 to O
+15 a O
+16 line O
+17 connecting O
+18 the O
+19 two O
+20 . O
 
-In X X O
-between X X O
-the X X O
-two X X O
-stations X X O
-is X X O
-only X X O
-one X X Value-B
-major X X Trait-B
-fault X X Environment_Context-B
-, X X O
-running X X O
-perpendicular X X Direction-B
-to X X O
-a X X O
-line X X O
-connecting X X O
-the X X O
-two X X O
-. X X O
+1 In O
+2 this O
+3 case O
+4 , O
+5 that O
+6 fault Environment_Context-B
+7 must O
+8 be O
+9 a O
+10 normal Environment_Context-B
+11 fault Environment_Context-I
+12 , O
+13 and O
+14 its O
+15 horizontal Direction-B
+16 component Environment_Context-B
+17 of O
+18 slip Trait-B
+19 rate Trait-I
+20 should O
+21 be O
+22 roughly O
+23 3 Value-B
+24 mm Unit-B
+25 / Unit-I
+26 yr Unit-I
+27 . O
 
-In X X O
-this X X O
-case X X O
-, X X O
-that X X O
-fault X X Environment_Context-B
-must X X O
-be X X O
-a X X O
-normal X X Environment_Context-B
-fault X X Environment_Context-I
-, X X O
-and X X O
-its X X O
-horizontal X X Direction-B
-component X X Environment_Context-B
-of X X O
-slip X X Trait-B
-rate X X Trait-I
-should X X O
-be X X O
-roughly X X O
-3 X X Value-B
-mm/yr X X Unit-B
-. X X O
+1 In O
+2 the O
+3 activity O
+4 below O
+5 , O
+6 you O
+7 will O
+8 work O
+9 through O
+10 examples O
+11 of O
+12 determining O
+13 slip Trait-B
+14 rates Trait-I
+15 with O
+16 different O
+17 methods O
+18 . O
 
-In X X O
-the X X O
-activity X X O
-below X X O
-, X X O
-you X X O
-will X X O
-work X X O
-through X X O
-examples X X O
-of X X O
-determining X X O
-slip X X Trait-B
-rates X X Trait-I
-with X X O
-different X X O
-methods X X O
-. X X O
+1 When O
+2 discrepancies O
+3 appear O
+4 between O
+5 the O
+6 methods O
+7 , O
+8 you O
+9 will O
+10 decide O
+11 how O
+12 best O
+13 to O
+14 resolve O
+15 them O
+16 . O
 
-When X X O
-discrepancies X X O
-appear X X O
-between X X O
-the X X O
-methods X X O
-, X X O
-you X X O
-will X X O
-decide X X O
-how X X O
-best X X O
-to X X O
-resolve X X O
-them X X O
-. X X O
+1 Hypothetical O
+2 GPS O
+3 data O
+4 will O
+5 be O
+6 included O
+7 in O
+8 three O
+9 of O
+10 these O
+11 examples O
+12 as O
+13 a O
+14 reference O
+15 guide O
+16 to O
+17 show O
+18 you O
+19 the O
+20 value O
+21 of O
+22 similar O
+23 data O
+24 in O
+25 real O
+26 seismological O
+27 studies O
+28 . O
 
-Hypothetical X X O
-GPS X X O
-data X X O
-will X X O
-be X X O
-included X X O
-in X X O
-three X X O
-of X X O
-these X X O
-examples X X O
-as X X O
-a X X O
-reference X X O
-guide X X O
-to X X O
-show X X O
-you X X O
-the X X O
-value X X O
-of X X O
-similar X X O
-data X X O
-in X X O
-real X X O
-seismological X X O
-studies X X O
-. X X O
+1 Different O
+2 Data O
+3 , O
+4 Different O
+5 Rates Trait-B
+6 ? O
 
-Different X X O
-Data X X O
-, X X O
-Different X X O
-Rates X X Trait-B
-? X X O
+1 What O
+2 methods O
+3 can O
+4 we O
+5 use O
+6 to O
+7 find O
+8 slip Trait-B
+9 rates Trait-I
+10 , O
+11 and O
+12 what O
+13 does O
+14 it O
+15 mean O
+16 when O
+17 they O
+18 disagree O
+19 ? O
 
-What X X O
-methods X X O
-can X X O
-we X X O
-use X X O
-to X X O
-find X X O
-slip X X Trait-B
-rates X X Trait-I
-, X X O
-and X X O
-what X X O
-does X X O
-it X X O
-mean X X O
-when X X O
-they X X O
-disagree X X O
-? X X O
+1 We O
+2 've O
+3 now O
+4 reviewed O
+5 most O
+6 of O
+7 the O
+8 properties O
+9 of O
+10 active Environment_Context-B
+11 faults Environment_Context-I
+12 , O
+13 and O
+14 how O
+15 they O
+16 are O
+17 measured O
+18 , O
+19 but O
+20 we O
+21 have O
+22 yet O
+23 to O
+24 study O
+25 how O
+26 and O
+27 why O
+28 they O
+29 form Eventuality-B
+30 , O
+31 and O
+32 the O
+33 factors O
+34 that O
+35 might O
+36 guide O
+37 that O
+38 formation Eventuality-B
+39 , O
+40 giving O
+41 each O
+42 fault Environment_Context-B
+43 its O
+44 own O
+45 particular O
+46 characteristics Trait-B
+47 . O
 
-We X X O
-'ve X X O
-now X X O
-reviewed X X O
-most X X O
-of X X O
-the X X O
-properties X X O
-of X X O
-active X X Environment_Context-B
-faults X X Environment_Context-I
-, X X O
-and X X O
-how X X O
-they X X O
-are X X O
-measured X X O
-, X X O
-but X X O
-we X X O
-have X X O
-yet X X O
-to X X O
-study X X O
-how X X O
-and X X O
-why X X O
-they X X O
-form X X Eventuality-B
-, X X O
-and X X O
-the X X O
-factors X X O
-that X X O
-might X X O
-guide X X O
-that X X O
-formation X X Eventuality-B
-, X X O
-giving X X O
-each X X O
-fault X X Environment_Context-B
-its X X O
-own X X O
-particular X X O
-characteristics X X Trait-B
-. X X O
-
-Let X X O
-'s X X O
-move X X O
-on X X O
-, X X O
-and X X O
-investigate X X O
-these X X O
-matters X X O
-. X X O
+1 Let O
+2 's O
+3 move O
+4 on O
+5 , O
+6 and O
+7 investigate O
+8 these O
+9 matters O
+10 . O
 
