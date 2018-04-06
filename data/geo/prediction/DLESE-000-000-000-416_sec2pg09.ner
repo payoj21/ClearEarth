@@ -2,10 +2,10 @@
 2	9	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	"	O
 10	Can	O
 11	we	O
@@ -19,6 +19,7 @@
 19	at	O
 20	all	O
 13	.	O
+
 
 1	"	O
 2	Our	O
@@ -35,13 +36,14 @@
 13	overlooked	O
 14	when	O
 15	casually	O
-16	reviewing	O
-17	earthquake	Eventuality-B
+16	Earthquakes	O
+17	earthquake	B
 18	records	O
 19	in	O
 20	map	O
 21	view	O
 21	.	O
+
 
 1	Maps	O
 2	,	O
@@ -53,34 +55,36 @@
 8	display	O
 9	symbols	O
 10	representing	O
-11	the	O
-12	epicenters	Environment_Context-B
-13	of	O
-14	earthquakes	Eventuality-B
+11	earthquake	O
+12	epicenters	B
+13	epicenters	O
+14	earthquakes	B
 15	.	O
+
 
 1	But	O
 2	the	O
 3	true	O
-4	starting	O
-5	point	Environment_Context-B
+4	earthquakes	O
+5	point	B
 6	of	O
-7	an	O
-8	earthquake	Eventuality-B
+7	point	O
+8	earthquake	B
 9	is	O
-10	its	O
-11	hypocenter	Environment_Context-B
+10	earthquake	O
+11	hypocenter	B
 12	,	O
-13	a	O
-14	point	Environment_Context-B
+13	hypocenter	O
+14	point	B
 15	which	O
 16	can	O
 17	be	O
-18	deep	O
-19	below	Direction-B
-20	the	O
-21	surface	Environment_Context-B
+18	point	O
+19	below	B
+20	below	O
+21	surface	B
 22	.	O
+
 
 1	With	O
 2	the	O
@@ -100,6 +104,7 @@
 16	of	O
 17	hypocenters	O
 18	.	O
+
 
 1	Our	O
 2	catalogs	O
@@ -129,6 +134,7 @@
 26	region	O
 27	.	O
 
+
 1	It	O
 2	is	O
 3	true	O
@@ -143,12 +149,12 @@
 12	when	O
 13	we	O
 14	study	O
-15	the	O
-16	earthquake	Eventuality-B
-17	distribution	Trait-I
-18	of	O
-19	southern	Direction-B
-20	California	Location-B
+15	surface	O
+16	earthquake	TraitI
+17	distribution	I
+18	distribution	O
+19	southern	B
+20	California	B
 21	in	O
 22	only	O
 23	a	O
@@ -164,12 +170,13 @@
 33	viewing	O
 34	.	O
 
+
 1	Can	O
-2	the	O
-3	depth	Trait-B
-4	of	O
-5	earthquake	Eventuality-B
-6	hypocenters	Environment_Context-I
+2	California	O
+3	depth	B
+4	depth	O
+5	earthquake	Environment_ContextI
+6	hypocenters	I
 7	"	O
 8	tell	O
 9	"	O
@@ -180,9 +187,10 @@
 14	the	O
 15	nature	O
 16	of	O
-17	this	O
-18	region	Environment_Context-B
+17	hypocenters	O
+18	region	B
 19	.	O
+
 
 1	Might	O
 2	we	O
@@ -192,12 +200,13 @@
 6	see	O
 7	the	O
 8	outlines	O
-9	of	O
-10	fault	Environment_Context-B
-11	structures	Environment_Context-I
-12	at	O
-13	depth	Trait-B
+9	region	O
+10	fault	B
+11	structures	I
+12	structures	O
+13	depth	B
 14	.	O
+
 
 1	Are	O
 2	there	O
@@ -210,4 +219,5 @@
 9	worth	O
 10	noting	O
 11	.	O
+
 

@@ -2,12 +2,12 @@
 2	21	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
-9	Aftershock	Eventuality-B
-10	Distribution	Trait-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
+9	Aftershock	B
+10	Distribution	B
 11	If	O
 12	you	O
 13	were	O
@@ -17,9 +17,9 @@
 17	Gutenberg-Richter	O
 18	plot	O
 19	for	O
-20	an	O
-21	aftershock	Eventuality-B
-22	sequence	Trait-I
+20	Distribution	O
+21	aftershock	TraitI
+22	sequence	I
 23	,	O
 24	it	O
 25	would	O
@@ -37,21 +37,22 @@
 37	8	O
 28	.	O
 
+
 1	Just	O
 2	as	O
 3	you	O
 4	delineated	O
-5	the	O
-6	boundaries	Environment_Context-B
+5	sequence	O
+6	boundaries	B
 7	of	O
-8	"	O
-9	southern	Location-B
-10	California	Location-B
+8	boundaries	O
+9	southern	B
+10	California	B
 11	"	O
-12	to	O
-13	limit	Eventuality-B
-14	your	O
-15	earthquake	Eventuality-B
+12	California	O
+13	limit	B
+14	limit	O
+15	earthquake	B
 16	count	O
 17	,	O
 18	you	O
@@ -59,18 +60,19 @@
 20	need	O
 21	to	O
 22	define	O
-23	an	O
-24	aftershock	Eventuality-B
-25	zone	Environment_Context-I
-26	to	O
-27	restrict	Eventuality-B
+23	earthquake	O
+24	aftershock	Environment_ContextI
+25	zone	I
+26	zone	O
+27	restrict	B
 28	your	O
 29	data	O
 30	set	O
-31	to	O
-32	aftershocks	Eventuality-B
+31	restrict	O
+32	aftershocks	B
 33	only	O
 34	.	O
+
 
 1	And	O
 2	just	O
@@ -92,11 +94,11 @@
 18	you	O
 19	should	O
 20	determine	O
-21	a	O
-22	pre-mainshock	Trait-B
-23	background	O
-24	seismicity	Trait-B
-25	rate	Trait-I
+21	aftershocks	O
+22	pre-mainshock	B
+23	pre-mainshock	O
+24	seismicity	B
+25	rate	I
 26	to	O
 27	help	O
 28	you	O
@@ -104,10 +106,11 @@
 30	when	O
 31	the	O
 32	series	O
-33	of	O
-34	aftershocks	Eventuality-B
+33	rate	O
+34	aftershocks	B
 35	ends	O
 36	.	O
+
 
 1	The	O
 2	resulting	O
@@ -131,37 +134,38 @@
 20	before	O
 21	.	O
 
+
 1	One	O
 2	example	O
 3	,	O
-4	the	O
-5	aftershocks	Eventuality-B
+4	aftershocks	O
+5	aftershocks	B
 6	of	O
-7	the	O
-8	North	Location-B
-9	Palm	Direction-B
-10	Springs	Location-B
-11	earthquake	Eventuality-B
-12	of	O
-13	1986	Time-B
+7	aftershocks	O
+8	North	B
+9	Palm	B
+10	Springs	B
+11	earthquake	B
+12	earthquake	O
+13	1986	B
 14	(	O
 15	the	O
-16	same	O
-17	sequence	Environment_Context-B
+16	1986	O
+17	sequence	B
 18	used	O
 19	for	O
-20	"	O
-21	imaging	Trait-B
+20	sequence	O
+21	imaging	B
 22	"	O
-23	a	O
-24	fault	Environment_Context-B
-25	plane	Environment_Context-I
-26	at	O
-27	depth	Trait-B
-28	in	O
-29	Activity	Trait-B
-30	#	O
-31	5	Value-B
+23	imaging	O
+24	fault	B
+25	plane	I
+26	plane	O
+27	depth	B
+28	depth	O
+29	Activity	B
+30	Activity	O
+31	5	B
 32	of	O
 33	Section	O
 34	1	O
@@ -169,8 +173,8 @@
 36	,	O
 37	is	O
 38	shown	O
-39	at	O
-40	right	Environment_Context-B
+39	5	O
+40	right	B
 41	,	O
 42	relative	O
 43	to	O
@@ -178,13 +182,14 @@
 45	ten-year	O
 46	plot	O
 47	of	O
-48	all	O
-49	seismic	Eventuality-B
-50	activity	Eventuality-B
-51	in	O
-52	southern	Location-B
-53	California	Location-B
+48	right	O
+49	seismic	B
+50	activity	B
+51	activity	O
+52	southern	B
+53	California	B
 54	.	O
+
 
 1	You	O
 2	can	O
@@ -201,6 +206,7 @@
 13	similar	O
 14	.	O
 
+
 1	The	O
 2	mean	O
 3	b	O
@@ -209,8 +215,8 @@
 6	aftershock	O
 7	sequences	O
 8	in	O
-9	southern	O
-10	California	Location-B
+9	California	O
+10	California	B
 11	is	O
 12	about	O
 13	0.9	O
@@ -247,6 +253,7 @@
 44	range	O
 45	.	O
 
+
 1	That	O
 2	may	O
 3	be	O
@@ -260,6 +267,7 @@
 11	tell	O
 12	us	O
 13	.	O
+
 
 1	Well	O
 2	,	O
@@ -326,6 +334,7 @@
 63	data	O
 64	.	O
 
+
 1	Also	O
 2	,	O
 3	knowing	O
@@ -355,6 +364,7 @@
 27	aftershock	O
 28	sequences	O
 29	.	O
+
 
 1	Since	O
 2	some	O
@@ -393,13 +403,14 @@
 35	activity	O
 36	.	O
 
+
 1	What	O
 2	other	O
 3	properties	O
-4	do	O
-5	aftershock	Eventuality-B
-6	sequences	Eventuality-I
-7	display	Eventuality-B
+4	California	O
+5	aftershock	B
+6	sequences	I
+7	display	B
 8	,	O
 9	and	O
 10	are	O
@@ -410,4 +421,5 @@
 15	within	O
 16	them	O
 17	.	O
+
 

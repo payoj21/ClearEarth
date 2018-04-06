@@ -5,9 +5,9 @@
 5	ship	O
 6	speed	O
 7	data	O
-8	and	O
-9	sea	ice_form-B
-10	ice	ice_form-I
+8		O
+9	sea	B
+10	ice	I
 11	forecasts	O
 12	in	O
 13	the	O
@@ -32,9 +32,10 @@
 32	Europe	O
 18	.	O
 
-1	Severe	O
-2	sea	ice_form-B
-3	iceconditions	ice_form-I
+
+1	ice	O
+2	sea	B
+3	iceconditions	I
 4	have	O
 5	the	O
 6	potential	O
@@ -44,9 +45,9 @@
 10	intense	O
 11	ship	O
 12	trafficconsiderably.Thus	O
-13	,	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13	iceconditions	O
+14	sea	B
+15	ice	I
 16	fore	O
 17	-	O
 18	and	O
@@ -59,6 +60,7 @@
 25	weather	O
 26	services	O
 27	.	O
+
 
 1	Typically	O
 2	,	O
@@ -130,6 +132,7 @@
 68	conditions	O
 69	.	O
 
+
 1	We	O
 2	find	O
 3	that	O
@@ -152,6 +155,7 @@
 20	and	O
 21	nowcasts	O
 22	.	O
+
 
 1	More	O
 2	precisely	O
@@ -201,4 +205,5 @@
 46	of	O
 47	shipspeed	O
 48	.	O
+
 

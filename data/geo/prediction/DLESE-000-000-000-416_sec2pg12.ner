@@ -2,22 +2,23 @@
 2	12	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	Defining	O
 10	a	O
 11	Seismicity	O
 12	Rate	O
 13	Defining	O
-14	a	O
-15	seismicity	Trait-B
-16	rate	Trait-I
+14	Earthquakes	O
+15	seismicity	B
+16	rate	I
 17	requires	O
 18	several	O
 19	things	O
 8	.	O
+
 
 1	First	O
 2	off	O
@@ -25,24 +26,25 @@
 4	you	O
 5	must	O
 6	define	O
-7	a	O
-8	region	Environment_Context-B
+7	rate	O
+8	region	B
 9	for	O
 10	which	O
 11	you	O
 12	wish	O
 13	to	O
 14	find	O
-15	a	O
-16	rate	Trait-B
+15	region	O
+16	rate	B
 17	.	O
 
-1	That	O
-2	area	Environment_Context-B
+
+1	rate	O
+2	area	B
 3	can	O
 4	be	O
-5	any	O
-6	size	Trait-B
+5	area	O
+6	size	B
 7	you	O
 8	want	O
 9	it	O
@@ -50,13 +52,14 @@
 11	be	O
 12	.	O
 
+
 1	You	O
 2	can	O
 3	even	O
-4	assign	O
-5	boundaries	Environment_Context-B
-6	in	O
-7	depth	Trait-B
+4	size	O
+5	boundaries	B
+6	boundaries	O
+7	depth	B
 8	,	O
 9	so	O
 10	that	O
@@ -64,22 +67,23 @@
 12	're	O
 13	actually	O
 14	counting	O
-15	the	O
-16	rate	Trait-B
-17	of	O
-18	earthquakes	Eventuality-B
+15	depth	O
+16	rate	B
+17	rate	O
+18	earthquakes	B
 19	within	O
 20	a	O
-21	particular	O
-22	volume	Trait-B
+21	earthquakes	O
+22	volume	B
 23	.	O
+
 
 1	Whatever	O
 2	you	O
 3	choose	O
 4	,	O
-5	the	O
-6	boundaries	Environment_Context-B
+5	volume	O
+6	boundaries	B
 7	should	O
 8	be	O
 9	definite	O
@@ -88,11 +92,12 @@
 12	fixed	O
 13	.	O
 
+
 1	Naturally	O
 2	,	O
 3	to	O
-4	count	O
-5	earthquakes	Eventuality-B
+4	boundaries	O
+5	earthquakes	B
 6	,	O
 7	you	O
 8	need	O
@@ -101,8 +106,8 @@
 11	to	O
 12	record	O
 13	and	O
-14	locate	O
-15	earthquakes	Eventuality-B
+14	earthquakes	O
+15	earthquakes	B
 16	,	O
 17	or	O
 18	access	O
@@ -119,6 +124,7 @@
 29	you	O
 30	)	O
 31	.	O
+
 
 1	Working	O
 2	on	O
@@ -148,6 +154,7 @@
 26	Center	O
 27	.	O
 
+
 1	There	O
 2	are	O
 3	also	O
@@ -167,6 +174,7 @@
 17	public	O
 18	.	O
 
+
 1	That	O
 2	's	O
 3	good	O
@@ -183,4 +191,5 @@
 14	seismic	O
 15	network	O
 16	.	O
+
 

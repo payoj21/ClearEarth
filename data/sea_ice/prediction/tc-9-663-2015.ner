@@ -1,14 +1,14 @@
 1	On	O
-2	producing	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2		O
+3	sea	B
+4	ice	I
 5	deformation	O
 6	data	O
 7	sets	O
 8	from	O
-9	SAR-derived	O
-10	sea	ice_form-B
-11	ice	ice_form-I
+9	ice	O
+10	sea	B
+11	ice	I
 12	motion	O
 13	We	O
 14	propose	O
@@ -20,9 +20,9 @@
 20	error	O
 21	generated	O
 22	when	O
-23	computing	O
-24	sea	ice_form-B
-25	ice	ice_form-I
+23	ice	O
+24	sea	B
+25	ice	I
 26	deformationfields	O
 27	from	O
 28	synthetic	O
@@ -32,11 +32,12 @@
 32	SAR	O
 33	)	O
 34	-	O
-35	derived	O
-36	sea	ice_form-B
-37	ice	ice_form-I
+35	ice	O
+36	sea	B
+37	ice	I
 38	motion	O
 27	.	O
+
 
 1	The	O
 2	method	O
@@ -45,6 +46,7 @@
 5	on	O
 6	twosteps	O
 7	.	O
+
 
 1	The	O
 2	first	O
@@ -58,9 +60,9 @@
 10	thepositions	O
 11	taken	O
 12	from	O
-13	the	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13	ice	O
+14	sea	B
+15	ice	I
 16	trajectories	O
 17	to	O
 18	define	O
@@ -70,13 +72,14 @@
 22	a	O
 23	first	O
 24	estimate	O
-25	of	O
-26	sea	ice_form-B
-27	ice	ice_form-I
+25	ice	O
+26	sea	B
+27	ice	I
 28	deformation	O
 29	is	O
 30	computed	O
 31	.	O
+
 
 1	The	O
 2	secondstep	O
@@ -98,12 +101,13 @@
 18	arises	O
 19	along	O
 20	discontinuities	O
-21	inthe	O
-22	sea	ice_form-B
-23	ice	ice_form-I
+21	ice	O
+22	sea	B
+23	ice	I
 24	motion	O
 25	field	O
 26	.	O
+
 
 1	This	O
 2	method	O
@@ -117,9 +121,9 @@
 10	System	O
 11	(	O
 12	RGPS	O
-13	)	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13	ice	O
+14	sea	B
+15	ice	I
 16	trajectorieshaving	O
 17	a	O
 18	temporal	O
@@ -159,6 +163,7 @@
 52	closing	O
 53	.	O
 
+
 1	Theartificial	O
 2	noise	O
 3	also	O
@@ -181,6 +186,7 @@
 20	multifractal	O
 21	analysis	O
 22	.	O
+
 
 1	We	O
 2	also	O
@@ -231,9 +237,10 @@
 47	,	O
 48	salt	O
 49	rejection	O
-50	and	O
-51	sea	ice_form-B
-52	ice	ice_form-I
+50	ice	O
+51	sea	B
+52	ice	I
 53	ridging	O
 54	.	O
+
 

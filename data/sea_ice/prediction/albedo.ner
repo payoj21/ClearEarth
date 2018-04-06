@@ -19,6 +19,7 @@
 19	energy	O
 17	.	O
 
+
 1	Albedo	O
 2	(	O
 3	Î	O
@@ -30,6 +31,7 @@
 9	and	O
 10	1	O
 11	.	O
+
 
 1	Albedo	O
 2	commonly	O
@@ -53,6 +55,7 @@
 20	white	O
 21	.	O
 
+
 1	A	O
 2	value	O
 3	of	O
@@ -73,6 +76,7 @@
 18	energy	O
 19	.	O
 
+
 1	Absorbed	O
 2	solar	O
 3	energy	O
@@ -85,9 +89,9 @@
 10	surface	O
 11	or	O
 12	,	O
-13	when	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13		O
+14	sea	B
+15	ice	I
 16	is	O
 17	present	O
 18	,	O
@@ -95,6 +99,7 @@
 20	the	O
 21	surface	O
 22	.	O
+
 
 1	A	O
 2	value	O
@@ -115,6 +120,7 @@
 17	incoming	O
 18	energy	O
 19	.	O
+
 
 1	Albedo	O
 2	generally	O
@@ -138,6 +144,7 @@
 20	spectrum	O
 21	.	O
 
+
 1	You	O
 2	understand	O
 3	the	O
@@ -160,6 +167,7 @@
 20	day	O
 21	.	O
 
+
 1	Blacktop	O
 2	has	O
 3	a	O
@@ -181,9 +189,9 @@
 19	little	O
 20	energy	O
 21	.	O
-
-1	Sea	ice_form-B
-2	ice	ice_form-I
+0	ice	O
+1	Sea	B
+2	ice	I
 3	has	O
 4	a	O
 5	much	O
@@ -202,6 +210,7 @@
 18	ocean	O
 19	.	O
 
+
 1	A	O
 2	typical	O
 3	ocean	O
@@ -211,9 +220,9 @@
 7	0.06	O
 8	,	O
 9	while	O
-10	bare	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	varies	O
 14	from	O
 15	approximately	O
@@ -221,6 +230,7 @@
 17	to	O
 18	0.7	O
 19	.	O
+
 
 1	This	O
 2	means	O
@@ -241,9 +251,9 @@
 17	the	O
 18	rest	O
 19	,	O
-20	while	O
-21	sea	ice_form-B
-22	ice	ice_form-I
+20	ice	O
+21	sea	B
+22	ice	I
 23	reflects	O
 24	50	O
 25	to	O
@@ -255,9 +265,10 @@
 31	energy	O
 32	.	O
 
-1	The	O
-2	sea	ice_form-B
-3	ice	ice_form-I
+
+1	ice	O
+2	sea	B
+3	ice	I
 4	absorbs	O
 5	less	O
 6	solar	O
@@ -269,21 +280,22 @@
 12	cooler	O
 13	.	O
 
+
 1	Snow	O
 2	has	O
 3	an	O
 4	even	O
 5	higher	O
 6	albedo	O
-7	than	O
-8	sea	ice_form-B
-9	ice	ice_form-I
+7	ice	O
+8	sea	B
+9	ice	I
 10	,	O
 11	and	O
 12	so	O
-13	thick	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13	ice	O
+14	sea	B
+15	ice	I
 16	covered	O
 17	with	O
 18	snow	O
@@ -300,13 +312,14 @@
 29	radiation	O
 30	.	O
 
+
 1	This	O
 2	serves	O
 3	to	O
 4	insulate	O
-5	the	O
-6	sea	ice_form-B
-7	ice	ice_form-I
+5	ice	O
+6	sea	B
+7	ice	I
 8	,	O
 9	maintaining	O
 10	cold	O
@@ -319,6 +332,7 @@
 17	the	O
 18	summer	O
 19	.	O
+
 
 1	After	O
 2	the	O
@@ -351,6 +365,7 @@
 29	0.75	O
 30	.	O
 
+
 1	As	O
 2	melt	O
 3	ponds	O
@@ -366,6 +381,7 @@
 13	to	O
 14	0.15	O
 15	.	O
+
 
 1	As	O
 2	a	O
@@ -386,4 +402,5 @@
 17	ice	O
 18	melt	O
 19	.	O
+
 

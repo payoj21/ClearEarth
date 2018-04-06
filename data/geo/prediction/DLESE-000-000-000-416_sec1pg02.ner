@@ -1,8 +1,9 @@
 1	What	O
 2	is	O
-3	an	O
-4	Earthquake	Eventuality-B
+3		O
+4	Earthquake	B
 5	.	O
+
 
 1	-	O
 2	-	O
@@ -11,9 +12,10 @@
 5	"	O
 6	What	O
 7	is	O
-8	an	O
-9	earthquake	Eventuality-B
+8	Earthquake	O
+9	earthquake	B
 6	.	O
+
 
 1	"	O
 2	This	O
@@ -43,72 +45,75 @@
 26	involve	O
 27	movements	O
 28	in	O
-29	the	O
-30	Earth	Location-B
-31	's	O
-32	crust	Environment_Context-B
+29	earthquake	O
+30	Earth	B
+31	Earth	O
+32	crust	B
 32	.	O
 
-1	An	O
-2	earthquake	Eventuality-B
+
+1	crust	O
+2	earthquake	B
 3	is	O
-4	the	O
-5	ground	Environment_Context-B
-6	motion	Eventuality-B
+4	earthquake	O
+5	ground	B
+6	motion	B
 7	you	O
 8	experience	O
 9	when	O
 10	a	O
 11	part	O
 12	of	O
-13	the	O
-14	Earth	Location-B
-15	's	O
-16	crust	Environment_Context-B
-17	shifts	Eventuality-I
-18	along	Direction-B
-19	a	O
-20	surface	Environment_Context-B
+13	motion	O
+14	Earth	B
+15	Earth	O
+16	crust	EventualityI
+17	shifts	I
+18	along	B
+19	along	O
+20	surface	B
 21	,	O
 22	a	O
 23	sort	O
-24	of	O
-25	fracture	Environment_Context-B
+24	surface	O
+25	fracture	B
 26	in	O
-27	the	O
-28	crust	Environment_Context-B
+27	fracture	O
+28	crust	B
 29	,	O
 30	known	O
 31	as	O
-32	a	O
-33	fault	Environment_Context-B
+32	crust	O
+33	fault	B
 34	.	O
 
-1	This	O
-2	shift	Eventuality-B
-3	produces	Eventuality-B
-4	vibrations	Eventuality-B
+
+1	fault	O
+2	shift	B
+3	produces	B
+4	vibrations	B
 5	in	O
-6	the	O
-7	rocks	Environment_Context-B
-8	and	O
-9	soil	Aggregate_Biotic_Abiotic_Entity-B
-10	beneath	Aggregate_Biotic_Abiotic_Entity-I
+6	vibrations	O
+7	rocks	B
+8	rocks	O
+9	soil	B
+10	beneath	I
 11	us	O
 12	.	O
 
-1	These	O
-2	vibrations	Eventuality-B
+
+1	beneath	O
+2	vibrations	B
 3	are	O
-4	called	O
-5	seismic	Eventuality-B
-6	waves	Eventuality-I
+4	vibrations	O
+5	seismic	B
+6	waves	I
 7	,	O
 8	and	O
 9	if	O
 10	they	O
-11	are	O
-12	large	Trait-B
+11	waves	O
+12	large	B
 13	enough	O
 14	,	O
 15	they	O
@@ -125,13 +130,14 @@
 26	can	O
 27	feel	O
 28	a	O
-29	bell	O
-30	vibrate	Eventuality-B
+29	large	O
+30	vibrate	B
 31	when	O
 32	it	O
 33	is	O
 34	rung	O
 35	.	O
+
 
 1	So	O
 2	when	O
@@ -139,11 +145,11 @@
 4	feel	O
 5	that	O
 6	kind	O
-7	of	O
-8	shaking	Eventuality-B
+7	vibrate	O
+8	shaking	B
 9	of	O
-10	the	O
-11	ground	Aggregate_Biotic_Abiotic_Entity-B
+10	shaking	O
+11	ground	B
 12	,	O
 13	you	O
 14	could	O
@@ -151,9 +157,10 @@
 16	"	O
 17	That	O
 18	was	O
-19	an	O
-20	earthquake	Eventuality-B
+19	ground	O
+20	earthquake	B
 21	.	O
+
 
 1	"	O
 2	,	O
@@ -164,20 +171,21 @@
 7	correct	O
 29	.	O
 
+
 1	On	O
 2	the	O
 3	other	O
 4	hand	O
 5	,	O
 6	not	O
-7	all	O
-8	shifting	Eventuality-B
-9	along	Direction-B
-10	faults	Environment_Context-B
+7	earthquake	O
+8	shifting	B
+9	along	B
+10	faults	B
 11	results	O
-12	in	O
-13	seismic	Eventuality-B
-14	waves	Eventuality-I
+12	faults	O
+13	seismic	B
+14	waves	I
 15	strong	O
 16	enough	O
 17	for	O
@@ -186,6 +194,7 @@
 20	to	O
 21	feel	O
 22	.	O
+
 
 1	The	O
 2	smallest	O
@@ -201,6 +210,7 @@
 12	instruments	O
 13	.	O
 
+
 1	Yet	O
 2	every	O
 3	shift	O
@@ -211,8 +221,8 @@
 8	,	O
 9	no	O
 10	matter	O
-11	how	O
-12	small	Trait-B
+11	waves	O
+12	small	B
 13	,	O
 14	so	O
 15	a	O
@@ -220,34 +230,35 @@
 17	technical	O
 18	definition	O
 19	of	O
-20	an	O
-21	earthquake	Eventuality-B
+20	small	O
+21	earthquake	B
 22	is	O
 23	that	O
-24	an	O
-25	earthquake	Eventuality-B
+24	earthquake	O
+25	earthquake	B
 26	is	O
-27	the	O
-28	sudden	Trait-B
-29	slip	Trait-B
-30	of	O
-31	part	Environment_Context-B
+27	earthquake	O
+28	sudden	B
+29	slip	B
+30	slip	O
+31	part	B
 32	of	O
-33	the	O
-34	Earth	Location-B
-35	's	O
-36	crust	Environment_Context-B
+33	part	O
+34	Earth	B
+35	Earth	O
+36	crust	B
 37	,	O
 38	relative	O
 39	to	O
 40	another	O
 41	part	O
-42	,	O
-43	along	Direction-B
-44	a	O
-45	fault	Environment_Context-B
-46	surface	Environment_Context-I
+42	crust	O
+43	along	B
+44	along	O
+45	fault	B
+46	surface	I
 47	.	O
+
 
 1	Of	O
 2	course	O
@@ -266,10 +277,11 @@
 15	when	O
 16	or	O
 17	even	O
-18	how	O
-19	earthquakes	Eventuality-B
+18	surface	O
+19	earthquakes	B
 20	occur	O
 21	.	O
+
 
 1	Instead	O
 2	,	O
@@ -281,6 +293,7 @@
 8	more	O
 9	questions	O
 10	.	O
+
 
 1	Two	O
 2	of	O
@@ -296,15 +309,16 @@
 12	"	O
 13	What	O
 14	causes	O
-15	this	O
-16	sudden	Trait-B
-17	slip	Eventuality-B
+15	earthquakes	O
+16	sudden	B
+17	slip	B
 18	in	O
-19	the	O
-20	Earth	Location-B
-21	's	O
-22	crust	Environment_Context-B
+19	slip	O
+20	Earth	B
+21	Earth	O
+22	crust	B
 12	.	O
+
 
 1	"	O
 2	and	O
@@ -315,8 +329,9 @@
 7	exactly	O
 8	,	O
 9	is	O
-10	a	O
-11	fault	Environment_Context-B
+10	crust	O
+11	fault	B
 24	.	O
+
 
 1	"	O

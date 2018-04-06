@@ -1,0 +1,61 @@
+DIRECTION
+
+processed 431 tokens with 68 phrases; found: 55 phrases; correct: 2.
+accuracy:  39.44%; precision:   3.64%; recall:   2.94%; FB1:   3.25
+                B: precision:   1.96%; recall:   1.85%; FB1:   1.90  51
+                I: precision:  25.00%; recall:   7.14%; FB1:  11.11  4
+
+ENVIRONMENTAL
+processed 1508 tokens with 302 phrases; found: 200 phrases; correct: 53.
+accuracy:  58.95%; precision:  26.50%; recall:  17.55%; FB1:  21.12
+                B: precision:  13.51%; recall:  10.36%; FB1:  11.73  148
+                I: precision:  63.46%; recall:  30.28%; FB1:  40.99  52
+
+
+EVENTUALITY
+processed 1790 tokens with 466 phrases; found: 356 phrases; correct: 49.
+accuracy:  49.27%; precision:  13.76%; recall:  10.52%; FB1:  11.92
+                B: precision:   4.23%; recall:   4.51%; FB1:   4.37  307
+                I: precision:  73.47%; recall:  20.22%; FB1:  31.72  49
+
+
+LATITUDE AND LONGITUDE                
+processed 2 tokens with 1 phrases; found: 0 phrases; correct: 0.
+accuracy:   0.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+
+
+
+LOCATION
+processed 236 tokens with 51 phrases; found: 41 phrases; correct: 17.
+accuracy:  49.58%; precision:  41.46%; recall:  33.33%; FB1:  36.96
+                B: precision:  25.93%; recall:  24.14%; FB1:  25.00  27
+                I: precision:  71.43%; recall:  45.45%; FB1:  55.56  14
+
+
+TIME
+processed 276 tokens with 131 phrases; found: 61 phrases; correct: 17.
+accuracy:   5.80%; precision:  27.87%; recall:  12.98%; FB1:  17.71
+                B: precision:  18.60%; recall:  11.94%; FB1:  14.55  43
+                I: precision:  50.00%; recall:  14.06%; FB1:  21.95  18
+
+
+TRAIT
+processed 1056 tokens with 202 phrases; found: 205 phrases; correct: 7.
+accuracy:  41.10%; precision:   3.41%; recall:   3.47%; FB1:   3.44
+                B: precision:   1.63%; recall:   2.13%; FB1:   1.85  184
+                I: precision:  19.05%; recall:   6.56%; FB1:   9.76  21
+
+
+UNIT
+processed 97 tokens with 46 phrases; found: 17 phrases; correct: 2.
+accuracy:  27.84%; precision:  11.76%; recall:   4.35%; FB1:   6.35
+                B: precision:  14.29%; recall:   8.33%; FB1:  10.53  14
+                I: precision:   0.00%; recall:   0.00%; FB1:   0.00  3
+
+
+VALUE
+processed 251 tokens with 96 phrases; found: 78 phrases; correct: 16.
+accuracy:  31.87%; precision:  20.51%; recall:  16.67%; FB1:  18.39
+                B: precision:   8.93%; recall:   8.77%; FB1:   8.85  56
+                I: precision:  50.00%; recall:  28.21%; FB1:  36.07  22

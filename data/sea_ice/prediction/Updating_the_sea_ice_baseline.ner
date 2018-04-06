@@ -1,7 +1,7 @@
 1	Updating	O
-2	the	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2		O
+3	sea	B
+4	ice	I
 5	baseline	O
 6	June	O
 7	18	O
@@ -19,16 +19,16 @@
 19	climatological	O
 20	period	O
 21	for	O
-22	Arctic	O
-23	Sea	ice_form-B
-24	Ice	ice_form-I
+22	ice	O
+23	Sea	B
+24	Ice	I
 25	News	O
 26	and	O
 27	Analysis	O
 28	and	O
-29	the	O
-30	Sea	ice_form-B
-31	Ice	ice_form-I
+29	Ice	O
+30	Sea	B
+31	Ice	I
 32	Index	O
 33	,	O
 34	the	O
@@ -37,11 +37,12 @@
 37	we	O
 38	use	O
 39	for	O
-40	our	O
-41	sea	ice_form-B
-42	ice	ice_form-I
+40	Ice	O
+41	sea	B
+42	ice	I
 43	analysis	O
 35	.	O
+
 
 1	We	O
 2	are	O
@@ -61,6 +62,7 @@
 16	research	O
 17	.	O
 
+
 1	Until	O
 2	now	O
 3	,	O
@@ -75,14 +77,15 @@
 12	2000	O
 13	when	O
 14	comparing	O
-15	current	O
-16	sea	ice_form-B
-17	ice	ice_form-I
+15	ice	O
+16	sea	B
+17	ice	I
 18	extent	O
 19	to	O
 20	past	O
 21	conditions	O
 22	.	O
+
 
 1	When	O
 2	NSIDC	O
@@ -91,9 +94,9 @@
 5	to	O
 6	monitor	O
 7	and	O
-8	analyze	O
-9	sea	ice_form-B
-10	ice	ice_form-I
+8	ice	O
+9	sea	B
+10	ice	I
 11	extent	O
 12	,	O
 13	a	O
@@ -103,6 +106,7 @@
 17	not	O
 18	available	O
 19	.	O
+
 
 1	Since	O
 2	the	O
@@ -130,6 +134,7 @@
 24	to	O
 25	2010	O
 26	.	O
+
 
 1	A	O
 2	30-year	O
@@ -171,6 +176,7 @@
 38	)	O
 39	.	O
 
+
 1	Thirty	O
 2	years	O
 3	is	O
@@ -200,6 +206,7 @@
 27	obscured	O
 28	.	O
 
+
 1	These	O
 2	maxims	O
 3	about	O
@@ -214,9 +221,9 @@
 12	and	O
 13	climate	O
 14	.	O
-
-1	Sea	ice_form-B
-2	ice	ice_form-I
+0	ice	O
+1	Sea	B
+2	ice	I
 3	responds	O
 4	to	O
 5	changes	O
@@ -231,6 +238,7 @@
 14	on	O
 15	Earth	O
 16	.	O
+
 
 1	So	O
 2	the	O
@@ -247,9 +255,9 @@
 13	not	O
 14	hold	O
 15	true	O
-16	for	O
-17	sea	ice_form-B
-18	ice	ice_form-I
+16	ice	O
+17	sea	B
+18	ice	I
 19	,	O
 20	particularly	O
 21	in	O
@@ -273,6 +281,7 @@
 39	decade	O
 40	.	O
 
+
 1	However	O
 2	,	O
 3	matching	O
@@ -291,12 +300,13 @@
 16	research	O
 17	.	O
 
+
 1	The	O
 2	monthly	O
 3	and	O
-4	daily	O
-5	sea	ice_form-B
-6	ice	ice_form-I
+4	ice	O
+5	sea	B
+6	ice	I
 7	extent	O
 8	images	O
 9	and	O
@@ -322,15 +332,16 @@
 29	change	O
 30	.	O
 
+
 1	For	O
 2	example	O
 3	,	O
 4	the	O
 5	trend	O
 6	plot	O
-7	for	O
-8	sea	ice_form-B
-9	ice	ice_form-I
+7	ice	O
+8	sea	B
+9	ice	I
 10	extent	O
 11	will	O
 12	have	O
@@ -367,6 +378,7 @@
 43	period	O
 44	.	O
 
+
 1	On	O
 2	the	O
 3	the	O
@@ -386,6 +398,7 @@
 17	will	O
 18	change	O
 19	.	O
+
 
 1	In	O
 2	our	O
@@ -411,9 +424,10 @@
 22	changing	O
 23	climate	O
 24	and	O
-25	changing	O
-26	ice	ice-B
+25	ice	O
+26	ice	B
 27	.	O
+
 
 1	Posted	O
 2	in	O

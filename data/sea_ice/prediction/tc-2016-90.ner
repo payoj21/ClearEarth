@@ -3,9 +3,9 @@
 3	extent	O
 4	of	O
 5	Antarctic	O
-6	summer	O
-7	sea	ice_form-B
-8	ice	ice_form-I
+6		O
+7	sea	B
+8	ice	I
 9	during	O
 10	the	O
 11	Heroic	O
@@ -20,9 +20,9 @@
 20	sharp	O
 21	decline	O
 22	in	O
-23	Arctic	O
-24	sea	ice_form-B
-25	ice	ice_form-I
+23	ice	O
+24	sea	B
+25	ice	I
 26	,	O
 27	there	O
 28	has	O
@@ -50,6 +50,7 @@
 50	Seas	O
 37	.	O
 
+
 1	In	O
 2	general	O
 3	,	O
@@ -66,9 +67,9 @@
 14	lack	O
 15	of	O
 16	information	O
-17	about	O
-18	sea	ice_form-B
-19	ice	ice_form-I
+17	ice	O
+18	sea	B
+19	ice	I
 20	coverage	O
 21	in	O
 22	the	O
@@ -81,9 +82,9 @@
 29	quantify	O
 30	the	O
 31	sensitivity	O
-32	of	O
-33	sea	ice_form-B
-34	ice	ice_form-I
+32	ice	O
+33	sea	B
+34	ice	I
 35	to	O
 36	climate	O
 37	change	O
@@ -94,6 +95,7 @@
 42	models	O
 43	.	O
 
+
 1	However	O
 2	,	O
 3	evidence	O
@@ -102,9 +104,9 @@
 6	presence	O
 7	and	O
 8	nature	O
-9	of	O
-10	sea	ice_form-B
-11	ice	ice_form-I
+9	ice	O
+10	sea	B
+11	ice	I
 12	was	O
 13	often	O
 14	recorded	O
@@ -127,15 +129,16 @@
 31	now	O
 32	.	O
 
+
 1	We	O
 2	have	O
 3	analysed	O
 4	observations	O
 5	of	O
 6	the	O
-7	summer	O
-8	sea	ice_form-B
-9	ice	ice_form-I
+7	ice	O
+8	sea	B
+9	ice	I
 10	edge	O
 11	from	O
 12	the	O
@@ -207,14 +210,15 @@
 78	time	O
 79	.	O
 
+
 1	This	O
 2	comparison	O
 3	shows	O
 4	that	O
 5	the	O
-6	summer	O
-7	sea	ice_form-B
-8	ice	ice_form-I
+6	ice	O
+7	sea	B
+8	ice	I
 9	edge	O
 10	was	O
 11	between	O
@@ -247,4 +251,5 @@
 38	other	O
 39	sectors	O
 40	.	O
+
 

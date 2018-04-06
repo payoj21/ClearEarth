@@ -2,10 +2,10 @@
 2	17	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	Poor	O
 10	Conclusions	O
 11	Make	O
@@ -17,21 +17,22 @@
 17	their	O
 18	own	O
 19	conclusions	O
-20	about	O
-21	earthquakes	Eventuality-B
+20	Earthquakes	O
+21	earthquakes	B
 22	based	O
 23	upon	O
 24	a	O
-25	very	O
-26	few	Value-B
+25	earthquakes	O
+26	few	B
 27	occasions	O
 28	that	O
-29	stand	O
-30	out	Direction-B
+29	few	O
+30	out	B
 31	in	O
 32	their	O
 33	memory	O
 21	.	O
+
 
 1	These	O
 2	oversimplified	O
@@ -55,6 +56,7 @@
 20	shower	O
 21	"	O
 22	.	O
+
 
 1	This	O
 2	isn	O
@@ -93,6 +95,7 @@
 35	truth	O
 36	.	O
 
+
 1	To	O
 2	avoid	O
 3	creating	O
@@ -100,8 +103,8 @@
 5	supporting	O
 6	similar	O
 7	myths	O
-8	about	O
-9	seismicity	Eventuality-B
+8	out	O
+9	seismicity	B
 10	,	O
 11	it	O
 12	's	O
@@ -147,6 +150,7 @@
 52	conclusion	O
 53	.	O
 
+
 1	Otherwise	O
 2	,	O
 3	chance	O
@@ -159,28 +163,30 @@
 10	result	O
 11	.	O
 
+
 1	One	O
 2	currently	O
 3	popular	O
 4	myth	O
 5	about	O
-6	the	O
-7	timing	Trait-B
-8	of	O
-9	earthquakes	Eventuality-B
-10	in	O
-11	southern	Location-B
-12	California	Location-B
+6	seismicity	O
+7	timing	B
+8	timing	O
+9	earthquakes	B
+10	earthquakes	O
+11	southern	B
+12	California	B
 13	is	O
-14	that	O
-15	big	Trait-B
-16	earthquakes	Eventuality-B
+14	California	O
+15	big	B
+16	earthquakes	B
 17	always	O
 18	happen	O
 19	in	O
 20	the	O
 21	morning	O
 22	.	O
+
 
 1	This	O
 2	is	O
@@ -196,9 +202,9 @@
 12	remember	O
 13	the	O
 14	last	O
-15	few	O
-16	large	Trait-B
-17	earthquakes	Eventuality-B
+15	earthquakes	O
+16	large	B
+17	earthquakes	B
 18	that	O
 19	have	O
 20	occurred	O
@@ -206,10 +212,11 @@
 22	perhaps	O
 23	just	O
 24	from	O
-25	the	O
-26	past	Time-B
+25	earthquakes	O
+26	past	B
 27	decade	O
 28	.	O
+
 
 1	Farther	O
 2	back	O
@@ -221,13 +228,14 @@
 8	their	O
 9	knowledge	O
 10	of	O
-11	when	O
-12	earthquakes	Eventuality-B
+11	past	O
+12	earthquakes	B
 13	happened	O
 14	is	O
 15	less	O
 16	complete	O
 17	.	O
+
 
 1	Since	O
 2	two	O
@@ -235,18 +243,18 @@
 4	the	O
 5	most	O
 6	recent	O
-7	damaging	O
-8	earthquakes	Eventuality-B
-9	,	O
-10	Landers	Trait-B
-11	and	O
-12	Northridge	Trait-B
-13	,	O
-14	struck	Eventuality-B
+7	earthquakes	O
+8	earthquakes	B
+9	earthquakes	O
+10	Landers	B
+11	Landers	O
+12	Northridge	B
+13	Northridge	O
+14	struck	B
 15	in	O
 16	the	O
-17	morning	O
-18	hours	Trait-I
+17	struck	TraitI
+18	hours	I
 19	,	O
 20	many	O
 21	people	O
@@ -254,9 +262,9 @@
 23	have	O
 24	the	O
 25	impression	O
-26	that	O
-27	big	Trait-B
-28	earthquakes	Eventuality-B
+26	hours	O
+27	big	B
+28	earthquakes	B
 29	will	O
 30	always	O
 31	happen	O
@@ -265,23 +273,24 @@
 34	morning	O
 35	.	O
 
+
 1	But	O
 2	were	O
 3	those	O
 4	same	O
 5	people	O
 6	alive	O
-7	in	O
-8	1941	Time-B
+7	earthquakes	O
+8	1941	B
 9	,	O
 10	it	O
 11	's	O
 12	possible	O
 13	they	O
 14	'd	O
-15	think	O
-16	big	Trait-B
-17	earthquakes	Eventuality-B
+15	1941	O
+16	big	B
+17	earthquakes	B
 18	happen	O
 19	only	O
 20	in	O
@@ -289,33 +298,34 @@
 22	evening	O
 23	,	O
 24	since	O
-25	the	O
-26	two	Value-B
-27	most	O
-28	destructive	Eventuality-B
-29	earthquake	Eventuality-B
+25	earthquakes	O
+26	two	B
+27	two	O
+28	destructive	B
+29	earthquake	B
 30	prior	O
 31	to	O
 32	that	O
 33	time	O
 34	were	O
-35	the	O
-36	Long	Environment_Context-B
-37	Beach	Environment_Context-I
-38	and	O
-39	Imperial	Environment_Context-B
-40	Valley	Environment_Context-I
-41	earthquakes	Eventuality-B
+35	earthquake	O
+36	Long	B
+37	Beach	I
+38	Beach	O
+39	Imperial	B
+40	Valley	I
+41	earthquakes	B
 42	,	O
 43	both	O
 44	of	O
-45	which	O
-46	struck	Eventuality-B
+45	earthquakes	O
+46	struck	B
 47	in	O
 48	the	O
-49	evening	O
-50	hours	Trait-I
+49	struck	TraitI
+50	hours	I
 51	.	O
+
 
 1	What	O
 2	other	O
@@ -331,8 +341,9 @@
 12	comparisons	O
 13	.	O
 
-1	The	O
-2	activity	Eventuality-B
+
+1	hours	O
+2	activity	B
 3	below	O
 4	should	O
 5	get	O
@@ -342,9 +353,9 @@
 9	the	O
 10	pitfalls	O
 11	you	O
-12	may	O
-13	run	Eventuality-B
-14	into	Direction-B
+12	activity	O
+13	run	B
+14	into	B
 15	while	O
 16	attempting	O
 17	to	O
@@ -362,23 +373,25 @@
 29	,	O
 30	can	O
 31	influence	O
-32	the	O
-33	distribution	Trait-B
-34	of	O
-35	earthquakes	Eventuality-B
+32	into	O
+33	distribution	B
+34	distribution	O
+35	earthquakes	B
 36	in	O
 37	time	O
 38	.	O
 
-1	Is	O
-2	Earthquake	Eventuality-B
+
+1	earthquakes	O
+2	Earthquake	B
 3	Timing	O
 4	Influenced	O
 5	.	O
 
+
 1	In	O
-2	comparing	O
-3	earthquake	Eventuality-B
+2	Earthquake	O
+3	earthquake	B
 4	records	O
 5	to	O
 6	various	O
@@ -391,6 +404,7 @@
 13	connection	O
 14	.	O
 
+
 1	It	O
 2	's	O
 3	difficult	O
@@ -399,27 +413,28 @@
 6	to	O
 7	admit	O
 8	that	O
-9	the	O
-10	timing	Trait-B
-11	of	O
-12	earthquakes	Eventuality-B
+9	earthquake	O
+10	timing	B
+11	timing	O
+12	earthquakes	B
 13	is	O
 14	something	O
 15	complex	O
 16	and	O
-17	potentially	O
-18	beyond	Direction-B
+17	earthquakes	O
+18	beyond	B
 19	our	O
 20	ability	O
 21	to	O
 22	anticipate	O
 23	.	O
 
+
 1	That	O
 2	's	O
 3	why	O
-4	myths	O
-5	develop	Eventuality-B
+4	beyond	O
+5	develop	B
 6	so	O
 7	easily	O
 8	-	O
@@ -439,19 +454,20 @@
 22	like	O
 23	we	O
 24	have	O
-25	some	O
-26	control	Eventuality-B
+25	develop	O
+26	control	B
 27	or	O
 28	understanding	O
-29	of	O
-30	earthquakes	Eventuality-B
+29	control	O
+30	earthquakes	B
 31	,	O
-32	to	O
-33	make	Eventuality-B
+32	earthquakes	O
+33	make	B
 34	them	O
-35	less	O
-36	terrifying	Eventuality-B
+35	make	O
+36	terrifying	B
 37	.	O
+
 
 1	The	O
 2	truth	O
@@ -467,9 +483,10 @@
 12	influences	O
 13	the	O
 14	occurrence	O
-15	of	O
-16	earthquakes	Eventuality-B
+15	terrifying	O
+16	earthquakes	B
 17	.	O
+
 
 1	And	O
 2	despite	O
@@ -493,4 +510,5 @@
 20	to	O
 21	go	O
 22	.	O
+
 

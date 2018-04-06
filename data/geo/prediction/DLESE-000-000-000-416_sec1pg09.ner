@@ -4,20 +4,21 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	The	O
 2	Properties	O
-3	of	O
-4	Faults	Environment_Context-B
+3	Earthquake	O
+4	Faults	B
 5	To	O
 6	make	O
 7	our	O
 8	study	O
-9	of	O
-10	faults	Environment_Context-B
+9	Faults	O
+10	faults	B
 11	easier	O
 12	,	O
 13	let	O
@@ -35,13 +36,14 @@
 25	basic	O
 26	properties	O
 27	of	O
-28	a	O
-29	fault	Environment_Context-B
+28	faults	O
+29	fault	B
 30	(	O
 31	see	O
 32	figure	O
 33	)	O
 30	.	O
+
 
 1	Below	O
 2	are	O
@@ -55,34 +57,35 @@
 10	diagram	O
 11	above	O
 12	.	O
-
-1	Fault	Environment_Context-B
-2	The	O
-3	fault	Environment_Context-B
+0	fault	O
+1	Fault	B
+2	Fault	O
+3	fault	B
 4	is	O
 5	the	O
-6	actual	O
-7	fracture	Environment_Context-B
-8	or	O
-9	zone	Environment_Context-B
-10	of	O
-11	fracture	Environment_Context-B
+6	fault	O
+7	fracture	B
+8	fracture	O
+9	zone	B
+10	zone	O
+11	fracture	B
 12	in	O
-13	the	O
-14	crust	Environment_Context-B
-15	,	O
-16	along	Direction-B
-17	which	O
-18	displacement	Eventuality-B
+13	fracture	O
+14	crust	B
+15	crust	O
+16	along	B
+17	along	O
+18	displacement	B
 19	of	O
 20	some	O
 21	sort	O
 22	occurs	O
 22	.	O
 
+
 1	Though	O
-2	the	O
-3	fault	Environment_Context-B
+2	displacement	O
+3	fault	B
 4	depicted	O
 5	above	O
 6	appears	O
@@ -90,15 +93,15 @@
 8	a	O
 9	simple	O
 10	and	O
-11	single	O
-12	planar	Environment_Context-B
-13	feature	Environment_Context-I
+11	fault	O
+12	planar	B
+13	feature	I
 14	,	O
 15	what	O
 16	we	O
 17	call	O
-18	a	O
-19	fault	Environment_Context-B
+18	feature	O
+19	fault	B
 20	can	O
 21	,	O
 22	in	O
@@ -106,10 +109,10 @@
 24	,	O
 25	be	O
 26	a	O
-27	complex	O
-28	set	Environment_Context-B
-29	of	O
-30	fractures	Environment_Context-B
+27	fault	O
+28	set	B
+29	set	O
+30	fractures	B
 31	with	O
 32	a	O
 33	very	O
@@ -117,14 +120,15 @@
 35	geometry	O
 36	.	O
 
+
 1	If	O
 2	such	O
-3	a	O
-4	set	Environment_Context-B
-5	of	O
-6	fractures	Environment_Context-B
-7	is	O
-8	large	Trait-B
+3	fractures	O
+4	set	B
+5	set	O
+6	fractures	B
+7	fractures	O
+8	large	B
 9	enough	O
 10	,	O
 11	it	O
@@ -133,8 +137,9 @@
 14	referred	O
 15	to	O
 16	as	O
-17	a	O
-18	fault	Environment_Context-B
-19	zone	Environment_Context-I
+17	large	O
+18	fault	B
+19	zone	I
 20	.	O
+
 

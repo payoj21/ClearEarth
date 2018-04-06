@@ -5,9 +5,9 @@
 5	L-band	O
 6	SAR	O
 7	images	O
-8	for	O
-9	sea	ice_form-B
-10	ice	ice_form-I
+8		O
+9	sea	B
+10	ice	I
 11	motion	O
 12	estimation	O
 13	Pairs	O
@@ -23,12 +23,13 @@
 23	are	O
 24	routinely	O
 25	used	O
-26	for	O
-27	sea	ice_form-B
-28	ice	ice_form-I
+26	ice	O
+27	sea	B
+28	ice	I
 29	motion	O
 30	estimation	O
 19	.	O
+
 
 1	The	O
 2	L-band	O
@@ -45,10 +46,11 @@
 13	wavelength	O
 14	penetrates	O
 15	deeper	O
-16	into	O
-17	sea	ice_form-B
-18	ice	ice_form-I
+16	ice	O
+17	sea	B
+18	ice	I
 19	.	O
+
 
 1	L-band	O
 2	SAR	O
@@ -56,9 +58,9 @@
 4	information	O
 5	on	O
 6	the	O
-7	seasonal	O
-8	sea	ice_form-B
-9	ice	ice_form-I
+7	ice	O
+8	sea	B
+9	ice	I
 10	inner	O
 11	structure	O
 12	in	O
@@ -73,6 +75,7 @@
 21	images	O
 22	.	O
 
+
 1	This	O
 2	is	O
 3	especially	O
@@ -83,9 +86,9 @@
 8	Sea	O
 9	,	O
 10	which	O
-11	lacks	O
-12	multiyear	ice_devel-B
-13	ice	ice_devel-I
+11	ice	O
+12	multiyear	B
+13	ice	I
 14	and	O
 15	icebergs	O
 16	,	O
@@ -95,11 +98,12 @@
 20	confusing	O
 21	targets	O
 22	for	O
-23	L-band	O
-24	sea	ice_form-B
-25	ice	ice_form-I
+23	ice	O
+24	sea	B
+25	ice	I
 26	classification	O
 27	.	O
+
 
 1	In	O
 2	this	O
@@ -110,9 +114,9 @@
 7	images	O
 8	are	O
 9	investigated	O
-10	for	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	motion	O
 14	estimation	O
 15	using	O
@@ -125,6 +129,7 @@
 22	)	O
 23	approach	O
 24	.	O
+
 
 1	This	O
 2	work	O
@@ -145,6 +150,7 @@
 17	motion	O
 18	estimation	O
 19	.	O
+
 
 1	The	O
 2	cross-correlation	O
@@ -170,6 +176,7 @@
 22	site	O
 23	.	O
 
+
 1	It	O
 2	is	O
 3	found	O
@@ -185,6 +192,7 @@
 13	C-band	O
 14	images	O
 15	.	O
+
 
 1	It	O
 2	is	O
@@ -208,4 +216,5 @@
 20	cross-correlation	O
 21	technique	O
 22	.	O
+
 

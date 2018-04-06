@@ -2,10 +2,10 @@
 2	27	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	Looking	O
 10	Back	O
 11	for	O
@@ -27,41 +27,42 @@
 27	give	O
 28	warning	O
 29	to	O
-30	an	O
-31	area	Environment_Context-B
+30	Earthquakes	O
+31	area	B
 32	about	O
 33	a	O
-34	specific	O
-35	earthquake	Eventuality-B
+34	area	O
+35	earthquake	B
 36	immediately	O
 37	prior	O
 38	to	O
-39	its	O
-40	occurrence	Trait-B
+39	earthquake	O
+40	occurrence	B
 41	,	O
 42	one	O
 43	means	O
 44	of	O
 45	anticipating	O
-46	the	O
-47	seismic	Trait-B
-48	future	Trait-I
+46	occurrence	O
+47	seismic	B
+48	future	I
 49	of	O
-50	an	O
-51	area	Environment_Context-B
+50	future	O
+51	area	B
 52	is	O
 53	to	O
 54	generate	O
-55	a	O
-56	long-term	Trait-B
+55	area	O
+56	long-term	B
 57	outlook	O
 58	for	O
-59	the	O
-60	rate	Trait-B
-61	of	O
-62	major	Trait-B
-63	earthquakes	Eventuality-B
+59	long-term	O
+60	rate	B
+61	rate	O
+62	major	B
+63	earthquakes	B
 50	.	O
+
 
 1	To	O
 2	do	O
@@ -69,20 +70,21 @@
 4	requires	O
 5	information	O
 6	about	O
-7	the	O
-8	earthquake	Eventuality-B
+7	earthquakes	O
+8	earthquake	B
 9	history	O
 10	of	O
-11	an	O
-12	area	Environment_Context-B
+11	earthquake	O
+12	area	B
 13	.	O
+
 
 1	What	O
 2	has	O
 3	happened	O
 4	in	O
-5	an	O
-6	area	Environment_Context-B
+5	area	O
+6	area	B
 7	is	O
 8	usually	O
 9	a	O
@@ -97,33 +99,35 @@
 18	future	O
 19	.	O
 
+
 1	Following	O
 2	this	O
 3	principle	O
 4	,	O
 5	it	O
-6	makes	O
-7	sense	Trait-B
+6	area	O
+7	sense	B
 8	to	O
 9	thoroughly	O
 10	examine	O
-11	the	O
-12	seismicity	Eventuality-B
+11	sense	O
+12	seismicity	B
 13	record	O
 14	present	O
 15	in	O
-16	the	O
-17	earthquake	Eventuality-B
+16	seismicity	O
+17	earthquake	B
 18	catalogs	O
 19	for	O
 20	a	O
-21	given	O
-22	area	Environment_Context-B
+21	earthquake	O
+22	area	B
 23	.	O
 
+
 1	For	O
-2	southern	O
-3	California	Location-B
+2	area	O
+3	California	B
 4	,	O
 5	we	O
 6	have	O
@@ -145,13 +149,14 @@
 22	)	O
 23	.	O
 
+
 1	You	O
 2	may	O
 3	notice	O
 4	,	O
 5	upon	O
-6	studying	O
-7	earthquake	Eventuality-B
+6	California	O
+7	earthquake	B
 8	catalogs	O
 9	,	O
 10	that	O
@@ -161,8 +166,8 @@
 14	and	O
 15	fewer	O
 16	records	O
-17	of	O
-18	earthquakes	Eventuality-B
+17	earthquake	O
+18	earthquakes	B
 19	as	O
 20	you	O
 21	look	O
@@ -170,6 +175,7 @@
 23	in	O
 24	time	O
 25	.	O
+
 
 1	Modern	O
 2	networks	O
@@ -192,22 +198,23 @@
 19	this	O
 20	is	O
 21	true	O
-22	in	O
-23	southern	Direction-B
-24	California	Location-B
+22	earthquakes	O
+23	southern	B
+24	California	B
 25	.	O
+
 
 1	Therefore	O
 2	,	O
 3	you	O
 4	will	O
 5	find	O
-6	fewer	O
-7	earthquake	Eventuality-B
+6	California	O
+7	earthquake	B
 8	records	O
 9	in	O
-10	the	O
-11	past	Time-B
+10	earthquake	O
+11	past	B
 12	,	O
 13	and	O
 14	will	O
@@ -230,21 +237,22 @@
 31	today	O
 32	.	O
 
+
 1	When	O
 2	you	O
 3	try	O
 4	to	O
-5	study	O
-6	earthquakes	Eventuality-B
-7	even	O
-8	farther	Direction-B
-9	back	Direction-B
+5	past	O
+6	earthquakes	B
+7	earthquakes	O
+8	farther	B
+9	back	B
 10	in	O
 11	time	O
 12	,	O
-13	you	O
-14	run	Eventuality-B
-15	into	Direction-B
+13	back	O
+14	run	B
+15	into	B
 16	an	O
 17	even	O
 18	greater	O
@@ -253,28 +261,30 @@
 21	-	O
 22	the	O
 23	instrumental	O
-24	records	O
-25	disappear	Eventuality-B
-26	altogether	Direction-B
+24	into	O
+25	disappear	B
+26	altogether	B
 27	.	O
 
-1	In	O
-2	southern	Direction-B
-3	California	Location-B
+
+1	altogether	O
+2	southern	B
+3	California	B
 4	,	O
 5	the	O
 6	records	O
 7	in	O
 8	the	O
-9	SCSN	O
-10	earthquake	Eventuality-B
+9	California	O
+10	earthquake	B
 11	catalog	O
 12	date	O
 13	back	O
 14	only	O
-15	to	O
-16	1932	Time-B
+15	earthquake	O
+16	1932	B
 44	.	O
+
 
 1	And	O
 2	yet	O
@@ -284,38 +294,39 @@
 6	find	O
 7	information	O
 8	about	O
-9	the	O
-10	magnitude	Trait-B
+9	1932	O
+10	magnitude	B
 11	and	O
 12	location	O
-13	of	O
-14	events	Eventuality-B
+13	magnitude	O
+14	events	B
 15	like	O
-16	the	O
-17	San	Environment_Context-B
-18	Jacinto	Environment_Context-I
-19	earthquake	Eventuality-B
-20	of	O
-21	1918	Time-B
+16	events	O
+17	San	B
+18	Jacinto	I
+19	earthquake	B
+20	earthquake	O
+21	1918	B
 22	,	O
 23	or	O
 24	even	O
-25	the	O
-26	great	Environment_Context-B
-27	Fort	Location-B
-28	Tejon	Environment_Context-I
-29	earthquake	Eventuality-B
-30	of	O
-31	1857	Time-B
+25	1918	O
+26	great	B
+27	Fort	Environment_ContextI
+28	Tejon	I
+29	earthquake	B
+30	earthquake	O
+31	1857	B
 32	.	O
+
 
 1	How	O
 2	can	O
 3	this	O
 4	be	O
 5	.	O
-
-1	Earthquake	Eventuality-B
+0	1857	O
+1	Earthquake	B
 2	catalogs	O
 3	are	O
 4	a	O
@@ -332,19 +343,21 @@
 15	instruments	O
 16	have	O
 17	been	O
-18	recording	O
-19	earthquakes	Eventuality-B
+18	Earthquake	O
+19	earthquakes	B
 20	.	O
+
 
 1	What	O
 2	do	O
 3	we	O
 4	do	O
 5	to	O
-6	study	O
-7	activity	Eventuality-B
+6	earthquakes	O
+7	activity	B
 8	before	O
 9	that	O
 10	time	O
 11	.	O
+
 

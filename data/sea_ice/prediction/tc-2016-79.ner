@@ -1,14 +1,14 @@
 1	Fram	O
-2	Strait	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2		O
+3	sea	B
+4	ice	I
 5	export	O
 6	variability	O
 7	and	O
 8	September	O
-9	Arctic	O
-10	sea	ice_form-B
-11	ice	ice_form-I
+9	ice	O
+10	sea	B
+11	ice	I
 12	extent	O
 13	over	O
 14	the	O
@@ -27,9 +27,9 @@
 27	km2	O
 28	of	O
 29	it	O
-30	's	O
-31	sea	ice_form-B
-32	ice	ice_form-I
+30	ice	O
+31	sea	B
+32	ice	I
 33	cover	O
 34	southwards	O
 35	through	O
@@ -43,14 +43,15 @@
 43	10	O
 44	%	O
 45	of	O
-46	the	O
-47	sea-ice	ice_form-B
+46	ice	O
+47	sea-ice	B
 48	covered	O
 49	area	O
 50	inside	O
 51	the	O
 52	basin	O
 36	.	O
+
 
 1	During	O
 2	winter	O
@@ -64,8 +65,8 @@
 10	new	O
 11	and	O
 12	relatively	O
-13	thin	O
-14	ice	ice-B
+13	sea-ice	O
+14	ice	B
 15	inside	O
 16	the	O
 17	basin	O
@@ -79,9 +80,9 @@
 25	export	O
 26	contributes	O
 27	directly	O
-28	to	O
-29	open	ice_con-B
-30	water	ice_con-I
+28	ice	O
+29	open	B
+30	water	I
 31	further	O
 32	north	O
 33	that	O
@@ -92,6 +93,7 @@
 38	during	O
 39	summer	O
 40	.	O
+
 
 1	A	O
 2	new	O
@@ -104,9 +106,9 @@
 9	2014	O
 10	of	O
 11	Fram	O
-12	Strait	O
-13	sea	ice_form-B
-14	ice	ice_form-I
+12	water	O
+13	sea	B
+14	ice	I
 15	area	O
 16	export	O
 17	shows	O
@@ -139,6 +141,7 @@
 44	years	O
 45	.	O
 
+
 1	Nevertheless	O
 2	,	O
 3	the	O
@@ -164,6 +167,7 @@
 23	km2	O
 24	.	O
 
+
 1	Evaluating	O
 2	the	O
 3	trend	O
@@ -173,9 +177,9 @@
 7	,	O
 8	when	O
 9	satellite	O
-10	based	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	coverage	O
 14	became	O
 15	more	O
@@ -196,6 +200,7 @@
 30	per	O
 31	decade	O
 32	.	O
+
 
 1	The	O
 2	observed	O
@@ -225,6 +230,7 @@
 26	Greenland	O
 27	.	O
 
+
 1	Spring	O
 2	and	O
 3	summer	O
@@ -253,6 +259,7 @@
 26	)	O
 27	.	O
 
+
 1	Contrary	O
 2	to	O
 3	the	O
@@ -277,9 +284,9 @@
 22	,	O
 23	and	O
 24	consistently	O
-25	mid-September	O
-26	sea	ice_form-B
-27	ice	ice_form-I
+25	ice	O
+26	sea	B
+27	ice	I
 28	extent	O
 29	was	O
 30	higher	O
@@ -292,6 +299,7 @@
 37	and	O
 38	afterwards	O
 39	.	O
+
 
 1	We	O
 2	thus	O
@@ -308,9 +316,9 @@
 13	on	O
 14	the	O
 15	following	O
-16	September	O
-17	sea	ice_form-B
-18	ice	ice_form-I
+16	ice	O
+17	sea	B
+18	ice	I
 19	extent	O
 20	in	O
 21	general	O
@@ -333,9 +341,10 @@
 38	accelerating	O
 39	decline	O
 40	in	O
-41	Arctic	O
-42	sea	ice_form-B
-43	ice	ice_form-I
+41	ice	O
+42	sea	B
+43	ice	I
 44	extent	O
 45	.	O
+
 

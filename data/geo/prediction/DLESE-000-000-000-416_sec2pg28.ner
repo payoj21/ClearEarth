@@ -2,39 +2,40 @@
 2	28	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	"	O
 10	How	O
 11	can	O
 12	we	O
-13	study	O
-14	earthquakes	Eventuality-B
+13	Earthquakes	O
+14	earthquakes	B
 15	from	O
 16	the	O
 17	time	O
-18	before	O
-19	seismic	Eventuality-B
-20	networks	Eventuality-I
+18	earthquakes	O
+19	seismic	B
+20	networks	I
 21	existed	O
 14	.	O
+
 
 1	"	O
 2	The	O
 3	shaking	O
 4	produced	O
-5	by	O
-6	earthquakes	Eventuality-B
+5	networks	O
+6	earthquakes	B
 7	is	O
 8	now	O
 9	recorded	O
 10	efficiently	O
 11	and	O
 12	precisely	O
-13	on	O
-14	seismic	Trait-B
+13	earthquakes	O
+14	seismic	B
 15	instruments	O
 16	,	O
 17	but	O
@@ -42,8 +43,8 @@
 19	such	O
 20	devices	O
 21	existed	O
-22	,	O
-23	earthquakes	Eventuality-B
+22	seismic	O
+23	earthquakes	B
 24	that	O
 25	produced	O
 26	strong	O
@@ -71,6 +72,7 @@
 48	journals	O
 48	.	O
 
+
 1	Collecting	O
 2	these	O
 3	sorts	O
@@ -90,8 +92,8 @@
 17	brief	O
 18	mentions	O
 19	of	O
-20	an	O
-21	earthquake	Eventuality-B
+20	earthquakes	O
+21	earthquake	B
 22	from	O
 23	locations	O
 24	scattered	O
@@ -112,6 +114,7 @@
 39	large	O
 40	events	O
 28	.	O
+
 
 1	This	O
 2	is	O
@@ -137,6 +140,7 @@
 22	this	O
 23	module	O
 24	.	O
+
 
 1	Making	O
 2	this	O
@@ -177,6 +181,7 @@
 37	intensity	O
 38	.	O
 
+
 1	The	O
 2	result	O
 3	is	O
@@ -213,6 +218,7 @@
 34	)	O
 35	.	O
 
+
 1	By	O
 2	comparing	O
 3	the	O
@@ -237,19 +243,20 @@
 22	possible	O
 23	to	O
 24	estimate	O
-25	the	O
-26	energy	Abiotic_Entity-B
-27	released	Eventuality-B
+25	earthquake	O
+26	energy	B
+27	released	B
 28	by	O
-29	the	O
-30	earthquake	Eventuality-B
+29	released	O
+30	earthquake	B
 31	,	O
 32	and	O
 33	assign	O
 34	an	O
-35	approximate	O
-36	magnitude	Trait-B
+35	earthquake	O
+36	magnitude	B
 37	.	O
+
 
 1	These	O
 2	techniques	O
@@ -259,6 +266,7 @@
 6	of	O
 7	course	O
 8	.	O
+
 
 1	As	O
 2	you	O
@@ -289,17 +297,19 @@
 27	suffer	O
 28	.	O
 
+
 1	Eventually	O
-2	,	O
-3	large	Trait-B
-4	earthquakes	Eventuality-B
+2	magnitude	O
+3	large	B
+4	earthquakes	B
 5	will	O
 6	go	O
-7	completely	O
-8	unnoticed	Direction-B
-9	or	O
-10	unreported	Time-B
+7	earthquakes	O
+8	unnoticed	B
+9	unnoticed	O
+10	unreported	B
 11	.	O
+
 
 1	Once	O
 2	such	O
@@ -323,8 +333,8 @@
 20	even	O
 21	for	O
 22	the	O
-23	largest	O
-24	earthquakes	Eventuality-B
+23	unreported	O
+24	earthquakes	B
 25	,	O
 26	and	O
 27	it	O
@@ -334,8 +344,9 @@
 31	a	O
 32	representation	O
 33	of	O
-34	the	O
-35	seismicity	Trait-B
-36	rate	Trait-I
+34	earthquakes	O
+35	seismicity	B
+36	rate	I
 37	.	O
+
 

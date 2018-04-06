@@ -1,13 +1,14 @@
-1	Arrowleaf	O
-2	balsamroot	Biotic_Entity-I
+1		Biotic_EntityI
+2	balsamroot	I
 3	is	O
 4	a	O
 5	common	O
 6	component	O
-7	in	O
-8	sagebrush	Biotic_Entity-B
-9	communities	Biotic_Entity-I
+7	balsamroot	O
+8	sagebrush	B
+9	communities	I
 10	.	O
+
 
 1	Wright	O
 2	and	O
@@ -16,36 +17,38 @@
 5	where	O
 6	arrowleaf	O
 7	balsamroot	O
-8	and	O
-9	lupine	Biotic_Entity-B
-10	(	O
-11	Lupinus	Quality-B
-12	spp	Biotic_Entity-B
+8	communities	O
+9	lupine	B
+10	lupine	O
+11	Lupinus	B
+12	spp	B
 13	.	O
 
-1	)	O
-2	make	Eventuality-B
+
+1	spp	O
+2	make	B
 3	up	O
-4	a	O
-5	large	Quality-B
+4	make	O
+5	large	B
 6	component	O
-7	of	O
-8	herbaceous	Biotic_Entity-B
-9	yield	Eventuality-B
-10	in	O
-11	threetip	Quality-B
-12	sagebrush	Biotic_Entity-B
+7	large	O
+8	herbaceous	B
+9	yield	B
+10	yield	O
+11	threetip	B
+12	sagebrush	B
 13	communities	O
-14	,	O
-15	fall	Eventuality-B
-16	burning	Eventuality-B
+14	sagebrush	O
+15	fall	B
+16	burning	B
 17	would	O
-18	help	O
-19	maintain	Eventuality-B
+18	burning	O
+19	maintain	B
 20	the	O
 21	forb	O
 22	component	O
 36	.	O
+
 
 1	They	O
 2	classify	O
@@ -67,6 +70,7 @@
 18	fall	O
 19	burning	O
 20	.	O
+
 
 1	In	O
 2	a	O
@@ -91,19 +95,21 @@
 21	burning	O
 22	.	O
 
+
 1	Where	O
-2	the	O
-3	grass	Biotic_Entity-B
-4	and	O
-5	forb	Quality-B
-6	understory	Biotic_Entity-B
-7	was	O
-8	depleted	Eventuality-B
-9	,	O
-10	cheatgrass	Biotic_Entity-B
+2	maintain	O
+3	grass	B
+4	grass	O
+5	forb	B
+6	understory	B
+7	understory	O
+8	depleted	B
+9	depleted	O
+10	cheatgrass	B
 11	became	O
-12	the	O
-13	dominant	Quality-B
-14	grass	Biotic_Entity-B
+12	cheatgrass	O
+13	dominant	B
+14	grass	B
 15	.	O
+
 

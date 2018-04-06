@@ -29,17 +29,18 @@
 29	additional	O
 30	information	O
 31	for	O
-32	discriminating	O
-33	sea	ice_form-B
-34	ice	ice_form-I
-35	and	O
-36	open	ice_con-B
-37	water	ice_con-I
+32		O
+33	sea	B
+34	ice	I
+35	ice	O
+36	open	B
+37	water	I
 38	compared	O
 39	to	O
 40	single-polarization	O
 41	data	O
 31	.	O
+
 
 1	We	O
 2	have	O
@@ -50,17 +51,17 @@
 7	algorithm	O
 8	to	O
 9	distinguish	O
-10	between	O
-11	open	ice_con-B
-12	water	ice_con-I
+10	water	O
+11	open	B
+12	water	I
 13	(	O
 14	rough	O
 15	/	O
 16	calm	O
 17	)	O
-18	and	O
-19	sea	ice_form-B
-20	ice	ice_form-I
+18	water	O
+19	sea	B
+20	ice	I
 21	based	O
 22	on	O
 23	dual-polarized	O
@@ -68,6 +69,7 @@
 25	SAR	O
 26	images	O
 27	.	O
+
 
 1	Several	O
 2	technical	O
@@ -99,6 +101,7 @@
 28	HH-polarization	O
 29	.	O
 
+
 1	Texture	O
 2	features	O
 3	are	O
@@ -121,6 +124,7 @@
 20	approach	O
 21	.	O
 
+
 1	The	O
 2	main	O
 3	regions	O
@@ -137,6 +141,7 @@
 14	Josef	O
 15	Land	O
 16	.	O
+
 
 1	The	O
 2	algorithm	O
@@ -171,6 +176,7 @@
 31	Meteorological	O
 32	Institute	O
 33	.	O
+
 
 1	Between	O
 2	2013	O
@@ -211,4 +217,5 @@
 37	;	O
 38	%	O
 39	.	O
+
 

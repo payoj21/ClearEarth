@@ -2,14 +2,15 @@
 2	11	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
-9	Distribution	Trait-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
+9	Distribution	B
 10	in	O
 11	Time	O
 4	.	O
+
 
 1	So	O
 2	far	O
@@ -22,14 +23,15 @@
 9	been	O
 10	examining	O
 11	the	O
-12	geographic	O
-13	distribution	Trait-B
-14	of	O
-15	earthquakes	Eventuality-B
-16	in	O
-17	southern	Location-B
-18	California	Location-B
+12	Distribution	O
+13	distribution	B
+14	distribution	O
+15	earthquakes	B
+16	earthquakes	O
+17	southern	B
+18	California	B
 19	.	O
+
 
 1	We	O
 2	've	O
@@ -38,23 +40,24 @@
 5	how	O
 6	the	O
 7	locations	O
-8	of	O
-9	earthquakes	Eventuality-B
+8	California	O
+9	earthquakes	B
 10	correspond	O
 11	to	O
-12	various	O
-13	features	Environment_Context-B
+12	earthquakes	O
+13	features	B
 14	of	O
-15	the	O
-16	landscape	Environment_Context-B
+15	features	O
+16	landscape	B
 17	,	O
-18	even	O
-19	features	Environment_Context-B
-20	deep	Direction-B
-21	below	Direction-B
-22	the	O
-23	surface	Environment_Context-B
+18	landscape	O
+19	features	B
+20	deep	B
+21	below	B
+22	below	O
+23	surface	B
 24	.	O
+
 
 1	But	O
 2	these	O
@@ -63,30 +66,32 @@
 5	the	O
 6	only	O
 7	forms	O
-8	of	O
-9	distribution	Trait-B
+8	surface	O
+9	distribution	B
 10	we	O
 11	can	O
 12	use	O
 13	to	O
-14	study	O
-15	seismic	Eventuality-B
-16	activity	Eventuality-B
+14	distribution	O
+15	seismic	B
+16	activity	B
 17	.	O
+
 
 1	We	O
 2	can	O
 3	also	O
 4	investigate	O
-5	the	O
-6	distribution	Trait-B
-7	of	O
-8	seismicity	Eventuality-B
+5	activity	O
+6	distribution	B
+7	distribution	O
+8	seismicity	B
 9	with	O
 10	respect	O
 11	to	O
 12	time	O
 13	.	O
+
 
 1	In	O
 2	Section	O
@@ -94,12 +99,12 @@
 4	,	O
 5	we	O
 6	looked	O
-7	at	O
-8	slip	Trait-B
-9	rate	Trait-I
-10	and	O
-11	recurrence	Trait-B
-12	interval	Trait-I
+7	seismicity	O
+8	slip	B
+9	rate	I
+10	rate	O
+11	recurrence	B
+12	interval	I
 13	,	O
 14	two	O
 15	concepts	O
@@ -120,30 +125,31 @@
 30	long-term	O
 31	outlook	O
 32	for	O
-33	the	O
-34	tectonic	Eventuality-B
-35	activity	Eventuality-B
-36	in	O
-37	southern	Direction-B
-38	California	Location-B
+33	interval	O
+34	tectonic	B
+35	activity	B
+36	activity	O
+37	southern	B
+38	California	B
 12	.	O
+
 
 1	But	O
 2	while	O
 3	knowing	O
 4	that	O
-5	a	O
-6	fault	Environment_Context-B
+5	California	O
+6	fault	B
 7	may	O
 8	experience	O
-9	a	O
-10	major	Trait-B
-11	rupture	Eventuality-B
+9	fault	O
+10	major	B
+11	rupture	B
 12	about	O
-13	once	O
-14	every	Value-B
-15	two	Value-B
-16	millennia	Trait-I
+13	rupture	O
+14	every	B
+15	two	TraitI
+16	millennia	I
 17	is	O
 18	interesting	O
 19	,	O
@@ -165,14 +171,15 @@
 35	-	O
 36	-	O
 37	that	O
-38	of	O
-39	days	Time-B
-40	,	O
-41	months	Time-B
+38	millennia	O
+39	days	B
+40	days	O
+41	months	B
 42	,	O
-43	or	O
-44	years	Time-B
+43	months	O
+44	years	B
 45	.	O
+
 
 1	To	O
 2	do	O
@@ -184,22 +191,23 @@
 8	look	O
 9	at	O
 10	the	O
-11	recent	O
-12	distribution	Trait-B
-13	of	O
-14	earthquakes	Eventuality-B
+11	years	O
+12	distribution	B
+13	distribution	O
+14	earthquakes	B
 15	with	O
 16	respect	O
 17	to	O
 18	time	O
 19	.	O
 
+
 1	Indeed	O
 2	,	O
-3	the	O
-4	distribution	Trait-B
-5	of	O
-6	earthquakes	Eventuality-B
+3	earthquakes	O
+4	distribution	B
+5	distribution	O
+6	earthquakes	B
 7	over	O
 8	time	O
 9	,	O
@@ -207,9 +215,9 @@
 11	referred	O
 12	to	O
 13	as	O
-14	the	O
-15	seismicity	Trait-B
-16	rate	Trait-I
+14	earthquakes	O
+15	seismicity	B
+16	rate	I
 17	,	O
 18	can	O
 19	be	O
@@ -218,14 +226,15 @@
 22	tool	O
 23	for	O
 24	understanding	O
-25	the	O
-26	workings	Environment_Context-B
+25	rate	O
+26	workings	B
 27	of	O
-28	the	O
-29	Earth	Location-B
-30	's	O
-31	crust	Environment_Context-B
+28	workings	O
+29	Earth	B
+30	Earth	O
+31	crust	B
 32	.	O
+
 
 1	Similar	O
 2	to	O
@@ -241,9 +250,9 @@
 12	what	O
 13	needs	O
 14	repair	O
-15	,	O
-16	seismicity	Trait-B
-17	rates	Trait-I
+15	crust	O
+16	seismicity	B
+17	rates	I
 18	can	O
 19	allow	O
 20	a	O
@@ -266,6 +275,7 @@
 37	them	O
 38	.	O
 
+
 1	To	O
 2	do	O
 3	this	O
@@ -274,10 +284,11 @@
 6	consistent	O
 7	way	O
 8	of	O
-9	finding	O
-10	seismicity	Trait-B
-11	rates	Trait-I
+9	rates	O
+10	seismicity	B
+11	rates	I
 12	.	O
+
 
 1	Only	O
 2	then	O
@@ -288,6 +299,7 @@
 7	make	O
 8	comparisons	O
 9	.	O
+
 
 1	Or	O
 2	,	O
@@ -320,9 +332,10 @@
 29	unusual	O
 30	.	O
 
+
 1	But	O
-2	with	O
-3	seismicity	Eventuality-B
+2	rates	O
+3	seismicity	B
 4	-	O
 5	-	O
 6	much	O
@@ -343,4 +356,5 @@
 21	normal	O
 22	"	O
 23	.	O
+
 

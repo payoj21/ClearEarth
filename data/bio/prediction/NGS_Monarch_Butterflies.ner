@@ -2,28 +2,29 @@
 2	Butterflies	O
 3	-	O
 4	National	O
-5	Geographic	O
-6	Monarch	Biotic_Entity-B
-7	butterflies	Biotic_Entity-I
+5		O
+6	Monarch	B
+7	butterflies	I
 8	are	O
 9	known	O
 10	for	O
 11	the	O
-12	incredible	O
-13	mass	Eventuality-B
-14	migration	Eventuality-B
-15	that	O
-16	brings	Eventuality-B
+12	butterflies	O
+13	mass	B
+14	migration	B
+15	migration	O
+16	brings	B
 17	millions	O
 18	of	O
 19	them	O
-20	to	O
-21	California	Location-B
-22	and	O
-23	Mexico	Aggregate_Biotic_Abiotic_Entity-B
+20	brings	O
+21	California	B
+22	California	O
+23	Mexico	B
 24	each	O
 25	winter	O
 21	.	O
+
 
 1	North	O
 2	American	O
@@ -41,22 +42,23 @@
 14	—	O
 15	up	O
 16	to	O
-17	3,000	O
-18	miles	Unit-B
+17	Mexico	O
+18	miles	B
 19	(	O
 20	4,828	O
 21	kilometers	O
 22	)	O
 23	.	O
 
-1	The	O
-2	insects	Biotic_Entity-B
+
+1	miles	O
+2	insects	B
 3	must	O
 4	begin	O
 5	this	O
 6	journey	O
-7	each	O
-8	fall	Eventuality-B
+7	insects	O
+8	fall	B
 9	ahead	O
 10	of	O
 11	cold	O
@@ -72,28 +74,28 @@
 21	too	O
 22	long	O
 23	.	O
-
-1	Monarch	Biotic_Entity-B
-2	butterflies	Biotic_Entity-I
-3	begin	Eventuality-B
-4	life	Eventuality-B
-5	as	O
-6	eggs	Biotic_Entity-B
-7	and	O
-8	hatch	Eventuality-B
-9	as	O
-10	larvae	Biotic_Entity-B
-11	that	O
-12	eat	Eventuality-B
-13	their	O
-14	eggshells	Biotic_Entity-B
+0	fall	O
+1	Monarch	B
+2	butterflies	I
+3	begin	B
+4	life	B
+5	life	O
+6	eggs	B
+7	eggs	O
+8	hatch	B
+9	hatch	O
+10	larvae	B
+11	larvae	O
+12	eat	B
+13	eat	O
+14	eggshells	B
 15	and	O
 16	,	O
 17	subsequently	O
 18	,	O
-19	the	O
-20	milkweed	Biotic_Entity-B
-21	plants	Biotic_Entity-B
+19	eggshells	O
+20	milkweed	B
+21	plants	B
 22	on	O
 23	which	O
 24	they	O
@@ -101,45 +103,48 @@
 26	placed	O
 27	.	O
 
+
 1	(	O
 2	Monarchs	O
 3	are	O
 4	dependent	O
-5	on	O
-6	milkweed	Quality-B
-7	plants	Biotic_Entity-B
+5	plants	O
+6	milkweed	B
+7	plants	B
 8	,	O
-9	which	O
-10	larvae	Biotic_Entity-B
-11	eat	Eventuality-B
+9	plants	O
+10	larvae	B
+11	eat	B
 12	nearly	O
 13	exclusively	O
 14	.	O
 
-1	)	O
-2	Fattening	Biotic_Entity-B
-3	larvae	Biotic_Entity-B
-4	become	O
-5	juicy	Quality-B
-6	,	O
-7	colorful	Quality-B
-8	caterpillars	Biotic_Entity-B
+
+1	eat	O
+2	Fattening	B
+3	larvae	B
+4	larvae	O
+5	juicy	B
+6	juicy	O
+7	colorful	B
+8	caterpillars	B
 9	,	O
-10	then	O
-11	create	Eventuality-B
+10	caterpillars	O
+11	create	B
 12	a	O
-13	hard	O
-14	protective	Eventuality-B
+13	create	O
+14	protective	B
 15	case	O
 16	around	O
 17	themselves	O
 18	as	O
-19	they	O
-20	enter	Eventuality-B
-21	the	O
-22	pupa	Biotic_Entity-B
-23	stage	Biotic_Entity-I
+19	protective	O
+20	enter	B
+21	enter	O
+22	pupa	B
+23	stage	I
 23	.	O
+
 
 1	They	O
 2	emerge	O
@@ -150,6 +155,7 @@
 7	black-orange-and-white	O
 8	adults	O
 9	.	O
+
 
 1	The	O
 2	colorful	O
@@ -167,20 +173,22 @@
 14	idea	O
 15	.	O
 
+
 1	The	O
 2	distinctive	O
-3	pattern	O
-4	warns	Eventuality-B
-5	predators	Biotic_Entity-B
+3	stage	O
+4	warns	B
+5	predators	B
 6	that	O
-7	the	O
-8	insects	Biotic_Entity-B
+7	predators	O
+8	insects	B
 9	are	O
-10	foul	O
-11	tasting	Eventuality-B
-12	and	O
-13	poisonous	Eventuality-B
+10	insects	O
+11	tasting	B
+12	tasting	O
+13	poisonous	B
 14	.	O
+
 
 1	Butterflies	O
 2	that	O
@@ -215,6 +223,7 @@
 31	summer	O
 32	.	O
 
+
 1	These	O
 2	monarchs	O
 3	are	O
@@ -239,6 +248,7 @@
 22	journey	O
 23	.	O
 
+
 1	Only	O
 2	monarchs	O
 3	born	O
@@ -260,6 +270,7 @@
 19	round	O
 20	trip	O
 21	.	O
+
 
 1	By	O
 2	the	O
@@ -296,6 +307,7 @@
 33	trip	O
 34	.	O
 
+
 1	Yet	O
 2	somehow	O
 3	these	O
@@ -323,6 +335,7 @@
 25	tree	O
 26	.	O
 
+
 1	Many	O
 2	scientists	O
 3	are	O
@@ -338,32 +351,33 @@
 13	summer	O
 14	east	O
 15	of	O
-16	the	O
-17	Rocky	Environment_Context-B
-18	Mountains	Aggregate_Biotic_Abiotic_Entity-I
+16	poisonous	O
+17	Rocky	Aggregate_Biotic_Abiotic_EntityI
+18	Mountains	I
 19	.	O
+
 
 1	This	O
 2	group	O
-3	is	O
-4	occurring	Eventuality-B
+3	Mountains	O
+4	occurring	B
 5	in	O
 6	ever	O
 7	smaller	O
 8	numbers	O
 9	,	O
 10	and	O
-11	its	O
-12	survival	Eventuality-B
+11	occurring	O
+12	survival	B
 13	may	O
 14	be	O
 15	threatened	O
 16	by	O
 17	a	O
 18	series	O
-19	of	O
-20	natural	Eventuality-B
-21	disasters	Eventuality-B
+19	survival	O
+20	natural	B
+21	disasters	B
 22	in	O
 23	the	O
 24	Mexican	O
@@ -373,15 +387,16 @@
 28	as	O
 29	well	O
 30	as	O
-31	by	O
-32	reduced	Eventuality-B
+31	disasters	O
+32	reduced	B
 33	acreage	O
-34	of	O
-35	milkweed	Quality-B
-36	plants	Biotic_Entity-B
+34	reduced	O
+35	milkweed	B
+36	plants	B
 37	in	O
 38	their	O
 39	summer	O
 40	home	O
 41	.	O
+
 

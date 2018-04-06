@@ -1,6 +1,7 @@
-1	First-year	ice_devel-B
-2	sea	ice_form-B
-3	ice	ice_form-I
+0		O
+1	First-year	B
+2	sea	B
+3	ice	I
 4	melt	O
 5	pond	O
 6	fraction	O
@@ -19,9 +20,9 @@
 19	in	O
 20	situ	O
 21	to	O
-22	Radarsat-2	O
-23	Sea	ice_form-B
-24	ice	ice_form-I
+22	ice	O
+23	Sea	B
+24	ice	I
 25	melt	O
 26	pond	O
 27	fraction	O
@@ -31,9 +32,9 @@
 31	,	O
 32	linked	O
 33	with	O
-34	lower	O
-35	sea	ice_form-B
-36	ice	ice_form-I
+34	ice	O
+35	sea	B
+36	ice	I
 37	surface	O
 38	albedo	O
 39	and	O
@@ -47,9 +48,9 @@
 47	is	O
 48	inadequately	O
 49	parameterised	O
-50	in	O
-51	sea	ice_form-B
-52	ice	ice_form-I
+50	ice	O
+51	sea	B
+52	ice	I
 53	models	O
 54	due	O
 55	to	O
@@ -58,6 +59,7 @@
 58	of	O
 59	observations	O
 38	.	O
+
 
 1	In	O
 2	this	O
@@ -74,12 +76,12 @@
 13	the	O
 14	retrieval	O
 15	of	O
-16	level	O
-17	first-year	ice_devel-B
-18	sea	ice_form-B
-19	ice	ice_form-I
-20	(	O
-21	FYI	ice_devel-B
+16	ice	O
+17	first-year	B
+18	sea	B
+19	ice	I
+20	ice	O
+21	FYI	B
 22	)	O
 23	fp	O
 24	from	O
@@ -99,6 +101,7 @@
 38	are	O
 39	detailed	O
 40	.	O
+
 
 1	Models	O
 2	which	O
@@ -148,6 +151,7 @@
 46	fp	O
 47	.	O
 
+
 1	Retrieved	O
 2	fp	O
 3	from	O
@@ -189,6 +193,7 @@
 39	ponding	O
 40	.	O
 
+
 1	Weak	O
 2	model	O
 3	performance	O
@@ -200,8 +205,8 @@
 9	of	O
 10	wet	O
 11	snow	O
-12	and	O
-13	slush	ice_devel-B
+12	FYI	O
+13	slush	B
 14	during	O
 15	initial	O
 16	ponding	O
@@ -220,6 +225,7 @@
 29	on	O
 30	ponds	O
 31	.	O
+
 
 1	The	O
 2	HV	O
@@ -261,6 +267,7 @@
 38	present	O
 39	.	O
 
+
 1	Generally	O
 2	low	O
 3	HV	O
@@ -284,6 +291,7 @@
 21	noise	O
 22	floors	O
 23	.	O
+
 
 1	Results	O
 2	demonstrate	O
@@ -309,4 +317,5 @@
 22	model	O
 23	parameterisations	O
 24	.	O
+
 

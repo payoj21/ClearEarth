@@ -4,9 +4,10 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	Calculating	O
 2	Slip	O
@@ -23,20 +24,20 @@
 13	way	O
 14	to	O
 15	estimate	O
-16	the	O
-17	slip	Trait-B
-18	rate	Trait-I
+16	Earthquake	O
+17	slip	B
+18	rate	I
 19	of	O
-20	a	O
-21	fault	Environment_Context-B
+20	rate	O
+21	fault	B
 22	is	O
 23	to	O
 24	find	O
-25	a	O
-26	feature	Environment_Context-B
+25	fault	O
+26	feature	B
 27	,	O
-28	the	O
-29	age	Trait-B
+28	feature	O
+29	age	B
 30	of	O
 31	which	O
 32	can	O
@@ -45,23 +46,24 @@
 35	,	O
 36	that	O
 37	has	O
-38	been	O
-39	offset	Trait-B
+38	age	O
+39	offset	B
 40	by	O
-41	the	O
-42	fault	Environment_Context-B
+41	offset	O
+42	fault	B
 43	being	O
 44	studied	O
 39	.	O
 
-1	A	O
-2	stream	Environment_Context-B
-3	channel	Aggregate_Biotic_Abiotic_Entity-I
+
+1	fault	O
+2	stream	Aggregate_Biotic_Abiotic_EntityI
+3	channel	I
 4	,	O
 5	which	O
 6	may	O
-7	contain	O
-8	plant	Biotic_Entity-B
+7	channel	O
+8	plant	B
 9	material	O
 10	that	O
 11	can	O
@@ -74,59 +76,61 @@
 18	example	O
 19	.	O
 
+
 1	By	O
 2	dividing	O
-3	the	O
-4	offset	Environment_Context-B
-5	distance	Trait-I
+3	plant	O
+4	offset	TraitI
+5	distance	I
 6	of	O
-7	the	O
-8	two	Value-B
-9	halves	Environment_Context-B
+7	distance	O
+8	two	B
+9	halves	B
 10	of	O
-11	the	O
-12	channel	Environment_Context-B
+11	halves	O
+12	channel	B
 13	by	O
 14	the	O
 15	estimated	O
 16	time	O
 17	since	O
-18	the	O
-19	channel	Environment_Context-B
+18	channel	O
+19	channel	B
 20	was	O
 21	first	O
 22	created	O
 23	(	O
 24	before	O
 25	it	O
-26	was	O
-27	cut	Eventuality-B
+26	channel	O
+27	cut	B
 28	by	O
-29	the	O
-30	fault	Environment_Context-B
+29	cut	O
+30	fault	B
 31	)	O
 32	,	O
 33	you	O
 34	can	O
 35	derive	O
-36	a	O
-37	slip	Trait-B
-38	rate	Trait-I
+36	fault	O
+37	slip	B
+38	rate	I
 39	for	O
-40	the	O
-41	fault	Environment_Context-B
+40	rate	O
+41	fault	B
 42	.	O
+
 
 1	Assume	O
 2	our	O
-3	hypothetical	O
-4	Desert	Environment_Context-B
-5	View	Environment_Context-I
-6	Fault	Environment_Context-I
-7	cuts	Eventuality-B
-8	a	O
-9	stream	Environment_Context-B
-10	channel	Environment_Context-I
+3	fault	O
+4	Desert	B
+5	View	I
+6	Fault	I
+7	cuts	B
+8	cuts	O
+9	stream	B
+10	channel	I
 11	,	O
 12	as	O
 13	shown	O
@@ -137,74 +141,80 @@
 18	right	O
 19	.	O
 
-1	The	O
-2	oldest	O
-3	deposits	Environment_Context-I
-4	associated	O
-5	with	O
-6	the	O
-7	channel	Environment_Context-B
-8	are	O
-9	dated	O
-10	at	O
-11	10,000	Value-B
-12	years	Time-I
-13	old	Time-I
-14	.	O
 
 1	The	O
-2	stream	Environment_Context-B
-3	channel	Environment_Context-I
+2	channel	Environment_ContextI
+3	deposits	I
+4	associated	O
+5	with	O
+6	deposits	O
+7	channel	B
+8	are	O
+9	dated	O
+10	channel	O
+11	10,000	TimeI
+12	years	I
+13	old	I
+14	.	O
+
+
+1	old	O
+2	stream	B
+3	channel	I
 4	has	O
 5	a	O
 6	pure	O
-7	left-lateral	O
-8	offset	Eventuality-B
-9	of	O
-10	roughly	Value-B
-11	28	Value-B
-12	meters	Unit-B
+7	channel	O
+8	offset	B
+9	offset	O
+10	roughly	B
+11	28	B
+12	meters	B
 13	.	O
+
 
 1	This	O
 2	yields	O
 3	a	O
 4	value	O
-5	of	O
-6	2.8	Value-B
-7	mm	Unit-B
+5	meters	O
+6	2.8	B
+7	mm	B
 8	/	O
 9	yr	O
 10	for	O
-11	the	O
-12	slip	Trait-B
-13	rate	Trait-I
+11	mm	O
+12	slip	B
+13	rate	I
 14	of	O
-15	the	O
-16	Desert	Environment_Context-B
-17	View	Environment_Context-I
-18	Fault	Environment_Context-I
+15	rate	O
+16	Desert	B
+17	View	I
+18	Fault	I
 19	.	O
+
 
 1	Note	O
 2	that	O
 3	we	O
 4	originally	O
 5	estimated	O
-6	the	O
-7	slip	Trait-B
-8	rate	Trait-I
-9	as	O
-10	3.0	Value-B
-11	mm	Unit-B
-12	/	O
-13	yr	Unit-B
+6	Fault	O
+7	slip	B
+8	rate	I
+9	rate	O
+10	3.0	B
+11	mm	B
+12	mm	O
+13	yr	B
 14	.	O
+
 
 1	Which	O
 2	is	O
 3	correct	O
 4	.	O
+
 
 1	Possibly	O
 2	neither	O
@@ -217,10 +227,10 @@
 9	good	O
 10	idea	O
 11	that	O
-12	the	O
-13	true	Trait-B
-14	slip	Trait-B
-15	rate	Trait-I
+12	yr	O
+13	true	B
+14	slip	B
+15	rate	I
 16	,	O
 17	whatever	O
 18	it	O
@@ -229,15 +239,15 @@
 21	,	O
 22	lies	O
 23	within	O
-24	the	O
-25	range	Trait-B
-26	of	O
-27	2.8	Value-B
-28	to	O
-29	3.0	Value-B
-30	mm	Unit-B
-31	/	Value-B
-32	yr	Unit-B
+24	rate	O
+25	range	B
+26	range	O
+27	2.8	B
+28	2.8	O
+29	3.0	B
+30	mm	B
+31	/	B
+32	yr	B
 33	,	O
 34	possibly	O
 35	a	O
@@ -249,11 +259,12 @@
 41	less	O
 42	.	O
 
+
 1	Real	O
 2	studies	O
-3	of	O
-4	slip	Trait-B
-5	rates	Trait-I
+3	yr	O
+4	slip	B
+5	rates	I
 6	always	O
 7	include	O
 8	uncertainties	O
@@ -280,24 +291,26 @@
 29	value	O
 30	.	O
 
+
 1	Here	O
 2	,	O
 3	we	O
 4	might	O
 5	say	O
-6	the	O
-7	slip	Trait-B
-8	rate	Trait-I
+6	rates	O
+7	slip	B
+8	rate	I
 9	is	O
-10	"	O
-11	2.9	Value-B
-12	+	Value-B
-13	0.1	Value-B
-14	mm	Unit-B
-15	/	Value-B
-16	yr	Unit-B
+10	rate	O
+11	2.9	B
+12	+	B
+13	0.1	B
+14	mm	B
+15	/	B
+16	yr	B
 17	"	O
 18	.	O
+
 
 1	The	O
 2	uncertainty	O
@@ -313,4 +326,5 @@
 12	absolutely	O
 13	precise	O
 14	.	O
+
 

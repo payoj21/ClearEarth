@@ -9,9 +9,10 @@
 9	the	O
 10	Arctic	O
 11	will	O
-12	become	O
-13	ice-free	ice_con-B
+12		O
+13	ice-free	B
 14	.	O
+
 
 1	Following	O
 2	the	O
@@ -36,12 +37,13 @@
 21	change	O
 22	.	O
 
+
 1	The	O
 2	loss	O
 3	of	O
-4	Arctic	O
-5	sea	ice_form-B
-6	ice	ice_form-I
+4	ice-free	O
+5	sea	B
+6	ice	I
 7	is	O
 8	one	O
 9	of	O
@@ -67,11 +69,12 @@
 29	the	O
 30	Arctic	O
 31	to	O
-32	be	O
-33	ice-free	ice_con-B
+32	ice	O
+33	ice-free	B
 34	in	O
 35	summer	O
 36	.	O
+
 
 1	We	O
 2	argue	O
@@ -100,6 +103,7 @@
 25	Arctic	O
 26	.	O
 
+
 1	The	O
 2	development	O
 3	of	O
@@ -111,8 +115,8 @@
 9	robust	O
 10	definition	O
 11	of	O
-12	"	O
-13	ice-free	ice_con-B
+12	ice-free	O
+13	ice-free	B
 14	"	O
 15	,	O
 16	may	O
@@ -126,4 +130,5 @@
 24	the	O
 25	public	O
 26	.	O
+
 

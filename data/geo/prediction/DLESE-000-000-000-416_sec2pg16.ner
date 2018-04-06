@@ -2,10 +2,10 @@
 2	16	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	Seismicity	O
 10	Rates	O
 11	Applied	O
@@ -16,9 +16,9 @@
 16	some	O
 17	experience	O
 18	in	O
-19	determining	O
-20	seismicity	Trait-B
-21	rates	Trait-I
+19	Earthquakes	O
+20	seismicity	B
+21	rates	I
 22	,	O
 23	and	O
 24	know	O
@@ -53,29 +53,31 @@
 53	draw	O
 54	conclusions	O
 55	about	O
-56	the	O
-57	nature	Trait-B
-58	of	O
-59	ongoing	Trait-B
-60	seismicity	Eventuality-B
+56	rates	O
+57	nature	B
+58	nature	O
+59	ongoing	B
+60	seismicity	B
 61	in	O
-62	an	O
-63	area	Environment_Context-B
+62	seismicity	O
+63	area	B
 53	.	O
+
 
 1	But	O
 2	be	O
 3	careful	O
 4	.	O
 
+
 1	As	O
 2	with	O
 3	the	O
 4	task	O
 5	of	O
-6	determining	O
-7	seismicity	Trait-B
-8	rates	Trait-I
+6	area	O
+7	seismicity	B
+8	rates	I
 9	,	O
 10	there	O
 11	are	O
@@ -98,6 +100,7 @@
 28	conclusions	O
 33	.	O
 
+
 1	In	O
 2	Activity	O
 3	5	O
@@ -105,15 +108,15 @@
 5	when	O
 6	you	O
 7	compared	O
-8	the	O
-9	rate	Trait-B
-10	of	O
-11	southern	Direction-B
-12	California	Location-B
-13	seismicity	Eventuality-B
-14	from	O
-15	one	Value-B
-16	month	Time-I
+8	rates	O
+9	rate	B
+10	rate	O
+11	southern	B
+12	California	B
+13	seismicity	B
+14	seismicity	O
+15	one	TimeI
+16	month	I
 17	to	O
 18	that	O
 19	of	O
@@ -124,10 +127,11 @@
 24	a	O
 25	simple	O
 26	application	O
-27	of	O
-28	seismicity	Trait-B
-29	rates	Trait-I
+27	month	O
+28	seismicity	B
+29	rates	I
 3	.	O
+
 
 1	It	O
 2	addressed	O
@@ -136,8 +140,8 @@
 5	,	O
 6	"	O
 7	Does	O
-8	the	O
-9	seismicity	Trait-B
+8	rates	O
+9	seismicity	B
 10	rate	O
 11	vary	O
 12	from	O
@@ -145,6 +149,7 @@
 14	to	O
 15	month	O
 16	.	O
+
 
 1	"	O
 2	But	O
@@ -161,31 +166,32 @@
 13	Is	O
 14	the	O
 15	present	O
-16	monthly	O
-17	seismicity	Trait-B
-18	rate	Trait-I
+16	seismicity	O
+17	seismicity	B
+18	rate	I
 19	similar	O
 20	to	O
-21	the	O
-22	rate	Trait-B
-23	from	O
-24	50	Value-B
-25	years	Time-I
+21	rate	O
+22	rate	B
+23	rate	O
+24	50	TimeI
+25	years	I
 26	ago	O
 27	.	O
+
 
 1	"	O
 2	Could	O
 3	you	O
 4	simply	O
 5	check	O
-6	the	O
-7	earthquake	Eventuality-B
+6	years	O
+7	earthquake	B
 8	catalog	O
-9	from	O
-10	50	Value-B
-11	years	Time-I
-12	past	Time-I
+9	earthquake	O
+10	50	TimeI
+11	years	I
+12	past	I
 13	and	O
 14	compare	O
 15	it	O
@@ -194,8 +200,10 @@
 18	's	O
 19	.	O
 
+
 1	No	O
 2	.	O
+
 
 1	Any	O
 2	conclusion	O
@@ -222,6 +230,7 @@
 23	data	O
 24	.	O
 
+
 1	In	O
 2	this	O
 3	example	O
@@ -240,23 +249,24 @@
 16	data	O
 17	.	O
 
-1	Fifty	O
-2	years	Trait-I
+
+1	past	TraitI
+2	years	I
 3	ago	O
 4	,	O
-5	the	O
-6	number	Trait-B
-7	of	O
-8	seismic	Eventuality-B
+5	years	O
+6	number	B
+7	number	O
+8	seismic	B
 9	recording	O
 10	instruments	O
-11	in	O
-12	southern	Direction-B
-13	California	Location-B
+11	seismic	O
+12	southern	B
+13	California	B
 14	was	O
 15	but	O
-16	a	O
-17	small	Trait-B
+16	California	O
+17	small	B
 18	fraction	O
 19	of	O
 20	those	O
@@ -264,24 +274,24 @@
 22	make	O
 23	up	O
 24	today	O
-25	's	O
-26	seismic	Trait-B
-27	network	Trait-I
+25	small	O
+26	seismic	B
+27	network	I
 28	,	O
 29	and	O
 30	so	O
-31	only	O
-32	large	Trait-B
+31	network	O
+32	large	B
 33	or	O
 34	favorably	O
-35	located	O
-36	earthquakes	Eventuality-B
+35	large	O
+36	earthquakes	B
 37	would	O
 38	be	O
 39	recorded	O
 40	by	O
-41	enough	O
-42	stations	Trait-B
+41	earthquakes	O
+42	stations	B
 43	for	O
 44	seismologists	O
 45	to	O
@@ -290,6 +300,7 @@
 48	their	O
 49	origins	O
 50	.	O
+
 
 1	There	O
 2	are	O
@@ -306,6 +317,7 @@
 13	with	O
 14	data	O
 15	.	O
+
 
 1	It	O
 2	is	O
@@ -327,6 +339,7 @@
 18	working	O
 19	.	O
 
+
 1	Is	O
 2	it	O
 3	too	O
@@ -338,6 +351,7 @@
 9	some	O
 10	way	O
 11	.	O
+
 
 1	If	O
 2	you	O
@@ -355,6 +369,7 @@
 14	identical	O
 15	ways	O
 16	.	O
+
 
 1	In	O
 2	our	O
@@ -394,6 +409,7 @@
 36	1998	O
 37	.	O
 
+
 1	Of	O
 2	course	O
 3	,	O
@@ -424,4 +440,5 @@
 28	conclusion	O
 29	reached	O
 67	.	O
+
 

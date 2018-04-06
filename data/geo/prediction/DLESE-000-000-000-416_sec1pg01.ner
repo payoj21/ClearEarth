@@ -1,8 +1,9 @@
 1	What	O
 2	is	O
-3	an	O
-4	Earthquake	Eventuality-B
+3		O
+4	Earthquake	B
 5	.	O
+
 
 1	-	O
 2	-	O
@@ -10,26 +11,29 @@
 4	1	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7	Earthquake	O
+8	Earthquake	B
 14	.	O
+
 
 1	The	O
 2	basic	O
 3	facts	O
 4	of	O
-5	seismology	O
-6	Earthquake	Eventuality-B
+5	Earthquake	O
+6	Earthquake	B
 7	.	O
+
 
 1	:	O
 2	When	O
-3	the	O
-4	ground	Aggregate_Biotic_Abiotic_Entity-B
+3	Earthquake	O
+4	ground	B
 5	starts	O
-6	to	O
-7	shake	Eventuality-B
+6	ground	O
+7	shake	B
 15	.	O
+
 
 1	You	O
 2	're	O
@@ -48,6 +52,7 @@
 15	quite	O
 16	right	O
 17	.	O
+
 
 1	It	O
 2	may	O
@@ -76,6 +81,7 @@
 25	began	O
 26	.	O
 
+
 1	It	O
 2	may	O
 3	be	O
@@ -97,6 +103,7 @@
 19	hanging	O
 20	lamp	O
 21	.	O
+
 
 1	If	O
 2	you	O
@@ -131,13 +138,14 @@
 31	seconds	O
 32	.	O
 
+
 1	Whatever	O
 2	the	O
 3	case	O
 4	,	O
 5	experiencing	O
-6	an	O
-7	earthquake	Eventuality-B
+6	shake	O
+7	earthquake	B
 8	tends	O
 9	to	O
 10	leave	O
@@ -146,20 +154,21 @@
 13	impression	O
 14	.	O
 
+
 1	If	O
 2	you	O
 3	've	O
 4	lived	O
-5	in	O
-6	southern	Direction-B
-7	California	Location-B
+5	earthquake	O
+6	southern	B
+7	California	B
 8	for	O
 9	more	O
 10	than	O
-11	a	O
-12	year	Time-I
-13	or	O
-14	two	Value-B
+11	California	TimeI
+12	year	I
+13	year	O
+14	two	B
 15	,	O
 16	it	O
 17	's	O
@@ -178,6 +187,7 @@
 30	above	O
 31	.	O
 
+
 1	Maybe	O
 2	you	O
 3	've	O
@@ -185,6 +195,7 @@
 5	had	O
 6	several	O
 7	.	O
+
 
 1	Certainly	O
 2	you	O
@@ -195,16 +206,17 @@
 7	reports	O
 8	.	O
 
+
 1	Reporters	O
 2	talk	O
-3	at	O
-4	length	Trait-B
-5	about	O
-6	faults	Environment_Context-B
-7	and	O
-8	aftershocks	Eventuality-B
-9	and	O
-10	magnitudes	Trait-B
+3	two	O
+4	length	B
+5	length	O
+6	faults	B
+7	faults	O
+8	aftershocks	B
+9	aftershocks	O
+10	magnitudes	B
 11	,	O
 12	and	O
 13	we	O
@@ -223,14 +235,15 @@
 26	conversation	O
 27	.	O
 
+
 1	But	O
 2	despite	O
-3	the	O
-4	ability	Trait-B
-5	of	O
-6	earthquakes	Eventuality-B
-7	to	O
-8	strike	Eventuality-B
+3	magnitudes	O
+4	ability	B
+5	ability	O
+6	earthquakes	B
+7	earthquakes	O
+8	strike	B
 9	awe	O
 10	in	O
 11	all	O
@@ -247,8 +260,8 @@
 22	we	O
 23	are	O
 24	of	O
-25	their	O
-26	power	Trait-B
+25	strike	O
+26	power	B
 27	and	O
 28	unpredictable	O
 29	nature	O
@@ -267,6 +280,7 @@
 42	them	O
 43	.	O
 
+
 1	Before	O
 2	you	O
 3	launch	O
@@ -281,8 +295,8 @@
 12	help	O
 13	you	O
 14	understand	O
-15	what	O
-16	earthquakes	Eventuality-B
+15	power	O
+16	earthquakes	B
 17	are	O
 18	all	O
 19	about	O
@@ -295,13 +309,14 @@
 26	test	O
 27	your	O
 28	knowledge	O
-29	of	O
-30	earthquakes	Eventuality-B
+29	earthquakes	O
+30	earthquakes	B
 31	in	O
 32	a	O
 33	fun	O
 34	way	O
 35	.	O
+
 
 1	In	O
 2	the	O
@@ -333,4 +348,5 @@
 28	in	O
 29	Pinevale	O
 30	.	O
+
 

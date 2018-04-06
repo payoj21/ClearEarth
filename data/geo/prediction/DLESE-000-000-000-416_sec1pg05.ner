@@ -4,37 +4,39 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	"	O
 2	In	O
 3	what	O
 4	manner	O
-5	does	O
-6	slip	Eventuality-B
-7	along	Environment_Context-I
-8	faults	Environment_Context-I
+5	Earthquake	O
+6	slip	Environment_ContextI
+7	along	I
+8	faults	I
 9	occur	O
 10	.	O
+
 
 1	"	O
 2	It	O
 3	has	O
-4	been	O
-5	put	Eventuality-B
+4	faults	O
+5	put	B
 6	forward	O
 7	here	O
-8	that	O
-9	earthquakes	Eventuality-B
+8	put	O
+9	earthquakes	B
 10	occur	O
-11	as	O
-12	sudden	Trait-B
-13	slip	Eventuality-B
-14	along	Direction-B
-15	a	O
-16	fault	Environment_Context-B
+11	earthquakes	O
+12	sudden	B
+13	slip	B
+14	along	B
+15	along	O
+16	fault	B
 17	,	O
 18	but	O
 19	what	O
@@ -43,15 +45,17 @@
 22	mean	O
 22	.	O
 
+
 1	In	O
 2	what	O
 3	manner	O
-4	does	O
-5	slip	Eventuality-B
-6	occur	O
-7	along	Direction-B
-8	faults	Environment_Context-B
+4	fault	O
+5	slip	B
+6	slip	O
+7	along	B
+8	faults	B
 9	.	O
+
 
 1	Contrary	O
 2	to	O
@@ -61,50 +65,51 @@
 6	,	O
 7	and	O
 8	to	O
-9	the	O
-10	block	Environment_Context-B
+9	faults	O
+10	block	B
 11	models	O
 12	employed	O
 13	for	O
 14	simplicity	O
 15	,	O
 16	the	O
-17	entire	O
-18	length	Trait-B
+17	block	O
+18	length	B
 19	of	O
-20	a	O
-21	fault	Environment_Context-B
+20	length	O
+21	fault	B
 22	does	O
 23	not	O
-24	experience	O
-25	slip	Eventuality-B
+24	fault	O
+25	slip	B
 26	simultaneously	O
 27	;	O
 28	instead	O
-29	,	O
-30	slip	Eventuality-B
+29	slip	O
+30	slip	B
 31	begins	O
 32	at	O
 33	a	O
-34	particular	O
-35	point	Environment_Context-B
+34	slip	O
+35	point	B
 36	on	O
-37	a	O
-38	fault	Environment_Context-B
+37	point	O
+38	fault	B
 39	and	O
-40	then	O
-41	propagates	Eventuality-B
+40	fault	O
+41	propagates	B
 42	,	O
-43	or	O
-44	travels	Eventuality-B
-45	,	O
-46	along	Direction-B
-47	the	O
-48	surface	Environment_Context-B
+43	propagates	O
+44	travels	B
+45	travels	O
+46	along	B
+47	along	O
+48	surface	B
 49	of	O
-50	the	O
-51	fault	Environment_Context-B
+50	surface	O
+51	fault	B
 52	.	O
+
 
 1	Because	O
 2	of	O
@@ -116,8 +121,8 @@
 8	the	O
 9	correct	O
 10	method	O
-11	of	O
-12	slip	Eventuality-B
+11	fault	O
+12	slip	B
 13	,	O
 14	or	O
 15	an	O
@@ -128,6 +133,7 @@
 20	not	O
 21	simple	O
 22	.	O
+
 
 1	We	O
 2	will	O
@@ -154,18 +160,20 @@
 23	why	O
 24	.	O
 
+
 1	Fault-Rupture	O
-2	Analogies	O
-3	Faults	Environment_Context-B
-4	and	O
-5	fault	Environment_Context-B
-6	rupture	Eventuality-B
+2	slip	O
+3	Faults	B
+4	Faults	O
+5	fault	B
+6	rupture	B
 7	are	O
 8	difficult	O
 9	to	O
 10	envision	O
 11	accurately	O
 10	.	O
+
 
 1	What	O
 2	analogies	O
@@ -174,25 +182,26 @@
 5	help	O
 6	us	O
 7	imagine	O
-8	the	O
-9	process	Eventuality-B
-10	of	O
-11	fault	Environment_Context-B
-12	rupture	Eventuality-B
+8	rupture	O
+9	process	B
+10	process	O
+11	fault	B
+12	rupture	B
 13	.	O
+
 
 1	We	O
 2	have	O
 3	been	O
 4	demonstrating	O
-5	that	O
-6	earthquakes	Eventuality-B
+5	rupture	O
+6	earthquakes	B
 7	occur	O
-8	as	O
-9	movements	Eventuality-B
-10	along	Direction-B
-11	fault	Environment_Context-B
-12	surfaces	Environment_Context-I
+8	earthquakes	O
+9	movements	B
+10	along	B
+11	fault	B
+12	surfaces	I
 13	,	O
 14	but	O
 15	there	O
@@ -200,14 +209,15 @@
 17	a	O
 18	common	O
 19	misconception	O
-20	that	O
-21	earthquakes	Eventuality-B
+20	surfaces	O
+21	earthquakes	B
 22	occur	O
 23	only	O
 24	at	O
-25	specific	O
-26	points	Environment_Context-B
+25	earthquakes	O
+26	points	B
 27	.	O
+
 
 1	Most	O
 2	likely	O
@@ -217,8 +227,8 @@
 6	persists	O
 7	because	O
 8	we	O
-9	see	O
-10	earthquakes	Eventuality-B
+9	points	O
+10	earthquakes	B
 11	represented	O
 12	as	O
 13	dots	O
@@ -240,6 +250,7 @@
 29	time	O
 30	.	O
 
+
 1	While	O
 2	the	O
 3	points	O
@@ -259,30 +270,31 @@
 17	to	O
 18	understand	O
 19	that	O
-20	all	O
-21	earthquakes	Eventuality-B
-22	occur	O
-23	along	Direction-B
-24	surfaces	Environment_Context-B
+20	earthquakes	O
+21	earthquakes	B
+22	earthquakes	O
+23	along	B
+24	surfaces	B
 25	.	O
+
 
 1	Of	O
 2	course	O
 3	,	O
-4	some	O
-5	earthquakes	Eventuality-B
+4	surfaces	O
+5	earthquakes	B
 6	are	O
-7	so	O
-8	small	Trait-B
+7	earthquakes	O
+8	small	B
 9	that	O
-10	their	O
-11	rupture	Eventuality-B
-12	surfaces	Environment_Context-I
+10	small	O
+11	rupture	Environment_ContextI
+12	surfaces	I
 13	would	O
 14	plot	O
 15	as	O
-16	a	O
-17	point	Environment_Context-B
+16	surfaces	O
+17	point	B
 18	on	O
 19	the	O
 20	scale	O
@@ -291,20 +303,22 @@
 23	maps	O
 24	.	O
 
+
 1	Yet	O
 2	even	O
 3	the	O
 4	locations	O
 5	of	O
-6	very	O
-7	large	Trait-B
-8	earthquakes	Eventuality-B
+6	point	O
+7	large	B
+8	earthquakes	B
 9	are	O
 10	often	O
 11	represented	O
-12	as	O
-13	points	Environment_Context-B
+12	earthquakes	O
+13	points	B
 14	.	O
+
 
 1	The	O
 2	question	O
@@ -321,4 +335,5 @@
 13	and	O
 14	cross-sections	O
 15	.	O
+
 

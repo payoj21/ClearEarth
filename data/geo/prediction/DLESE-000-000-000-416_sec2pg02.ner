@@ -2,32 +2,33 @@
 2	2	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	"	O
 10	In	O
 11	what	O
 12	parts	O
-13	of	O
-14	southern	Location-B
-15	California	Location-B
-16	are	O
-17	earthquakes	Eventuality-B
+13	Earthquakes	O
+14	southern	B
+15	California	B
+16	California	O
+17	earthquakes	B
 18	most	O
 19	common	O
 12	.	O
+
 
 1	"	O
 2	Given	O
 3	the	O
 4	popular	O
 5	associations	O
-6	between	O
-7	California	Location-B
-8	and	O
-9	earthquakes	Eventuality-B
+6	earthquakes	O
+7	California	B
+8	California	O
+9	earthquakes	B
 10	,	O
 11	this	O
 12	question	O
@@ -39,15 +40,15 @@
 18	some	O
 19	people	O
 19	.	O
-
-1	Earthquakes	Eventuality-B
+0	earthquakes	O
+1	Earthquakes	B
 2	and	O
-3	this	O
-4	region	Environment_Context-B
+3	Earthquakes	O
+4	region	B
 5	of	O
-6	the	O
-7	United	Location-B
-8	States	Direction-B
+6	region	O
+7	United	B
+8	States	B
 9	are	O
 10	so	O
 11	strongly	O
@@ -58,9 +59,9 @@
 16	that	O
 17	asking	O
 18	where	O
-19	in	O
-20	California	Location-B
-21	earthquakes	Eventuality-B
+19	States	O
+20	California	B
+21	earthquakes	B
 22	are	O
 23	most	O
 24	common	O
@@ -73,12 +74,13 @@
 31	which	O
 32	part	O
 33	of	O
-34	the	O
-35	ocean	Environment_Context-B
+34	earthquakes	O
+35	ocean	B
 36	is	O
 37	the	O
 38	wettest	O
 39	.	O
+
 
 1	And	O
 2	though	O
@@ -88,43 +90,43 @@
 6	that	O
 7	any	O
 8	part	O
-9	of	O
-10	California	Location-B
+9	ocean	O
+10	California	B
 11	has	O
 12	a	O
-13	higher	O
-14	risk	Trait-B
-15	of	O
-16	strong	Trait-B
-17	shaking	Eventuality-B
+13	California	O
+14	risk	B
+15	risk	O
+16	strong	B
+17	shaking	B
 18	from	O
-19	an	O
-20	earthquake	Eventuality-B
+19	shaking	O
+20	earthquake	B
 21	than	O
 22	the	O
 23	highest	O
-24	such	O
-25	risk	Trait-B
+24	earthquake	O
+25	risk	B
 26	you	O
 27	can	O
 28	possibly	O
 29	find	O
 30	in	O
-31	the	O
-32	state	Environment_Context-B
-33	of	O
-34	Wisconsin	Environment_Context-B
+31	risk	O
+32	state	B
+33	state	O
+34	Wisconsin	B
 35	,	O
-36	or	O
-37	Florida	Environment_Context-B
+36	Wisconsin	O
+37	Florida	B
 38	,	O
 39	or	O
 40	any	O
 41	one	O
 42	of	O
 43	many	O
-44	other	O
-45	states	Environment_Context-B
+44	Florida	O
+45	states	B
 46	,	O
 47	it	O
 48	is	O
@@ -134,24 +136,25 @@
 52	interesting	O
 53	to	O
 54	look	O
-55	into	O
-56	variations	Eventuality-B
+55	states	O
+56	variations	B
 57	in	O
-58	both	O
-59	seismic	Eventuality-B
-60	activity	Eventuality-I
-61	and	O
-62	hazard	Eventuality-B
+58	variations	O
+59	seismic	B
+60	activity	I
+61	activity	O
+62	hazard	B
 63	that	O
 64	might	O
 65	exist	O
 66	within	O
-67	this	O
-68	area	Environment_Context-B
-69	of	O
-70	active	Trait-B
-71	tectonics	Eventuality-B
+67	hazard	O
+68	area	B
+69	area	O
+70	active	B
+71	tectonics	B
 72	.	O
+
 
 1	The	O
 2	question	O
@@ -172,13 +175,14 @@
 17	to	O
 18	location	O
 19	,	O
-20	in	O
-21	southern	Direction-B
-22	California	Location-B
-23	's	O
-24	earthquake	Eventuality-B
-25	activity	Eventuality-I
+20	tectonics	O
+21	southern	B
+22	California	B
+23	California	O
+24	earthquake	B
+25	activity	I
 26	.	O
+
 
 1	Though	O
 2	it	O
@@ -217,9 +221,10 @@
 35	of	O
 36	the	O
 37	1992	O
-38	Landers	O
-39	earthquake	Eventuality-B
+38	activity	O
+39	earthquake	B
 40	.	O
+
 
 1	Based	O
 2	on	O
@@ -240,14 +245,16 @@
 17	assumptions	O
 18	.	O
 
+
 1	But	O
 2	do	O
 3	the	O
-4	records	O
-5	support	Eventuality-B
+4	earthquake	O
+5	support	B
 6	them	O
 7	,	O
 8	or	O
 9	not	O
 10	.	O
+
 

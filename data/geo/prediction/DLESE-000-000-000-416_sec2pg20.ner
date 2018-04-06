@@ -2,14 +2,15 @@
 2	20	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
-9	Distribution	Trait-B
-10	by	O
-11	Magnitude	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
+9	Distribution	B
+10	Distribution	O
+11	Magnitude	B
 4	.	O
+
 
 1	In	O
 2	Activity	O
@@ -26,15 +27,16 @@
 13	surprised	O
 14	at	O
 15	how	O
-16	many	O
-17	earthquakes	Eventuality-B
-18	occur	O
-19	every	Value-B
-20	day	Time-I
-21	in	O
-22	southern	Location-B
-23	California	Location-B
+16	Magnitude	O
+17	earthquakes	B
+18	earthquakes	O
+19	every	TimeI
+20	day	I
+21	day	O
+22	southern	B
+23	California	B
 24	.	O
+
 
 1	That	O
 2	surprise	O
@@ -72,9 +74,9 @@
 34	on	O
 35	rare	O
 36	occasions	O
-37	do	O
-38	earthquakes	Eventuality-B
-39	large	Trait-B
+37	California	O
+38	earthquakes	B
+39	large	B
 40	enough	O
 41	to	O
 42	cause	O
@@ -83,27 +85,29 @@
 45	occur	O
 46	.	O
 
+
 1	In	O
 2	other	O
 3	words	O
-4	,	O
-5	small	Trait-B
-6	earthquakes	Eventuality-B
+4	large	O
+5	small	B
+6	earthquakes	B
 7	are	O
 8	much	O
 9	more	O
 10	common	O
-11	than	O
-12	moderate	Trait-B
-13	earthquakes	Eventuality-B
+11	earthquakes	O
+12	moderate	B
+13	earthquakes	B
 14	,	O
 15	which	O
 16	are	O
 17	much	O
 18	more	O
 19	common	O
-20	than	O
-21	large	Trait-B
-22	earthquakes	Eventuality-B
+20	earthquakes	O
+21	large	B
+22	earthquakes	B
 23	.	O
+
 

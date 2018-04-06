@@ -2,9 +2,9 @@
 2	effect	O
 3	of	O
 4	snow	O
-5	/	O
-6	sea	ice_form-B
-7	ice	ice_form-I
+5		O
+6	sea	B
+7	ice	I
 8	type	O
 9	on	O
 10	the	O
@@ -37,9 +37,9 @@
 37	properties	O
 38	of	O
 39	snow	O
-40	/	O
-41	sea	ice_form-B
-42	ice	ice_form-I
+40	ice	O
+41	sea	B
+42	ice	I
 43	vary	O
 44	with	O
 45	age	O
@@ -55,9 +55,10 @@
 55	types	O
 56	of	O
 57	snow	O
-58	andsea	O
-59	ice	ice_form-I
+58	ice	ice_formI
+59	ice	I
 26	.	O
+
 
 1	The	O
 2	response	O
@@ -84,9 +85,9 @@
 23	on	O
 24	the	O
 25	snow	O
-26	and	O
-27	sea	ice_form-B
-28	ice	ice_form-I
+26	ice	O
+27	sea	B
+28	ice	I
 29	type	O
 30	and	O
 31	the	O
@@ -94,9 +95,10 @@
 33	of	O
 34	the	O
 35	snow	O
-36	orsea	O
-37	ice	ice_form-I
+36	ice	ice_formI
+37	ice	I
 38	.	O
+
 
 1	The	O
 2	response	O
@@ -121,18 +123,18 @@
 21	snow	O
 22	)	O
 23	and	O
-24	three	O
-25	sea	ice_form-B
-26	ice	ice_form-I
-27	(	O
-28	multi-year	ice_devel-B
-29	ice	ice_devel-I
-30	,	O
-31	first-year	ice_devel-B
-32	ice	ice_devel-I
-33	andmelting	O
-34	sea	ice_form-B
-35	ice	ice_form-I
+24	ice	O
+25	sea	B
+26	ice	I
+27	ice	O
+28	multi-year	B
+29	ice	I
+30	ice	O
+31	first-year	B
+32	ice	I
+33	ice	O
+34	sea	B
+35	ice	I
 36	)	O
 37	to	O
 38	increasing	O
@@ -148,9 +150,9 @@
 48	atmosphere	O
 49	–	O
 50	snow	O
-51	/	O
-52	sea	ice_form-B
-53	ice	ice_form-I
+51	ice	O
+52	sea	B
+53	ice	I
 54	radiative-transfer	O
 55	model	O
 56	(	O
@@ -167,9 +169,9 @@
 67	800	O
 68	nm.The	O
 69	snow	O
-70	and	O
-71	sea	ice_form-B
-72	ice	ice_form-I
+70	ice	O
+71	sea	B
+72	ice	I
 73	types	O
 74	are	O
 75	effectively	O
@@ -183,6 +185,7 @@
 83	asymmetry	O
 84	parameter	O
 85	.	O
+
 
 1	The	O
 2	relative	O
@@ -198,9 +201,9 @@
 12	three	O
 13	snow	O
 14	and	O
-15	three	O
-16	sea	ice_form-B
-17	ice	ice_form-I
+15	ice	O
+16	sea	B
+17	ice	I
 18	typeswith	O
 19	increasing	O
 20	mass	O
@@ -223,14 +226,15 @@
 37	carbon	O
 38	.	O
 
+
 1	The	O
 2	relative	O
 3	response	O
 4	of	O
 5	each	O
 6	snow	O
-7	andsea	O
-8	ice	ice_form-I
+7	ice	ice_formI
+8	ice	I
 9	type	O
 10	is	O
 11	intercompared	O
@@ -241,14 +245,15 @@
 16	types	O
 17	of	O
 18	snow	O
-19	and	O
-20	seaice	ice_form-B
+19	ice	O
+20	seaice	B
 21	respond	O
 22	relative	O
 23	to	O
 24	each	O
 25	other	O
 26	.	O
+
 
 1	The	O
 2	relative	O
@@ -292,9 +297,9 @@
 40	albedo	O
 41	of	O
 42	a	O
-43	melting	O
-44	sea	ice_form-B
-45	ice	ice_form-I
+43	seaice	O
+44	sea	B
+45	ice	I
 46	is	O
 47	a	O
 48	factor	O
@@ -307,9 +312,9 @@
 55	black	O
 56	carbon	O
 57	compared	O
-58	to	O
-59	multi-year	ice_devel-B
-60	icefor	ice_devel-I
+58	ice	O
+59	multi-year	B
+60	icefor	I
 61	the	O
 62	same	O
 63	increase	O
@@ -321,6 +326,7 @@
 69	carbon	O
 70	.	O
 
+
 1	The	O
 2	response	O
 3	ofe-folding	O
@@ -331,16 +337,17 @@
 8	dependent	O
 9	on	O
 10	snow	O
-11	/	O
-12	sea	ice_form-B
-13	ice	ice_form-I
+11	icefor	O
+12	sea	B
+13	ice	I
 14	type	O
 15	.	O
 
+
 1	Thealbedo	O
-2	of	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2	ice	O
+3	sea	B
+4	ice	I
 5	is	O
 6	more	O
 7	responsive	O
@@ -353,4 +360,5 @@
 14	than	O
 15	snow	O
 16	.	O
+
 

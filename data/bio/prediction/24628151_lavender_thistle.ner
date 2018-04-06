@@ -13,6 +13,7 @@
 13	literature	O
 14	.	O
 
+
 1	However	O
 2	,	O
 3	it	O
@@ -36,13 +37,14 @@
 21	low	O
 22	.	O
 
+
 1	In	O
 2	creosote	O
 3	bush	O
 4	scrub	O
 5	communities	O
-6	,	O
-7	fires	Eventuality-B
+6		O
+7	fires	B
 8	generally	O
 9	occur	O
 10	only	O
@@ -61,6 +63,7 @@
 23	of	O
 24	annuals	O
 25	.	O
+
 
 1	Fires	O
 2	are	O
@@ -95,12 +98,14 @@
 31	humidity	O
 32	.	O
 
+
 1	Shad	O
 2	scale	O
 3	communities	O
-4	rarely	O
-5	burn	Eventuality-B
+4	fires	O
+5	burn	B
 6	.	O
+
 
 1	Pinyon-juniper	O
 2	communities	O
@@ -112,6 +117,7 @@
 8	30	O
 9	years	O
 10	.	O
+
 
 1	Where	O
 2	livestock	O
@@ -129,4 +135,5 @@
 14	has	O
 15	decreased	O
 16	.	O
+
 

@@ -1,0 +1,2 @@
+latitude	Lat_Long_Location-B	O
+longitude	Lat_Long_Location-B	O

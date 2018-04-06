@@ -1,6 +1,6 @@
-1	Arctic	O
-2	sea	ice_form-B
-3	ice	ice_form-I
+1		O
+2	sea	B
+3	ice	I
 4	begins	O
 5	autumn	O
 6	freeze-up	O
@@ -8,9 +8,9 @@
 8	24	O
 9	,	O
 10	2008	O
-11	Arctic	O
-12	sea	ice_form-B
-13	ice	ice_form-I
+11	ice	O
+12	sea	B
+13	ice	I
 14	extent	O
 15	,	O
 16	after	O
@@ -35,15 +35,16 @@
 35	sun	O
 26	.	O
 
+
 1	A	O
 2	cooler	O
 3	melt	O
 4	season	O
 5	,	O
 6	retention	O
-7	of	O
-8	first-year	ice_devel-B
-9	ice	ice_devel-I
+7	ice	O
+8	first-year	B
+9	ice	I
 10	,	O
 11	and	O
 12	dispersive	O
@@ -59,14 +60,16 @@
 22	2007	O
 23	.	O
 
+
 1	Figure	O
 2	1	O
 3	.	O
 
+
 1	Daily	O
-2	Arctic	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2	ice	O
+3	sea	B
+4	ice	I
 5	extent	O
 6	for	O
 7	September	O
@@ -74,18 +77,19 @@
 9	,	O
 10	2008	O
 11	,	O
-12	was	O
-13	4.59	extent-B
-14	million	extent-I
-15	square	extent-I
-16	kilometers	extent-I
-17	(	O
-18	1.77	extent-B
-19	million	extent-I
-20	square	extent-I
-21	miles	extent-I
+12	ice	O
+13	4.59	B
+14	million	I
+15	square	I
+16	kilometers	I
+17	kilometers	O
+18	1.77	B
+19	million	I
+20	square	I
+21	miles	I
 22	)	O
 23	.	O
+
 
 1	The	O
 2	orange	O
@@ -102,6 +106,7 @@
 13	day	O
 14	.	O
 
+
 1	The	O
 2	black	O
 3	cross	O
@@ -111,17 +116,19 @@
 7	North	O
 8	Pole	O
 9	.	O
-
-1	Sea	ice_form-B
-2	Ice	ice_form-I
+0	miles	O
+1	Sea	B
+2	Ice	I
 3	Index	O
 4	data	O
 5	.	O
+
 
 1	About	O
 2	the	O
 3	data	O
 4	.	O
+
 
 1	—	O
 2	Credit	O
@@ -137,9 +144,9 @@
 12	Overview	O
 13	of	O
 14	conditions	O
-15	Arctic	O
-16	sea	ice_form-B
-17	ice	ice_form-I
+15	Ice	O
+16	sea	B
+17	ice	I
 18	extent	O
 19	on	O
 20	September	O
@@ -147,16 +154,16 @@
 22	,	O
 23	2008	O
 24	,	O
-25	was	O
-26	4.59	extent-B
-27	million	extent-I
-28	square	extent-I
-29	kilometers	extent-I
-30	(	O
-31	1.77	extent-B
-32	million	extent-I
-33	square	extent-I
-34	miles	extent-I
+25	ice	O
+26	4.59	B
+27	million	I
+28	square	I
+29	kilometers	I
+30	kilometers	O
+31	1.77	B
+32	million	I
+33	square	I
+34	miles	I
 35	)	O
 36	,	O
 37	an	O
@@ -174,33 +181,35 @@
 49	the	O
 50	minimum	O
 51	extent	O
-52	of	O
-53	4.52	extent-B
-54	million	extent-I
-55	square	extent-I
-56	kilometers	extent-I
-57	(	O
-58	1.74	extent-B
-59	million	extent-I
-60	square	O
-61	miles	extent-I
+52	miles	O
+53	4.52	B
+54	million	I
+55	square	I
+56	kilometers	I
+57	kilometers	O
+58	1.74	B
+59	million	I
+60	million	extentI
+61	miles	I
 62	)	O
 63	measured	O
 64	last	O
 65	week	O
 52	.	O
 
+
 1	Figure	O
 2	2	O
 3	.	O
+
 
 1	The	O
 2	graph	O
 3	above	O
 4	shows	O
-5	daily	O
-6	sea	ice_form-B
-7	ice	ice_form-I
+5	miles	O
+6	sea	B
+7	ice	I
 8	extent.The	O
 9	solid	O
 10	light	O
@@ -229,12 +238,13 @@
 33	to	O
 34	2000	O
 35	.	O
-
-1	Sea	ice_form-B
-2	Ice	ice_form-I
+0	ice	O
+1	Sea	B
+2	Ice	I
 3	Index	O
 4	data	O
 5	.	O
+
 
 1	—	O
 2	Credit	O
@@ -250,9 +260,9 @@
 12	Conditions	O
 13	in	O
 14	context	O
-15	Arctic	O
-16	sea	ice_form-B
-17	ice	ice_form-I
+15	Ice	O
+16	sea	B
+17	ice	I
 18	extent	O
 19	,	O
 20	after	O
@@ -276,8 +286,9 @@
 38	cooling	O
 25	.	O
 
-1	The	O
-2	ice	ice-B
+
+1	ice	O
+2	ice	B
 3	will	O
 4	grow	O
 5	over	O
@@ -298,6 +309,7 @@
 20	March	O
 21	.	O
 
+
 1	During	O
 2	the	O
 3	intervening	O
@@ -312,6 +324,7 @@
 12	on	O
 13	conditions	O
 14	.	O
+
 
 1	Also	O
 2	,	O
@@ -346,6 +359,7 @@
 31	month	O
 32	.	O
 
+
 1	In	O
 2	our	O
 3	January	O
@@ -377,14 +391,16 @@
 29	average	O
 30	.	O
 
+
 1	Figure	O
 2	3	O
 3	.	O
 
+
 1	Comparison	O
-2	of	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2	ice	O
+3	sea	B
+4	ice	I
 5	age	O
 6	during	O
 7	the	O
@@ -405,9 +421,9 @@
 22	growth	O
 23	season	O
 24	with	O
-25	less	O
-26	multiyear	ice_devel-B
-27	ice	ice_devel-I
+25	ice	O
+26	multiyear	B
+27	ice	I
 28	(	O
 29	bright	O
 30	colors	O
@@ -415,9 +431,9 @@
 32	,	O
 33	but	O
 34	far	O
-35	more	O
-36	first-year	ice_devel-B
-37	ice	ice_devel-I
+35	ice	O
+36	first-year	B
+37	ice	I
 38	(	O
 39	dark	O
 40	blue	O
@@ -431,6 +447,7 @@
 48	2007	O
 49	.	O
 
+
 1	White	O
 2	indicates	O
 3	water	O
@@ -439,6 +456,7 @@
 6	indicates	O
 7	land	O
 8	.	O
+
 
 1	—	O
 2	Credit	O
@@ -470,9 +488,9 @@
 28	image	O
 29	High	O
 30	retention	O
-31	of	O
-32	first-year	ice_devel-B
-33	ice	ice_devel-I
+31	ice	O
+32	first-year	B
+33	ice	I
 34	Perhaps	O
 35	the	O
 36	most	O
@@ -487,10 +505,10 @@
 45	the	O
 46	higher-than-average	O
 47	retention	O
-48	of	O
-49	first-year	ice_devel-B
-50	sea	ice_form-B
-51	ice	ice_form-I
+48	ice	O
+49	first-year	B
+50	sea	B
+51	ice	I
 52	(	O
 53	see	O
 54	earlier	O
@@ -502,10 +520,11 @@
 60	)	O
 28	.	O
 
-1	Relatively	O
-2	thin	ice_devel-B
-3	first-year	ice_devel-B
-4	ice	ice_devel-I
+
+1	ice	O
+2	thin	B
+3	first-year	B
+4	ice	I
 5	is	O
 6	more	O
 7	prone	O
@@ -520,15 +539,16 @@
 16	ice	O
 17	.	O
 
+
 1	However	O
 2	,	O
 3	more	O
 4	of	O
 5	this	O
 6	year	O
-7	's	O
-8	first-year	ice_devel-B
-9	ice	ice_devel-I
+7	ice	O
+8	first-year	B
+9	ice	I
 10	survived	O
 11	the	O
 12	melt	O
@@ -537,9 +557,9 @@
 15	is	O
 16	typical	O
 17	.	O
-
-1	Sea	ice_form-B
-2	ice	ice_form-I
+0	ice	O
+1	Sea	B
+2	ice	I
 3	age	O
 4	maps	O
 5	from	O
@@ -559,9 +579,9 @@
 19	show	O
 20	that	O
 21	much	O
-22	more	O
-23	first-year	ice_devel-B
-24	ice	ice_devel-I
+22	ice	O
+23	first-year	B
+24	ice	I
 25	survived	O
 26	in	O
 27	2008	O
@@ -569,6 +589,7 @@
 29	in	O
 30	2007	O
 31	.	O
+
 
 1	This	O
 2	is	O
@@ -588,13 +609,14 @@
 16	minimum	O
 17	.	O
 
+
 1	One	O
 2	cause	O
 3	of	O
 4	the	O
-5	high	O
-6	first-year	ice_devel-B
-7	ice	ice_devel-I
+5	ice	O
+6	first-year	B
+7	ice	I
 8	survival	O
 9	rate	O
 10	was	O
@@ -607,6 +629,7 @@
 17	in	O
 18	2007	O
 19	.	O
+
 
 1	Lower	O
 2	temperatures	O
@@ -622,6 +645,7 @@
 12	the	O
 13	season	O
 14	.	O
+
 
 1	While	O
 2	conditions	O
@@ -646,6 +670,7 @@
 21	cushion	O
 22	.	O
 
+
 1	"	O
 2	Furthermore	O
 3	,	O
@@ -653,9 +678,9 @@
 5	of	O
 6	this	O
 7	year	O
-8	's	O
-9	first-year	ice_devel-B
-10	ice	ice_devel-I
+8	ice	O
+9	first-year	B
+10	ice	I
 11	was	O
 12	located	O
 13	at	O
@@ -672,6 +697,7 @@
 24	North	O
 25	Pole	O
 26	.	O
+
 
 1	Regions	O
 2	that	O
@@ -694,18 +720,20 @@
 19	regions	O
 20	.	O
 
+
 1	Figure	O
 2	4	O
 3	.	O
+
 
 1	Ice	O
 2	motion	O
 3	in	O
 4	2007	O
 5	compacted	O
-6	the	O
-7	ice	ice_form-B
-8	pack	ice_form-I
+6	ice	O
+7	ice	B
+8	pack	I
 9	;	O
 10	in	O
 11	2008	O
@@ -718,6 +746,7 @@
 18	this	O
 19	effect	O
 20	.	O
+
 
 1	Average	O
 2	August	O
@@ -738,9 +767,9 @@
 17	ice	O
 18	motion	O
 15	.	O
-
-1	Sea	ice_form-B
-2	ice	ice_form-I
+0	pack	O
+1	Sea	B
+2	ice	I
 3	motion	O
 4	derived	O
 5	using	O
@@ -751,6 +780,7 @@
 10	AMSR-E	O
 11	sensor	O
 12	.	O
+
 
 1	—	O
 2	Credit	O
@@ -763,19 +793,19 @@
 9	Center	O
 10	High-resolution	O
 11	image	O
-12	Dispersive	O
-13	sea	ice_form-B
-14	ice	ice_form-I
-15	motion	O
-16	Sea	ice_form-B
-17	ice	ice_form-I
+12	ice	O
+13	sea	B
+14	ice	I
+15	ice	O
+16	Sea	B
+17	ice	I
 18	motion	O
 19	also	O
 20	helps	O
 21	determine	O
 22	how	O
-23	the	O
-24	ice	ice-B
+23	ice	O
+24	ice	B
 25	will	O
 26	fare	O
 27	each	O
@@ -783,14 +813,15 @@
 29	season	O
 15	.	O
 
+
 1	In	O
 2	2007	O
 3	,	O
 4	a	O
 5	strong	O
-6	northward	O
-7	sea	ice_form-B
-8	ice	ice_form-I
+6	ice	O
+7	sea	B
+8	ice	I
 9	motion	O
 10	at	O
 11	the	O
@@ -801,18 +832,19 @@
 16	season	O
 17	pushed	O
 18	ice	O
-19	floes	ice_form-B
+19	floes	B
 20	together	O
 21	,	O
 22	compacting	O
-23	the	O
-24	ice	ice-B
+23	floes	O
+24	ice	B
 25	.	O
+
 
 1	The	O
 2	tightly	O
-3	packed	O
-4	ice	ice_con-I
+3	ice	ice_conI
+4	ice	I
 5	and	O
 6	high	O
 7	temperatures	O
@@ -824,6 +856,7 @@
 13	record-low	O
 14	extent	O
 15	.	O
+
 
 1	This	O
 2	year	O
@@ -843,6 +876,7 @@
 16	cover	O
 17	.	O
 
+
 1	This	O
 2	,	O
 3	paired	O
@@ -858,6 +892,7 @@
 13	extent	O
 14	larger	O
 15	.	O
+
 
 1	For	O
 2	previous	O
@@ -881,6 +916,7 @@
 20	this	O
 21	page	O
 22	.	O
+
 
 1	Posted	O
 2	in	O

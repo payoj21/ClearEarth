@@ -2,20 +2,20 @@ import sys
 import os
 # import eval_ner
 
-path = ['data/bio/','data/geo/','data/sea_ice/']
+path = ['data/bio/','data/geo/']
 # path = ['data/bio/']
-eval_script = 'evaluate_script.txt'
+eval_script = 'test_new_eval_script.txt'
 filename = 'entity_types.txt'
 for p in path:
 	f = open(p+filename,'r')
 	entity_dict = set()
 	for line in f:
-		entity_dict.add(line.strip().lower())
+		entity_dict.add(line.strip().split('-')[0].lower())
 
 	
 
 	for e in entity_dict:
-		fw = open(p+'entity/'+e+'.txt','w')
+		fw = open(p+'new_entity_result/'+e+'.txt','w')
 		fd = open(p+eval_script, 'r')
 		prev_line = ''
 		for line in fd:

@@ -4,9 +4,10 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	"	O
 2	How	O
@@ -16,9 +17,10 @@
 6	things	O
 7	relate	O
 8	back	O
-9	to	O
-10	earthquakes	Eventuality-B
+9	Earthquake	O
+10	earthquakes	B
 11	.	O
+
 
 1	"	O
 2	We	O
@@ -31,9 +33,10 @@
 9	into	O
 10	the	O
 11	nature	O
-12	of	O
-13	earthquakes	Eventuality-B
+12	earthquakes	O
+13	earthquakes	B
 14	.	O
+
 
 1	Answering	O
 2	that	O
@@ -45,12 +48,13 @@
 8	a	O
 9	complex	O
 10	discussion	O
-11	of	O
-12	faults	Environment_Context-B
+11	earthquakes	O
+12	faults	B
 13	and	O
 14	their	O
 15	characteristics	O
 16	.	O
+
 
 1	This	O
 2	,	O
@@ -66,28 +70,30 @@
 12	about	O
 13	the	O
 14	characteristics	O
-15	of	O
-16	earthquakes	Eventuality-B
+15	faults	O
+16	earthquakes	B
 17	.	O
 
+
 1	Is	O
-2	the	O
-3	slip	Trait-B
-4	rate	Trait-I
+2	earthquakes	O
+3	slip	B
+4	rate	I
 5	of	O
-6	a	O
-7	fault	Environment_Context-B
+6	rate	O
+7	fault	B
 8	directly	O
 9	related	O
 10	to	O
-11	the	O
-12	rate	Trait-B
-13	of	O
-14	earthquakes	Eventuality-B
-15	along	Direction-B
-16	that	O
-17	fault	Environment_Context-B
+11	fault	O
+12	rate	B
+13	rate	O
+14	earthquakes	B
+15	along	B
+16	along	O
+17	fault	B
 18	.	O
+
 
 1	If	O
 2	we	O
@@ -97,8 +103,8 @@
 6	many	O
 7	distinctions	O
 8	between	O
-9	different	O
-10	faults	Environment_Context-B
+9	fault	O
+10	faults	B
 11	,	O
 12	can	O
 13	we	O
@@ -106,9 +112,10 @@
 15	similar	O
 16	distinctions	O
 17	between	O
-18	different	O
-19	earthquakes	Eventuality-B
+18	faults	O
+19	earthquakes	B
 20	.	O
+
 
 1	Could	O
 2	such	O
@@ -117,17 +124,18 @@
 5	us	O
 6	insight	O
 7	into	O
-8	the	O
-9	timing	Trait-B
-10	of	O
-11	earthquakes	Eventuality-B
+8	earthquakes	O
+9	timing	B
+10	timing	O
+11	earthquakes	B
 12	,	O
 13	and	O
 14	maybe	O
 15	even	O
 16	lead	O
-17	to	O
-18	earthquake	Eventuality-B
+17	earthquakes	O
+18	earthquake	B
 19	prediction	O
 20	.	O
+
 

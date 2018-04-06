@@ -2,14 +2,14 @@
 2	:	O
 3	a	O
 4	new	O
-5	Lagrangian	O
-6	sea	ice_form-B
-7	ice	ice_form-I
+5		O
+6	sea	B
+7	ice	I
 8	model	O
 9	The	O
-10	Arctic	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	cover	O
 14	has	O
 15	changed	O
@@ -19,6 +19,7 @@
 19	last	O
 20	decades	O
 13	.	O
+
 
 1	Associated	O
 2	with	O
@@ -41,20 +42,21 @@
 19	and	O
 20	an	O
 21	acceleration	O
-22	of	O
-23	sea	ice_form-B
-24	ice	ice_form-I
+22	ice	O
+23	sea	B
+24	ice	I
 25	drift	O
 26	.	O
+
 
 1	The	O
 2	highly	O
 3	non-linear	O
 4	dynamical	O
 5	response	O
-6	of	O
-7	sea	ice_form-B
-8	ice	ice_form-I
+6	ice	O
+7	sea	B
+8	ice	I
 9	to	O
 10	external	O
 11	forcing	O
@@ -67,15 +69,16 @@
 18	future	O
 19	evolution	O
 20	of	O
-21	Arctic	O
-22	sea	ice_form-B
-23	ice	ice_form-I
+21	ice	O
+22	sea	B
+23	ice	I
 24	a	O
 25	challenge	O
 26	for	O
 27	current	O
 28	models	O
 29	.	O
+
 
 1	It	O
 2	is	O
@@ -97,9 +100,9 @@
 18	the	O
 19	important	O
 20	role	O
-21	of	O
-22	sea	ice_form-B
-23	ice	ice_form-I
+21	ice	O
+22	sea	B
+23	ice	I
 24	in	O
 25	the	O
 26	climate	O
@@ -118,6 +121,7 @@
 39	Arctic	O
 40	.	O
 
+
 1	In	O
 2	this	O
 3	paper	O
@@ -127,9 +131,9 @@
 7	new	O
 8	dynamical	O
 9	/	O
-10	thermodynamical	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	model	O
 14	called	O
 15	neXtSIM	O
@@ -141,6 +145,7 @@
 21	this	O
 22	challenge	O
 23	.	O
+
 
 1	neXtSIM	O
 2	is	O
@@ -162,12 +167,13 @@
 18	method	O
 41	.	O
 
+
 1	In	O
 2	this	O
 3	model	O
-4	,	O
-5	sea	ice_form-B
-6	ice	ice_form-I
+4	ice	O
+5	sea	B
+6	ice	I
 7	physics	O
 8	are	O
 9	driven	O
@@ -181,9 +187,9 @@
 17	:	O
 18	a	O
 19	model	O
-20	for	O
-21	sea	ice_form-B
-22	ice	ice_form-I
+20	ice	O
+21	sea	B
+22	ice	I
 23	dynamics	O
 24	built	O
 25	on	O
@@ -198,9 +204,9 @@
 34	and	O
 35	a	O
 36	model	O
-37	for	O
-38	sea	ice_form-B
-39	ice	ice_form-I
+37	ice	O
+38	sea	B
+39	ice	I
 40	thermodynamics	O
 41	providing	O
 42	damage	O
@@ -210,6 +216,7 @@
 46	mechanical	O
 47	framework	O
 48	.	O
+
 
 1	The	O
 2	evaluation	O
@@ -237,9 +244,9 @@
 24	multi-scale	O
 25	statistical	O
 26	properties	O
-27	of	O
-28	sea	ice_form-B
-29	ice	ice_form-I
+27	ice	O
+28	sea	B
+29	ice	I
 30	drift	O
 31	and	O
 32	deformation	O
@@ -262,6 +269,7 @@
 49	extent	O
 50	.	O
 
+
 1	These	O
 2	results	O
 3	show	O
@@ -272,9 +280,9 @@
 8	appropriate	O
 9	tool	O
 10	for	O
-11	simulating	O
-12	sea	ice_form-B
-13	ice	ice_form-I
+11	ice	O
+12	sea	B
+13	ice	I
 14	over	O
 15	a	O
 16	wide	O
@@ -285,4 +293,5 @@
 21	temporal	O
 22	scales	O
 23	.	O
+
 

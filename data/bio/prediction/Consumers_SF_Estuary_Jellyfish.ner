@@ -1,39 +1,42 @@
-1	Jellyfish	Biotic_Entity-B
-2	Jellyfish	Biotic_Entity-B
+0		O
+1	Jellyfish	B
+2	Jellyfish	B
 3	have	O
 4	not	O
 5	been	O
 6	prevalent	O
 7	in	O
-8	the	O
-9	estuary	Aggregate_Biotic_Abiotic_Entity-B
+8	Jellyfish	O
+9	estuary	B
 10	until	O
 11	recently	O
 11	.	O
 
-1	In	O
-2	East	Aggregate_Biotic_Abiotic_Entity-B
-3	Coast	Aggregate_Biotic_Abiotic_Entity-B
-4	estuaries	Aggregate_Biotic_Abiotic_Entity-I
+
+1	estuary	O
+2	East	B
+3	Coast	B
+4	estuaries	I
 5	such	O
-6	as	O
-7	Chesapeake	Aggregate_Biotic_Abiotic_Entity-B
-8	Bay	Aggregate_Biotic_Abiotic_Entity-I
+6	estuaries	O
+7	Chesapeake	B
+8	Bay	I
 9	,	O
 10	they	O
 11	are	O
 12	often	O
-13	top-level	O
-14	predators	Biotic_Entity-B
-15	,	O
-16	feeding	Eventuality-B
+13	Bay	O
+14	predators	B
+15	predators	O
+16	feeding	B
 17	indiscriminately	O
 18	on	O
-19	both	O
-20	fish	Biotic_Entity-B
-21	and	O
-22	zooplankton	Biotic_Entity-B
+19	feeding	O
+20	fish	B
+21	fish	O
+22	zooplankton	B
 23	.	O
+
 
 1	Several	O
 2	small	O
@@ -50,21 +53,23 @@
 13	regions	O
 14	.	O
 
-1	These	O
-2	species	Biotic_Entity-B
-3	strobilate	Eventuality-B
+
+1	zooplankton	O
+2	species	B
+3	strobilate	B
 4	in	O
 5	summer	O
 6	,	O
-7	but	O
-8	maintain	Eventuality-B
-9	polyps	Biotic_Entity-B
+7	strobilate	O
+8	maintain	B
+9	polyps	B
 10	in	O
 11	the	O
 12	benthos	O
 13	year	O
 14	round	O
 15	.	O
+
 
 1	Their	O
 2	impact	O
@@ -83,43 +88,45 @@
 15	it	O
 16	.	O
 
+
 1	In	O
 2	sufficient	O
 3	density	O
-4	,	O
-5	jellies	Biotic_Entity-B
+4	polyps	O
+5	jellies	B
 6	may	O
 7	have	O
 8	a	O
 9	complementary	O
 10	role	O
 11	to	O
-12	C.	O
-13	amurensis	Biotic_Entity-B
-14	in	O
-15	suppressing	Eventuality-B
-16	zooplankton	Biotic_Entity-B
+12	jellies	O
+13	amurensis	B
+14	amurensis	O
+15	suppressing	B
+16	zooplankton	B
 17	,	O
-18	by	O
-19	inhabiting	Eventuality-B
-20	areas	Aggregate_Biotic_Abiotic_Entity-B
-21	of	O
-22	low	Quality-B
+18	zooplankton	O
+19	inhabiting	B
+20	areas	B
+21	areas	O
+22	low	B
 23	salinity	O
 24	outside	O
 25	the	O
 26	range	O
 27	of	O
-28	the	O
-29	clams	Biotic_Entity-B
+28	low	O
+29	clams	B
 30	,	O
-31	where	O
-32	planktonic	Quality-B
-33	species	Biotic_Entity-B
+31	clams	O
+32	planktonic	B
+33	species	B
 34	have	O
 35	had	O
-36	a	O
-37	predation-free	Biotic_Entity-B
-38	refuge	Aggregate_Biotic_Abiotic_Entity-I
+36	species	O
+37	predation-free	Aggregate_Biotic_Abiotic_EntityI
+38	refuge	I
 39	.	O
+
 

@@ -2,14 +2,14 @@
 2	1	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
-9	The	O
-10	Distribution	Trait-B
-11	of	O
-12	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
+9	Earthquakes	O
+10	Distribution	B
+11	Distribution	O
+12	Earthquakes	B
 13	Rates	O
 14	and	O
 15	relations	O
@@ -21,11 +21,12 @@
 21	so	O
 22	important	O
 23	about	O
-24	the	O
-25	distribution	Trait-B
-26	of	O
-27	earthquakes	Eventuality-B
+24	Earthquakes	O
+25	distribution	B
+26	distribution	O
+27	earthquakes	B
 11	.	O
+
 
 1	"	O
 2	In	O
@@ -40,32 +41,34 @@
 11	investigated	O
 12	the	O
 13	principles	O
-14	of	O
-15	earthquakes	Eventuality-B
+14	earthquakes	O
+15	earthquakes	B
 16	and	O
-17	their	O
-18	occurrence	Eventuality-B
+17	earthquakes	O
+18	occurrence	B
 18	.	O
+
 
 1	We	O
 2	studied	O
 3	the	O
 4	properties	O
-5	of	O
-6	faults	Environment_Context-B
+5	occurrence	O
+6	faults	B
 7	,	O
 8	the	O
 9	influence	O
-10	of	O
-11	tectonics	Environment_Context-B
+10	faults	O
+11	tectonics	B
 12	,	O
 13	and	O
-14	the	O
-15	dynamics	Eventuality-B
-16	of	O
-17	fault	Environment_Context-B
-18	rupture	Eventuality-B
+14	tectonics	O
+15	dynamics	B
+16	dynamics	O
+17	fault	B
+18	rupture	B
 19	.	O
+
 
 1	But	O
 2	we	O
@@ -74,11 +77,11 @@
 5	of	O
 6	looking	O
 7	at	O
-8	the	O
-9	occurrence	Trait-B
+8	rupture	O
+9	occurrence	B
 10	of	O
-11	real-world	O
-12	earthquakes	Eventuality-B
+11	occurrence	O
+12	earthquakes	B
 13	with	O
 14	respect	O
 15	to	O
@@ -92,35 +95,36 @@
 23	yet	O
 24	to	O
 25	investigate	O
-26	whether	O
-27	earthquakes	Eventuality-B
+26	earthquakes	O
+27	earthquakes	B
 28	occur	O
 29	in	O
-30	any	O
-31	patterns	Eventuality-B
+30	earthquakes	O
+31	patterns	B
 32	or	O
 33	are	O
 34	influenced	O
 35	by	O
-36	causal	O
-37	relationships	Eventuality-B
+36	patterns	O
+37	relationships	B
 38	with	O
-39	other	O
-40	phenomena	Eventuality-B
+39	relationships	O
+40	phenomena	B
 41	,	O
 42	even	O
-43	other	O
-44	earthquakes	Eventuality-B
+43	phenomena	O
+44	earthquakes	B
 45	.	O
+
 
 1	In	O
 2	short	O
 3	,	O
 4	we	O
-5	have	O
-6	covered	Trait-B
-7	how	O
-8	earthquakes	Eventuality-B
+5	earthquakes	O
+6	covered	B
+7	covered	O
+8	earthquakes	B
 9	occur	O
 10	,	O
 11	and	O
@@ -145,14 +149,15 @@
 30	occur	O
 31	.	O
 
+
 1	Those	O
 2	questions	O
 3	are	O
-4	the	O
-5	focus	Environment_Context-B
+4	earthquakes	O
+5	focus	B
 6	of	O
-7	this	O
-8	section	Environment_Context-B
+7	focus	O
+8	section	B
 9	,	O
 10	and	O
 11	our	O
@@ -160,11 +165,12 @@
 13	study	O
 14	will	O
 15	be	O
-16	the	O
-17	regional	Trait-B
-18	seismicity	Eventuality-B
-19	of	O
-20	southern	Direction-B
-21	California	Location-B
+16	section	O
+17	regional	B
+18	seismicity	B
+19	seismicity	O
+20	southern	B
+21	California	B
 22	.	O
+
 

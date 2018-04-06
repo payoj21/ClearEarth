@@ -2,10 +2,10 @@
 2	7	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	"	O
 10	Can	O
 11	topographic	O
@@ -15,11 +15,12 @@
 15	as	O
 16	a	O
 17	guide	O
-18	in	O
-19	earthquake	Eventuality-B
+18	Earthquakes	O
+19	earthquake	B
 20	risk	O
 21	assessment	O
 14	.	O
+
 
 1	"	O
 2	Yes	O
@@ -44,6 +45,7 @@
 21	area	O
 21	.	O
 
+
 1	When	O
 2	scientists	O
 3	and	O
@@ -61,24 +63,25 @@
 15	to	O
 16	concentrate	O
 17	most	O
-18	upon	O
-19	landforms	Environment_Context-B
+18	earthquake	O
+19	landforms	B
 20	near	O
 21	a	O
-22	potentially	O
-23	active	Environment_Context-B
-24	fault	Environment_Context-B
-25	trace	Environment_Context-I
+22	landforms	O
+23	active	B
+24	fault	B
+25	trace	I
 26	or	O
 27	on	O
-28	the	O
-29	sub-surface	Environment_Context-B
-30	structural	O
-31	geology	Environment_Context-B
+28	trace	O
+29	sub-surface	B
+30	sub-surface	O
+31	geology	B
 32	of	O
-33	an	O
-34	area	Environment_Context-B
+33	geology	O
+34	area	B
 35	.	O
+
 
 1	Even	O
 2	without	O
@@ -105,4 +108,5 @@
 23	an	O
 24	area	O
 25	.	O
+
 

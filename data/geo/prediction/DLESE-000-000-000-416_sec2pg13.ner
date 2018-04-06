@@ -2,23 +2,24 @@
 2	13	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	Aftershocks	O
 10	Defined	O
 11	Aftershocks	O
 12	are	O
 13	actually	O
-14	just	O
-15	normal	Trait-B
-16	earthquakes	Eventuality-B
+14	Earthquakes	O
+15	normal	B
+16	earthquakes	B
 17	in	O
 18	every	O
 19	physical	O
 20	detail	O
 11	.	O
+
 
 1	Out	O
 2	of	O
@@ -34,14 +35,15 @@
 12	difference	O
 13	between	O
 14	an	O
-15	arbitrary	O
-16	earthquake	Eventuality-B
+15	earthquakes	O
+16	earthquake	B
 17	and	O
 18	an	O
-19	"	O
-20	aftershock	Eventuality-B
+19	earthquake	O
+20	aftershock	B
 21	"	O
 22	.	O
+
 
 1	The	O
 2	only	O
@@ -52,8 +54,8 @@
 7	two	O
 8	is	O
 9	that	O
-10	an	O
-11	aftershock	Eventuality-B
+10	aftershock	O
+11	aftershock	B
 12	follows	O
 13	closely	O
 14	in	O
@@ -61,8 +63,8 @@
 16	wake	O
 17	of	O
 18	a	O
-19	larger	O
-20	earthquake	Eventuality-B
+19	aftershock	O
+20	earthquake	B
 21	,	O
 22	and	O
 23	in	O
@@ -75,21 +77,23 @@
 30	predecessor	O
 31	.	O
 
+
 1	That	O
 2	larger	O
 3	,	O
-4	initial	O
-5	earthquake	Eventuality-B
+4	earthquake	O
+5	earthquake	B
 6	is	O
 7	usually	O
 8	referred	O
 9	to	O
 10	as	O
 11	the	O
-12	"	O
-13	mainshock	Eventuality-B
+12	earthquake	O
+13	mainshock	B
 14	"	O
 15	.	O
+
 
 1	More	O
 2	specifically	O
@@ -100,12 +104,13 @@
 7	guidelines	O
 8	for	O
 9	labelling	O
-10	an	O
-11	earthquake	Eventuality-B
+10	mainshock	O
+11	earthquake	B
 12	as	O
-13	an	O
-14	aftershock	Eventuality-B
+13	earthquake	O
+14	aftershock	B
 15	.	O
+
 
 1	First	O
 2	,	O
@@ -113,34 +118,35 @@
 4	must	O
 5	occur	O
 6	within	O
-7	one	O
-8	rupture	Eventuality-B
-9	length	Trait-I
+7	aftershock	O
+8	rupture	TraitI
+9	length	I
 10	of	O
-11	the	O
-12	mainshock	Eventuality-B
-13	rupture	Eventuality-B
-14	surface	Environment_Context-B
+11	length	O
+12	mainshock	B
+13	rupture	B
+14	surface	B
 15	,	O
 16	or	O
 17	alternatively	O
 18	,	O
 19	within	O
 20	an	O
-21	"	O
-22	aftershock	Eventuality-B
-23	zone	Environment_Context-I
+21	surface	O
+22	aftershock	Environment_ContextI
+23	zone	I
 24	"	O
 25	based	O
 26	upon	O
-27	early	O
-28	aftershock	Eventuality-B
-29	activity	Eventuality-I
+27	zone	O
+28	aftershock	B
+29	activity	I
 30	and	O
 31	defined	O
 32	by	O
 33	seismologists	O
 34	.	O
+
 
 1	Second	O
 2	,	O
@@ -152,9 +158,9 @@
 8	designated	O
 9	area	O
 10	before	O
-11	the	O
-12	seismicity	Trait-B
-13	rate	Trait-I
+11	activity	O
+12	seismicity	B
+13	rate	I
 14	in	O
 15	that	O
 16	area	O
@@ -171,6 +177,7 @@
 27	level	O
 28	.	O
 
+
 1	Both	O
 2	of	O
 3	these	O
@@ -181,46 +188,49 @@
 8	boundaries	O
 9	.	O
 
-1	The	O
-2	area	Environment_Context-B
+
+1	rate	O
+2	area	B
 3	in	O
-4	which	O
-5	aftershocks	Eventuality-B
-6	from	O
-7	one	Value-B
-8	mainshock	Eventuality-B
+4	area	O
+5	aftershocks	B
+6	aftershocks	O
+7	one	B
+8	mainshock	B
 9	occur	O
 10	might	O
 11	overlap	O
-12	the	O
-13	aftershock	Eventuality-B
-14	zone	Environment_Context-I
+12	mainshock	O
+13	aftershock	Environment_ContextI
+14	zone	I
 15	of	O
-16	another	O
-17	mainshock	Eventuality-B
+16	zone	O
+17	mainshock	B
 18	.	O
+
 
 1	Other	O
 2	factors	O
 3	might	O
 4	cause	O
-5	an	O
-6	aftershock	Eventuality-B
-7	zone	Environment_Context-I
-8	to	O
-9	change	Eventuality-B
+5	mainshock	O
+6	aftershock	Environment_ContextI
+7	zone	I
+8	zone	O
+9	change	B
 10	over	O
 11	time	O
 12	,	O
 13	or	O
-14	to	O
-15	extend	Eventuality-B
-16	farther	Direction-B
+14	change	O
+15	extend	B
+16	farther	B
 17	than	O
 18	is	O
 19	generally	O
 20	expected	O
 21	.	O
+
 
 1	In	O
 2	addition	O
@@ -231,9 +241,9 @@
 7	,	O
 8	"	O
 9	background	O
-10	"	O
-11	seismicity	Trait-B
-12	rate	Trait-I
+10	farther	O
+11	seismicity	B
+12	rate	I
 13	for	O
 14	an	O
 15	area	O
@@ -242,16 +252,17 @@
 18	difficult	O
 19	.	O
 
+
 1	Without	O
 2	good	O
 3	records	O
 4	covering	O
 5	decades	O
-6	of	O
-7	activity	Eventuality-B
+6	rate	O
+7	activity	B
 8	in	O
-9	an	O
-10	area	Environment_Context-B
+9	activity	O
+10	area	B
 11	,	O
 12	it	O
 13	is	O
@@ -263,13 +274,13 @@
 19	what	O
 20	the	O
 21	typical	O
-22	background	O
-23	rate	Trait-B
-24	of	O
-25	earthquakes	Eventuality-B
+22	area	O
+23	rate	B
+24	rate	O
+25	earthquakes	B
 26	in	O
-27	an	O
-28	area	Environment_Context-B
+27	earthquakes	O
+28	area	B
 29	should	O
 30	be	O
 31	,	O
@@ -278,12 +289,13 @@
 34	there	O
 35	is	O
 36	any	O
-37	long-term	O
-38	variation	Trait-B
+37	area	O
+38	variation	B
 39	in	O
-40	the	O
-41	rate	Trait-B
+40	variation	O
+41	rate	B
 42	.	O
+
 
 1	That	O
 2	makes	O
@@ -292,8 +304,8 @@
 5	to	O
 6	say	O
 7	when	O
-8	an	O
-9	aftershock	Eventuality-B
+8	rate	O
+9	aftershock	B
 10	sequence	O
 11	has	O
 12	ended	O
@@ -313,4 +325,5 @@
 26	aftershock	O
 27	zone	O
 28	.	O
+
 

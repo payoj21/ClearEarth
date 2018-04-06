@@ -1,4 +1,5 @@
-1	Sea-Ice	ice_form-B
+0		O
+1	Sea-Ice	B
 2	Indicators	O
 3	of	O
 4	Polar	O
@@ -26,9 +27,9 @@
 26	regions	O
 27	they	O
 28	depend	O
-29	on	O
-30	sea	ice_form-B
-31	ice	ice_form-I
+29	Sea-Ice	O
+30	sea	B
+31	ice	I
 32	as	O
 33	a	O
 34	platform	O
@@ -58,8 +59,8 @@
 58	to	O
 59	the	O
 60	timing	O
-61	of	O
-62	sea-ice	ice_form-B
+61	ice	O
+62	sea-ice	B
 63	retreat	O
 64	in	O
 65	spring	O
@@ -70,8 +71,8 @@
 70	analyzed	O
 71	the	O
 72	dates	O
-73	of	O
-74	sea-ice	ice_form-B
+73	sea-ice	O
+74	sea-ice	B
 75	retreat	O
 76	and	O
 77	advance	O
@@ -88,8 +89,8 @@
 88	2014	O
 89	,	O
 90	using	O
-91	daily	O
-92	sea-ice	ice_form-B
+91	sea-ice	O
+92	sea-ice	B
 93	concentration	O
 94	data	O
 95	from	O
@@ -100,8 +101,8 @@
 100	define	O
 101	the	O
 102	dates	O
-103	of	O
-104	sea-ice	ice_form-B
+103	sea-ice	O
+104	sea-ice	B
 105	retreat	O
 106	and	O
 107	advance	O
@@ -114,9 +115,9 @@
 114	when	O
 115	the	O
 116	area	O
-117	of	O
-118	sea	ice_form-B
-119	ice	ice_form-I
+117	sea-ice	O
+118	sea	B
+119	ice	I
 120	drops	O
 121	below	O
 122	a	O
@@ -168,8 +169,8 @@
 168	September	O
 169	and	O
 170	mean	O
-171	March	O
-172	sea-ice	ice_form-B
+171	ice	O
+172	sea-ice	B
 173	areas.In	O
 174	all	O
 175	19	O
@@ -179,12 +180,12 @@
 179	a	O
 180	trend	O
 181	toward	O
-182	earlier	O
-183	sea-ice	ice_form-B
+182	sea-ice	O
+183	sea-ice	B
 184	retreat	O
 185	and	O
-186	later	O
-187	sea-ice	ice_form-B
+186	sea-ice	O
+187	sea-ice	B
 188	advance.Trends	O
 189	generally	O
 190	range	O
@@ -236,8 +237,8 @@
 236	per	O
 237	year	O
 238	that	O
-239	the	O
-240	sea-ice	ice_form-B
+239	sea-ice	O
+240	sea-ice	B
 241	area	O
 242	exceeded	O
 243	the	O
@@ -250,8 +251,8 @@
 250	,	O
 251	and	O
 252	the	O
-253	average	O
-254	sea-ice	ice_form-B
+253	sea-ice	O
+254	sea-ice	B
 255	concentration	O
 256	from	O
 257	1	O
@@ -293,8 +294,8 @@
 293	&	O
 294	ndash	O
 295	;	O
-296	October	O
-297	sea-ice	ice_form-B
+296	sea-ice	O
+297	sea-ice	B
 298	concentration	O
 299	is	O
 300	declining	O
@@ -309,8 +310,8 @@
 309	to	O
 310	−9	O
 311	percent	O
-312	decade−1.These	O
-313	sea-ice	ice_form-B
+312	sea-ice	O
+313	sea-ice	B
 314	metrics	O
 315	(	O
 316	or	O
@@ -339,8 +340,8 @@
 339	include	O
 340	the	O
 341	timing	O
-342	of	O
-343	sea-ice	ice_form-B
+342	sea-ice	O
+343	sea-ice	B
 344	retreat	O
 345	and	O
 346	advance	O
@@ -348,4 +349,5 @@
 348	future	O
 349	reports	O
 344	.	O
+
 

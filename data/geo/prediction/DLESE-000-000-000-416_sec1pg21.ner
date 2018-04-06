@@ -4,9 +4,10 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	"	O
 2	How	O
@@ -14,32 +15,33 @@
 4	why	O
 5	and	O
 6	where	O
-7	do	O
-8	faults	Environment_Context-B
+7	Earthquake	O
+8	faults	B
 9	form	O
 10	.	O
+
 
 1	"	O
 2	Now	O
 3	that	O
 4	we	O
 5	have	O
-6	reviewed	O
-7	plate	Eventuality-B
-8	tectonics	Environment_Context-I
+6	faults	O
+7	plate	Environment_ContextI
+8	tectonics	I
 9	and	O
-10	the	O
-11	properties	Environment_Context-B
-12	of	O
-13	faults	Environment_Context-B
+10	tectonics	O
+11	properties	B
+12	properties	O
+13	faults	B
 14	,	O
 15	it	O
 16	's	O
 17	time	O
-18	to	O
-19	put	Eventuality-B
-20	the	O
-21	two	Value-B
+18	faults	O
+19	put	B
+20	put	O
+21	two	B
 22	together	O
 23	to	O
 24	explain	O
@@ -48,28 +50,30 @@
 27	why	O
 28	,	O
 29	and	O
-30	where	O
-31	faults	Environment_Context-B
+30	two	O
+31	faults	B
 32	form	O
 32	.	O
+
 
 1	Our	O
 2	knowledge	O
 3	of	O
 4	the	O
 5	mechanism	O
-6	of	O
-7	fault	Environment_Context-B
-8	formation	Eventuality-B
+6	faults	O
+7	fault	B
+8	formation	B
 9	is	O
 10	still	O
 11	primarily	O
 12	limited	O
 13	to	O
 14	theory	O
-15	and	O
-16	extrapolation	Eventuality-B
+15	formation	O
+16	extrapolation	B
 17	.	O
+
 
 1	We	O
 2	can	O
@@ -82,27 +86,28 @@
 9	simulate	O
 10	the	O
 11	formation	O
-12	of	O
-13	fractures	Environment_Context-B
-14	and	O
-15	faults	Environment_Context-B
+12	extrapolation	O
+13	fractures	B
+14	fractures	O
+15	faults	B
 16	,	O
 17	but	O
 18	we	O
 19	cannot	O
 20	actually	O
-21	watch	O
-22	faults	Environment_Context-B
-23	forming	Eventuality-B
+21	faults	O
+22	faults	B
+23	forming	B
 24	or	O
-25	even	O
-26	lengthening	Environment_Context-B
-27	beneath	Direction-B
-28	the	O
-29	Earth	Location-B
-30	's	O
-31	surface	Environment_Context-B
+25	forming	O
+26	lengthening	B
+27	beneath	B
+28	beneath	O
+29	Earth	B
+30	Earth	O
+31	surface	B
 32	.	O
+
 
 1	Still	O
 2	,	O
@@ -134,53 +139,56 @@
 28	stress	O
 29	dynamics	O
 30	to	O
-31	the	O
-32	Earth	Location-B
-33	's	O
-34	crust	Environment_Context-B
+31	surface	O
+32	Earth	B
+33	Earth	O
+34	crust	B
 35	.	O
+
 
 1	What	O
 2	insight	O
 3	we	O
 4	do	O
 5	have	O
-6	about	O
-7	fault	Environment_Context-B
-8	formation	Eventuality-B
+6	crust	O
+7	fault	B
+8	formation	B
 9	in	O
 10	the	O
-11	real	O
-12	world	Environment_Context-B
+11	formation	O
+12	world	B
 13	comes	O
 14	primarily	O
 15	from	O
-16	studying	O
-17	seismicity	Eventuality-B
+16	world	O
+17	seismicity	B
 18	.	O
 
-1	New	O
-2	fracturing	Eventuality-B
+
+1	seismicity	O
+2	fracturing	B
 3	of	O
-4	the	O
-5	crust	Environment_Context-B
-6	produces	Eventuality-B
-7	earthquakes	Eventuality-B
+4	fracturing	O
+5	crust	B
+6	produces	B
+7	earthquakes	B
 8	in	O
 9	much	O
 10	the	O
 11	same	O
 12	way	O
-13	that	O
-14	earthquakes	Eventuality-B
-15	are	O
-16	generated	Eventuality-B
-17	by	O
-18	movement	Eventuality-B
-19	along	Direction-B
-20	previous	O
-21	fractures	Environment_Context-B
+13	earthquakes	O
+14	earthquakes	B
+15	earthquakes	O
+16	generated	B
+17	generated	O
+18	movement	B
+19	along	B
+20	along	O
+21	fractures	B
 22	.	O
+
 
 1	From	O
 2	these	O
@@ -189,17 +197,18 @@
 5	we	O
 6	can	O
 7	learn	O
-8	about	O
-9	fault	Environment_Context-B
-10	formation	Eventuality-B
+8	fractures	O
+9	fault	B
+10	formation	B
 11	indirectly	O
 12	.	O
+
 
 1	Understanding	O
 2	why	O
 3	and	O
-4	where	O
-5	faults	Environment_Context-B
+4	formation	O
+5	faults	B
 6	form	O
 7	,	O
 8	at	O
@@ -207,18 +216,19 @@
 10	in	O
 11	the	O
 12	context	O
-13	of	O
-14	southern	Direction-B
-15	California	Location-B
+13	faults	O
+14	southern	B
+15	California	B
 16	,	O
 17	requires	O
 18	a	O
 19	simple	O
 20	understanding	O
-21	of	O
-22	plate	Environment_Context-B
-23	tectonics	Environment_Context-I
+21	California	O
+22	plate	B
+23	tectonics	I
 24	.	O
+
 
 1	While	O
 2	the	O
@@ -247,47 +257,48 @@
 25	show	O
 26	later	O
 27	.	O
-
-1	Faults	Environment_Context-B
+0	tectonics	O
+1	Faults	B
 2	can	O
 3	occur	O
 4	in	O
-5	any	O
-6	orientation	Eventuality-B
+5	Faults	O
+6	orientation	B
 7	and	O
 8	at	O
-9	any	O
-10	angle	Trait-B
-11	to	O
-12	horizontal	Direction-B
+9	orientation	O
+10	angle	B
+11	angle	O
+12	horizontal	B
 13	(	O
 14	remember	O
 15	that	O
-16	this	O
-17	angle	Trait-B
+16	horizontal	O
+17	angle	B
 18	is	O
 19	known	O
 20	as	O
-21	the	O
-22	dip	Trait-B
+21	angle	O
+22	dip	B
 23	of	O
-24	the	O
-25	fault	Environment_Context-B
+24	dip	O
+25	fault	B
 26	)	O
 27	,	O
 28	but	O
 29	an	O
-30	active	O
-31	fault	Environment_Context-B
-32	's	O
-33	orientation	Eventuality-B
-34	and	O
-35	dip	Eventuality-B
+30	fault	O
+31	fault	B
+32	fault	O
+33	orientation	B
+34	orientation	O
+35	dip	B
 36	are	O
 37	not	O
 38	necessarily	O
 39	random	O
 40	.	O
+
 
 1	These	O
 2	properties	O
@@ -304,13 +315,14 @@
 13	activity	O
 14	.	O
 
+
 1	This	O
 2	happens	O
-3	because	O
-4	slip	Eventuality-B
-5	along	Direction-B
-6	a	O
-7	plane	Environment_Context-B
+3	dip	O
+4	slip	B
+5	along	B
+6	along	O
+7	plane	B
 8	occurs	O
 9	much	O
 10	more	O
@@ -318,11 +330,11 @@
 12	and	O
 13	efficiently	O
 14	at	O
-15	some	O
-16	angles	Environment_Context-B
+15	plane	O
+16	angles	B
 17	to	O
-18	the	O
-19	forces	Environment_Context-B
+18	angles	O
+19	forces	B
 20	being	O
 21	applied	O
 22	than	O
@@ -332,6 +344,7 @@
 26	others	O
 27	.	O
 
+
 1	For	O
 2	example	O
 3	,	O
@@ -340,16 +353,17 @@
 6	sit	O
 7	still	O
 8	on	O
-9	a	O
-10	horizontal	Environment_Context-B
-11	surface	Environment_Context-B
+9	forces	O
+10	horizontal	B
+11	surface	B
 12	,	O
 13	you	O
 14	will	O
-15	not	O
-16	slip	Eventuality-B
+15	surface	O
+16	slip	B
 17	off	O
 18	.	O
+
 
 1	However	O
 2	,	O
@@ -387,18 +401,20 @@
 34	place	O
 35	.	O
 
+
 1	This	O
 2	is	O
 3	similar	O
 4	to	O
 5	what	O
-6	happens	O
-7	along	Direction-B
-8	faults	Environment_Context-B
-9	when	O
-10	earthquakes	Eventuality-B
+6	slip	O
+7	along	B
+8	faults	B
+9	faults	O
+10	earthquakes	B
 11	occur	O
 12	.	O
+
 
 1	A	O
 2	driving	O
@@ -410,9 +426,10 @@
 8	force	O
 9	,	O
 10	resulting	O
-11	in	O
-12	slip	Eventuality-B
+11	earthquakes	O
+12	slip	B
 13	.	O
+
 
 1	If	O
 2	the	O
@@ -465,91 +482,94 @@
 49	)	O
 50	.	O
 
+
 1	There	O
 2	would	O
 3	be	O
 4	a	O
-5	very	O
-6	narrow	Trait-B
+5	slip	O
+6	narrow	B
 7	range	O
 8	in	O
 9	which	O
 10	the	O
-11	"	O
-12	tectonic	Eventuality-B
-13	stress	Eventuality-I
+11	narrow	O
+12	tectonic	B
+13	stress	I
 14	"	O
 15	(	O
 16	gravity	O
 17	)	O
 18	could	O
-19	be	O
-20	released	Eventuality-B
-21	as	O
-22	slip	Trait-B
+19	stress	O
+20	released	B
+21	released	O
+22	slip	B
 23	(	O
 24	you	O
-25	,	O
-26	sliding	Eventuality-B
-27	off	Direction-B
-28	the	O
-29	surface	Environment_Context-B
+25	slip	O
+26	sliding	B
+27	off	B
+28	off	O
+29	surface	B
 30	)	O
 31	.	O
 
+
 1	Only	O
 2	a	O
-3	"	O
-4	fault	Environment_Context-B
+3	surface	O
+4	fault	B
 5	"	O
 6	(	O
-7	the	O
-8	interface	Environment_Context-B
+7	fault	O
+8	interface	B
 9	between	O
 10	you	O
 11	and	O
-12	the	O
-13	surface	Environment_Context-B
+12	interface	O
+13	surface	B
 14	)	O
 15	within	O
 16	a	O
-17	certain	O
-18	narrow	Trait-B
-19	range	Trait-B
-20	of	O
-21	orientations	Eventuality-B
+17	surface	O
+18	narrow	B
+19	range	B
+20	range	O
+21	orientations	B
 22	would	O
 23	be	O
 24	efficient	O
-25	at	O
-26	releasing	Eventuality-B
-27	the	O
-28	stress	Eventuality-B
+25	orientations	O
+26	releasing	B
+27	releasing	O
+28	stress	B
 29	caused	O
 30	by	O
 31	the	O
 32	opposition	O
 33	of	O
-34	the	O
-35	driving	Trait-B
-36	and	O
-37	resistant	Eventuality-B
-38	forces	Environment_Context-B
+34	stress	O
+35	driving	B
+36	driving	O
+37	resistant	B
+38	forces	B
 39	,	O
 40	so	O
 41	only	O
 42	such	O
-43	a	O
-44	fault	Environment_Context-B
+43	forces	O
+44	fault	B
 45	would	O
 46	"	O
 47	form	O
 48	"	O
 49	(	O
-50	experience	O
-51	slip	Eventuality-B
+50	fault	O
+51	slip	B
 52	)	O
 53	.	O
+
 
 1	If	O
 2	your	O
@@ -557,11 +577,11 @@
 4	were	O
 5	sitting	O
 6	on	O
-7	similar	O
-8	surfaces	Environment_Context-B
+7	slip	O
+8	surfaces	B
 9	with	O
-10	lesser	O
-11	tilt	Trait-B
+10	surfaces	O
+11	tilt	B
 12	angles	O
 13	,	O
 14	they	O
@@ -571,8 +591,8 @@
 18	,	O
 19	because	O
 20	their	O
-21	"	O
-22	faults	Environment_Context-B
+21	tilt	O
+22	faults	B
 23	"	O
 24	would	O
 25	not	O
@@ -582,7 +602,8 @@
 29	a	O
 30	way	O
 31	that	O
-32	encourages	O
-33	slip	Eventuality-B
+32	faults	O
+33	slip	B
 34	.	O
+
 

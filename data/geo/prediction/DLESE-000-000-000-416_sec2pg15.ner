@@ -2,41 +2,42 @@
 2	15	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	What	O
 10	's	O
-11	a	O
-12	Foreshock	Eventuality-B
+11	Earthquakes	O
+12	Foreshock	B
 5	.	O
 
-6	.	O
 
-1	Foreshocks	Eventuality-B
+6	.	O
+0	Foreshock	O
+1	Foreshocks	B
 2	are	O
-3	those	O
-4	earthquakes	Eventuality-B
+3	Foreshocks	O
+4	earthquakes	B
 5	which	O
 6	occur	O
 7	immediately	O
 8	preceeding	O
-9	a	O
-10	mainshock	Eventuality-B
+9	earthquakes	O
+10	mainshock	B
 11	in	O
 12	the	O
 13	exact	O
-14	same	O
-15	area	Environment_Context-B
+14	mainshock	O
+15	area	B
 16	in	O
 17	which	O
-18	the	O
-19	mainshock	Eventuality-B
+18	area	O
+19	mainshock	B
 20	occurs	O
 21	.	O
-
-1	Foreshocks	Eventuality-B
+0	mainshock	O
+1	Foreshocks	B
 2	may	O
 3	come	O
 4	in	O
@@ -44,9 +45,10 @@
 6	,	O
 7	or	O
 8	be	O
-9	single	O
-10	events	Eventuality-B
+9	Foreshocks	O
+10	events	B
 11	.	O
+
 
 1	The	O
 2	time	O
@@ -55,8 +57,8 @@
 5	last	O
 6	foreshock	O
 7	and	O
-8	the	O
-9	mainshock	Eventuality-B
+8	events	O
+9	mainshock	B
 10	varies	O
 11	somewhat	O
 12	,	O
@@ -69,6 +71,7 @@
 19	day	O
 20	.	O
 
+
 1	To	O
 2	see	O
 3	an	O
@@ -80,23 +83,23 @@
 9	event	O
 10	in	O
 11	the	O
-12	real	O
-13	world	Environment_Context-B
+12	mainshock	O
+13	world	B
 14	,	O
 15	let	O
 16	's	O
 17	look	O
 18	again	O
 19	at	O
-20	the	O
-21	chart	Trait-B
-22	of	O
-23	earthquakes	Eventuality-B
-24	for	O
-25	April	Time-B
-26	22	Value-B
-27	,	O
-28	1992	Time-B
+20	world	O
+21	chart	B
+22	chart	O
+23	earthquakes	B
+24	earthquakes	O
+25	April	B
+26	22	B
+27	22	O
+28	1992	B
 29	,	O
 30	but	O
 31	this	O
@@ -110,27 +113,29 @@
 39	what	O
 40	happened	O
 41	before	O
-42	the	O
-43	Joshua	Trait-B
-44	Tree	Trait-I
-45	mainshock	Eventuality-B
+42	1992	O
+43	Joshua	B
+44	Tree	I
+45	mainshock	B
 46	.	O
+
 
 1	There	O
 2	were	O
 3	three	O
 4	events	O
-5	above	O
-6	M	Value-B
-7	3.0	Unit-B
+5	mainshock	O
+6	M	B
+7	3.0	B
 8	that	O
 9	day	O
 10	before	O
-11	the	O
-12	Joshua	Trait-B
-13	Tree	Trait-I
-14	earthquake	Eventuality-B
+11	3.0	O
+12	Joshua	B
+13	Tree	I
+14	earthquake	B
 15	.	O
+
 
 1	The	O
 2	first	O
@@ -148,16 +153,17 @@
 14	unrelated	O
 15	.	O
 
+
 1	But	O
 2	as	O
 3	you	O
 4	can	O
 5	see	O
 6	,	O
-7	the	O
-8	M	Value-B
-9	6.1	Value-B
-10	mainshock	Trait-B
+7	earthquake	O
+8	M	B
+9	6.1	B
+10	mainshock	B
 11	occurred	O
 12	in	O
 13	exactly	O
@@ -167,44 +173,46 @@
 17	as	O
 18	,	O
 19	and	O
-20	about	O
-21	two	Value-B
-22	hours	Unit-B
+20	mainshock	O
+21	two	B
+22	hours	B
 23	after	O
 24	,	O
-25	the	O
-26	two	Value-B
-27	earthquakes	Eventuality-B
+25	hours	O
+26	two	B
+27	earthquakes	B
 28	preceding	O
 29	it	O
 30	.	O
 
-1	These	O
-2	earthquakes	Eventuality-B
+
+1	earthquakes	O
+2	earthquakes	B
 3	can	O
 4	therefore	O
 5	be	O
-6	considered	O
-7	foreshocks	Eventuality-B
+6	earthquakes	O
+7	foreshocks	B
 8	of	O
 9	the	O
 10	Joshua	O
-11	Tree	O
-12	earthquake	Eventuality-B
+11	foreshocks	O
+12	earthquake	B
 13	.	O
+
 
 1	There	O
 2	is	O
 3	nothing	O
 4	intrinsically	O
 5	characteristic	O
-6	about	O
-7	foreshocks	Eventuality-B
-8	,	O
-9	mainshocks	Eventuality-B
+6	earthquake	O
+7	foreshocks	B
+8	foreshocks	O
+9	mainshocks	B
 10	,	O
-11	and	O
-12	aftershocks	Eventuality-B
+11	mainshocks	O
+12	aftershocks	B
 13	-	O
 14	-	O
 15	that	O
@@ -251,6 +259,7 @@
 56	correctly	O
 57	.	O
 
+
 1	They	O
 2	would	O
 3	all	O
@@ -276,8 +285,9 @@
 23	events	O
 24	.	O
 
-1	Even	O
-2	magnitude	Trait-B
+
+1	aftershocks	O
+2	magnitude	B
 3	wouldn	O
 4	't	O
 5	let	O
@@ -286,60 +296,62 @@
 8	with	O
 9	certainty	O
 10	.	O
-
-1	Foreshocks	Eventuality-B
-2	and	O
-3	aftershocks	Eventuality-B
+0	magnitude	O
+1	Foreshocks	B
+2	Foreshocks	O
+3	aftershocks	B
 4	of	O
-5	very	O
-6	large	Trait-B
-7	events	Eventuality-B
+5	aftershocks	O
+6	large	B
+7	events	B
 8	can	O
 9	be	O
 10	larger	O
 11	than	O
-12	a	O
-13	moderate	Trait-B
-14	mainshock	Eventuality-B
+12	events	O
+13	moderate	B
+14	mainshock	B
 15	.	O
 
+
 1	Thus	O
-2	,	O
-3	foreshocks	Eventuality-B
+2	mainshock	O
+3	foreshocks	B
 4	cannot	O
 5	be	O
 6	positively	O
 7	identified	O
-8	as	O
-9	foreshocks	Eventuality-B
+8	foreshocks	O
+9	foreshocks	B
 10	until	O
 11	after	O
-12	the	O
-13	mainshock	Eventuality-B
+12	foreshocks	O
+13	mainshock	B
 14	has	O
 15	occurred	O
 16	.	O
+
 
 1	Even	O
 2	then	O
 3	,	O
 4	the	O
-5	"	O
-6	mainshock	Eventuality-B
+5	mainshock	O
+6	mainshock	B
 7	"	O
 8	will	O
 9	sometimes	O
 10	prove	O
 11	to	O
 12	be	O
-13	a	O
-14	large	Trait-B
-15	foreshock	Trait-B
+13	mainshock	O
+14	large	B
+15	foreshock	B
 16	of	O
 17	an	O
 18	even	O
-19	bigger	O
-20	earthquake	Eventuality-B
+19	foreshock	O
+20	earthquake	B
 21	,	O
 22	which	O
 23	will	O
@@ -348,13 +360,14 @@
 26	the	O
 27	position	O
 28	of	O
-29	the	O
-30	mainshock	Eventuality-B
+29	earthquake	O
+30	mainshock	B
 31	in	O
-32	that	O
-33	earthquake	Eventuality-B
-34	sequence	Trait-I
+32	mainshock	O
+33	earthquake	TraitI
+34	sequence	I
 35	.	O
+
 
 1	An	O
 2	important	O
@@ -370,21 +383,22 @@
 12	events	O
 13	above	O
 14	a	O
-15	certain	O
-16	magnitude	Trait-B
+15	sequence	O
+16	magnitude	B
 17	will	O
-18	have	O
-19	aftershocks	Eventuality-B
-20	,	O
-21	foreshocks	Eventuality-B
+18	magnitude	O
+19	aftershocks	B
+20	aftershocks	O
+21	foreshocks	B
 22	do	O
 23	not	O
 24	always	O
 25	occur	O
-26	before	O
-27	large	Trait-B
-28	earthquakes	Eventuality-B
+26	foreshocks	O
+27	large	B
+28	earthquakes	B
 29	.	O
+
 
 1	This	O
 2	will	O
@@ -395,14 +409,15 @@
 7	discuss	O
 8	the	O
 9	possibilities	O
-10	of	O
-11	earthquake	Eventuality-B
+10	earthquakes	O
+11	earthquake	B
 12	prediction	O
 13	later	O
 14	in	O
 15	this	O
 16	section	O
 17	.	O
+
 
 1	For	O
 2	now	O
@@ -413,9 +428,9 @@
 7	to	O
 8	our	O
 9	investigation	O
-10	of	O
-11	seismicity	Trait-B
-12	rates	Trait-I
+10	earthquake	O
+11	seismicity	B
+12	rates	I
 13	and	O
 14	those	O
 15	things	O
@@ -424,4 +439,5 @@
 18	affect	O
 19	them	O
 20	.	O
+
 

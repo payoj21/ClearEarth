@@ -2,10 +2,10 @@
 2	22	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	A	O
 10	Method	O
 11	to	O
@@ -15,15 +15,16 @@
 15	most	O
 16	important	O
 17	property	O
-18	of	O
-19	aftershock	Eventuality-B
-20	sequences	Eventuality-I
+18	Earthquakes	O
+19	aftershock	B
+20	sequences	I
 21	is	O
-22	the	O
-23	rate	Trait-B
-24	of	O
-25	decay	Eventuality-B
+22	sequences	O
+23	rate	B
+24	rate	O
+25	decay	B
 13	.	O
+
 
 1	The	O
 2	number	O
@@ -38,6 +39,7 @@
 11	time	O
 12	progresses	O
 13	.	O
+
 
 1	Expressed	O
 2	mathematically	O
@@ -65,6 +67,7 @@
 24	in	O
 25	1894	O
 26	.	O
+
 
 1	It	O
 2	states	O
@@ -100,6 +103,7 @@
 32	a	O
 33	constant	O
 34	.	O
+
 
 1	This	O
 2	means	O
@@ -141,10 +145,11 @@
 38	to	O
 39	the	O
 40	prior	O
-41	background	O
-42	seismicity	Trait-B
+41	decay	O
+42	seismicity	B
 43	rate	O
 44	.	O
+
 
 1	At	O
 2	this	O
@@ -157,6 +162,7 @@
 9	officially	O
 10	over	O
 11	.	O
+
 
 1	We	O
 2	saw	O
@@ -176,13 +182,14 @@
 16	Defined	O
 17	.	O
 
+
 1	The	O
 2	severity	O
 3	of	O
 4	decay	O
 5	in	O
-6	an	O
-7	aftershock	Eventuality-B
+6	seismicity	O
+7	aftershock	B
 8	sequence	O
 9	will	O
 10	influence	O
@@ -195,22 +202,24 @@
 17	sequence	O
 18	.	O
 
+
 1	Naturally	O
 2	,	O
-3	the	O
-4	duration	Trait-B
+3	aftershock	O
+4	duration	B
 5	of	O
-6	an	O
-7	aftershock	Eventuality-B
-8	sequence	Trait-I
+6	duration	O
+7	aftershock	TraitI
+8	sequence	I
 9	will	O
 10	depend	O
 11	upon	O
-12	its	O
-13	rate	Trait-B
-14	of	O
-15	decay	Eventuality-B
+12	sequence	O
+13	rate	B
+14	rate	O
+15	decay	B
 16	.	O
+
 
 1	Also	O
 2	,	O
@@ -234,6 +243,7 @@
 20	of	O
 21	aftershocks	O
 22	.	O
+
 
 1	This	O
 2	is	O
@@ -263,14 +273,15 @@
 26	sequence	O
 27	.	O
 
-1	Large	O
-2	aftershocks	Eventuality-B
+
+1	decay	O
+2	aftershocks	B
 3	can	O
 4	occur	O
 5	long	O
 6	after	O
-7	a	O
-8	mainshock	Eventuality-B
+7	aftershocks	O
+8	mainshock	B
 9	,	O
 10	they	O
 11	simply	O
@@ -281,10 +292,11 @@
 16	the	O
 17	total	O
 18	number	O
-19	of	O
-20	aftershocks	Eventuality-B
+19	mainshock	O
+20	aftershocks	B
 21	decays	O
 22	.	O
+
 
 1	In	O
 2	the	O
@@ -297,38 +309,39 @@
 9	at	O
 10	some	O
 11	of	O
-12	the	O
-13	variations	Trait-B
-14	within	O
-15	aftershock	Eventuality-B
-16	sequences	Eventuality-I
+12	aftershocks	O
+13	variations	B
+14	variations	O
+15	aftershock	B
+16	sequences	I
 17	,	O
 18	and	O
 19	ultimately	O
 20	,	O
 21	attempt	O
-22	to	O
-23	combine	Eventuality-B
-24	Omori	Trait-B
+22	sequences	O
+23	combine	B
+24	Omori	B
 25	's	O
 26	Law	O
 27	with	O
 28	the	O
 29	Gutenberg-Richter	O
 30	relation	O
-31	to	O
-32	arrive	Eventuality-B
+31	Omori	O
+32	arrive	B
 33	at	O
 34	a	O
 35	way	O
 36	to	O
 37	anticipate	O
-38	the	O
-39	activity	Eventuality-B
+38	arrive	O
+39	activity	B
 40	of	O
 41	a	O
-42	specific	O
-43	aftershock	Eventuality-B
-44	sequence	Trait-I
+42	activity	O
+43	aftershock	TraitI
+44	sequence	I
 45	.	O
+
 

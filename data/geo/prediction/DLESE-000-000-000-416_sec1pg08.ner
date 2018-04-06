@@ -4,21 +4,23 @@
 4	-	O
 5	What	O
 6	is	O
-7	an	O
-8	Earthquake	Eventuality-B
+7		O
+8	Earthquake	B
 9	.	O
+
 
 1	"	O
 2	What	O
 3	causes	O
-4	the	O
-5	rupture	Eventuality-B
+4	Earthquake	O
+5	rupture	B
 6	to	O
 7	come	O
 8	to	O
 9	a	O
 10	stop	O
 11	.	O
+
 
 1	"	O
 2	The	O
@@ -32,6 +34,7 @@
 10	researched	O
 10	.	O
 
+
 1	While	O
 2	it	O
 3	may	O
@@ -44,12 +47,12 @@
 10	factors	O
 11	that	O
 12	control	O
-13	the	O
-14	size	Trait-B
+13	rupture	O
+14	size	B
 15	of	O
-16	a	O
-17	fault	Environment_Context-B
-18	rupture	Eventuality-B
+16	size	O
+17	fault	B
+18	rupture	B
 19	,	O
 20	and	O
 21	thus	O
@@ -74,6 +77,7 @@
 40	experiments	O
 41	.	O
 
+
 1	Obtaining	O
 2	the	O
 3	answer	O
@@ -87,29 +91,30 @@
 11	processes	O
 12	at	O
 13	work	O
-14	in	O
-15	fault	Environment_Context-B
-16	ruptures	Eventuality-B
+14	rupture	O
+15	fault	B
+16	ruptures	B
 17	,	O
 18	and	O
-19	might	O
-20	provide	Eventuality-B
+19	ruptures	O
+20	provide	B
 21	more	O
 22	understanding	O
 23	of	O
 24	what	O
 25	leads	O
 26	to	O
-27	the	O
-28	onset	Trait-B
-29	of	O
-30	rupture	Eventuality-B
+27	provide	O
+28	onset	B
+29	onset	O
+30	rupture	B
 31	and	O
-32	the	O
-33	earthquakes	Eventuality-B
+32	rupture	O
+33	earthquakes	B
 34	which	O
 35	result	O
 36	.	O
+
 
 1	Since	O
 2	laboratory	O
@@ -118,27 +123,27 @@
 5	short	O
 6	of	O
 7	duplicating	O
-8	the	O
-9	natural	Environment_Context-B
+8	earthquakes	O
+9	natural	B
 10	proces	O
-11	of	O
-12	fault	Environment_Context-B
-13	rupture	Eventuality-B
+11	natural	O
+12	fault	B
+13	rupture	B
 14	,	O
 15	researchers	O
 16	must	O
 17	use	O
 18	data	O
 19	from	O
-20	actual	O
-21	earthquakes	Eventuality-B
+20	rupture	O
+21	earthquakes	B
 22	in	O
 23	their	O
 24	studies	O
 25	.	O
-
-1	Southern	Location-B
-2	California	Location-B
+0	earthquakes	O
+1	Southern	B
+2	California	B
 3	is	O
 4	an	O
 5	excellent	O
@@ -149,10 +154,11 @@
 10	data	O
 11	.	O
 
+
 1	Not	O
 2	only	O
-3	are	O
-4	earthquakes	Eventuality-B
+3	California	O
+4	earthquakes	B
 5	common	O
 6	here	O
 7	,	O
@@ -172,6 +178,7 @@
 21	monitoring	O
 22	equipment	O
 23	.	O
+
 
 1	These	O
 2	instruments	O
@@ -208,6 +215,7 @@
 33	faults	O
 34	.	O
 
+
 1	We	O
 2	will	O
 3	study	O
@@ -219,6 +227,7 @@
 9	later	O
 10	sections	O
 11	.	O
+
 
 1	Surely	O
 2	,	O
@@ -241,6 +250,7 @@
 19	alone	O
 20	.	O
 
+
 1	In	O
 2	addition	O
 3	to	O
@@ -251,28 +261,28 @@
 8	excellent	O
 9	instrumental	O
 10	coverage	O
-11	,	O
-12	southern	Direction-B
-13	California	Location-B
+11	earthquakes	O
+12	southern	B
+13	California	B
 14	has	O
 15	an	O
 16	advantage	O
 17	for	O
 18	researchers	O
 19	that	O
-20	some	O
-21	parts	Direction-B
+20	California	O
+21	parts	B
 22	of	O
-23	the	O
-24	world	Environment_Context-B
+23	parts	O
+24	world	B
 25	do	O
 26	not	O
 27	-	O
 28	-	O
 29	every	O
 30	kind	O
-31	of	O
-32	slip	Eventuality-B
+31	world	O
+32	slip	B
 33	can	O
 34	be	O
 35	found	O
@@ -280,28 +290,29 @@
 37	,	O
 38	on	O
 39	at	O
-40	least	O
-41	one	Value-B
+40	slip	O
+41	one	B
 42	of	O
-43	the	O
-44	dozens	Value-B
-45	of	O
-46	significant	Trait-B
-47	,	O
-48	active	Environment_Context-B
-49	fault	Environment_Context-B
-50	zones	Environment_Context-I
+43	one	O
+44	dozens	B
+45	dozens	O
+46	significant	B
+47	significant	O
+48	active	B
+49	fault	B
+50	zones	I
 51	.	O
+
 
 1	The	O
 2	sheer	O
 3	number	O
 4	of	O
-5	active	O
-6	faults	Environment_Context-B
-7	in	O
-8	southern	Direction-B
-9	California	Location-B
+5	zones	O
+6	faults	B
+7	faults	O
+8	southern	B
+9	California	B
 10	presents	O
 11	researchers	O
 12	with	O
@@ -310,4 +321,5 @@
 15	of	O
 16	opportunities	O
 17	.	O
+
 

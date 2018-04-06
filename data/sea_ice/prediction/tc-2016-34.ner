@@ -1,15 +1,15 @@
 1	The	O
-2	EUMETSAT	O
-3	sea	ice_form-B
-4	ice	ice_form-I
+2		O
+3	sea	B
+4	ice	I
 5	climate	O
 6	record	O
 7	An	O
 8	Arctic	O
 9	and	O
-10	Antarctic	O
-11	sea	ice_form-B
-12	ice	ice_form-I
+10	ice	O
+11	sea	B
+12	ice	I
 13	area	O
 14	and	O
 15	extent	O
@@ -21,9 +21,9 @@
 21	EUMETSAT	O
 22	's	O
 23	Ocean	O
-24	and	O
-25	Sea	ice_form-B
-26	Ice	ice_form-I
+24	ice	O
+25	Sea	B
+26	Ice	I
 27	Satellite	O
 28	Application	O
 29	Facility	O
@@ -81,6 +81,7 @@
 81	sensors	O
 76	.	O
 
+
 1	The	O
 2	dataset	O
 3	covers	O
@@ -105,6 +106,7 @@
 22	the	O
 23	project	O
 24	.	O
+
 
 1	The	O
 2	methodology	O
@@ -151,9 +153,9 @@
 43	in	O
 44	residual	O
 45	atmospheric	O
-46	,	O
-47	sea	ice_form-B
-48	ice	ice_form-I
+46	Ice	O
+47	sea	B
+48	ice	I
 49	and	O
 50	water	O
 51	emission	O
@@ -168,17 +170,17 @@
 60	)	O
 61	and	O
 62	a	O
-63	hybrid	O
-64	sea	ice_form-B
-65	ice	ice_form-I
+63	ice	O
+64	sea	B
+65	ice	I
 66	concentration	O
 67	algorithm	O
 68	using	O
 69	the	O
 70	Bristol	O
 71	algorithm	O
-72	over	O
-73	ice	ice-B
+72	ice	O
+73	ice	B
 74	and	O
 75	the	O
 76	Bootstrap	O
@@ -186,10 +188,11 @@
 78	in	O
 79	frequency	O
 80	mode	O
-81	over	O
-82	open	ice_con-B
-83	water	ice_con-I
+81	ice	O
+82	open	B
+83	water	I
 84	.	O
+
 
 1	A	O
 2	new	O
@@ -203,18 +206,19 @@
 10	spatially	O
 11	and	O
 12	temporally	O
-13	varying	O
-14	sea	ice_form-B
-15	ice	ice_form-I
+13	water	O
+14	sea	B
+15	ice	I
 16	concentration	O
 17	uncertainties	O
 18	.	O
 
+
 1	A	O
 2	comparison	O
-3	to	O
-4	sea	ice_form-B
-5	ice	ice_form-I
+3	ice	O
+4	sea	B
+5	ice	I
 6	charts	O
 7	from	O
 8	the	O
@@ -244,9 +248,10 @@
 32	concentrations	O
 33	.	O
 
-1	The	O
-2	sea	ice_form-B
-3	ice	ice_form-I
+
+1	ice	O
+2	sea	B
+3	ice	I
 4	climate	O
 5	dataset	O
 6	is	O
@@ -260,4 +265,5 @@
 14	including	O
 15	documentation	O
 16	.	O
+
 

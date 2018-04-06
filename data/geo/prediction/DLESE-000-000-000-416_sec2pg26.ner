@@ -2,10 +2,10 @@
 2	26	O
 3	-	O
 4	-	O
-5	The	O
-6	Distribution	Trait-B
-7	of	O
-8	Earthquakes	Eventuality-B
+5		O
+6	Distribution	B
+7	Distribution	O
+8	Earthquakes	B
 9	"	O
 10	Is	O
 11	there	O
@@ -13,22 +13,23 @@
 13	way	O
 14	to	O
 15	recognize	O
-16	a	O
-17	foreshock	Eventuality-B
+16	Earthquakes	O
+17	foreshock	B
 18	before	O
-19	the	O
-20	mainshock	Eventuality-B
-21	strikes	Eventuality-I
+19	foreshock	O
+20	mainshock	B
+21	strikes	I
 14	.	O
 
+
 1	"	O
-2	Recognizing	O
-3	foreshocks	Eventuality-B
+2	strikes	O
+3	foreshocks	B
 4	in	O
 5	advance	O
 6	of	O
-7	the	O
-8	mainshock	Eventuality-B
+7	foreshocks	O
+8	mainshock	B
 9	has	O
 10	,	O
 11	quite	O
@@ -41,12 +42,13 @@
 18	of	O
 19	seismologists	O
 20	ever	O
-21	since	O
-22	foreshocks	Eventuality-B
+21	mainshock	O
+22	foreshocks	B
 23	were	O
 24	first	O
 25	recognized	O
 25	.	O
+
 
 1	The	O
 2	reality	O
@@ -72,14 +74,15 @@
 22	identifications	O
 23	.	O
 
-1	If	O
-2	foreshocks	Eventuality-B
+
+1	foreshocks	O
+2	foreshocks	B
 3	could	O
 4	be	O
 5	consistently	O
 6	recognized	O
-7	as	O
-8	foreshocks	Eventuality-B
+7	foreshocks	O
+8	foreshocks	B
 9	,	O
 10	this	O
 11	would	O
@@ -91,18 +94,19 @@
 17	quickly	O
 18	,	O
 19	since	O
-20	some	O
-21	foreshocks	Eventuality-B
+20	foreshocks	O
+21	foreshocks	B
 22	preceed	O
-23	their	O
-24	mainshocks	Eventuality-B
+23	foreshocks	O
+24	mainshocks	B
 25	by	O
 26	less	O
 27	than	O
-28	a	O
-29	few	Value-B
-30	hours	Unit-B
+28	mainshocks	O
+29	few	B
+30	hours	B
 31	.	O
+
 
 1	Given	O
 2	the	O
@@ -131,20 +135,21 @@
 25	identification	O
 26	.	O
 
+
 1	And	O
-2	since	O
-3	foreshocks	Eventuality-B
+2	hours	O
+3	foreshocks	B
 4	are	O
 5	apparently	O
 6	identical	O
 7	to	O
-8	other	O
-9	earthquakes	Eventuality-B
+8	foreshocks	O
+9	earthquakes	B
 10	in	O
 11	their	O
-12	"	O
-13	seismic	Trait-B
-14	signature	Trait-I
+12	earthquakes	O
+13	seismic	B
+14	signature	I
 15	"	O
 16	-	O
 17	-	O
@@ -155,8 +160,8 @@
 22	cannot	O
 23	distinguish	O
 24	them	O
-25	from	O
-26	seismograms	Trait-B
+25	signature	O
+26	seismograms	B
 27	alone	O
 28	-	O
 29	-	O
@@ -173,6 +178,7 @@
 40	identifies	O
 41	them	O
 42	.	O
+
 
 1	That	O
 2	context	O
@@ -192,6 +198,7 @@
 16	be	O
 17	high	O
 18	.	O
+
 
 1	Incomplete	O
 2	data	O
@@ -233,6 +240,7 @@
 38	credibility	O
 39	.	O
 
+
 1	By	O
 2	far	O
 3	the	O
@@ -244,12 +252,13 @@
 9	is	O
 10	that	O
 11	not	O
-12	all	O
-13	large	Trait-B
-14	earthquakes	Eventuality-B
-15	have	O
-16	foreshocks	Eventuality-B
+12	seismograms	O
+13	large	B
+14	earthquakes	B
+15	earthquakes	O
+16	foreshocks	B
 17	.	O
+
 
 1	Accurate	O
 2	forecasting	O
@@ -259,29 +268,30 @@
 6	but	O
 7	not	O
 8	all	O
-9	,	O
-10	large	Trait-B
-11	earthquakes	Eventuality-B
+9	foreshocks	O
+10	large	B
+11	earthquakes	B
 12	could	O
 13	leave	O
 14	the	O
 15	public	O
 16	with	O
 17	a	O
-18	false	O
-19	sense	Trait-B
-20	of	O
-21	security	Environment_Context-B
+18	earthquakes	O
+19	sense	B
+20	sense	O
+21	security	B
 22	,	O
 23	unprepared	O
 24	for	O
-25	the	O
-26	quake	Environment_Context-B
+25	security	O
+26	quake	B
 27	that	O
 28	isn	O
 29	't	O
 30	predicted	O
 31	.	O
+
 
 1	That	O
 2	's	O
@@ -313,6 +323,7 @@
 28	do	O
 29	.	O
 
+
 1	To	O
 2	give	O
 3	you	O
@@ -323,16 +334,17 @@
 8	difficulties	O
 9	involved	O
 10	in	O
-11	recognizing	O
-12	foreshocks	Eventuality-B
+11	quake	O
+12	foreshocks	B
 13	and	O
-14	an	O
-15	impending	Eventuality-B
-16	mainshock	Eventuality-B
+14	foreshocks	O
+15	impending	B
+16	mainshock	B
 17	,	O
 18	try	O
-19	the	O
-20	activity	Eventuality-B
+19	mainshock	O
+20	activity	B
 21	below	O
 22	.	O
+
 

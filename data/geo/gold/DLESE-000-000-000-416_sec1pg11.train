@@ -126,7 +126,7 @@
 16 this O
 17 is O
 18 a O
-19 northeast-striking Direction-B
+19 northeast-striking Environment_Context-B
 20 fault Environment_Context-I
 21 " O
 22 . O
@@ -258,7 +258,7 @@
 12 " O
 13 at O
 14 74˚ Value-B
-15 in Unit-I
+15 in O
 16 the O
 17 direction Trait-B
 18 of O

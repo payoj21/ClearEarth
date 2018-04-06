@@ -61,7 +61,7 @@
 21 as O
 22 detritus Aggregate_Biotic_Abiotic_Entity-B
 23 , O
-24 micro-inorganic Quality-B
+24 micro-inorganic Abiotic_Entity-B
 25 material Abiotic_Entity-I
 26 and O
 27 associated O
