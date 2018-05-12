@@ -1,0 +1,370 @@
+
+
+1	Page	O
+2	28	O
+3	-	O
+4	-	O
+5	The	O
+6	Distribution	Trait-B
+7	of	O
+8	Earthquakes	Eventuality-B
+
+
+
+
+
+
+
+
+1	"	O
+2	How	O
+3	can	O
+4	we	O
+5	study	O
+6	earthquakes	Eventuality-B
+7	from	O
+8	the	O
+9	time	O
+10	before	O
+11	seismic	Eventuality-B
+12	networks	Eventuality-I
+13	existed	O
+14	?	O
+15	"	O
+
+
+1	The	O
+2	shaking	O
+3	produced	O
+4	by	O
+5	earthquakes	Eventuality-B
+6	is	O
+7	now	O
+8	recorded	O
+9	efficiently	O
+10	and	O
+11	precisely	O
+12	on	O
+13	seismic	Trait-B
+14	instruments	O
+15	,	O
+16	but	O
+17	before	O
+18	such	O
+19	devices	O
+20	existed	O
+21	,	O
+22	earthquakes	Eventuality-B
+23	that	O
+24	produced	O
+25	strong	O
+26	shaking	O
+27	were	O
+28	still	O
+29	recorded	O
+30	anecdotally	O
+31	-	O
+32	-	O
+33	in	O
+34	newspaper	O
+35	stories	O
+36	,	O
+37	official	O
+38	logs	O
+39	,	O
+40	various	O
+41	forms	O
+42	of	O
+43	correspondence	O
+44	,	O
+45	or	O
+46	personal	O
+47	journals	O
+48	.	O
+
+1	Collecting	O
+2	these	O
+3	sorts	O
+4	of	O
+5	reports	O
+6	can	O
+7	be	O
+8	difficult	O
+9	,	O
+10	but	O
+11	with	O
+12	enough	O
+13	detailed	O
+
+1	descriptions	O
+2	or	O
+3	even	O
+4	brief	O
+5	mentions	O
+6	of	O
+7	an	O
+8	earthquake	Eventuality-B
+9	from	O
+10	locations	O
+11	scattered	O
+12	across	O
+13	the	O
+14	state	O
+15	,	O
+16	it	O
+17	is	O
+18	possible	O
+19	to	O
+20	determine	O
+21	rough	O
+22	locations	O
+23	and	O
+24	magnitudes	O
+25	for	O
+26	large	O
+27	events	O
+28	.	O
+
+
+1	This	O
+2	is	O
+3	done	O
+4	by	O
+5	creating	O
+6	an	O
+7	isoseismal	O
+8	map	O
+9	,	O
+10	something	O
+11	you	O
+12	will	O
+13	have	O
+14	the	O
+15	chance	O
+16	to	O
+17	do	O
+18	in	O
+19	Section	O
+20	3	O
+21	of	O
+22	this	O
+23	module	O
+24	.	O
+
+1	Making	O
+2	this	O
+3	kind	O
+4	of	O
+5	map	O
+6	involves	O
+7	quantifying	O
+8	the	O
+9	intensity	O
+10	of	O
+11	the	O
+12	shaking	O
+13	at	O
+14	various	O
+15	locations	O
+16	(	O
+17	based	O
+18	upon	O
+19	the	O
+20	effects	O
+21	or	O
+22	damage	O
+23	that	O
+24	result	O
+25	)	O
+26	,	O
+27	and	O
+28	then	O
+29	drawing	O
+30	contour	O
+31	lines	O
+32	to	O
+33	enclose	O
+34	points	O
+35	of	O
+36	similar	O
+37	intensity	O
+38	.	O
+
+1	The	O
+2	result	O
+3	is	O
+4	a	O
+5	sort	O
+6	of	O
+7	target-like	O
+8	pattern	O
+9	,	O
+10	with	O
+11	the	O
+12	epicenter	O
+13	at	O
+14	the	O
+15	bull	O
+16	's-eye	O
+17	,	O
+18	as	O
+19	shown	O
+20	in	O
+21	the	O
+22	example	O
+23	at	O
+24	left	O
+25	(	O
+26	click	O
+27	the	O
+28	map	O
+29	to	O
+30	view	O
+31	a	O
+32	larger	O
+33	image	O
+34	)	O
+35	.	O
+
+1	By	O
+2	comparing	O
+3	the	O
+4	size	O
+5	of	O
+6	these	O
+7	contours	O
+8	with	O
+9	those	O
+10	of	O
+11	events	O
+12	for	O
+13	which	O
+14	instrumental	O
+15	magnitudes	O
+16	were	O
+17	measured	O
+18	,	O
+19	it	O
+20	is	O
+21	also	O
+22	possible	O
+23	to	O
+24	estimate	O
+25	the	O
+26	energy	Abiotic_Entity-B
+27	released	Eventuality-B
+28	by	O
+29	the	O
+30	earthquake	Eventuality-B
+31	,	O
+32	and	O
+33	assign	O
+34	an	O
+35	approximate	O
+36	magnitude	Trait-B
+37	.	O
+
+
+1	These	O
+2	techniques	O
+3	have	O
+4	limits	O
+5	,	O
+6	of	O
+7	course	O
+8	.	O
+
+1	As	O
+2	you	O
+3	look	O
+4	farther	O
+5	into	O
+6	the	O
+7	past	O
+8	in	O
+9	a	O
+10	given	O
+11	area	O
+12	,	O
+13	residents	O
+14	and	O
+15	written	O
+16	records	O
+17	will	O
+18	dwindle	O
+19	,	O
+20	and	O
+21	the	O
+22	quality	O
+23	of	O
+24	the	O
+25	data	O
+26	will	O
+27	suffer	O
+28	.	O
+
+1	Eventually	O
+2	,	O
+3	large	Trait-B
+4	earthquakes	Eventuality-B
+5	will	O
+6	go	O
+7	completely	O
+8	unnoticed	Direction-B
+9	or	O
+10	unreported	Time-B
+11	.	O
+
+1	Once	O
+2	such	O
+3	gaps	O
+4	develop	O
+5	in	O
+6	the	O
+7	historical	O
+8	record	O
+9	,	O
+10	the	O
+11	data	O
+12	you	O
+13	can	O
+14	gather	O
+15	is	O
+16	no	O
+17	longer	O
+18	complete	O
+19	,	O
+20	even	O
+21	for	O
+22	the	O
+23	largest	O
+24	earthquakes	Eventuality-B
+25	,	O
+26	and	O
+27	it	O
+28	becomes	O
+29	invalid	O
+30	as	O
+31	a	O
+32	representation	O
+33	of	O
+34	the	O
+35	seismicity	Trait-B
+36	rate	Trait-I
+37	.	O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

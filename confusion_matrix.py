@@ -1,4 +1,5 @@
 from collections import defaultdict
+import codecs
 def confusion_matrix(evaluate_script, entity_list):
     """
     Given a matrix of test examples and labels, compute the confusion
@@ -30,8 +31,10 @@ def confusion_matrix(evaluate_script, entity_list):
     #         print("%i/%i for confusion matrix" % (data_index, len(test_x)))
     # return d
 
-    f = open(evaluate_script, 'r', encoding= 'utf-8')
-
+    f = codecs.open(evaluate_script, 'r', encoding= 'utf-8')
+    for ent1 in entity_list:
+        for ent2 in entity_list:
+            d[ent1][ent2] = 0
     for line in f:
         if line != '\n':
 
@@ -40,6 +43,7 @@ def confusion_matrix(evaluate_script, entity_list):
             # print(content)
             gold = content[1].lower()
             prediction = content[2].lower()
+            print gold , prediction
             # print(gold +'\t\t'+ prediction)
 
             # if gold in d:
@@ -69,10 +73,10 @@ def confusion_matrix(evaluate_script, entity_list):
 # entity_files = ["data/geo/entity_types.txt","data/bio/entity_types.txt","data/sea_ice/entity_types.txt"]
 # evaluate_script_files = ["data/geo/evaluate_script.txt","data/bio/evaluate_script.txt","data/sea_ice/evaluate_script.txt"]
 
-entity_files = ["data/sea_ice/entity_types.txt"]
-evaluate_script_files = ["data/sea_ice/evaluate_script.txt"]
+entity_files = ["data/bio/entity_types.txt"]
+evaluate_script_files = ["data/bio/evaluate_script.txt"]
 for i, filename in enumerate(entity_files):
-    f = open(filename, 'r')
+    f = codecs.open(filename, 'r', encoding = 'utf-8')
     print(filename[filename.find('/'):filename.find('/entity')].upper())
     entity = []
     for line in f:

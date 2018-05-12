@@ -1,4 +1,4 @@
-processed 104 tokens with 25 phrases; found: 16 phrases; correct: 0.
-accuracy:  30.77%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  16
+processed 7 tokens with 2 phrases; found: 1 phrases; correct: 0.
+accuracy:  28.57%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
                 I: precision:   0.00%; recall:   0.00%; FB1:   0.00  0

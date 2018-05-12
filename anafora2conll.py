@@ -31,9 +31,9 @@ def conv2train(filename, path):
 
 	arr = path.split('/');
 	# print(arr)
-	path_to_text = arr[0]+'/'+arr[1]+'/txt/'
+	path_to_text = arr[0]+'/'+arr[1]+'/txt_test/'
 	# print(path_to_text)
-	path_to_train = arr[0]+'/'+arr[1]+'/train/'
+	path_to_train = arr[0]+'/'+arr[1]+'/train_test/'
 	# print(path_to_train)
 	print(filename)
 	txtfile = open(path_to_text+filename[:filename.find('.')] + '.txt', 'r', encoding = 'utf-8').read()
@@ -55,8 +55,8 @@ def conv2train(filename, path):
 #	print(filetokens)
 	ongoing_index = 0
 	for tok in filetokens:
-		if tok == '``' or tok == "''":
-			tok = '"'
+		if tok == '``' or tok == "''" or tok == "’" or tok == "’":
+			tok = '"' 
 		index = txtfile.find(tok, ongoing_index)
 		# print(index)
 		if index == -1:

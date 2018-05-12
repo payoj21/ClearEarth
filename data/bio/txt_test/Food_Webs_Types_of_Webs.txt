@@ -1,0 +1,16 @@
+
+Kinds of food webs
+
+Food webs are necessarily aggregated and only illustrate a tiny portion of the complexity of real ecosystems. For example, the number of species on the planet are likely in the general order of 10^7, over 95% of these species consist of microbes and invertebrates, and relatively few have been named or classified by taxonomists. It is explicitly understood that natural systems are 'sloppy' and that food web trophic positions simplify the complexity of real systems that sometimes overemphasize many rare interactions. Most studies focus on the larger influences where the bulk of energy transfer occurs. "These omissions and problems are causes for concern, but on present evidence do not present insurmountable difficulties."
+
+There are different kinds or categories of food webs:
+
+* Source web - one or more node(s), all of their predators, all the food these predators eat, and so on.
+* Sink web - one or more node(s), all of their prey, all the food that these prey eat, and so on.
+* Community (or connectedness) web - a group of nodes and all the connections of who eats whom.
+* Energy flow web - quantified fluxes of energy between nodes along links between a resource and a consumer.
+* Paleoecological web - a web that reconstructs ecosystems from the fossil record.
+* Functional web - emphasizes the functional significance of certain connections having strong interaction strength and greater bearing on community organization, more so than energy flow pathways. Functional webs have compartments, which are sub-groups in the larger network where there are different densities and strengths of interaction. Functional webs emphasize that "the importance of each population in maintaining the integrity of a community is reflected in its influence on the growth rates of other populations."
+
+Within these categories, food webs can be further organized according to the different kinds of ecosystems being investigated. For example, human food webs, agricultural food webs, detrital food webs, marine food webs, aquatic food webs, soil food webs, Arctic (or polar) food webs, terrestrial food webs, and microbial food webs. These characterizations stem from the ecosystem concept, which assumes that the phenomena under investigation (interactions and feedback loops) are sufﬁcient to explain patterns within boundaries, such as the edge of a forest, an island, a shoreline, or some other pronounced physical characteristic.
+

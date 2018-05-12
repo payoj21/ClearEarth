@@ -1,0 +1,103 @@
+Introduction to Plate Tectonics 
+
+SLU EAS-A193 Class Notes 
+
+An Introduction to Plate Tectonics 
+
+Topography/Bathymetry 
+
+To a first approximation, Earth is a composite of elevated continents and deep ocean basins. We use the present-day sea level to reference topography and bathymetry and the average elevation of the continents is 840 meters, the average depth of the oceans is 3800 meters. The maximum continental elevation is about 8848 meters (Mt. Everest) and the deepest trench is about 10,000 meters (Mariana Trench). 
+
+Present-day coastlines are outlined in black, but the margins of the continents are better approximated by the base of the continental shelf, which is often located at about 500 fathoms (about 900 meters). High continental elevations are shown with gray and white, the lowest with green, and the browns are intermediate. The lightest blue shade corresponds to the shallowest part of the ocean floor, the darker blue shades identify deeper regions. 
+
+The Plates 
+
+In the last century we have gathered much evidence to support the idea that Earth's surface is broken up into "lithospheric" plates that slowly move over the top of the mantle. The map below shows the major plates. 
+
+What Is A Plate? 
+
+Plates are large pieces of the upper few hundred kilometers of Earth that move more or less as a single unit. It is easier to think of plates as rigid "rafts" floating on the mantle, but some plates also have some internal deformation. However, it is clear that the most active deformation of the plates occurs along their boundaries, where they interact with other plates. 
+
+The precise thickness of a plate varies from place to place, but away from plate margins, plates are usually on the order of 100-200 km thick. Earlier we described the structure of Earth using chemical differences in the structure to identify the crust, mantle, and core. Plates are defined not on chemical differences, but using rock strength, and they are composed of the crust and the uppermost part of the mantle. 
+The precise lower boundary of a plate depends on the temperature of the mantle material. At about 1300&deg;C typical mantle material begins to melt, and softens dramatically. We call that part of the mantle asthenosphere, to indicate that it is a weak zone, that "decouples" the plate from the overlying mantle (actually, there is undoubtedly some "drag" forces that act between the two, but the lithosphere can move independently of the deeper mantle. 
+
+Continental Drift, Sea-Floor Spreading, and Plate Tectonics 
+
+Since the construction of the first good maps of the continents, people have puzzled over the close match between the coastlines of South America and Africa. 
+
+The first to seriously investigate the connection was Alfred Wegener, a German meteorologist who proposed the continental drift hypothesis (between 1919-1929) to explain the observed shape of the coastlines and several other geologic observations regarding the observation of fossils and rocks on opposite sides of the ocean. Wegener proposed that at one time, all the present-day continents actually were combined into a "super-continent" which he called Pangaea (or Pangea). 
+
+At the time not much was known about the oceanic and continental crust and they were assumed to be similar in age and structure (that's the simplest idea). This created a problem for Wegener's hypothesis since he had no mechanism for his continents to plow through the ocean floors. Without an explanation for this critical part of his model, scientists were reluctant to accept his ideas. It was decades before the mechanism to move the continents was discovered (Sea-Floor Spreading), and Wegener's ideas vindicated when Continental Drift and Sea-Floor Spreading were synthesized to create Plate Tectonics. 
+
+Ocean Floors and Continents 
+
+Following World War II, a great deal was learned about sea-floor bathymetry as governments supported exploration of the ocean depths. As a result of that work, the variety of structures in the ocean bottom were identified and mapped, including a 40,000 km long ridge system that encircles the planet (the ridge system is identified in the map above by the light shaded regions near away from the continents). Scientists also discovered that the oceanic crust was fundamentally different from the continental crust, it was thinner, had a different composition, and was magnetic. 
+
+Additionally, the rocks composing the continental crust are very old, some formed as much as 3.8 billion years ago. For a long time we had no direct way to sample the rocks in the deep ocean and had very little knowledge about the nature of the ocean floor. In the 1950's and 1960's scientists worked out a way of estimating the age of the ocean floor using characteristics of Earth's magnetic field. To understand the line of argument, we must review some basic ideas about magnetism and rocks. 
+
+The Geomagnetic Field 
+
+The "geomagnetic" field is generated by motions of the iron in the outer core. One property of a moving conductor (such as the flowing iron in the outer core) is that it produces a magnetic field. That same magnetic field allows us to use a compass to navigate around Earth's surface. The compass needle is a small magnetic that aligns itself with Earth's magnetic "flow lines" (a magnetic field is a vector quantity, it has a direction and magnitude). In a way, compasses are instruments for measuring the direction of Earth's magnetic field. 
+The compass is useful as a navigation tool because Earth's magnetic field is relatively simple, and has magnetic "poles" located near the north and south geographic poles. In fact, about 70% of Earth's magnetic field (observed at the surface) is composed of a simple "dipole" component that looks like the same pattern you get from a bar magnet. The remaining 30% is more complicated and changes with time, in many places tending to drift westward about a kilometer per year. 
+
+The magnetic flow lines are shown in the cartoon above as gray curves, with arrows indicating the direction of "flow". Note that the orientation of the lines varies as a function of latitude. Near the equator, the magnetic field is nearly horizontal, near the poles it becomes more vertical. In fact, you could use this fact to estimate how far north or south you are if you could measure the "inclination" of the magnetic field with respect to Earth's surface. 
+
+Rocks and Magnetic Fields 
+
+In the geosciences, the Earth's magnetic filed provides some valuable information on the location of rocks when they form. Some rocks are formed by the solidification of lava or magma (melted rock). As the lava cools the iron they contain is preferentially oriented by the magnetic field of Earth, like mini-compasses. As the rock continues to cool, its temperature decreases below what we call the "blocking temperature" and the magnetically induced alignment of iron is is frozen into the rock. The net result is that the rock behaves like a very weak magnet and storing information on the orientation of Earth's magnetic field at the time the rock cooled. In the 1950's and 1960's scientists used the magnetic field-information stored in rocks to investigate the behavior of the geomagnetic field. They were able to date the age of lava flows using radioactive dating techniques (which we discussed earlier) and identify the orientation and strength of the magnetic field during the past. What they found is that at irregular intervals, Earth's magnetic field reverses polarity. The north magnetic pole and the south magnetic pole exchange places (the geographic poles do not change, the magnetic field changes). Undoubtedly the reason for the changes has to do with the complex convective motions of the iron in the outer core and understanding the physics of the field generation and behavior is one of the current areas of exciting and intense geophysical research). We have constructed a relatively thorough history of the magnetic-field polarity using rocks. 
+
+We are unsure of precisely how long such polarity changes take to occur or exactly what the behavior of the magnetic field is during the reversals. A prolonged period of a weak magnetic field could cause substantial communication and navigation problems on Earth and remove and important shield from the solar wind (charge particles streaming outward from the Sun). 
+
+Magnetic Stripes in the Ocean Floor 
+
+Around the same time that scientists were working out the history of the magnetic field using continental rocks, others were investigating the nature of the magnetic characteristics of the oceanic crust. By towing magnetometers behind ships, they were able to measure the intensity of the magnetic field at sea-level. That field was composed of the present day field (which the scientists could compute and subtract from the measurements) and the magnetic signal produced by the oceanic crust. What they found was the the intensity of the field alternated between high and low values as if the ocean floor was also recording the polarity reversals of Earth's magnetic field. The alternating patterns were symmetric about bathymetric ridges that were recently mapped and known encircled the globe. As work continued on both polarity reversals and mapping the magnetic patterns on the floor, scientists figured out that one way to explain the observations was to have a process where ocean crust was formed along the ridges moved out in a conveyor-belt like fashion. This "sea-floor spreading" hypothesis explained the observations and linked the measurements on volcanic rocks on land and the observations in the ocean crust. By comparing the magnetic time scale constructed on land using radiometric age dating and volcanic rocks with the patterns from the ocean floor, scientists were able to construct maps of the age of the ocean floor. 
+
+The youngest regions are shown in red (age &lt; 2 Ma) and red-orange (age 2 Ma &lt; 5 Ma), the older regions in orange, gold, yellow, green, blue, and violet. The ocean ridge system shows up as an interconnected ribbon of red and red-range indicating that the ridges are the youngest part of the oceans. Spreading is slower in the mid-Atlantic than along the east-Pacific. The original digital data are courtesy of researchers at the Scripps Institute of Oceanography). 
+
+The result of this work (and other geologic investigations) is shown in the map above. The red regions show the youngest oceanic crust, located along the ocean ridges. The age pattern indicates that the the Atlantic, Indian, and eastern part of the Pacific oceans are growing. With a little study you can also deduce that the growth rates vary. For example, the east Pacific region is spreading faster than the central Atlantic. 
+
+Plate Boundary Types 
+
+Divergent Plate Boundaries 
+
+The mid-ocean ridges are one of the three basic types of plate boundaries. We call them divergent plate boundaries because the plate material on either side of the margin is spreading apart. The spreading is a result of forces pulling the oceanic lithosphere on either side of the ridge in opposite directions. The forces are produced by mantle convection and gravity. As the plates are pulled apart, magma is extracted from the mantle to fill in the void. The magma cools and records the magnetic field characteristics. The process is slow but relentless. 
+
+The oceanic crust is shown with "magnetic stripes" indicating the polarity of Earth's magnetic field at the time that part of the ocean formed. The region where oceanic lithosphere is manufactured is topographically high because of the high temperatures associated with the thin lithosphere. The thermal expansion of the material beneath the ridge maintains the high elevation and produces a gravitational force that helps slide the two plates apart (this force is called ridge push). 
+
+The ridges are regions of earthquake activity. As you should expect, the pulling apart of the two plates is expressed by normal faulting events, which are usually very shall, less than 15 kilometers deep because the high temperature beneath the ridge causes the rocks to deform more easily beneath that depth (and hence you can't store the strain energy to produce an earthquake). 
+
+If you study the map of ocean age, you will notice that there are places where the regions of different age ocean are juxtaposed and segments of the ridge are offset. The offsets occur on transform faults, which form the second type of plate boundary. 
+
+Conservative (Transform) Plate Boundaries 
+
+Transform margins are conservative in the sense that along these margins material is translated, not created or destroyed. Faulting along transform margins is strike-slip. The sense of motion along transform margins joining two divergent margins can be tricky. Even though the ridge segments are offset in a left-lateral sense, because of spreading, the direction of motion across the fault is right-lateral. 
+
+The San Andreas fault system in California is well-studied example of a transform plate margin and forms the boundary between the Pacific and North American plates. As the system evolved, part of coastal California has been "captured" by the Pacific plate and as a result the Los Angeles region (which is on the Pacific plate) is moving towards the San Francisco region (which is on the North American plate) at about four centimeters per year. 
+
+Convergent Plate Boundaries 
+
+The oldest ocean floor is about 220 Ma, much younger than much of the continents. We know that the oceans have been around much longer than 200 Ma so the implication is that the entire sea floor is recycled in a few hundred million years. Now if the ocean floor is growing in some places, but the overall surface are of the planet is constant, somewhere ocean floor must be destroyed. The places where the destruction takes place are called convergent plate boundaries, or subduction zones. Convergent margins are the boundaries formed when two plates collide and there are three possibilities depending on whether continental or oceanic lithosphere is involved in the process. The cartoon below depicts the collision of oceanic continental lithosphere. 
+
+The oceanic material is forced down into the mantle because it is more dense than the continent. In fact, the reason the continents are so much older than the ocean floor is that the continental crust is composed of material too light to sink into the mantle. The subduction of oceanic lithosphere explains the locations of deep earthquakes and many volcanoes. The earthquakes are located in the down going slab of oceanic lithosphere, which remains cool enough to store enough strain to allow brittle failure in the rocks at such great depths. The largest earthquakes occur in these regions of plate convergence, and are usually low-angle reverse or thrust events located near the surface. We classify earthquakes that are shallower than 70 km as "shallow" those between 71 and 300 km are called "intermediate" depth, and those deeper than that, are called "deep". The deepest earthquakes extend to about 700 km depth. The volcanoes are a result of "hydration-induced" melting of the material in the mantle above the subducting material. The rocks in the oceanic crust are formed and spend a great deal of time in an environment rich in water. Some of that water is incorporated into the rocks and brought down into the mantle by subduction. Eventually, the pressure and temperature cause the hydrated rocks to release their water. The water mixes with the mantle and reduces the mantle rocks melting point, and magma forms. The magma is lighter than the surrounding rock and floats upward. Eventually some melted material reaches the surface, produce volcanoes such as the Cascades in the Pacific Northwest, and the Andes along the west coast of South America. 
+
+When two oceanic plates converge, one will be thrust under the other, and the same volcanic processes will occur. The volcanoes often form islands such as the Mariana, Tonga, and Kermedec Islands in the western Pacific, which have formed as a result of the subduction of the Pacific plate. We call such volcanic island chains "Island Arcs" because they often aligned along an arcuate trend. When two continents converge, a collision zone is formed. Neither plate can subduct in that case (although one plate may over thrust onto the other). The result of collisions are dramatic mountain ranges and plateaus such as the Himalayas and Tibetan Plateau which have formed as a result of the collision of India and southern Eurasia. 
+
+Volcanoes 
+
+In the map below, each triangle represents the location of a recently active (on a geologic time scale) volcanoes. Note the well defined arcs such as in the Aleutians, central and western North and South America, and the east Pacific all of which correlate with the locations of deep earthquakes. Some volcanic regions such as the Hawaiian Islands are isolated. An interesting region of substantial volcanic activity is east Africa, a region also experiencing extensional faulting. 
+
+Implications for Earthquakes 
+
+Ninety percent of all earthquakes occur along plate margins and by far the greater amount of energy released as seismic waves comes from subduction zones. The motion of plates at the boundaries is consistent with the styles of faulting that we expect in regions of extension, convergence, and translation and the depths of earthquakes is consistent with the idea of oceanic recycling by subduction and sea-floor spreading. 
+
+Heat Flow 
+
+We measure heat flow at different points on Earth's surface by measuring the change in temperature with depth (a higher temperature gradient indicates higher heat flow, assuming that the measurements were made in the same material). The map shown below is from the work of Pollack and Others (Reviews of Geophysics, 1983). Variations in the heat-flow measurements were averaged to provide a mathematical representation of Earth's heat flow. Individual measurements in any region can be different from the values plotted, but the regional averages are well represented in the diagram. 
+
+The average continental heat flow is about 57 milliwatts per square meters (mW/m^2), the oceanic heat flow is about 100 mW/m^2. The "warm" colors yellow-orange-red indicate higher than average heat flow, the blues are lower. As you can see, the heat flow is greatest along the system of mid-ocean ridges. Further, the location of the high heat-flow regions correlates with shallow regions of shallow ocean depth (ridges on the sea floor) and the location of earthquakes - supporting evidence confirming the basic ideas behind plate tectonics. 
+
+Hot Spots 
+
+Hot spots are locations on Earth's surface where an unusual amount of volcanism, not associated with subduction processes are focussed. These spots are often at the head of a track of volcanic activity that has "burned through" the lithosphere. We often think of hot spots as stationary features (relative to the lithospheric plates) and they provide a reference frame that we use to estimate the absolute velocity of the plates with respect to the mantle beneath the lithosphere. 
+
+Much remains unknown about the nature of hot spots. We are unsure where they originate (upper mantle/lower mantle/ core-mantle boundary?) and it may turn out they the are not perfectly stationary but are slowing drifting (but moving slower than the plates). The large number of hot spots in the Atlantic ocean are suspected to have played a role in the breakup of Pangaea.

@@ -2,9 +2,9 @@ import sys
 import os
 # import eval_ner
 
-path = ['data/bio/','data/geo/']
+path = ['data/bio/']
 # path = ['data/bio/']
-eval_script = 'test_new_eval_script.txt'
+eval_script = 'evaluate_script.txt'
 filename = 'entity_types.txt'
 for p in path:
 	f = open(p+filename,'r')

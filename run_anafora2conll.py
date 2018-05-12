@@ -1,7 +1,7 @@
 import os
 import anafora2conll
 
-path = ["data/geo/xml/","data/bio/xml/","data/sea_ice/xml/"]
+path = ["data/geo/xml_test/"]
 #path = ["data/bio/sample_xml/"]
 
 for p in path:

@@ -1,89 +1,71 @@
 BIOTIC_ENTITY
-Total occurences: 2568
-Total Unique entities: 817
-Average Frequency of each token: 3.1432068543451654
-processed 9980 tokens with 4120 phrases; found: 3096 phrases; correct: 2232.
-accuracy:  76.87%; precision:  72.09%; recall:  54.17%; FB1:  61.86
-                B: precision:  61.62%; recall:  51.38%; FB1:  56.04  1928
-                I: precision:  89.38%; recall:  57.74%; FB1:  70.16  1168
+processed 900 tokens with 344 phrases; found: 238 phrases; correct: 129.
+accuracy:  68.00%; precision:  54.20%; recall:  37.50%; FB1:  44.33
+                B: precision:  42.50%; recall:  34.87%; FB1:  38.31  160
+                I: precision:  78.21%; recall:  40.94%; FB1:  53.74  78
+
 
 
 
 EVENTUALITY
-Total occurences: 1683
-Total Unique entities: 753
-Average Frequency of each token: 2.235059760956175
-processed 6736 tokens with 1992 phrases; found: 1308 phrases; correct: 316.
-accuracy:  58.25%; precision:  24.16%; recall:  15.86%; FB1:  19.15
-                B: precision:  19.74%; recall:  20.62%; FB1:  20.17  1216
-                I: precision:  82.61%; recall:   9.18%; FB1:  16.52  92
+processed 821 tokens with 266 phrases; found: 158 phrases; correct: 28.
+accuracy:  47.26%; precision:  17.72%; recall:  10.53%; FB1:  13.21
+                B: precision:  11.89%; recall:  10.97%; FB1:  11.41  143
+                I: precision:  73.33%; recall:   9.91%; FB1:  17.46  15
+
 
 
 AGGREGATE_BIOTIC_ABIOTIC_ENTITY
-Total occurences: 685
-Total Unique entities: 232
-Average Frequency of each token: 2.9525862068965516
-processed 4104 tokens with 2693 phrases; found: 2561 phrases; correct: 2029.
-accuracy:  72.90%; precision:  79.23%; recall:  75.34%; FB1:  77.24
-                B: precision:  69.64%; recall:  68.43%; FB1:  69.03  1357
-                I: precision:  90.03%; recall:  82.62%; FB1:  86.17  1204
+processed 426 tokens with 274 phrases; found: 250 phrases; correct: 183.
+accuracy:  67.37%; precision:  73.20%; recall:  66.79%; FB1:  69.85
+                B: precision:  64.39%; recall:  59.86%; FB1:  62.04  132
+                I: precision:  83.05%; recall:  74.24%; FB1:  78.40  118
+
 
 
 VALUE
-Total occurences: 64
-Total Unique entities: 46
-processed 204 tokens with 44 phrases; found: 36 phrases; correct: 0.
-accuracy:  27.45%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  36
+processed 15 tokens with 4 phrases; found: 4 phrases; correct: 0.
+accuracy:  33.33%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  4
                 I: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+
 
 
 QUALITY
-Total occurences: 551
-Total Unique entities: 278
-Average Frequency of each token: 1.9820143884892085
-processed 2196 tokens with 364 phrases; found: 465 phrases; correct: 44.
-accuracy:  29.87%; precision:   9.46%; recall:  12.09%; FB1:  10.62
-                B: precision:   4.66%; recall:   8.20%; FB1:   5.94  429
-                I: precision:  66.67%; recall:  20.00%; FB1:  30.77  36
+processed 314 tokens with 69 phrases; found: 69 phrases; correct: 7.
+accuracy:  22.29%; precision:  10.14%; recall:  10.14%; FB1:  10.14
+                B: precision:   1.64%; recall:   2.33%; FB1:   1.92  61
+                I: precision:  75.00%; recall:  23.08%; FB1:  35.29  8
+
 
 
 LOCATION
-Total occurences: 37
-Total Unique entities: 36
-Average Frequency of each token: 1.0277777777777777
-processed 224 tokens with 112 phrases; found: 68 phrases; correct: 24.
-accuracy:   3.57%; precision:  35.29%; recall:  21.43%; FB1:  26.67
-                B: precision:   9.09%; recall:   7.14%; FB1:   8.00  44
-                I: precision:  83.33%; recall:  35.71%; FB1:  50.00  24
+processed 1 tokens with 1 phrases; found: 1 phrases; correct: 1.
+accuracy:   0.00%; precision: 100.00%; recall: 100.00%; FB1: 100.00
+                B: precision: 100.00%; recall: 100.00%; FB1: 100.00  1
+
 
 
 UNIT
-Total occurences: 30
-Total Unique entities: 15
-Average Frequency of each token: 2.0
-processed 104 tokens with 25 phrases; found: 16 phrases; correct: 0.
-accuracy:  30.77%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  16
+processed 7 tokens with 2 phrases; found: 1 phrases; correct: 0.
+accuracy:  28.57%; precision:   0.00%; recall:   0.00%; FB1:   0.00
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  1
                 I: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+
 
 
 TIME
-Total occurences: 46
-Total Unique entities: 35
-processed 296 tokens with 149 phrases; found: 32 phrases; correct: 0.
+processed 10 tokens with 4 phrases; found: 2 phrases; correct: 0.
 accuracy:   0.00%; precision:   0.00%; recall:   0.00%; FB1:   0.00
-                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  32
+                B: precision:   0.00%; recall:   0.00%; FB1:   0.00  2
                 I: precision:   0.00%; recall:   0.00%; FB1:   0.00  0
+
 
 
 
 ABIOTIC_ENTITY
-Total occurences: 248
-Total Unique entities: 72
-Average Frequency of each token: 3.4444444444444446
-processed 1052 tokens with 364 phrases; found: 225 phrases; correct: 104.
-accuracy:  63.12%; precision:  46.22%; recall:  28.57%; FB1:  35.31
-                B: precision:  33.12%; recall:  25.00%; FB1:  28.49  157
-                I: precision:  76.47%; recall:  33.33%; FB1:  46.43  68
+processed 90 tokens with 35 phrases; found: 25 phrases; correct: 9.
+accuracy:  40.00%; precision:  36.00%; recall:  25.71%; FB1:  30.00
+                B: precision:  18.75%; recall:  15.00%; FB1:  16.67  16
+                I: precision:  66.67%; recall:  40.00%; FB1:  50.00  9
                 

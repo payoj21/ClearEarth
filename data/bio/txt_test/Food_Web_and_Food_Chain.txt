@@ -1,0 +1,10 @@
+Food chain
+
+A common metric used to quantify food web trophic structure is food chain length. Food chain length is another way of describing food webs as a measure of the number of species encountered as energy or nutrients move from the plants to top predators. There are different ways of calculating food chain length depending on what parameters of the food web dynamic are being considered: connectance, energy, or interaction. In its simplest form, the length of a chain is the number of links between a trophic consumer and the base of the web. The mean chain length of an entire web is the arithmetic average of the lengths of all chains in a food web.
+
+In a simple predator-prey example, a deer is one step removed from the plants it eats (chain length = 1) and a wolf that eats the deer is two steps removed from the plants (chain length = 2). The relative amount or strength of influence that these parameters have on the food web address questions about:
+
+* the identity or existence of a few dominant species (called strong interactors or keystone species)
+* the total number of species and food-chain length (including many weak interactors) and
+* how community structure, function and stability is determined.
+

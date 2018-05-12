@@ -1,0 +1,31 @@
+Page 20 -- What is an Earthquake? 
+
+GPS Measurements 
+
+Yet another way to estimate the relative motion of the two sides of a fault, or to study more generally the deformation across a larger area of faulting, is to make extremely accurate measurements of the positions of at least two points on Earth's surface using the network of 24 satellites which make up the Global Positioning System.  This system, commonly referred to as "GPS", uses satellites orbiting high above the Earth in extremely well-known, continually-monitored orbits.  The satellites can obtain a precise fix on a particular location on the Earth's surface.  Through a combination of state-of-the-art technology and clever mathematical processing, this system allows measurements of position accurate to within a centimeter or less. 
+
+This method of obtaining measurements allows us to check the accuracy and completeness of slip rate studies in an area.  Although individual faults do not move constantly, the tectonic plates of the Earth's lithosphere do move all the time.  This motion manifests itself as strain in the crust.  Strain is simply the deformation of a material.  If you pull a lump of clay apart, for example, it will stretch somewhat before it snaps into two pieces.  A similar phenomenon is at work in the Earth's crust.  The "breaks" occur in the form of rupture along faults, creating earthquakes we can feel, but the stretching, "squishing", or warping that occur in elastic materials are present only on a scale well beyond the limit of human perception.  People would never notice them without sensitive monitoring instruments like the GPS system. 
+
+Thus, an array of instruments across an area spanning an active fault or faults will "see" this deformation as an ongoing process. Holding one station (preferably a fair distance away from any active fault) "fixed" allows an analyst to determine the relative motion of the various stations with regard to that reference point.  This, in turn, can provide valuable information about the slip rates of faults in the area.  Say, for instance, a particular station is determined to be moving, horizontally, at about 3 mm/yr directly away from a "fixed" station. In between the two stations is only one major fault, running perpendicular to a line connecting the two.  In this case, that fault must be a normal fault, and its horizontal component of slip rate should be roughly 3 mm/yr. 
+
+In the activity below, you will work through examples of determining slip rates with different methods.  When discrepancies appear between the methods, you will decide how best to resolve them.  Hypothetical GPS data will be included in three of these examples as a reference guide to show you the value of similar data in real seismological studies. 
+
+Different Data, Different Rates? 
+
+What methods can we use to find slip rates, and what does it mean when they disagree? 
+
+We've now reviewed most of the properties of active faults, and how they are measured, but we have yet to study how and why they form, and the factors that might guide that formation, giving each fault its own particular characteristics.  Let's move on, and investigate these matters. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

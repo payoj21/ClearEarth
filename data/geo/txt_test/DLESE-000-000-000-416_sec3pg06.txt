@@ -1,0 +1,35 @@
+
+
+Page 6 -- Measuring Earthquakes 
+
+
+
+
+
+
+
+Early Earthquake Monitoring 
+
+Though the use of intensity scales, reports, and isoseismal maps advanced the study and understanding of earthquakes, certain simple properties of earthquakes were recognized by observers well before intensity scales were created.  Earthquakes could vary dramatically in duration.  Some felt sharp and jolting; others produced a more gentle "rolling" sensation.  People often felt two distinct "pulses" in a single episode of shaking.  Sometimes the shaking sometimes had a noticeable directionality to it -- for example, people might claim that a certain earthquake "came from the north." 
+
+But people's observing skills and their memory are not always exact and reliable.  Even long ago, there were efforts to build simple seismometers -- instruments that could not only detect earthquakes, but do so with more precision than a human observer.  The first known example of a seismic instrument was created by Chang Heng in China during the 2nd Century A.D.  It consisted of an urn-like vessel containing a vertical pendulum of some sort, ringed with eight dragons, each holding a metal ball securely in its mouth (see the image at left).  Below each dragon, with its mouth open and facing upward, was a metal frog. 
+
+When the instrument was shaken by an earthquake, the pendulum inside triggered one of the dragon's mouths to open, dropping its ball into the frog below, which created an easily audible noise.  Chang Heng discovered that the earthquake generally was located in the direction exactly opposite that of the first dropped ball.  Using this knowledge, he was able to advise Chinese leaders where to send aid.  His instrument reportedly was sensitive enough to detect earthquakes that people in the same room would have  failed to notice, were it not for the loud drop of a metal ball. 
+
+Chang Heng's quaint device can technically be called a seismoscope, an instrument that primarily measures the direction of ground motion, without necessarily noting time or amplitude.  Seismoscopes of one sort or another were some of the first instruments created to measure earthquakes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
